@@ -343,7 +343,8 @@ def customer_portal(st, data: pd.DataFrame, queue: pd.DataFrame, closures: pd.Da
         st.markdown("### Plan Your Visit")
         today = pd.Timestamp(datetime.now(LOCAL_TZ).date())
         forecast_date = pd.Timestamp(st.date_input("Forecast date", value=today.date(), key="customer_date"))
-        time_options = [time(hour, minute) for hour in range(24) for minute in range(0, 60, 15)]
+        # Offer every minute so Use Current Time can reflect the exact local minute.
+        time_options = [time(hour, minute) for hour in range(24) for minute in range(60)]
         current_time = datetime.now(LOCAL_TZ).replace(second=0, microsecond=0).time()
         if "customer_time_value" not in st.session_state:
             nearest_index = min(
