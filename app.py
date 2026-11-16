@@ -460,7 +460,25 @@ def manager_portal(st, data: pd.DataFrame, sales: pd.DataFrame, closures: pd.Dat
         st.markdown("### Plan Your View")
         today = pd.Timestamp(datetime.now(LOCAL_TZ).date())
         forecast_date = pd.Timestamp(st.date_input("Forecast date", value=today.date(), key="manager_date"))
-        forecast_time = st.time_input("Forecast time", value=datetime.now(LOCAL_TZ).replace(second=0, microsecond=0).time(), step=60, key="manager_time")
+        manager_time_options = [time(hour, minute) for hour in range(24) for minute in range(60)]
+        manager_now = datetime.now(LOCAL_TZ).replace(second=0, microsecond=0).time()
+        if "manager_time_value" not in st.session_state:
+            st.session_state["manager_time_value"] = manager_now
+        if "manager_time_reset" not in st.session_state:
+            st.session_state["manager_time_reset"] = 0
+        if st.button("◉  Use Current Time", key="manager_current_time", use_container_width=True):
+            st.session_state["manager_time_value"] = manager_now
+            st.session_state["manager_time_reset"] += 1
+            st.rerun()
+        manager_time_key = f"manager_time_select_{st.session_state['manager_time_reset']}"
+        forecast_time = st.selectbox(
+            "Forecast time",
+            options=manager_time_options,
+            index=manager_time_options.index(st.session_state["manager_time_value"]),
+            format_func=lambda value: value.strftime("%I:%M %p").lstrip("0"),
+            key=manager_time_key,
+        )
+        st.session_state["manager_time_value"] = forecast_time
     selected_hour = forecast_time.hour
     with plan_col:
         st.caption(f"Snapshot: {forecast_date.strftime('%B %-d, %Y')} at {forecast_time.strftime('%I:%M %p').lstrip('0')}. Past times remain estimates for that date; they do not switch to tomorrow.")
