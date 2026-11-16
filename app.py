@@ -5,6 +5,7 @@ import re
 from datetime import datetime, time
 from pathlib import Path
 import sys
+from zoneinfo import ZoneInfo
 
 import pandas as pd
 
@@ -27,6 +28,7 @@ HOME_IMAGE = ROOT / "assets" / "servesmart-home.png"
 DINING_COMMONS_IMAGE = ROOT / "assets" / "dining-commons.png"
 EINSTEINS_IMAGE = ROOT / "assets" / "einsteins-bagels.png"
 PANDAS_IMAGE = ROOT / "assets" / "pandas-food.png"
+LOCAL_TZ = ZoneInfo("America/Los_Angeles")
 STATION_NAMES = {"Einstein's": "Einstein's", "Panda Express": "Panda's", "Residential Dining": "Dining Commons"}
 SUGGESTED_MANAGER_QUESTIONS = [
     "What are the predicted sales at 10 a.m. at Panda's?",
@@ -267,7 +269,7 @@ def answer_predicted_sales_query(
 ) -> pd.DataFrame:
     """Answer a predicted-sales question for the explicitly selected date."""
     text = query.lower().strip()
-    real_today = pd.Timestamp.now().normalize()
+    real_today = pd.Timestamp(datetime.now(LOCAL_TZ).date())
     if "today" in text:
         forecast_date = real_today
     elif "tomorrow" in text:
@@ -339,10 +341,10 @@ def customer_portal(st, data: pd.DataFrame, queue: pd.DataFrame, closures: pd.Da
     plan_col, wait_col = st.columns([0.8, 2.2], gap="large")
     with plan_col:
         st.markdown("### Plan Your Visit")
-        today = pd.Timestamp.now().normalize()
+        today = pd.Timestamp(datetime.now(LOCAL_TZ).date())
         forecast_date = pd.Timestamp(st.date_input("Forecast date", value=today.date(), key="customer_date"))
         time_options = [time(hour, minute) for hour in range(24) for minute in range(0, 60, 15)]
-        current_time = datetime.now().replace(second=0, microsecond=0).time()
+        current_time = datetime.now(LOCAL_TZ).replace(second=0, microsecond=0).time()
         if "customer_time_select" not in st.session_state:
             nearest_index = min(
                 range(len(time_options)),
@@ -410,7 +412,7 @@ def customer_portal(st, data: pd.DataFrame, queue: pd.DataFrame, closures: pd.Da
         st.markdown(f"### Current Estimated Wait Time · {time_input.strftime('%I:%M %p').lstrip('0')}")
         st.caption(
             f"Showing estimates for {forecast_date.strftime('%B %-d, %Y')} at the selected hour. "
-            f"Updated {datetime.now().strftime('%I:%M %p').lstrip('0')}"
+            f"Updated {datetime.now(LOCAL_TZ).strftime('%I:%M %p').lstrip('0')}"
         )
         station_images = {
             "Dining Commons": DINING_COMMONS_IMAGE,
@@ -449,9 +451,9 @@ def manager_portal(st, data: pd.DataFrame, sales: pd.DataFrame, closures: pd.Dat
     plan_col, snapshot_col = st.columns([0.8, 2.2], gap="large")
     with plan_col:
         st.markdown("### Plan Your View")
-        today = pd.Timestamp.now().normalize()
+        today = pd.Timestamp(datetime.now(LOCAL_TZ).date())
         forecast_date = pd.Timestamp(st.date_input("Forecast date", value=today.date(), key="manager_date"))
-        forecast_time = st.time_input("Forecast time", value=datetime.now().replace(second=0, microsecond=0).time(), step=60, key="manager_time")
+        forecast_time = st.time_input("Forecast time", value=datetime.now(LOCAL_TZ).replace(second=0, microsecond=0).time(), step=60, key="manager_time")
     selected_hour = forecast_time.hour
     with plan_col:
         st.caption(f"Snapshot: {forecast_date.strftime('%B %-d, %Y')} at {forecast_time.strftime('%I:%M %p').lstrip('0')}. Past times remain estimates for that date; they do not switch to tomorrow.")
