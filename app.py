@@ -341,19 +341,35 @@ def customer_portal(st, data: pd.DataFrame, queue: pd.DataFrame, closures: pd.Da
         st.markdown("### Plan Your Visit")
         today = pd.Timestamp.now().normalize()
         forecast_date = pd.Timestamp(st.date_input("Forecast date", value=today.date(), key="customer_date"))
-        if st.button("◉  Use Current Time", use_container_width=True):
-            # Keep the button state separate from the time widget. Streamlit does
-            # not allow changing a widget's keyed session state after it exists.
-            st.session_state["customer_time_value"] = datetime.now().replace(second=0, microsecond=0).time()
-            st.rerun()
+        time_options = [time(hour, minute) for hour in range(24) for minute in range(0, 60, 15)]
         current_time = datetime.now().replace(second=0, microsecond=0).time()
-        time_input = st.time_input(
+        if "customer_time_select" not in st.session_state:
+            nearest_index = min(
+                range(len(time_options)),
+                key=lambda index: abs(
+                    (time_options[index].hour * 60 + time_options[index].minute)
+                    - (current_time.hour * 60 + current_time.minute)
+                ),
+            )
+            st.session_state["customer_time_select"] = time_options[nearest_index]
+        if st.button("◉  Use Current Time", use_container_width=True):
+            nearest_index = min(
+                range(len(time_options)),
+                key=lambda index: abs(
+                    (time_options[index].hour * 60 + time_options[index].minute)
+                    - (current_time.hour * 60 + current_time.minute)
+                ),
+            )
+            # This runs before the dropdown is created, so Streamlit can safely
+            # update the widget selection before rerunning the page.
+            st.session_state["customer_time_select"] = time_options[nearest_index]
+            st.rerun()
+        time_input = st.selectbox(
             "View time",
-            value=st.session_state.get("customer_time_value", current_time),
-            step=60,
-            key="customer_time_widget",
+            options=time_options,
+            format_func=lambda value: value.strftime("%I:%M %p").lstrip("0"),
+            key="customer_time_select",
         )
-        st.session_state["customer_time_value"] = time_input
         auto_refresh = st.checkbox("Refresh automatically every minute", value=True)
         if auto_refresh:
             try:
