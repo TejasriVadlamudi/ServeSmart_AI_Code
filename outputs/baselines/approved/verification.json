@@ -1,0 +1,9 @@
+{
+  "unit_tests_run": 30,
+  "failures": 0,
+  "errors": 0,
+  "independent_recorded_hour_predictions_checked": 2032,
+  "same_day_and_future_perturbation_queries": 72,
+  "perturbation_origin": "2026-05-08",
+  "passed": true
+}

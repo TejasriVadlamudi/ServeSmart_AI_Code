@@ -1,0 +1,2033 @@
+Location,Date,Hour,DataSplit,Target_HourlyUnits,Target_NegativeFlag,row_id,initial_supervised_fit_eligible,final_supervised_fit_eligible,recorded_evaluation_row
+Einstein's,2026-01-19,10,Train,1,0,Einstein's|2026-01-19|10,True,True,False
+Einstein's,2026-01-20,7,Train,2,0,Einstein's|2026-01-20|07,True,True,False
+Einstein's,2026-01-20,8,Train,31,0,Einstein's|2026-01-20|08,True,True,False
+Einstein's,2026-01-20,9,Train,79,0,Einstein's|2026-01-20|09,True,True,False
+Einstein's,2026-01-20,10,Train,83,0,Einstein's|2026-01-20|10,True,True,False
+Einstein's,2026-01-20,11,Train,71,0,Einstein's|2026-01-20|11,True,True,False
+Einstein's,2026-01-20,12,Train,91,0,Einstein's|2026-01-20|12,True,True,False
+Einstein's,2026-01-20,13,Train,46,0,Einstein's|2026-01-20|13,True,True,False
+Einstein's,2026-01-20,14,Train,37,0,Einstein's|2026-01-20|14,True,True,False
+Einstein's,2026-01-20,15,Train,42,0,Einstein's|2026-01-20|15,True,True,False
+Einstein's,2026-01-20,16,Train,24,0,Einstein's|2026-01-20|16,True,True,False
+Einstein's,2026-01-20,17,Train,23,0,Einstein's|2026-01-20|17,True,True,False
+Einstein's,2026-01-21,7,Train,18,0,Einstein's|2026-01-21|07,True,True,False
+Einstein's,2026-01-21,8,Train,19,0,Einstein's|2026-01-21|08,True,True,False
+Einstein's,2026-01-21,9,Train,84,0,Einstein's|2026-01-21|09,True,True,False
+Einstein's,2026-01-21,10,Train,81,0,Einstein's|2026-01-21|10,True,True,False
+Einstein's,2026-01-21,11,Train,92,0,Einstein's|2026-01-21|11,True,True,False
+Einstein's,2026-01-21,12,Train,89,0,Einstein's|2026-01-21|12,True,True,False
+Einstein's,2026-01-21,13,Train,86,0,Einstein's|2026-01-21|13,True,True,False
+Einstein's,2026-01-21,14,Train,45,0,Einstein's|2026-01-21|14,True,True,False
+Einstein's,2026-01-21,15,Train,46,0,Einstein's|2026-01-21|15,True,True,False
+Einstein's,2026-01-21,16,Train,38,0,Einstein's|2026-01-21|16,True,True,False
+Einstein's,2026-01-21,17,Train,11,0,Einstein's|2026-01-21|17,True,True,False
+Einstein's,2026-01-22,7,Train,6,0,Einstein's|2026-01-22|07,True,True,False
+Einstein's,2026-01-22,8,Train,39,0,Einstein's|2026-01-22|08,True,True,False
+Einstein's,2026-01-22,9,Train,62,0,Einstein's|2026-01-22|09,True,True,False
+Einstein's,2026-01-22,10,Train,92,0,Einstein's|2026-01-22|10,True,True,False
+Einstein's,2026-01-22,11,Train,61,0,Einstein's|2026-01-22|11,True,True,False
+Einstein's,2026-01-22,12,Train,105,0,Einstein's|2026-01-22|12,True,True,False
+Einstein's,2026-01-22,13,Train,39,0,Einstein's|2026-01-22|13,True,True,False
+Einstein's,2026-01-22,14,Train,52,0,Einstein's|2026-01-22|14,True,True,False
+Einstein's,2026-01-22,15,Train,35,0,Einstein's|2026-01-22|15,True,True,False
+Einstein's,2026-01-22,16,Train,34,0,Einstein's|2026-01-22|16,True,True,False
+Einstein's,2026-01-22,17,Train,8,0,Einstein's|2026-01-22|17,True,True,False
+Einstein's,2026-01-23,7,Train,3,0,Einstein's|2026-01-23|07,True,True,False
+Einstein's,2026-01-23,8,Train,26,0,Einstein's|2026-01-23|08,True,True,False
+Einstein's,2026-01-23,9,Train,29,0,Einstein's|2026-01-23|09,True,True,False
+Einstein's,2026-01-23,10,Train,61,0,Einstein's|2026-01-23|10,True,True,False
+Einstein's,2026-01-23,11,Train,34,0,Einstein's|2026-01-23|11,True,True,False
+Einstein's,2026-01-23,12,Train,40,0,Einstein's|2026-01-23|12,True,True,False
+Einstein's,2026-01-23,13,Train,28,0,Einstein's|2026-01-23|13,True,True,False
+Einstein's,2026-01-23,14,Train,24,0,Einstein's|2026-01-23|14,True,True,False
+Einstein's,2026-01-23,15,Train,18,0,Einstein's|2026-01-23|15,True,True,False
+Einstein's,2026-01-26,7,Train,9,0,Einstein's|2026-01-26|07,True,True,False
+Einstein's,2026-01-26,8,Train,38,0,Einstein's|2026-01-26|08,True,True,False
+Einstein's,2026-01-26,9,Train,70,0,Einstein's|2026-01-26|09,True,True,False
+Einstein's,2026-01-26,10,Train,86,0,Einstein's|2026-01-26|10,True,True,False
+Einstein's,2026-01-26,11,Train,105,0,Einstein's|2026-01-26|11,True,True,False
+Einstein's,2026-01-26,12,Train,97,0,Einstein's|2026-01-26|12,True,True,False
+Einstein's,2026-01-26,13,Train,104,0,Einstein's|2026-01-26|13,True,True,False
+Einstein's,2026-01-26,14,Train,35,0,Einstein's|2026-01-26|14,True,True,False
+Einstein's,2026-01-26,15,Train,68,0,Einstein's|2026-01-26|15,True,True,False
+Einstein's,2026-01-26,16,Train,23,0,Einstein's|2026-01-26|16,True,True,False
+Einstein's,2026-01-26,17,Train,11,0,Einstein's|2026-01-26|17,True,True,False
+Einstein's,2026-01-27,7,Train,8,0,Einstein's|2026-01-27|07,True,True,False
+Einstein's,2026-01-27,8,Train,77,0,Einstein's|2026-01-27|08,True,True,False
+Einstein's,2026-01-27,9,Train,84,0,Einstein's|2026-01-27|09,True,True,False
+Einstein's,2026-01-27,10,Train,82,0,Einstein's|2026-01-27|10,True,True,False
+Einstein's,2026-01-27,11,Train,82,0,Einstein's|2026-01-27|11,True,True,False
+Einstein's,2026-01-27,12,Train,110,0,Einstein's|2026-01-27|12,True,True,False
+Einstein's,2026-01-27,13,Train,50,0,Einstein's|2026-01-27|13,True,True,False
+Einstein's,2026-01-27,14,Train,42,0,Einstein's|2026-01-27|14,True,True,False
+Einstein's,2026-01-27,15,Train,36,0,Einstein's|2026-01-27|15,True,True,False
+Einstein's,2026-01-27,16,Train,27,0,Einstein's|2026-01-27|16,True,True,False
+Einstein's,2026-01-27,17,Train,27,0,Einstein's|2026-01-27|17,True,True,False
+Einstein's,2026-01-28,7,Train,7,0,Einstein's|2026-01-28|07,True,True,False
+Einstein's,2026-01-28,8,Train,36,0,Einstein's|2026-01-28|08,True,True,False
+Einstein's,2026-01-28,9,Train,116,0,Einstein's|2026-01-28|09,True,True,False
+Einstein's,2026-01-28,10,Train,114,0,Einstein's|2026-01-28|10,True,True,False
+Einstein's,2026-01-28,11,Train,126,0,Einstein's|2026-01-28|11,True,True,False
+Einstein's,2026-01-28,12,Train,106,0,Einstein's|2026-01-28|12,True,True,False
+Einstein's,2026-01-28,13,Train,79,0,Einstein's|2026-01-28|13,True,True,False
+Einstein's,2026-01-28,14,Train,30,0,Einstein's|2026-01-28|14,True,True,False
+Einstein's,2026-01-28,15,Train,33,0,Einstein's|2026-01-28|15,True,True,False
+Einstein's,2026-01-28,16,Train,46,0,Einstein's|2026-01-28|16,True,True,False
+Einstein's,2026-01-28,17,Train,4,0,Einstein's|2026-01-28|17,True,True,False
+Einstein's,2026-01-29,7,Train,5,0,Einstein's|2026-01-29|07,True,True,False
+Einstein's,2026-01-29,8,Train,25,0,Einstein's|2026-01-29|08,True,True,False
+Einstein's,2026-01-29,9,Train,85,0,Einstein's|2026-01-29|09,True,True,False
+Einstein's,2026-01-29,10,Train,106,0,Einstein's|2026-01-29|10,True,True,False
+Einstein's,2026-01-29,11,Train,66,0,Einstein's|2026-01-29|11,True,True,False
+Einstein's,2026-01-29,12,Train,96,0,Einstein's|2026-01-29|12,True,True,False
+Einstein's,2026-01-29,13,Train,40,0,Einstein's|2026-01-29|13,True,True,False
+Einstein's,2026-01-29,14,Train,56,0,Einstein's|2026-01-29|14,True,True,False
+Einstein's,2026-01-29,15,Train,27,0,Einstein's|2026-01-29|15,True,True,False
+Einstein's,2026-01-29,16,Train,25,0,Einstein's|2026-01-29|16,True,True,False
+Einstein's,2026-01-29,17,Train,9,0,Einstein's|2026-01-29|17,True,True,False
+Einstein's,2026-01-30,7,Train,1,0,Einstein's|2026-01-30|07,True,True,False
+Einstein's,2026-01-30,8,Train,25,0,Einstein's|2026-01-30|08,True,True,False
+Einstein's,2026-01-30,9,Train,54,0,Einstein's|2026-01-30|09,True,True,False
+Einstein's,2026-01-30,10,Train,41,0,Einstein's|2026-01-30|10,True,True,False
+Einstein's,2026-01-30,11,Train,43,0,Einstein's|2026-01-30|11,True,True,False
+Einstein's,2026-01-30,12,Train,35,0,Einstein's|2026-01-30|12,True,True,False
+Einstein's,2026-01-30,13,Train,50,0,Einstein's|2026-01-30|13,True,True,False
+Einstein's,2026-01-30,14,Train,9,0,Einstein's|2026-01-30|14,True,True,False
+Einstein's,2026-01-30,15,Train,21,0,Einstein's|2026-01-30|15,True,True,False
+Einstein's,2026-02-02,7,Train,3,0,Einstein's|2026-02-02|07,True,True,False
+Einstein's,2026-02-02,8,Train,27,0,Einstein's|2026-02-02|08,True,True,False
+Einstein's,2026-02-02,9,Train,94,0,Einstein's|2026-02-02|09,True,True,False
+Einstein's,2026-02-02,10,Train,83,0,Einstein's|2026-02-02|10,True,True,False
+Einstein's,2026-02-02,11,Train,90,0,Einstein's|2026-02-02|11,True,True,False
+Einstein's,2026-02-02,12,Train,81,0,Einstein's|2026-02-02|12,True,True,False
+Einstein's,2026-02-02,13,Train,73,0,Einstein's|2026-02-02|13,True,True,False
+Einstein's,2026-02-02,14,Train,29,0,Einstein's|2026-02-02|14,True,True,False
+Einstein's,2026-02-02,15,Train,47,0,Einstein's|2026-02-02|15,True,True,False
+Einstein's,2026-02-02,16,Train,36,0,Einstein's|2026-02-02|16,True,True,False
+Einstein's,2026-02-02,17,Train,10,0,Einstein's|2026-02-02|17,True,True,False
+Einstein's,2026-02-03,7,Train,8,0,Einstein's|2026-02-03|07,True,True,False
+Einstein's,2026-02-03,8,Train,25,0,Einstein's|2026-02-03|08,True,True,False
+Einstein's,2026-02-03,9,Train,73,0,Einstein's|2026-02-03|09,True,True,False
+Einstein's,2026-02-03,10,Train,115,0,Einstein's|2026-02-03|10,True,True,False
+Einstein's,2026-02-03,11,Train,45,0,Einstein's|2026-02-03|11,True,True,False
+Einstein's,2026-02-03,12,Train,125,0,Einstein's|2026-02-03|12,True,True,False
+Einstein's,2026-02-03,13,Train,55,0,Einstein's|2026-02-03|13,True,True,False
+Einstein's,2026-02-03,14,Train,49,0,Einstein's|2026-02-03|14,True,True,False
+Einstein's,2026-02-03,15,Train,18,0,Einstein's|2026-02-03|15,True,True,False
+Einstein's,2026-02-03,16,Train,37,0,Einstein's|2026-02-03|16,True,True,False
+Einstein's,2026-02-03,17,Train,20,0,Einstein's|2026-02-03|17,True,True,False
+Einstein's,2026-02-04,7,Train,16,0,Einstein's|2026-02-04|07,True,True,False
+Einstein's,2026-02-04,8,Train,40,0,Einstein's|2026-02-04|08,True,True,False
+Einstein's,2026-02-04,9,Train,86,0,Einstein's|2026-02-04|09,True,True,False
+Einstein's,2026-02-04,10,Train,100,0,Einstein's|2026-02-04|10,True,True,False
+Einstein's,2026-02-04,11,Train,74,0,Einstein's|2026-02-04|11,True,True,False
+Einstein's,2026-02-04,12,Train,77,0,Einstein's|2026-02-04|12,True,True,False
+Einstein's,2026-02-04,13,Train,107,0,Einstein's|2026-02-04|13,True,True,False
+Einstein's,2026-02-04,14,Train,28,0,Einstein's|2026-02-04|14,True,True,False
+Einstein's,2026-02-04,15,Train,62,0,Einstein's|2026-02-04|15,True,True,False
+Einstein's,2026-02-04,16,Train,19,0,Einstein's|2026-02-04|16,True,True,False
+Einstein's,2026-02-04,17,Train,6,0,Einstein's|2026-02-04|17,True,True,False
+Einstein's,2026-02-05,7,Train,6,0,Einstein's|2026-02-05|07,True,True,False
+Einstein's,2026-02-05,8,Train,33,0,Einstein's|2026-02-05|08,True,True,False
+Einstein's,2026-02-05,9,Train,106,0,Einstein's|2026-02-05|09,True,True,False
+Einstein's,2026-02-05,10,Train,84,0,Einstein's|2026-02-05|10,True,True,False
+Einstein's,2026-02-05,11,Train,67,0,Einstein's|2026-02-05|11,True,True,False
+Einstein's,2026-02-05,12,Train,101,0,Einstein's|2026-02-05|12,True,True,False
+Einstein's,2026-02-05,13,Train,57,0,Einstein's|2026-02-05|13,True,True,False
+Einstein's,2026-02-05,14,Train,56,0,Einstein's|2026-02-05|14,True,True,False
+Einstein's,2026-02-05,15,Train,25,0,Einstein's|2026-02-05|15,True,True,False
+Einstein's,2026-02-05,16,Train,38,0,Einstein's|2026-02-05|16,True,True,False
+Einstein's,2026-02-05,17,Train,22,0,Einstein's|2026-02-05|17,True,True,False
+Einstein's,2026-02-06,7,Train,7,0,Einstein's|2026-02-06|07,True,True,False
+Einstein's,2026-02-06,8,Train,21,0,Einstein's|2026-02-06|08,True,True,False
+Einstein's,2026-02-06,9,Train,27,0,Einstein's|2026-02-06|09,True,True,False
+Einstein's,2026-02-06,10,Train,37,0,Einstein's|2026-02-06|10,True,True,False
+Einstein's,2026-02-06,11,Train,19,0,Einstein's|2026-02-06|11,True,True,False
+Einstein's,2026-02-06,12,Train,56,0,Einstein's|2026-02-06|12,True,True,False
+Einstein's,2026-02-06,13,Train,24,0,Einstein's|2026-02-06|13,True,True,False
+Einstein's,2026-02-06,14,Train,8,0,Einstein's|2026-02-06|14,True,True,False
+Einstein's,2026-02-06,15,Train,12,0,Einstein's|2026-02-06|15,True,True,False
+Einstein's,2026-02-09,7,Train,7,0,Einstein's|2026-02-09|07,True,True,False
+Einstein's,2026-02-09,8,Train,24,0,Einstein's|2026-02-09|08,True,True,False
+Einstein's,2026-02-09,9,Train,96,0,Einstein's|2026-02-09|09,True,True,False
+Einstein's,2026-02-09,10,Train,101,0,Einstein's|2026-02-09|10,True,True,False
+Einstein's,2026-02-09,11,Train,76,0,Einstein's|2026-02-09|11,True,True,False
+Einstein's,2026-02-09,12,Train,116,0,Einstein's|2026-02-09|12,True,True,False
+Einstein's,2026-02-09,13,Train,69,0,Einstein's|2026-02-09|13,True,True,False
+Einstein's,2026-02-09,14,Train,42,0,Einstein's|2026-02-09|14,True,True,False
+Einstein's,2026-02-09,15,Train,49,0,Einstein's|2026-02-09|15,True,True,False
+Einstein's,2026-02-09,16,Train,22,0,Einstein's|2026-02-09|16,True,True,False
+Einstein's,2026-02-09,17,Train,20,0,Einstein's|2026-02-09|17,True,True,False
+Einstein's,2026-02-10,7,Train,11,0,Einstein's|2026-02-10|07,True,True,False
+Einstein's,2026-02-10,8,Train,78,0,Einstein's|2026-02-10|08,True,True,False
+Einstein's,2026-02-10,9,Train,75,0,Einstein's|2026-02-10|09,True,True,False
+Einstein's,2026-02-10,10,Train,120,0,Einstein's|2026-02-10|10,True,True,False
+Einstein's,2026-02-10,11,Train,53,0,Einstein's|2026-02-10|11,True,True,False
+Einstein's,2026-02-10,12,Train,95,0,Einstein's|2026-02-10|12,True,True,False
+Einstein's,2026-02-10,13,Train,46,0,Einstein's|2026-02-10|13,True,True,False
+Einstein's,2026-02-10,14,Train,40,0,Einstein's|2026-02-10|14,True,True,False
+Einstein's,2026-02-10,15,Train,35,0,Einstein's|2026-02-10|15,True,True,False
+Einstein's,2026-02-10,16,Train,48,0,Einstein's|2026-02-10|16,True,True,False
+Einstein's,2026-02-10,17,Train,16,0,Einstein's|2026-02-10|17,True,True,False
+Einstein's,2026-02-11,7,Train,5,0,Einstein's|2026-02-11|07,True,True,False
+Einstein's,2026-02-11,8,Train,50,0,Einstein's|2026-02-11|08,True,True,False
+Einstein's,2026-02-11,9,Train,73,0,Einstein's|2026-02-11|09,True,True,False
+Einstein's,2026-02-11,10,Train,116,0,Einstein's|2026-02-11|10,True,True,False
+Einstein's,2026-02-11,11,Train,86,0,Einstein's|2026-02-11|11,True,True,False
+Einstein's,2026-02-11,12,Train,109,0,Einstein's|2026-02-11|12,True,True,False
+Einstein's,2026-02-11,13,Train,79,0,Einstein's|2026-02-11|13,True,True,False
+Einstein's,2026-02-11,14,Train,39,0,Einstein's|2026-02-11|14,True,True,False
+Einstein's,2026-02-11,15,Train,41,0,Einstein's|2026-02-11|15,True,True,False
+Einstein's,2026-02-11,16,Train,45,0,Einstein's|2026-02-11|16,True,True,False
+Einstein's,2026-02-11,17,Train,3,0,Einstein's|2026-02-11|17,True,True,False
+Einstein's,2026-02-12,7,Train,10,0,Einstein's|2026-02-12|07,True,True,False
+Einstein's,2026-02-12,8,Train,39,0,Einstein's|2026-02-12|08,True,True,False
+Einstein's,2026-02-12,9,Train,81,0,Einstein's|2026-02-12|09,True,True,False
+Einstein's,2026-02-12,10,Train,130,0,Einstein's|2026-02-12|10,True,True,False
+Einstein's,2026-02-12,11,Train,70,0,Einstein's|2026-02-12|11,True,True,False
+Einstein's,2026-02-12,12,Train,93,0,Einstein's|2026-02-12|12,True,True,False
+Einstein's,2026-02-12,13,Train,29,0,Einstein's|2026-02-12|13,True,True,False
+Einstein's,2026-02-12,14,Train,75,0,Einstein's|2026-02-12|14,True,True,False
+Einstein's,2026-02-12,15,Train,16,0,Einstein's|2026-02-12|15,True,True,False
+Einstein's,2026-02-12,16,Train,41,0,Einstein's|2026-02-12|16,True,True,False
+Einstein's,2026-02-12,17,Train,4,0,Einstein's|2026-02-12|17,True,True,False
+Einstein's,2026-02-13,7,Train,6,0,Einstein's|2026-02-13|07,True,True,False
+Einstein's,2026-02-13,8,Train,27,0,Einstein's|2026-02-13|08,True,True,False
+Einstein's,2026-02-13,9,Train,53,0,Einstein's|2026-02-13|09,True,True,False
+Einstein's,2026-02-13,10,Train,65,0,Einstein's|2026-02-13|10,True,True,False
+Einstein's,2026-02-13,11,Train,27,0,Einstein's|2026-02-13|11,True,True,False
+Einstein's,2026-02-13,12,Train,37,0,Einstein's|2026-02-13|12,True,True,False
+Einstein's,2026-02-13,13,Train,44,0,Einstein's|2026-02-13|13,True,True,False
+Einstein's,2026-02-13,14,Train,24,0,Einstein's|2026-02-13|14,True,True,False
+Einstein's,2026-02-13,15,Train,30,0,Einstein's|2026-02-13|15,True,True,False
+Einstein's,2026-02-16,7,Train,14,0,Einstein's|2026-02-16|07,True,True,False
+Einstein's,2026-02-16,8,Train,25,0,Einstein's|2026-02-16|08,True,True,False
+Einstein's,2026-02-16,9,Train,59,0,Einstein's|2026-02-16|09,True,True,False
+Einstein's,2026-02-16,10,Train,73,0,Einstein's|2026-02-16|10,True,True,False
+Einstein's,2026-02-16,11,Train,104,0,Einstein's|2026-02-16|11,True,True,False
+Einstein's,2026-02-16,12,Train,73,0,Einstein's|2026-02-16|12,True,True,False
+Einstein's,2026-02-16,13,Train,52,0,Einstein's|2026-02-16|13,True,True,False
+Einstein's,2026-02-16,14,Train,17,0,Einstein's|2026-02-16|14,True,True,False
+Einstein's,2026-02-16,15,Train,31,0,Einstein's|2026-02-16|15,True,True,False
+Einstein's,2026-02-16,16,Train,32,0,Einstein's|2026-02-16|16,True,True,False
+Einstein's,2026-02-16,17,Train,5,0,Einstein's|2026-02-16|17,True,True,False
+Einstein's,2026-02-17,7,Train,9,0,Einstein's|2026-02-17|07,True,True,False
+Einstein's,2026-02-17,8,Train,23,0,Einstein's|2026-02-17|08,True,True,False
+Einstein's,2026-02-17,9,Train,38,0,Einstein's|2026-02-17|09,True,True,False
+Einstein's,2026-02-17,10,Train,82,0,Einstein's|2026-02-17|10,True,True,False
+Einstein's,2026-02-17,11,Train,65,0,Einstein's|2026-02-17|11,True,True,False
+Einstein's,2026-02-17,12,Train,105,0,Einstein's|2026-02-17|12,True,True,False
+Einstein's,2026-02-17,13,Train,51,0,Einstein's|2026-02-17|13,True,True,False
+Einstein's,2026-02-17,14,Train,79,0,Einstein's|2026-02-17|14,True,True,False
+Einstein's,2026-02-17,15,Train,29,0,Einstein's|2026-02-17|15,True,True,False
+Einstein's,2026-02-17,16,Train,41,0,Einstein's|2026-02-17|16,True,True,False
+Einstein's,2026-02-17,17,Train,4,0,Einstein's|2026-02-17|17,True,True,False
+Einstein's,2026-02-18,7,Train,9,0,Einstein's|2026-02-18|07,True,True,False
+Einstein's,2026-02-18,8,Train,33,0,Einstein's|2026-02-18|08,True,True,False
+Einstein's,2026-02-18,9,Train,92,0,Einstein's|2026-02-18|09,True,True,False
+Einstein's,2026-02-18,10,Train,81,0,Einstein's|2026-02-18|10,True,True,False
+Einstein's,2026-02-18,11,Train,84,0,Einstein's|2026-02-18|11,True,True,False
+Einstein's,2026-02-18,12,Train,57,0,Einstein's|2026-02-18|12,True,True,False
+Einstein's,2026-02-18,13,Train,68,0,Einstein's|2026-02-18|13,True,True,False
+Einstein's,2026-02-18,14,Train,34,0,Einstein's|2026-02-18|14,True,True,False
+Einstein's,2026-02-18,15,Train,42,0,Einstein's|2026-02-18|15,True,True,False
+Einstein's,2026-02-18,16,Train,48,0,Einstein's|2026-02-18|16,True,True,False
+Einstein's,2026-02-18,17,Train,2,0,Einstein's|2026-02-18|17,True,True,False
+Einstein's,2026-02-19,7,Train,3,0,Einstein's|2026-02-19|07,True,True,False
+Einstein's,2026-02-19,8,Train,51,0,Einstein's|2026-02-19|08,True,True,False
+Einstein's,2026-02-19,9,Train,52,0,Einstein's|2026-02-19|09,True,True,False
+Einstein's,2026-02-19,10,Train,81,0,Einstein's|2026-02-19|10,True,True,False
+Einstein's,2026-02-19,11,Train,96,0,Einstein's|2026-02-19|11,True,True,False
+Einstein's,2026-02-19,12,Train,96,0,Einstein's|2026-02-19|12,True,True,False
+Einstein's,2026-02-19,13,Train,39,0,Einstein's|2026-02-19|13,True,True,False
+Einstein's,2026-02-19,14,Train,50,0,Einstein's|2026-02-19|14,True,True,False
+Einstein's,2026-02-19,15,Train,37,0,Einstein's|2026-02-19|15,True,True,False
+Einstein's,2026-02-19,16,Train,20,0,Einstein's|2026-02-19|16,True,True,False
+Einstein's,2026-02-19,17,Train,10,0,Einstein's|2026-02-19|17,True,True,False
+Einstein's,2026-02-20,7,Train,4,0,Einstein's|2026-02-20|07,True,True,False
+Einstein's,2026-02-20,8,Train,36,0,Einstein's|2026-02-20|08,True,True,False
+Einstein's,2026-02-20,9,Train,38,0,Einstein's|2026-02-20|09,True,True,False
+Einstein's,2026-02-20,10,Train,49,0,Einstein's|2026-02-20|10,True,True,False
+Einstein's,2026-02-20,11,Train,52,0,Einstein's|2026-02-20|11,True,True,False
+Einstein's,2026-02-20,12,Train,51,0,Einstein's|2026-02-20|12,True,True,False
+Einstein's,2026-02-20,13,Train,35,0,Einstein's|2026-02-20|13,True,True,False
+Einstein's,2026-02-20,14,Train,28,0,Einstein's|2026-02-20|14,True,True,False
+Einstein's,2026-02-20,15,Train,7,0,Einstein's|2026-02-20|15,True,True,False
+Einstein's,2026-02-23,7,Train,4,0,Einstein's|2026-02-23|07,True,True,False
+Einstein's,2026-02-23,8,Train,24,0,Einstein's|2026-02-23|08,True,True,False
+Einstein's,2026-02-23,9,Train,77,0,Einstein's|2026-02-23|09,True,True,False
+Einstein's,2026-02-23,10,Train,79,0,Einstein's|2026-02-23|10,True,True,False
+Einstein's,2026-02-23,11,Train,76,0,Einstein's|2026-02-23|11,True,True,False
+Einstein's,2026-02-23,12,Train,79,0,Einstein's|2026-02-23|12,True,True,False
+Einstein's,2026-02-23,13,Train,71,0,Einstein's|2026-02-23|13,True,True,False
+Einstein's,2026-02-23,14,Train,27,0,Einstein's|2026-02-23|14,True,True,False
+Einstein's,2026-02-23,15,Train,42,0,Einstein's|2026-02-23|15,True,True,False
+Einstein's,2026-02-23,16,Train,35,0,Einstein's|2026-02-23|16,True,True,False
+Einstein's,2026-02-23,17,Train,17,0,Einstein's|2026-02-23|17,True,True,False
+Einstein's,2026-02-24,7,Train,11,0,Einstein's|2026-02-24|07,True,True,False
+Einstein's,2026-02-24,8,Train,86,0,Einstein's|2026-02-24|08,True,True,False
+Einstein's,2026-02-24,9,Train,86,0,Einstein's|2026-02-24|09,True,True,False
+Einstein's,2026-02-24,10,Train,117,0,Einstein's|2026-02-24|10,True,True,False
+Einstein's,2026-02-24,11,Train,58,0,Einstein's|2026-02-24|11,True,True,False
+Einstein's,2026-02-24,12,Train,82,0,Einstein's|2026-02-24|12,True,True,False
+Einstein's,2026-02-24,13,Train,54,0,Einstein's|2026-02-24|13,True,True,False
+Einstein's,2026-02-24,14,Train,30,0,Einstein's|2026-02-24|14,True,True,False
+Einstein's,2026-02-24,15,Train,40,0,Einstein's|2026-02-24|15,True,True,False
+Einstein's,2026-02-24,16,Train,37,0,Einstein's|2026-02-24|16,True,True,False
+Einstein's,2026-02-24,17,Train,16,0,Einstein's|2026-02-24|17,True,True,False
+Einstein's,2026-02-25,7,Train,7,0,Einstein's|2026-02-25|07,True,True,False
+Einstein's,2026-02-25,8,Train,45,0,Einstein's|2026-02-25|08,True,True,False
+Einstein's,2026-02-25,9,Train,103,0,Einstein's|2026-02-25|09,True,True,False
+Einstein's,2026-02-25,10,Train,137,0,Einstein's|2026-02-25|10,True,True,False
+Einstein's,2026-02-25,11,Train,67,0,Einstein's|2026-02-25|11,True,True,False
+Einstein's,2026-02-25,12,Train,94,0,Einstein's|2026-02-25|12,True,True,False
+Einstein's,2026-02-25,13,Train,81,0,Einstein's|2026-02-25|13,True,True,False
+Einstein's,2026-02-25,14,Train,46,0,Einstein's|2026-02-25|14,True,True,False
+Einstein's,2026-02-25,15,Train,58,0,Einstein's|2026-02-25|15,True,True,False
+Einstein's,2026-02-25,16,Train,44,0,Einstein's|2026-02-25|16,True,True,False
+Einstein's,2026-02-25,17,Train,2,0,Einstein's|2026-02-25|17,True,True,False
+Einstein's,2026-02-26,7,Train,22,0,Einstein's|2026-02-26|07,True,True,False
+Einstein's,2026-02-26,8,Train,29,0,Einstein's|2026-02-26|08,True,True,False
+Einstein's,2026-02-26,9,Train,36,0,Einstein's|2026-02-26|09,True,True,False
+Einstein's,2026-02-26,10,Train,94,0,Einstein's|2026-02-26|10,True,True,False
+Einstein's,2026-02-26,11,Train,63,0,Einstein's|2026-02-26|11,True,True,False
+Einstein's,2026-02-26,12,Train,118,0,Einstein's|2026-02-26|12,True,True,False
+Einstein's,2026-02-26,13,Train,49,0,Einstein's|2026-02-26|13,True,True,False
+Einstein's,2026-02-26,14,Train,36,0,Einstein's|2026-02-26|14,True,True,False
+Einstein's,2026-02-26,15,Train,28,0,Einstein's|2026-02-26|15,True,True,False
+Einstein's,2026-02-26,16,Train,12,0,Einstein's|2026-02-26|16,True,True,False
+Einstein's,2026-02-26,17,Train,10,0,Einstein's|2026-02-26|17,True,True,False
+Einstein's,2026-02-27,7,Train,6,0,Einstein's|2026-02-27|07,True,True,False
+Einstein's,2026-02-27,8,Train,27,0,Einstein's|2026-02-27|08,True,True,False
+Einstein's,2026-02-27,9,Train,57,0,Einstein's|2026-02-27|09,True,True,False
+Einstein's,2026-02-27,10,Train,21,0,Einstein's|2026-02-27|10,True,True,False
+Einstein's,2026-02-27,11,Train,20,0,Einstein's|2026-02-27|11,True,True,False
+Einstein's,2026-02-27,12,Train,21,0,Einstein's|2026-02-27|12,True,True,False
+Einstein's,2026-02-27,13,Train,21,0,Einstein's|2026-02-27|13,True,True,False
+Einstein's,2026-02-27,14,Train,20,0,Einstein's|2026-02-27|14,True,True,False
+Einstein's,2026-02-27,15,Train,22,0,Einstein's|2026-02-27|15,True,True,False
+Einstein's,2026-03-02,7,Validation,9,0,Einstein's|2026-03-02|07,False,True,True
+Einstein's,2026-03-02,8,Validation,21,0,Einstein's|2026-03-02|08,False,True,True
+Einstein's,2026-03-02,9,Validation,75,0,Einstein's|2026-03-02|09,False,True,True
+Einstein's,2026-03-02,10,Validation,95,0,Einstein's|2026-03-02|10,False,True,True
+Einstein's,2026-03-02,11,Validation,99,0,Einstein's|2026-03-02|11,False,True,True
+Einstein's,2026-03-02,12,Validation,73,0,Einstein's|2026-03-02|12,False,True,True
+Einstein's,2026-03-02,13,Validation,63,0,Einstein's|2026-03-02|13,False,True,True
+Einstein's,2026-03-02,14,Validation,49,0,Einstein's|2026-03-02|14,False,True,True
+Einstein's,2026-03-02,15,Validation,51,0,Einstein's|2026-03-02|15,False,True,True
+Einstein's,2026-03-02,16,Validation,33,0,Einstein's|2026-03-02|16,False,True,True
+Einstein's,2026-03-02,17,Validation,9,0,Einstein's|2026-03-02|17,False,True,True
+Einstein's,2026-03-03,7,Validation,8,0,Einstein's|2026-03-03|07,False,True,True
+Einstein's,2026-03-03,8,Validation,37,0,Einstein's|2026-03-03|08,False,True,True
+Einstein's,2026-03-03,9,Validation,93,0,Einstein's|2026-03-03|09,False,True,True
+Einstein's,2026-03-03,10,Validation,127,0,Einstein's|2026-03-03|10,False,True,True
+Einstein's,2026-03-03,11,Validation,81,0,Einstein's|2026-03-03|11,False,True,True
+Einstein's,2026-03-03,12,Validation,99,0,Einstein's|2026-03-03|12,False,True,True
+Einstein's,2026-03-03,13,Validation,54,0,Einstein's|2026-03-03|13,False,True,True
+Einstein's,2026-03-03,14,Validation,39,0,Einstein's|2026-03-03|14,False,True,True
+Einstein's,2026-03-03,15,Validation,36,0,Einstein's|2026-03-03|15,False,True,True
+Einstein's,2026-03-03,16,Validation,23,0,Einstein's|2026-03-03|16,False,True,True
+Einstein's,2026-03-03,17,Validation,24,0,Einstein's|2026-03-03|17,False,True,True
+Einstein's,2026-03-04,7,Validation,3,0,Einstein's|2026-03-04|07,False,True,True
+Einstein's,2026-03-04,8,Validation,56,0,Einstein's|2026-03-04|08,False,True,True
+Einstein's,2026-03-04,9,Validation,74,0,Einstein's|2026-03-04|09,False,True,True
+Einstein's,2026-03-04,10,Validation,120,0,Einstein's|2026-03-04|10,False,True,True
+Einstein's,2026-03-04,11,Validation,92,0,Einstein's|2026-03-04|11,False,True,True
+Einstein's,2026-03-04,12,Validation,71,0,Einstein's|2026-03-04|12,False,True,True
+Einstein's,2026-03-04,13,Validation,95,0,Einstein's|2026-03-04|13,False,True,True
+Einstein's,2026-03-04,14,Validation,23,0,Einstein's|2026-03-04|14,False,True,True
+Einstein's,2026-03-04,15,Validation,55,0,Einstein's|2026-03-04|15,False,True,True
+Einstein's,2026-03-04,16,Validation,39,0,Einstein's|2026-03-04|16,False,True,True
+Einstein's,2026-03-04,17,Validation,8,0,Einstein's|2026-03-04|17,False,True,True
+Einstein's,2026-03-05,7,Validation,17,0,Einstein's|2026-03-05|07,False,True,True
+Einstein's,2026-03-05,8,Validation,18,0,Einstein's|2026-03-05|08,False,True,True
+Einstein's,2026-03-05,9,Validation,74,0,Einstein's|2026-03-05|09,False,True,True
+Einstein's,2026-03-05,10,Validation,86,0,Einstein's|2026-03-05|10,False,True,True
+Einstein's,2026-03-05,11,Validation,61,0,Einstein's|2026-03-05|11,False,True,True
+Einstein's,2026-03-05,12,Validation,65,0,Einstein's|2026-03-05|12,False,True,True
+Einstein's,2026-03-05,13,Validation,67,0,Einstein's|2026-03-05|13,False,True,True
+Einstein's,2026-03-05,14,Validation,62,0,Einstein's|2026-03-05|14,False,True,True
+Einstein's,2026-03-05,15,Validation,22,0,Einstein's|2026-03-05|15,False,True,True
+Einstein's,2026-03-05,16,Validation,24,0,Einstein's|2026-03-05|16,False,True,True
+Einstein's,2026-03-05,17,Validation,14,0,Einstein's|2026-03-05|17,False,True,True
+Einstein's,2026-03-06,7,Validation,2,0,Einstein's|2026-03-06|07,False,True,True
+Einstein's,2026-03-06,8,Validation,9,0,Einstein's|2026-03-06|08,False,True,True
+Einstein's,2026-03-06,9,Validation,67,0,Einstein's|2026-03-06|09,False,True,True
+Einstein's,2026-03-06,10,Validation,47,0,Einstein's|2026-03-06|10,False,True,True
+Einstein's,2026-03-06,11,Validation,37,0,Einstein's|2026-03-06|11,False,True,True
+Einstein's,2026-03-06,12,Validation,37,0,Einstein's|2026-03-06|12,False,True,True
+Einstein's,2026-03-06,13,Validation,23,0,Einstein's|2026-03-06|13,False,True,True
+Einstein's,2026-03-06,14,Validation,7,0,Einstein's|2026-03-06|14,False,True,True
+Einstein's,2026-03-06,15,Validation,11,0,Einstein's|2026-03-06|15,False,True,True
+Einstein's,2026-03-09,7,Validation,5,0,Einstein's|2026-03-09|07,False,True,True
+Einstein's,2026-03-09,8,Validation,29,0,Einstein's|2026-03-09|08,False,True,True
+Einstein's,2026-03-09,9,Validation,73,0,Einstein's|2026-03-09|09,False,True,True
+Einstein's,2026-03-09,10,Validation,87,0,Einstein's|2026-03-09|10,False,True,True
+Einstein's,2026-03-09,11,Validation,99,0,Einstein's|2026-03-09|11,False,True,True
+Einstein's,2026-03-09,12,Validation,65,0,Einstein's|2026-03-09|12,False,True,True
+Einstein's,2026-03-09,13,Validation,88,0,Einstein's|2026-03-09|13,False,True,True
+Einstein's,2026-03-09,14,Validation,40,0,Einstein's|2026-03-09|14,False,True,True
+Einstein's,2026-03-09,15,Validation,38,0,Einstein's|2026-03-09|15,False,True,True
+Einstein's,2026-03-09,16,Validation,20,0,Einstein's|2026-03-09|16,False,True,True
+Einstein's,2026-03-09,17,Validation,10,0,Einstein's|2026-03-09|17,False,True,True
+Einstein's,2026-03-10,7,Validation,4,0,Einstein's|2026-03-10|07,False,True,True
+Einstein's,2026-03-10,8,Validation,95,0,Einstein's|2026-03-10|08,False,True,True
+Einstein's,2026-03-10,9,Validation,79,0,Einstein's|2026-03-10|09,False,True,True
+Einstein's,2026-03-10,10,Validation,126,0,Einstein's|2026-03-10|10,False,True,True
+Einstein's,2026-03-10,11,Validation,61,0,Einstein's|2026-03-10|11,False,True,True
+Einstein's,2026-03-10,12,Validation,140,0,Einstein's|2026-03-10|12,False,True,True
+Einstein's,2026-03-10,13,Validation,54,0,Einstein's|2026-03-10|13,False,True,True
+Einstein's,2026-03-10,14,Validation,51,0,Einstein's|2026-03-10|14,False,True,True
+Einstein's,2026-03-10,15,Validation,46,0,Einstein's|2026-03-10|15,False,True,True
+Einstein's,2026-03-10,16,Validation,33,0,Einstein's|2026-03-10|16,False,True,True
+Einstein's,2026-03-10,17,Validation,15,0,Einstein's|2026-03-10|17,False,True,True
+Einstein's,2026-03-11,7,Validation,11,0,Einstein's|2026-03-11|07,False,True,True
+Einstein's,2026-03-11,8,Validation,33,0,Einstein's|2026-03-11|08,False,True,True
+Einstein's,2026-03-11,9,Validation,76,0,Einstein's|2026-03-11|09,False,True,True
+Einstein's,2026-03-11,10,Validation,113,0,Einstein's|2026-03-11|10,False,True,True
+Einstein's,2026-03-11,11,Validation,112,0,Einstein's|2026-03-11|11,False,True,True
+Einstein's,2026-03-11,12,Validation,71,0,Einstein's|2026-03-11|12,False,True,True
+Einstein's,2026-03-11,13,Validation,69,0,Einstein's|2026-03-11|13,False,True,True
+Einstein's,2026-03-11,14,Validation,33,0,Einstein's|2026-03-11|14,False,True,True
+Einstein's,2026-03-11,15,Validation,47,0,Einstein's|2026-03-11|15,False,True,True
+Einstein's,2026-03-11,16,Validation,30,0,Einstein's|2026-03-11|16,False,True,True
+Einstein's,2026-03-11,17,Validation,18,0,Einstein's|2026-03-11|17,False,True,True
+Einstein's,2026-03-12,7,Validation,15,0,Einstein's|2026-03-12|07,False,True,True
+Einstein's,2026-03-12,8,Validation,40,0,Einstein's|2026-03-12|08,False,True,True
+Einstein's,2026-03-12,9,Validation,44,0,Einstein's|2026-03-12|09,False,True,True
+Einstein's,2026-03-12,10,Validation,101,0,Einstein's|2026-03-12|10,False,True,True
+Einstein's,2026-03-12,11,Validation,103,0,Einstein's|2026-03-12|11,False,True,True
+Einstein's,2026-03-12,12,Validation,104,0,Einstein's|2026-03-12|12,False,True,True
+Einstein's,2026-03-12,13,Validation,34,0,Einstein's|2026-03-12|13,False,True,True
+Einstein's,2026-03-12,14,Validation,73,0,Einstein's|2026-03-12|14,False,True,True
+Einstein's,2026-03-12,15,Validation,29,0,Einstein's|2026-03-12|15,False,True,True
+Einstein's,2026-03-12,16,Validation,43,0,Einstein's|2026-03-12|16,False,True,True
+Einstein's,2026-03-12,17,Validation,8,0,Einstein's|2026-03-12|17,False,True,True
+Einstein's,2026-03-13,8,Validation,35,0,Einstein's|2026-03-13|08,False,True,True
+Einstein's,2026-03-13,9,Validation,53,0,Einstein's|2026-03-13|09,False,True,True
+Einstein's,2026-03-13,10,Validation,25,0,Einstein's|2026-03-13|10,False,True,True
+Einstein's,2026-03-13,11,Validation,53,0,Einstein's|2026-03-13|11,False,True,True
+Einstein's,2026-03-13,12,Validation,83,0,Einstein's|2026-03-13|12,False,True,True
+Einstein's,2026-03-13,13,Validation,45,0,Einstein's|2026-03-13|13,False,True,True
+Einstein's,2026-03-13,14,Validation,23,0,Einstein's|2026-03-13|14,False,True,True
+Einstein's,2026-03-13,15,Validation,9,0,Einstein's|2026-03-13|15,False,True,True
+Einstein's,2026-03-16,7,Validation,10,0,Einstein's|2026-03-16|07,False,True,True
+Einstein's,2026-03-16,8,Validation,24,0,Einstein's|2026-03-16|08,False,True,True
+Einstein's,2026-03-16,9,Validation,80,0,Einstein's|2026-03-16|09,False,True,True
+Einstein's,2026-03-16,10,Validation,112,0,Einstein's|2026-03-16|10,False,True,True
+Einstein's,2026-03-16,11,Validation,93,0,Einstein's|2026-03-16|11,False,True,True
+Einstein's,2026-03-16,12,Validation,91,0,Einstein's|2026-03-16|12,False,True,True
+Einstein's,2026-03-16,13,Validation,59,0,Einstein's|2026-03-16|13,False,True,True
+Einstein's,2026-03-16,14,Validation,32,0,Einstein's|2026-03-16|14,False,True,True
+Einstein's,2026-03-16,15,Validation,56,0,Einstein's|2026-03-16|15,False,True,True
+Einstein's,2026-03-16,16,Validation,39,0,Einstein's|2026-03-16|16,False,True,True
+Einstein's,2026-03-16,17,Validation,13,0,Einstein's|2026-03-16|17,False,True,True
+Einstein's,2026-03-17,7,Validation,9,0,Einstein's|2026-03-17|07,False,True,True
+Einstein's,2026-03-17,8,Validation,25,0,Einstein's|2026-03-17|08,False,True,True
+Einstein's,2026-03-17,9,Validation,83,0,Einstein's|2026-03-17|09,False,True,True
+Einstein's,2026-03-17,10,Validation,99,0,Einstein's|2026-03-17|10,False,True,True
+Einstein's,2026-03-17,11,Validation,70,0,Einstein's|2026-03-17|11,False,True,True
+Einstein's,2026-03-17,12,Validation,89,0,Einstein's|2026-03-17|12,False,True,True
+Einstein's,2026-03-17,13,Validation,47,0,Einstein's|2026-03-17|13,False,True,True
+Einstein's,2026-03-17,14,Validation,42,0,Einstein's|2026-03-17|14,False,True,True
+Einstein's,2026-03-17,15,Validation,37,0,Einstein's|2026-03-17|15,False,True,True
+Einstein's,2026-03-17,16,Validation,36,0,Einstein's|2026-03-17|16,False,True,True
+Einstein's,2026-03-17,17,Validation,5,0,Einstein's|2026-03-17|17,False,True,True
+Einstein's,2026-03-18,7,Validation,11,0,Einstein's|2026-03-18|07,False,True,True
+Einstein's,2026-03-18,8,Validation,14,0,Einstein's|2026-03-18|08,False,True,True
+Einstein's,2026-03-18,9,Validation,93,0,Einstein's|2026-03-18|09,False,True,True
+Einstein's,2026-03-18,10,Validation,121,0,Einstein's|2026-03-18|10,False,True,True
+Einstein's,2026-03-18,11,Validation,86,0,Einstein's|2026-03-18|11,False,True,True
+Einstein's,2026-03-18,12,Validation,83,0,Einstein's|2026-03-18|12,False,True,True
+Einstein's,2026-03-18,13,Validation,93,0,Einstein's|2026-03-18|13,False,True,True
+Einstein's,2026-03-18,14,Validation,48,0,Einstein's|2026-03-18|14,False,True,True
+Einstein's,2026-03-18,15,Validation,31,0,Einstein's|2026-03-18|15,False,True,True
+Einstein's,2026-03-18,16,Validation,19,0,Einstein's|2026-03-18|16,False,True,True
+Einstein's,2026-03-18,17,Validation,3,0,Einstein's|2026-03-18|17,False,True,True
+Einstein's,2026-03-19,7,Validation,5,0,Einstein's|2026-03-19|07,False,True,True
+Einstein's,2026-03-19,8,Validation,43,0,Einstein's|2026-03-19|08,False,True,True
+Einstein's,2026-03-19,9,Validation,62,0,Einstein's|2026-03-19|09,False,True,True
+Einstein's,2026-03-19,10,Validation,110,0,Einstein's|2026-03-19|10,False,True,True
+Einstein's,2026-03-19,11,Validation,58,0,Einstein's|2026-03-19|11,False,True,True
+Einstein's,2026-03-19,12,Validation,66,0,Einstein's|2026-03-19|12,False,True,True
+Einstein's,2026-03-19,13,Validation,39,0,Einstein's|2026-03-19|13,False,True,True
+Einstein's,2026-03-19,14,Validation,42,0,Einstein's|2026-03-19|14,False,True,True
+Einstein's,2026-03-19,15,Validation,28,0,Einstein's|2026-03-19|15,False,True,True
+Einstein's,2026-03-19,16,Validation,31,0,Einstein's|2026-03-19|16,False,True,True
+Einstein's,2026-03-19,17,Validation,26,0,Einstein's|2026-03-19|17,False,True,True
+Einstein's,2026-03-20,8,Validation,19,0,Einstein's|2026-03-20|08,False,True,True
+Einstein's,2026-03-20,9,Validation,28,0,Einstein's|2026-03-20|09,False,True,True
+Einstein's,2026-03-20,10,Validation,64,0,Einstein's|2026-03-20|10,False,True,True
+Einstein's,2026-03-20,11,Validation,46,0,Einstein's|2026-03-20|11,False,True,True
+Einstein's,2026-03-20,12,Validation,40,0,Einstein's|2026-03-20|12,False,True,True
+Einstein's,2026-03-20,13,Validation,31,0,Einstein's|2026-03-20|13,False,True,True
+Einstein's,2026-03-20,14,Validation,20,0,Einstein's|2026-03-20|14,False,True,True
+Einstein's,2026-03-20,15,Validation,25,0,Einstein's|2026-03-20|15,False,True,True
+Einstein's,2026-03-20,16,Validation,4,0,Einstein's|2026-03-20|16,False,True,True
+Einstein's,2026-03-23,7,Validation,9,0,Einstein's|2026-03-23|07,False,True,True
+Einstein's,2026-03-23,8,Validation,34,0,Einstein's|2026-03-23|08,False,True,True
+Einstein's,2026-03-23,9,Validation,66,0,Einstein's|2026-03-23|09,False,True,True
+Einstein's,2026-03-23,10,Validation,82,0,Einstein's|2026-03-23|10,False,True,True
+Einstein's,2026-03-23,11,Validation,94,0,Einstein's|2026-03-23|11,False,True,True
+Einstein's,2026-03-23,12,Validation,71,0,Einstein's|2026-03-23|12,False,True,True
+Einstein's,2026-03-23,13,Validation,95,0,Einstein's|2026-03-23|13,False,True,True
+Einstein's,2026-03-23,14,Validation,37,0,Einstein's|2026-03-23|14,False,True,True
+Einstein's,2026-03-23,15,Validation,48,0,Einstein's|2026-03-23|15,False,True,True
+Einstein's,2026-03-23,16,Validation,53,0,Einstein's|2026-03-23|16,False,True,True
+Einstein's,2026-03-23,17,Validation,21,0,Einstein's|2026-03-23|17,False,True,True
+Einstein's,2026-03-24,7,Validation,8,0,Einstein's|2026-03-24|07,False,True,True
+Einstein's,2026-03-24,8,Validation,63,0,Einstein's|2026-03-24|08,False,True,True
+Einstein's,2026-03-24,9,Validation,85,0,Einstein's|2026-03-24|09,False,True,True
+Einstein's,2026-03-24,10,Validation,108,0,Einstein's|2026-03-24|10,False,True,True
+Einstein's,2026-03-24,11,Validation,78,0,Einstein's|2026-03-24|11,False,True,True
+Einstein's,2026-03-24,12,Validation,100,0,Einstein's|2026-03-24|12,False,True,True
+Einstein's,2026-03-24,13,Validation,67,0,Einstein's|2026-03-24|13,False,True,True
+Einstein's,2026-03-24,14,Validation,51,0,Einstein's|2026-03-24|14,False,True,True
+Einstein's,2026-03-24,15,Validation,41,0,Einstein's|2026-03-24|15,False,True,True
+Einstein's,2026-03-24,16,Validation,40,0,Einstein's|2026-03-24|16,False,True,True
+Einstein's,2026-03-24,17,Validation,11,0,Einstein's|2026-03-24|17,False,True,True
+Einstein's,2026-03-25,7,Validation,12,0,Einstein's|2026-03-25|07,False,True,True
+Einstein's,2026-03-25,8,Validation,41,0,Einstein's|2026-03-25|08,False,True,True
+Einstein's,2026-03-25,9,Validation,77,0,Einstein's|2026-03-25|09,False,True,True
+Einstein's,2026-03-25,10,Validation,89,0,Einstein's|2026-03-25|10,False,True,True
+Einstein's,2026-03-25,11,Validation,112,0,Einstein's|2026-03-25|11,False,True,True
+Einstein's,2026-03-25,12,Validation,87,0,Einstein's|2026-03-25|12,False,True,True
+Einstein's,2026-03-25,13,Validation,97,0,Einstein's|2026-03-25|13,False,True,True
+Einstein's,2026-03-25,14,Validation,58,0,Einstein's|2026-03-25|14,False,True,True
+Einstein's,2026-03-25,15,Validation,34,0,Einstein's|2026-03-25|15,False,True,True
+Einstein's,2026-03-25,16,Validation,46,0,Einstein's|2026-03-25|16,False,True,True
+Einstein's,2026-03-25,17,Validation,10,0,Einstein's|2026-03-25|17,False,True,True
+Einstein's,2026-03-26,7,Validation,11,0,Einstein's|2026-03-26|07,False,True,True
+Einstein's,2026-03-26,8,Validation,33,0,Einstein's|2026-03-26|08,False,True,True
+Einstein's,2026-03-26,9,Validation,67,0,Einstein's|2026-03-26|09,False,True,True
+Einstein's,2026-03-26,10,Validation,109,0,Einstein's|2026-03-26|10,False,True,True
+Einstein's,2026-03-26,11,Validation,97,0,Einstein's|2026-03-26|11,False,True,True
+Einstein's,2026-03-26,12,Validation,130,0,Einstein's|2026-03-26|12,False,True,True
+Einstein's,2026-03-26,13,Validation,61,0,Einstein's|2026-03-26|13,False,True,True
+Einstein's,2026-03-26,14,Validation,54,0,Einstein's|2026-03-26|14,False,True,True
+Einstein's,2026-03-26,15,Validation,53,0,Einstein's|2026-03-26|15,False,True,True
+Einstein's,2026-03-26,16,Validation,18,0,Einstein's|2026-03-26|16,False,True,True
+Einstein's,2026-03-26,17,Validation,7,0,Einstein's|2026-03-26|17,False,True,True
+Einstein's,2026-03-27,7,Validation,1,0,Einstein's|2026-03-27|07,False,True,True
+Einstein's,2026-03-27,8,Validation,30,0,Einstein's|2026-03-27|08,False,True,True
+Einstein's,2026-03-27,9,Validation,34,0,Einstein's|2026-03-27|09,False,True,True
+Einstein's,2026-03-27,10,Validation,54,0,Einstein's|2026-03-27|10,False,True,True
+Einstein's,2026-03-27,11,Validation,43,0,Einstein's|2026-03-27|11,False,True,True
+Einstein's,2026-03-27,12,Validation,19,0,Einstein's|2026-03-27|12,False,True,True
+Einstein's,2026-03-27,13,Validation,27,0,Einstein's|2026-03-27|13,False,True,True
+Einstein's,2026-03-30,8,Validation,10,0,Einstein's|2026-03-30|08,False,True,True
+Einstein's,2026-03-30,9,Validation,11,0,Einstein's|2026-03-30|09,False,True,True
+Einstein's,2026-03-30,10,Validation,37,0,Einstein's|2026-03-30|10,False,True,True
+Einstein's,2026-03-30,11,Validation,36,0,Einstein's|2026-03-30|11,False,True,True
+Einstein's,2026-03-30,12,Validation,71,0,Einstein's|2026-03-30|12,False,True,True
+Einstein's,2026-03-30,13,Validation,50,0,Einstein's|2026-03-30|13,False,True,True
+Einstein's,2026-04-01,8,Validation,16,0,Einstein's|2026-04-01|08,False,True,True
+Einstein's,2026-04-01,9,Validation,28,0,Einstein's|2026-04-01|09,False,True,True
+Einstein's,2026-04-01,10,Validation,17,0,Einstein's|2026-04-01|10,False,True,True
+Einstein's,2026-04-01,11,Validation,35,0,Einstein's|2026-04-01|11,False,True,True
+Einstein's,2026-04-01,12,Validation,71,0,Einstein's|2026-04-01|12,False,True,True
+Einstein's,2026-04-01,13,Validation,41,0,Einstein's|2026-04-01|13,False,True,True
+Einstein's,2026-04-02,8,Validation,21,0,Einstein's|2026-04-02|08,False,True,True
+Einstein's,2026-04-02,9,Validation,33,0,Einstein's|2026-04-02|09,False,True,True
+Einstein's,2026-04-02,10,Validation,40,0,Einstein's|2026-04-02|10,False,True,True
+Einstein's,2026-04-02,11,Validation,29,0,Einstein's|2026-04-02|11,False,True,True
+Einstein's,2026-04-02,12,Validation,82,0,Einstein's|2026-04-02|12,False,True,True
+Einstein's,2026-04-02,13,Validation,36,0,Einstein's|2026-04-02|13,False,True,True
+Einstein's,2026-04-03,8,Validation,36,0,Einstein's|2026-04-03|08,False,True,True
+Einstein's,2026-04-03,9,Validation,16,0,Einstein's|2026-04-03|09,False,True,True
+Einstein's,2026-04-03,10,Validation,19,0,Einstein's|2026-04-03|10,False,True,True
+Einstein's,2026-04-03,11,Validation,65,0,Einstein's|2026-04-03|11,False,True,True
+Einstein's,2026-04-03,12,Validation,54,0,Einstein's|2026-04-03|12,False,True,True
+Einstein's,2026-04-03,13,Validation,39,0,Einstein's|2026-04-03|13,False,True,True
+Einstein's,2026-04-06,7,Validation,3,0,Einstein's|2026-04-06|07,False,True,True
+Einstein's,2026-04-06,8,Validation,31,0,Einstein's|2026-04-06|08,False,True,True
+Einstein's,2026-04-06,9,Validation,67,0,Einstein's|2026-04-06|09,False,True,True
+Einstein's,2026-04-06,10,Validation,78,0,Einstein's|2026-04-06|10,False,True,True
+Einstein's,2026-04-06,11,Validation,81,0,Einstein's|2026-04-06|11,False,True,True
+Einstein's,2026-04-06,12,Validation,78,0,Einstein's|2026-04-06|12,False,True,True
+Einstein's,2026-04-06,13,Validation,81,0,Einstein's|2026-04-06|13,False,True,True
+Einstein's,2026-04-06,14,Validation,36,0,Einstein's|2026-04-06|14,False,True,True
+Einstein's,2026-04-06,15,Validation,61,0,Einstein's|2026-04-06|15,False,True,True
+Einstein's,2026-04-06,16,Validation,32,0,Einstein's|2026-04-06|16,False,True,True
+Einstein's,2026-04-06,17,Validation,8,0,Einstein's|2026-04-06|17,False,True,True
+Einstein's,2026-04-07,7,Validation,13,0,Einstein's|2026-04-07|07,False,True,True
+Einstein's,2026-04-07,8,Validation,25,0,Einstein's|2026-04-07|08,False,True,True
+Einstein's,2026-04-07,9,Validation,100,0,Einstein's|2026-04-07|09,False,True,True
+Einstein's,2026-04-07,10,Validation,106,0,Einstein's|2026-04-07|10,False,True,True
+Einstein's,2026-04-07,11,Validation,56,0,Einstein's|2026-04-07|11,False,True,True
+Einstein's,2026-04-07,12,Validation,117,0,Einstein's|2026-04-07|12,False,True,True
+Einstein's,2026-04-07,13,Validation,44,0,Einstein's|2026-04-07|13,False,True,True
+Einstein's,2026-04-07,14,Validation,63,0,Einstein's|2026-04-07|14,False,True,True
+Einstein's,2026-04-07,15,Validation,32,0,Einstein's|2026-04-07|15,False,True,True
+Einstein's,2026-04-07,16,Validation,29,0,Einstein's|2026-04-07|16,False,True,True
+Einstein's,2026-04-07,17,Validation,13,0,Einstein's|2026-04-07|17,False,True,True
+Einstein's,2026-04-08,7,Validation,11,0,Einstein's|2026-04-08|07,False,True,True
+Einstein's,2026-04-08,8,Validation,51,0,Einstein's|2026-04-08|08,False,True,True
+Einstein's,2026-04-08,9,Validation,76,0,Einstein's|2026-04-08|09,False,True,True
+Einstein's,2026-04-08,10,Validation,111,0,Einstein's|2026-04-08|10,False,True,True
+Einstein's,2026-04-08,11,Validation,94,0,Einstein's|2026-04-08|11,False,True,True
+Einstein's,2026-04-08,12,Validation,99,0,Einstein's|2026-04-08|12,False,True,True
+Einstein's,2026-04-08,13,Validation,87,0,Einstein's|2026-04-08|13,False,True,True
+Einstein's,2026-04-08,14,Validation,51,0,Einstein's|2026-04-08|14,False,True,True
+Einstein's,2026-04-08,15,Validation,62,0,Einstein's|2026-04-08|15,False,True,True
+Einstein's,2026-04-08,16,Validation,33,0,Einstein's|2026-04-08|16,False,True,True
+Einstein's,2026-04-08,17,Validation,11,0,Einstein's|2026-04-08|17,False,True,True
+Einstein's,2026-04-09,7,Validation,5,0,Einstein's|2026-04-09|07,False,True,True
+Einstein's,2026-04-09,8,Validation,67,0,Einstein's|2026-04-09|08,False,True,True
+Einstein's,2026-04-09,9,Validation,79,0,Einstein's|2026-04-09|09,False,True,True
+Einstein's,2026-04-09,10,Validation,55,0,Einstein's|2026-04-09|10,False,True,True
+Einstein's,2026-04-09,11,Validation,76,0,Einstein's|2026-04-09|11,False,True,True
+Einstein's,2026-04-09,12,Validation,91,0,Einstein's|2026-04-09|12,False,True,True
+Einstein's,2026-04-09,13,Validation,56,0,Einstein's|2026-04-09|13,False,True,True
+Einstein's,2026-04-09,14,Validation,67,0,Einstein's|2026-04-09|14,False,True,True
+Einstein's,2026-04-09,15,Validation,47,0,Einstein's|2026-04-09|15,False,True,True
+Einstein's,2026-04-09,16,Validation,43,0,Einstein's|2026-04-09|16,False,True,True
+Einstein's,2026-04-09,17,Validation,26,0,Einstein's|2026-04-09|17,False,True,True
+Einstein's,2026-04-10,7,Validation,6,0,Einstein's|2026-04-10|07,False,True,True
+Einstein's,2026-04-10,8,Validation,27,0,Einstein's|2026-04-10|08,False,True,True
+Einstein's,2026-04-10,9,Validation,17,0,Einstein's|2026-04-10|09,False,True,True
+Einstein's,2026-04-10,10,Validation,23,0,Einstein's|2026-04-10|10,False,True,True
+Einstein's,2026-04-10,11,Validation,27,0,Einstein's|2026-04-10|11,False,True,True
+Einstein's,2026-04-10,12,Validation,46,0,Einstein's|2026-04-10|12,False,True,True
+Einstein's,2026-04-10,13,Validation,26,0,Einstein's|2026-04-10|13,False,True,True
+Einstein's,2026-04-10,14,Validation,15,0,Einstein's|2026-04-10|14,False,True,True
+Einstein's,2026-04-10,15,Validation,11,0,Einstein's|2026-04-10|15,False,True,True
+Einstein's,2026-04-13,7,Validation,13,0,Einstein's|2026-04-13|07,False,True,True
+Einstein's,2026-04-13,8,Validation,37,0,Einstein's|2026-04-13|08,False,True,True
+Einstein's,2026-04-13,9,Validation,91,0,Einstein's|2026-04-13|09,False,True,True
+Einstein's,2026-04-13,10,Validation,74,0,Einstein's|2026-04-13|10,False,True,True
+Einstein's,2026-04-13,11,Validation,64,0,Einstein's|2026-04-13|11,False,True,True
+Einstein's,2026-04-13,12,Validation,88,0,Einstein's|2026-04-13|12,False,True,True
+Einstein's,2026-04-13,13,Validation,88,0,Einstein's|2026-04-13|13,False,True,True
+Einstein's,2026-04-13,14,Validation,25,0,Einstein's|2026-04-13|14,False,True,True
+Einstein's,2026-04-13,15,Validation,33,0,Einstein's|2026-04-13|15,False,True,True
+Einstein's,2026-04-13,16,Validation,23,0,Einstein's|2026-04-13|16,False,True,True
+Einstein's,2026-04-13,17,Validation,18,0,Einstein's|2026-04-13|17,False,True,True
+Einstein's,2026-04-14,7,Validation,6,0,Einstein's|2026-04-14|07,False,True,True
+Einstein's,2026-04-14,8,Validation,46,0,Einstein's|2026-04-14|08,False,True,True
+Einstein's,2026-04-14,9,Validation,83,0,Einstein's|2026-04-14|09,False,True,True
+Einstein's,2026-04-14,10,Validation,73,0,Einstein's|2026-04-14|10,False,True,True
+Einstein's,2026-04-14,11,Validation,68,0,Einstein's|2026-04-14|11,False,True,True
+Einstein's,2026-04-14,12,Validation,94,0,Einstein's|2026-04-14|12,False,True,True
+Einstein's,2026-04-14,13,Validation,48,0,Einstein's|2026-04-14|13,False,True,True
+Einstein's,2026-04-14,14,Validation,54,0,Einstein's|2026-04-14|14,False,True,True
+Einstein's,2026-04-14,15,Validation,42,0,Einstein's|2026-04-14|15,False,True,True
+Einstein's,2026-04-14,16,Validation,49,0,Einstein's|2026-04-14|16,False,True,True
+Einstein's,2026-04-14,17,Validation,11,0,Einstein's|2026-04-14|17,False,True,True
+Einstein's,2026-04-15,7,Validation,7,0,Einstein's|2026-04-15|07,False,True,True
+Einstein's,2026-04-15,8,Validation,42,0,Einstein's|2026-04-15|08,False,True,True
+Einstein's,2026-04-15,9,Validation,87,0,Einstein's|2026-04-15|09,False,True,True
+Einstein's,2026-04-15,10,Validation,108,0,Einstein's|2026-04-15|10,False,True,True
+Einstein's,2026-04-15,11,Validation,79,0,Einstein's|2026-04-15|11,False,True,True
+Einstein's,2026-04-15,12,Validation,76,0,Einstein's|2026-04-15|12,False,True,True
+Einstein's,2026-04-15,13,Validation,71,0,Einstein's|2026-04-15|13,False,True,True
+Einstein's,2026-04-15,14,Validation,62,0,Einstein's|2026-04-15|14,False,True,True
+Einstein's,2026-04-15,15,Validation,44,0,Einstein's|2026-04-15|15,False,True,True
+Einstein's,2026-04-15,16,Validation,34,0,Einstein's|2026-04-15|16,False,True,True
+Einstein's,2026-04-15,17,Validation,5,0,Einstein's|2026-04-15|17,False,True,True
+Einstein's,2026-04-16,7,Validation,3,0,Einstein's|2026-04-16|07,False,True,True
+Einstein's,2026-04-16,8,Validation,36,0,Einstein's|2026-04-16|08,False,True,True
+Einstein's,2026-04-16,9,Validation,65,0,Einstein's|2026-04-16|09,False,True,True
+Einstein's,2026-04-16,10,Validation,79,0,Einstein's|2026-04-16|10,False,True,True
+Einstein's,2026-04-16,11,Validation,71,0,Einstein's|2026-04-16|11,False,True,True
+Einstein's,2026-04-16,12,Validation,118,0,Einstein's|2026-04-16|12,False,True,True
+Einstein's,2026-04-16,13,Validation,71,0,Einstein's|2026-04-16|13,False,True,True
+Einstein's,2026-04-16,14,Validation,30,0,Einstein's|2026-04-16|14,False,True,True
+Einstein's,2026-04-16,15,Validation,43,0,Einstein's|2026-04-16|15,False,True,True
+Einstein's,2026-04-16,16,Validation,52,0,Einstein's|2026-04-16|16,False,True,True
+Einstein's,2026-04-16,17,Validation,13,0,Einstein's|2026-04-16|17,False,True,True
+Einstein's,2026-04-17,7,Validation,6,0,Einstein's|2026-04-17|07,False,True,True
+Einstein's,2026-04-17,8,Validation,26,0,Einstein's|2026-04-17|08,False,True,True
+Einstein's,2026-04-17,9,Validation,25,0,Einstein's|2026-04-17|09,False,True,True
+Einstein's,2026-04-17,10,Validation,29,0,Einstein's|2026-04-17|10,False,True,True
+Einstein's,2026-04-17,11,Validation,67,0,Einstein's|2026-04-17|11,False,True,True
+Einstein's,2026-04-17,12,Validation,53,0,Einstein's|2026-04-17|12,False,True,True
+Einstein's,2026-04-17,13,Validation,39,0,Einstein's|2026-04-17|13,False,True,True
+Einstein's,2026-04-17,14,Validation,6,0,Einstein's|2026-04-17|14,False,True,True
+Einstein's,2026-04-17,15,Validation,27,0,Einstein's|2026-04-17|15,False,True,True
+Einstein's,2026-04-20,7,Validation,11,0,Einstein's|2026-04-20|07,False,True,True
+Einstein's,2026-04-20,8,Validation,29,0,Einstein's|2026-04-20|08,False,True,True
+Einstein's,2026-04-20,9,Validation,70,0,Einstein's|2026-04-20|09,False,True,True
+Einstein's,2026-04-20,10,Validation,87,0,Einstein's|2026-04-20|10,False,True,True
+Einstein's,2026-04-20,11,Validation,83,0,Einstein's|2026-04-20|11,False,True,True
+Einstein's,2026-04-20,12,Validation,78,0,Einstein's|2026-04-20|12,False,True,True
+Einstein's,2026-04-20,13,Validation,72,0,Einstein's|2026-04-20|13,False,True,True
+Einstein's,2026-04-20,14,Validation,26,0,Einstein's|2026-04-20|14,False,True,True
+Einstein's,2026-04-20,15,Validation,38,0,Einstein's|2026-04-20|15,False,True,True
+Einstein's,2026-04-20,16,Validation,20,0,Einstein's|2026-04-20|16,False,True,True
+Einstein's,2026-04-20,17,Validation,20,0,Einstein's|2026-04-20|17,False,True,True
+Einstein's,2026-04-21,7,Validation,4,0,Einstein's|2026-04-21|07,False,True,True
+Einstein's,2026-04-21,8,Validation,93,0,Einstein's|2026-04-21|08,False,True,True
+Einstein's,2026-04-21,9,Validation,84,0,Einstein's|2026-04-21|09,False,True,True
+Einstein's,2026-04-21,10,Validation,114,0,Einstein's|2026-04-21|10,False,True,True
+Einstein's,2026-04-21,11,Validation,69,0,Einstein's|2026-04-21|11,False,True,True
+Einstein's,2026-04-21,12,Validation,112,0,Einstein's|2026-04-21|12,False,True,True
+Einstein's,2026-04-21,13,Validation,79,0,Einstein's|2026-04-21|13,False,True,True
+Einstein's,2026-04-21,14,Validation,63,0,Einstein's|2026-04-21|14,False,True,True
+Einstein's,2026-04-21,15,Validation,52,0,Einstein's|2026-04-21|15,False,True,True
+Einstein's,2026-04-21,16,Validation,19,0,Einstein's|2026-04-21|16,False,True,True
+Einstein's,2026-04-21,17,Validation,15,0,Einstein's|2026-04-21|17,False,True,True
+Einstein's,2026-04-22,7,Validation,22,0,Einstein's|2026-04-22|07,False,True,True
+Einstein's,2026-04-22,8,Validation,10,0,Einstein's|2026-04-22|08,False,True,True
+Einstein's,2026-04-22,9,Validation,45,0,Einstein's|2026-04-22|09,False,True,True
+Einstein's,2026-04-22,10,Validation,113,0,Einstein's|2026-04-22|10,False,True,True
+Einstein's,2026-04-22,11,Validation,81,0,Einstein's|2026-04-22|11,False,True,True
+Einstein's,2026-04-22,12,Validation,71,0,Einstein's|2026-04-22|12,False,True,True
+Einstein's,2026-04-22,13,Validation,81,0,Einstein's|2026-04-22|13,False,True,True
+Einstein's,2026-04-22,14,Validation,33,0,Einstein's|2026-04-22|14,False,True,True
+Einstein's,2026-04-22,15,Validation,48,0,Einstein's|2026-04-22|15,False,True,True
+Einstein's,2026-04-22,16,Validation,52,0,Einstein's|2026-04-22|16,False,True,True
+Einstein's,2026-04-22,17,Validation,8,0,Einstein's|2026-04-22|17,False,True,True
+Einstein's,2026-04-23,7,Validation,16,0,Einstein's|2026-04-23|07,False,True,True
+Einstein's,2026-04-23,8,Validation,17,0,Einstein's|2026-04-23|08,False,True,True
+Einstein's,2026-04-23,9,Validation,55,0,Einstein's|2026-04-23|09,False,True,True
+Einstein's,2026-04-23,10,Validation,44,0,Einstein's|2026-04-23|10,False,True,True
+Einstein's,2026-04-23,11,Validation,51,0,Einstein's|2026-04-23|11,False,True,True
+Einstein's,2026-04-23,12,Validation,99,0,Einstein's|2026-04-23|12,False,True,True
+Einstein's,2026-04-23,13,Validation,56,0,Einstein's|2026-04-23|13,False,True,True
+Einstein's,2026-04-23,14,Validation,38,0,Einstein's|2026-04-23|14,False,True,True
+Einstein's,2026-04-23,15,Validation,49,0,Einstein's|2026-04-23|15,False,True,True
+Einstein's,2026-04-23,16,Validation,19,0,Einstein's|2026-04-23|16,False,True,True
+Einstein's,2026-04-23,17,Validation,7,0,Einstein's|2026-04-23|17,False,True,True
+Einstein's,2026-04-24,7,Validation,9,0,Einstein's|2026-04-24|07,False,True,True
+Einstein's,2026-04-24,8,Validation,28,0,Einstein's|2026-04-24|08,False,True,True
+Einstein's,2026-04-24,9,Validation,25,0,Einstein's|2026-04-24|09,False,True,True
+Einstein's,2026-04-24,10,Validation,31,0,Einstein's|2026-04-24|10,False,True,True
+Einstein's,2026-04-24,11,Validation,49,0,Einstein's|2026-04-24|11,False,True,True
+Einstein's,2026-04-24,12,Validation,30,0,Einstein's|2026-04-24|12,False,True,True
+Einstein's,2026-04-24,13,Validation,41,0,Einstein's|2026-04-24|13,False,True,True
+Einstein's,2026-04-24,14,Validation,48,0,Einstein's|2026-04-24|14,False,True,True
+Einstein's,2026-04-24,15,Validation,23,0,Einstein's|2026-04-24|15,False,True,True
+Einstein's,2026-04-24,16,Validation,3,0,Einstein's|2026-04-24|16,False,True,True
+Einstein's,2026-04-27,7,Validation,9,0,Einstein's|2026-04-27|07,False,True,True
+Einstein's,2026-04-27,8,Validation,37,0,Einstein's|2026-04-27|08,False,True,True
+Einstein's,2026-04-27,9,Validation,63,0,Einstein's|2026-04-27|09,False,True,True
+Einstein's,2026-04-27,10,Validation,98,0,Einstein's|2026-04-27|10,False,True,True
+Einstein's,2026-04-27,11,Validation,76,0,Einstein's|2026-04-27|11,False,True,True
+Einstein's,2026-04-27,12,Validation,79,0,Einstein's|2026-04-27|12,False,True,True
+Einstein's,2026-04-27,13,Validation,104,0,Einstein's|2026-04-27|13,False,True,True
+Einstein's,2026-04-27,14,Validation,26,0,Einstein's|2026-04-27|14,False,True,True
+Einstein's,2026-04-27,15,Validation,57,0,Einstein's|2026-04-27|15,False,True,True
+Einstein's,2026-04-27,16,Validation,18,0,Einstein's|2026-04-27|16,False,True,True
+Einstein's,2026-04-27,17,Validation,16,0,Einstein's|2026-04-27|17,False,True,True
+Einstein's,2026-04-28,7,Validation,10,0,Einstein's|2026-04-28|07,False,True,True
+Einstein's,2026-04-28,8,Validation,36,0,Einstein's|2026-04-28|08,False,True,True
+Einstein's,2026-04-28,9,Validation,82,0,Einstein's|2026-04-28|09,False,True,True
+Einstein's,2026-04-28,10,Validation,91,0,Einstein's|2026-04-28|10,False,True,True
+Einstein's,2026-04-28,11,Validation,74,0,Einstein's|2026-04-28|11,False,True,True
+Einstein's,2026-04-28,12,Validation,104,0,Einstein's|2026-04-28|12,False,True,True
+Einstein's,2026-04-28,13,Validation,82,0,Einstein's|2026-04-28|13,False,True,True
+Einstein's,2026-04-28,14,Validation,30,0,Einstein's|2026-04-28|14,False,True,True
+Einstein's,2026-04-28,15,Validation,42,0,Einstein's|2026-04-28|15,False,True,True
+Einstein's,2026-04-28,16,Validation,23,0,Einstein's|2026-04-28|16,False,True,True
+Einstein's,2026-04-28,17,Validation,13,0,Einstein's|2026-04-28|17,False,True,True
+Einstein's,2026-04-29,7,Validation,12,0,Einstein's|2026-04-29|07,False,True,True
+Einstein's,2026-04-29,8,Validation,35,0,Einstein's|2026-04-29|08,False,True,True
+Einstein's,2026-04-29,9,Validation,72,0,Einstein's|2026-04-29|09,False,True,True
+Einstein's,2026-04-29,10,Validation,69,0,Einstein's|2026-04-29|10,False,True,True
+Einstein's,2026-04-29,11,Validation,71,0,Einstein's|2026-04-29|11,False,True,True
+Einstein's,2026-04-29,12,Validation,77,0,Einstein's|2026-04-29|12,False,True,True
+Einstein's,2026-04-29,13,Validation,77,0,Einstein's|2026-04-29|13,False,True,True
+Einstein's,2026-04-29,14,Validation,35,0,Einstein's|2026-04-29|14,False,True,True
+Einstein's,2026-04-29,15,Validation,83,0,Einstein's|2026-04-29|15,False,True,True
+Einstein's,2026-04-29,16,Validation,39,0,Einstein's|2026-04-29|16,False,True,True
+Einstein's,2026-04-29,17,Validation,9,0,Einstein's|2026-04-29|17,False,True,True
+Einstein's,2026-04-30,7,Validation,15,0,Einstein's|2026-04-30|07,False,True,True
+Einstein's,2026-04-30,8,Validation,28,0,Einstein's|2026-04-30|08,False,True,True
+Einstein's,2026-04-30,9,Validation,57,0,Einstein's|2026-04-30|09,False,True,True
+Einstein's,2026-04-30,10,Validation,90,0,Einstein's|2026-04-30|10,False,True,True
+Einstein's,2026-04-30,11,Validation,71,0,Einstein's|2026-04-30|11,False,True,True
+Einstein's,2026-04-30,12,Validation,123,0,Einstein's|2026-04-30|12,False,True,True
+Einstein's,2026-04-30,13,Validation,73,0,Einstein's|2026-04-30|13,False,True,True
+Einstein's,2026-04-30,14,Validation,80,0,Einstein's|2026-04-30|14,False,True,True
+Einstein's,2026-04-30,15,Validation,60,0,Einstein's|2026-04-30|15,False,True,True
+Einstein's,2026-04-30,16,Validation,32,0,Einstein's|2026-04-30|16,False,True,True
+Einstein's,2026-04-30,17,Validation,15,0,Einstein's|2026-04-30|17,False,True,True
+Einstein's,2026-05-01,7,Test,8,0,Einstein's|2026-05-01|07,False,False,True
+Einstein's,2026-05-01,8,Test,42,0,Einstein's|2026-05-01|08,False,False,True
+Einstein's,2026-05-01,9,Test,51,0,Einstein's|2026-05-01|09,False,False,True
+Einstein's,2026-05-01,10,Test,34,0,Einstein's|2026-05-01|10,False,False,True
+Einstein's,2026-05-01,11,Test,20,0,Einstein's|2026-05-01|11,False,False,True
+Einstein's,2026-05-01,12,Test,38,0,Einstein's|2026-05-01|12,False,False,True
+Einstein's,2026-05-01,13,Test,43,0,Einstein's|2026-05-01|13,False,False,True
+Einstein's,2026-05-01,14,Test,9,0,Einstein's|2026-05-01|14,False,False,True
+Einstein's,2026-05-01,15,Test,27,0,Einstein's|2026-05-01|15,False,False,True
+Einstein's,2026-05-04,7,Test,10,0,Einstein's|2026-05-04|07,False,False,True
+Einstein's,2026-05-04,8,Test,36,0,Einstein's|2026-05-04|08,False,False,True
+Einstein's,2026-05-04,9,Test,65,0,Einstein's|2026-05-04|09,False,False,True
+Einstein's,2026-05-04,10,Test,88,0,Einstein's|2026-05-04|10,False,False,True
+Einstein's,2026-05-04,11,Test,102,0,Einstein's|2026-05-04|11,False,False,True
+Einstein's,2026-05-04,12,Test,82,0,Einstein's|2026-05-04|12,False,False,True
+Einstein's,2026-05-04,13,Test,97,0,Einstein's|2026-05-04|13,False,False,True
+Einstein's,2026-05-04,14,Test,33,0,Einstein's|2026-05-04|14,False,False,True
+Einstein's,2026-05-04,15,Test,63,0,Einstein's|2026-05-04|15,False,False,True
+Einstein's,2026-05-04,16,Test,19,0,Einstein's|2026-05-04|16,False,False,True
+Einstein's,2026-05-04,17,Test,25,0,Einstein's|2026-05-04|17,False,False,True
+Einstein's,2026-05-05,7,Test,6,0,Einstein's|2026-05-05|07,False,False,True
+Einstein's,2026-05-05,8,Test,48,0,Einstein's|2026-05-05|08,False,False,True
+Einstein's,2026-05-05,9,Test,40,0,Einstein's|2026-05-05|09,False,False,True
+Einstein's,2026-05-05,10,Test,116,0,Einstein's|2026-05-05|10,False,False,True
+Einstein's,2026-05-05,11,Test,74,0,Einstein's|2026-05-05|11,False,False,True
+Einstein's,2026-05-05,12,Test,120,0,Einstein's|2026-05-05|12,False,False,True
+Einstein's,2026-05-05,13,Test,38,0,Einstein's|2026-05-05|13,False,False,True
+Einstein's,2026-05-05,14,Test,61,0,Einstein's|2026-05-05|14,False,False,True
+Einstein's,2026-05-05,15,Test,52,0,Einstein's|2026-05-05|15,False,False,True
+Einstein's,2026-05-05,16,Test,29,0,Einstein's|2026-05-05|16,False,False,True
+Einstein's,2026-05-05,17,Test,14,0,Einstein's|2026-05-05|17,False,False,True
+Einstein's,2026-05-06,7,Test,14,0,Einstein's|2026-05-06|07,False,False,True
+Einstein's,2026-05-06,8,Test,42,0,Einstein's|2026-05-06|08,False,False,True
+Einstein's,2026-05-06,9,Test,84,0,Einstein's|2026-05-06|09,False,False,True
+Einstein's,2026-05-06,10,Test,86,0,Einstein's|2026-05-06|10,False,False,True
+Einstein's,2026-05-06,11,Test,97,0,Einstein's|2026-05-06|11,False,False,True
+Einstein's,2026-05-06,12,Test,100,0,Einstein's|2026-05-06|12,False,False,True
+Einstein's,2026-05-06,13,Test,79,0,Einstein's|2026-05-06|13,False,False,True
+Einstein's,2026-05-06,14,Test,62,0,Einstein's|2026-05-06|14,False,False,True
+Einstein's,2026-05-06,15,Test,51,0,Einstein's|2026-05-06|15,False,False,True
+Einstein's,2026-05-06,16,Test,35,0,Einstein's|2026-05-06|16,False,False,True
+Einstein's,2026-05-06,17,Test,12,0,Einstein's|2026-05-06|17,False,False,True
+Einstein's,2026-05-07,7,Test,20,0,Einstein's|2026-05-07|07,False,False,True
+Einstein's,2026-05-07,8,Test,36,0,Einstein's|2026-05-07|08,False,False,True
+Einstein's,2026-05-07,9,Test,75,0,Einstein's|2026-05-07|09,False,False,True
+Einstein's,2026-05-07,10,Test,72,0,Einstein's|2026-05-07|10,False,False,True
+Einstein's,2026-05-07,11,Test,74,0,Einstein's|2026-05-07|11,False,False,True
+Einstein's,2026-05-07,12,Test,79,0,Einstein's|2026-05-07|12,False,False,True
+Einstein's,2026-05-07,13,Test,57,0,Einstein's|2026-05-07|13,False,False,True
+Einstein's,2026-05-07,14,Test,69,0,Einstein's|2026-05-07|14,False,False,True
+Einstein's,2026-05-07,15,Test,40,0,Einstein's|2026-05-07|15,False,False,True
+Einstein's,2026-05-07,16,Test,21,0,Einstein's|2026-05-07|16,False,False,True
+Einstein's,2026-05-07,17,Test,7,0,Einstein's|2026-05-07|17,False,False,True
+Einstein's,2026-05-08,8,Test,40,0,Einstein's|2026-05-08|08,False,False,True
+Einstein's,2026-05-08,9,Test,28,0,Einstein's|2026-05-08|09,False,False,True
+Einstein's,2026-05-08,10,Test,35,0,Einstein's|2026-05-08|10,False,False,True
+Einstein's,2026-05-08,11,Test,51,0,Einstein's|2026-05-08|11,False,False,True
+Einstein's,2026-05-08,12,Test,56,0,Einstein's|2026-05-08|12,False,False,True
+Einstein's,2026-05-08,13,Test,28,0,Einstein's|2026-05-08|13,False,False,True
+Einstein's,2026-05-08,14,Test,11,0,Einstein's|2026-05-08|14,False,False,True
+Einstein's,2026-05-08,15,Test,40,0,Einstein's|2026-05-08|15,False,False,True
+Einstein's,2026-05-11,7,Test,11,0,Einstein's|2026-05-11|07,False,False,True
+Einstein's,2026-05-11,8,Test,20,0,Einstein's|2026-05-11|08,False,False,True
+Einstein's,2026-05-11,9,Test,49,0,Einstein's|2026-05-11|09,False,False,True
+Einstein's,2026-05-11,10,Test,49,0,Einstein's|2026-05-11|10,False,False,True
+Einstein's,2026-05-11,11,Test,52,0,Einstein's|2026-05-11|11,False,False,True
+Einstein's,2026-05-11,12,Test,63,0,Einstein's|2026-05-11|12,False,False,True
+Einstein's,2026-05-11,13,Test,36,0,Einstein's|2026-05-11|13,False,False,True
+Einstein's,2026-05-11,14,Test,42,0,Einstein's|2026-05-11|14,False,False,True
+Einstein's,2026-05-11,15,Test,31,0,Einstein's|2026-05-11|15,False,False,True
+Einstein's,2026-05-11,16,Test,38,0,Einstein's|2026-05-11|16,False,False,True
+Einstein's,2026-05-11,17,Test,26,0,Einstein's|2026-05-11|17,False,False,True
+Einstein's,2026-05-12,7,Test,25,0,Einstein's|2026-05-12|07,False,False,True
+Einstein's,2026-05-12,8,Test,23,0,Einstein's|2026-05-12|08,False,False,True
+Einstein's,2026-05-12,9,Test,69,0,Einstein's|2026-05-12|09,False,False,True
+Einstein's,2026-05-12,10,Test,50,0,Einstein's|2026-05-12|10,False,False,True
+Einstein's,2026-05-12,11,Test,46,0,Einstein's|2026-05-12|11,False,False,True
+Einstein's,2026-05-12,12,Test,82,0,Einstein's|2026-05-12|12,False,False,True
+Einstein's,2026-05-12,13,Test,64,0,Einstein's|2026-05-12|13,False,False,True
+Einstein's,2026-05-12,14,Test,36,0,Einstein's|2026-05-12|14,False,False,True
+Einstein's,2026-05-12,15,Test,18,0,Einstein's|2026-05-12|15,False,False,True
+Einstein's,2026-05-12,16,Test,33,0,Einstein's|2026-05-12|16,False,False,True
+Einstein's,2026-05-12,17,Test,14,0,Einstein's|2026-05-12|17,False,False,True
+Einstein's,2026-05-13,7,Test,21,0,Einstein's|2026-05-13|07,False,False,True
+Einstein's,2026-05-13,8,Test,18,0,Einstein's|2026-05-13|08,False,False,True
+Einstein's,2026-05-13,9,Test,36,0,Einstein's|2026-05-13|09,False,False,True
+Einstein's,2026-05-13,10,Test,54,0,Einstein's|2026-05-13|10,False,False,True
+Einstein's,2026-05-13,11,Test,54,0,Einstein's|2026-05-13|11,False,False,True
+Einstein's,2026-05-13,12,Test,60,0,Einstein's|2026-05-13|12,False,False,True
+Einstein's,2026-05-13,13,Test,50,0,Einstein's|2026-05-13|13,False,False,True
+Einstein's,2026-05-13,14,Test,47,0,Einstein's|2026-05-13|14,False,False,True
+Einstein's,2026-05-13,15,Test,31,0,Einstein's|2026-05-13|15,False,False,True
+Einstein's,2026-05-13,16,Test,63,0,Einstein's|2026-05-13|16,False,False,True
+Einstein's,2026-05-13,17,Test,32,0,Einstein's|2026-05-13|17,False,False,True
+Einstein's,2026-05-14,7,Test,7,0,Einstein's|2026-05-14|07,False,False,True
+Einstein's,2026-05-14,8,Test,20,0,Einstein's|2026-05-14|08,False,False,True
+Einstein's,2026-05-14,9,Test,57,0,Einstein's|2026-05-14|09,False,False,True
+Einstein's,2026-05-14,10,Test,44,0,Einstein's|2026-05-14|10,False,False,True
+Einstein's,2026-05-14,11,Test,39,0,Einstein's|2026-05-14|11,False,False,True
+Einstein's,2026-05-14,12,Test,62,0,Einstein's|2026-05-14|12,False,False,True
+Einstein's,2026-05-14,13,Test,47,0,Einstein's|2026-05-14|13,False,False,True
+Einstein's,2026-05-14,14,Test,46,0,Einstein's|2026-05-14|14,False,False,True
+Einstein's,2026-05-14,15,Test,55,0,Einstein's|2026-05-14|15,False,False,True
+Einstein's,2026-05-14,16,Test,38,0,Einstein's|2026-05-14|16,False,False,True
+Einstein's,2026-05-14,17,Test,9,0,Einstein's|2026-05-14|17,False,False,True
+Einstein's,2026-05-15,7,Test,3,0,Einstein's|2026-05-15|07,False,False,True
+Einstein's,2026-05-15,8,Test,20,0,Einstein's|2026-05-15|08,False,False,True
+Einstein's,2026-05-15,9,Test,44,0,Einstein's|2026-05-15|09,False,False,True
+Einstein's,2026-05-15,10,Test,70,0,Einstein's|2026-05-15|10,False,False,True
+Einstein's,2026-05-15,11,Test,72,0,Einstein's|2026-05-15|11,False,False,True
+Einstein's,2026-05-15,12,Test,59,0,Einstein's|2026-05-15|12,False,False,True
+Einstein's,2026-05-15,13,Test,40,0,Einstein's|2026-05-15|13,False,False,True
+Einstein's,2026-05-15,14,Test,4,0,Einstein's|2026-05-15|14,False,False,True
+Einstein's,2026-05-18,8,Test,24,0,Einstein's|2026-05-18|08,False,False,True
+Einstein's,2026-05-18,9,Test,18,0,Einstein's|2026-05-18|09,False,False,True
+Einstein's,2026-05-18,10,Test,17,0,Einstein's|2026-05-18|10,False,False,True
+Einstein's,2026-05-18,11,Test,21,0,Einstein's|2026-05-18|11,False,False,True
+Einstein's,2026-05-18,12,Test,29,0,Einstein's|2026-05-18|12,False,False,True
+Einstein's,2026-05-18,13,Test,20,0,Einstein's|2026-05-18|13,False,False,True
+Einstein's,2026-05-18,14,Test,6,0,Einstein's|2026-05-18|14,False,False,True
+Einstein's,2026-05-18,15,Test,8,0,Einstein's|2026-05-18|15,False,False,True
+Einstein's,2026-05-19,8,Test,9,0,Einstein's|2026-05-19|08,False,False,True
+Einstein's,2026-05-19,9,Test,7,0,Einstein's|2026-05-19|09,False,False,True
+Einstein's,2026-05-19,10,Test,15,0,Einstein's|2026-05-19|10,False,False,True
+Einstein's,2026-05-19,11,Test,11,0,Einstein's|2026-05-19|11,False,False,True
+Einstein's,2026-05-19,12,Test,49,0,Einstein's|2026-05-19|12,False,False,True
+Einstein's,2026-05-19,13,Test,10,0,Einstein's|2026-05-19|13,False,False,True
+Einstein's,2026-05-19,14,Test,13,0,Einstein's|2026-05-19|14,False,False,True
+Einstein's,2026-05-19,15,Test,6,0,Einstein's|2026-05-19|15,False,False,True
+Einstein's,2026-05-20,8,Test,18,0,Einstein's|2026-05-20|08,False,False,True
+Einstein's,2026-05-20,9,Test,17,0,Einstein's|2026-05-20|09,False,False,True
+Einstein's,2026-05-20,10,Test,7,0,Einstein's|2026-05-20|10,False,False,True
+Einstein's,2026-05-20,11,Test,23,0,Einstein's|2026-05-20|11,False,False,True
+Einstein's,2026-05-20,12,Test,27,0,Einstein's|2026-05-20|12,False,False,True
+Einstein's,2026-05-20,13,Test,21,0,Einstein's|2026-05-20|13,False,False,True
+Einstein's,2026-05-20,14,Test,11,0,Einstein's|2026-05-20|14,False,False,True
+Einstein's,2026-05-20,15,Test,7,0,Einstein's|2026-05-20|15,False,False,True
+Einstein's,2026-05-21,8,Test,12,0,Einstein's|2026-05-21|08,False,False,True
+Einstein's,2026-05-21,9,Test,25,0,Einstein's|2026-05-21|09,False,False,True
+Einstein's,2026-05-21,10,Test,13,0,Einstein's|2026-05-21|10,False,False,True
+Einstein's,2026-05-21,11,Test,9,0,Einstein's|2026-05-21|11,False,False,True
+Einstein's,2026-05-21,12,Test,16,0,Einstein's|2026-05-21|12,False,False,True
+Einstein's,2026-05-21,13,Test,7,0,Einstein's|2026-05-21|13,False,False,True
+Einstein's,2026-05-21,14,Test,5,0,Einstein's|2026-05-21|14,False,False,True
+Einstein's,2026-05-21,15,Test,10,0,Einstein's|2026-05-21|15,False,False,True
+Einstein's,2026-05-21,16,Test,1,0,Einstein's|2026-05-21|16,False,False,True
+Einstein's,2026-05-26,8,Test,5,0,Einstein's|2026-05-26|08,False,False,True
+Einstein's,2026-05-26,9,Test,12,0,Einstein's|2026-05-26|09,False,False,True
+Einstein's,2026-05-26,10,Test,15,0,Einstein's|2026-05-26|10,False,False,True
+Einstein's,2026-05-26,11,Test,21,0,Einstein's|2026-05-26|11,False,False,True
+Einstein's,2026-05-26,12,Test,23,0,Einstein's|2026-05-26|12,False,False,True
+Einstein's,2026-05-26,13,Test,26,0,Einstein's|2026-05-26|13,False,False,True
+Einstein's,2026-05-26,14,Test,4,0,Einstein's|2026-05-26|14,False,False,True
+Einstein's,2026-05-26,15,Test,5,0,Einstein's|2026-05-26|15,False,False,True
+Einstein's,2026-05-26,16,Test,2,0,Einstein's|2026-05-26|16,False,False,True
+Einstein's,2026-05-27,8,Test,15,0,Einstein's|2026-05-27|08,False,False,True
+Einstein's,2026-05-27,9,Test,35,0,Einstein's|2026-05-27|09,False,False,True
+Einstein's,2026-05-27,10,Test,6,0,Einstein's|2026-05-27|10,False,False,True
+Einstein's,2026-05-27,11,Test,27,0,Einstein's|2026-05-27|11,False,False,True
+Einstein's,2026-05-27,12,Test,23,0,Einstein's|2026-05-27|12,False,False,True
+Einstein's,2026-05-27,13,Test,15,0,Einstein's|2026-05-27|13,False,False,True
+Einstein's,2026-05-27,14,Test,10,0,Einstein's|2026-05-27|14,False,False,True
+Einstein's,2026-05-27,15,Test,16,0,Einstein's|2026-05-27|15,False,False,True
+Einstein's,2026-05-27,16,Test,7,0,Einstein's|2026-05-27|16,False,False,True
+Einstein's,2026-05-28,8,Test,23,0,Einstein's|2026-05-28|08,False,False,True
+Einstein's,2026-05-28,9,Test,11,0,Einstein's|2026-05-28|09,False,False,True
+Einstein's,2026-05-28,10,Test,22,0,Einstein's|2026-05-28|10,False,False,True
+Einstein's,2026-05-28,11,Test,17,0,Einstein's|2026-05-28|11,False,False,True
+Einstein's,2026-05-28,12,Test,36,0,Einstein's|2026-05-28|12,False,False,True
+Einstein's,2026-05-28,13,Test,17,0,Einstein's|2026-05-28|13,False,False,True
+Einstein's,2026-05-28,14,Test,10,0,Einstein's|2026-05-28|14,False,False,True
+Einstein's,2026-05-28,15,Test,2,0,Einstein's|2026-05-28|15,False,False,True
+Einstein's,2026-05-28,16,Test,8,0,Einstein's|2026-05-28|16,False,False,True
+Panda Express,2026-01-19,8,Train,1,0,Panda Express|2026-01-19|08,True,True,False
+Panda Express,2026-01-20,11,Train,58,0,Panda Express|2026-01-20|11,True,True,False
+Panda Express,2026-01-20,12,Train,88,0,Panda Express|2026-01-20|12,True,True,False
+Panda Express,2026-01-20,13,Train,45,0,Panda Express|2026-01-20|13,True,True,False
+Panda Express,2026-01-20,14,Train,26,0,Panda Express|2026-01-20|14,True,True,False
+Panda Express,2026-01-20,15,Train,42,0,Panda Express|2026-01-20|15,True,True,False
+Panda Express,2026-01-21,11,Train,70,0,Panda Express|2026-01-21|11,True,True,False
+Panda Express,2026-01-21,12,Train,77,0,Panda Express|2026-01-21|12,True,True,False
+Panda Express,2026-01-21,13,Train,73,0,Panda Express|2026-01-21|13,True,True,False
+Panda Express,2026-01-21,14,Train,51,0,Panda Express|2026-01-21|14,True,True,False
+Panda Express,2026-01-21,15,Train,31,0,Panda Express|2026-01-21|15,True,True,False
+Panda Express,2026-01-22,10,Train,3,0,Panda Express|2026-01-22|10,True,True,False
+Panda Express,2026-01-22,11,Train,55,0,Panda Express|2026-01-22|11,True,True,False
+Panda Express,2026-01-22,12,Train,101,0,Panda Express|2026-01-22|12,True,True,False
+Panda Express,2026-01-22,13,Train,34,0,Panda Express|2026-01-22|13,True,True,False
+Panda Express,2026-01-22,14,Train,43,0,Panda Express|2026-01-22|14,True,True,False
+Panda Express,2026-01-22,15,Train,19,0,Panda Express|2026-01-22|15,True,True,False
+Panda Express,2026-01-23,11,Train,11,0,Panda Express|2026-01-23|11,True,True,False
+Panda Express,2026-01-23,12,Train,33,0,Panda Express|2026-01-23|12,True,True,False
+Panda Express,2026-01-23,13,Train,22,0,Panda Express|2026-01-23|13,True,True,False
+Panda Express,2026-01-26,11,Train,63,0,Panda Express|2026-01-26|11,True,True,False
+Panda Express,2026-01-26,12,Train,115,0,Panda Express|2026-01-26|12,True,True,False
+Panda Express,2026-01-26,13,Train,99,0,Panda Express|2026-01-26|13,True,True,False
+Panda Express,2026-01-26,14,Train,41,0,Panda Express|2026-01-26|14,True,True,False
+Panda Express,2026-01-26,15,Train,28,0,Panda Express|2026-01-26|15,True,True,False
+Panda Express,2026-01-27,10,Train,4,0,Panda Express|2026-01-27|10,True,True,False
+Panda Express,2026-01-27,11,Train,58,0,Panda Express|2026-01-27|11,True,True,False
+Panda Express,2026-01-27,12,Train,122,0,Panda Express|2026-01-27|12,True,True,False
+Panda Express,2026-01-27,13,Train,49,0,Panda Express|2026-01-27|13,True,True,False
+Panda Express,2026-01-27,14,Train,52,0,Panda Express|2026-01-27|14,True,True,False
+Panda Express,2026-01-27,15,Train,18,0,Panda Express|2026-01-27|15,True,True,False
+Panda Express,2026-01-28,10,Train,3,0,Panda Express|2026-01-28|10,True,True,False
+Panda Express,2026-01-28,11,Train,49,0,Panda Express|2026-01-28|11,True,True,False
+Panda Express,2026-01-28,12,Train,103,0,Panda Express|2026-01-28|12,True,True,False
+Panda Express,2026-01-28,13,Train,55,0,Panda Express|2026-01-28|13,True,True,False
+Panda Express,2026-01-28,14,Train,32,0,Panda Express|2026-01-28|14,True,True,False
+Panda Express,2026-01-28,15,Train,25,0,Panda Express|2026-01-28|15,True,True,False
+Panda Express,2026-01-29,10,Train,7,0,Panda Express|2026-01-29|10,True,True,False
+Panda Express,2026-01-29,11,Train,31,0,Panda Express|2026-01-29|11,True,True,False
+Panda Express,2026-01-29,12,Train,110,0,Panda Express|2026-01-29|12,True,True,False
+Panda Express,2026-01-29,13,Train,55,0,Panda Express|2026-01-29|13,True,True,False
+Panda Express,2026-01-29,14,Train,43,0,Panda Express|2026-01-29|14,True,True,False
+Panda Express,2026-01-29,15,Train,23,0,Panda Express|2026-01-29|15,True,True,False
+Panda Express,2026-01-30,11,Train,22,0,Panda Express|2026-01-30|11,True,True,False
+Panda Express,2026-01-30,12,Train,38,0,Panda Express|2026-01-30|12,True,True,False
+Panda Express,2026-01-30,13,Train,23,0,Panda Express|2026-01-30|13,True,True,False
+Panda Express,2026-01-30,14,Train,2,0,Panda Express|2026-01-30|14,True,True,False
+Panda Express,2026-02-02,11,Train,56,0,Panda Express|2026-02-02|11,True,True,False
+Panda Express,2026-02-02,12,Train,79,0,Panda Express|2026-02-02|12,True,True,False
+Panda Express,2026-02-02,13,Train,79,0,Panda Express|2026-02-02|13,True,True,False
+Panda Express,2026-02-02,14,Train,41,0,Panda Express|2026-02-02|14,True,True,False
+Panda Express,2026-02-02,15,Train,39,0,Panda Express|2026-02-02|15,True,True,False
+Panda Express,2026-02-02,16,Train,2,0,Panda Express|2026-02-02|16,True,True,False
+Panda Express,2026-02-03,10,Train,3,0,Panda Express|2026-02-03|10,True,True,False
+Panda Express,2026-02-03,11,Train,68,0,Panda Express|2026-02-03|11,True,True,False
+Panda Express,2026-02-03,12,Train,91,0,Panda Express|2026-02-03|12,True,True,False
+Panda Express,2026-02-03,13,Train,37,0,Panda Express|2026-02-03|13,True,True,False
+Panda Express,2026-02-03,14,Train,52,0,Panda Express|2026-02-03|14,True,True,False
+Panda Express,2026-02-03,15,Train,36,0,Panda Express|2026-02-03|15,True,True,False
+Panda Express,2026-02-04,11,Train,55,0,Panda Express|2026-02-04|11,True,True,False
+Panda Express,2026-02-04,12,Train,72,0,Panda Express|2026-02-04|12,True,True,False
+Panda Express,2026-02-04,13,Train,64,0,Panda Express|2026-02-04|13,True,True,False
+Panda Express,2026-02-04,14,Train,26,0,Panda Express|2026-02-04|14,True,True,False
+Panda Express,2026-02-04,15,Train,34,0,Panda Express|2026-02-04|15,True,True,False
+Panda Express,2026-02-05,10,Train,6,0,Panda Express|2026-02-05|10,True,True,False
+Panda Express,2026-02-05,11,Train,34,0,Panda Express|2026-02-05|11,True,True,False
+Panda Express,2026-02-05,12,Train,96,0,Panda Express|2026-02-05|12,True,True,False
+Panda Express,2026-02-05,13,Train,37,0,Panda Express|2026-02-05|13,True,True,False
+Panda Express,2026-02-05,14,Train,48,0,Panda Express|2026-02-05|14,True,True,False
+Panda Express,2026-02-05,15,Train,22,0,Panda Express|2026-02-05|15,True,True,False
+Panda Express,2026-02-06,10,Train,5,0,Panda Express|2026-02-06|10,True,True,False
+Panda Express,2026-02-06,11,Train,25,0,Panda Express|2026-02-06|11,True,True,False
+Panda Express,2026-02-06,12,Train,19,0,Panda Express|2026-02-06|12,True,True,False
+Panda Express,2026-02-06,13,Train,31,0,Panda Express|2026-02-06|13,True,True,False
+Panda Express,2026-02-09,11,Train,62,0,Panda Express|2026-02-09|11,True,True,False
+Panda Express,2026-02-09,12,Train,65,0,Panda Express|2026-02-09|12,True,True,False
+Panda Express,2026-02-09,13,Train,60,0,Panda Express|2026-02-09|13,True,True,False
+Panda Express,2026-02-09,14,Train,43,0,Panda Express|2026-02-09|14,True,True,False
+Panda Express,2026-02-09,15,Train,35,0,Panda Express|2026-02-09|15,True,True,False
+Panda Express,2026-02-09,16,Train,1,0,Panda Express|2026-02-09|16,True,True,False
+Panda Express,2026-02-10,11,Train,54,0,Panda Express|2026-02-10|11,True,True,False
+Panda Express,2026-02-10,12,Train,97,0,Panda Express|2026-02-10|12,True,True,False
+Panda Express,2026-02-10,13,Train,31,0,Panda Express|2026-02-10|13,True,True,False
+Panda Express,2026-02-10,14,Train,26,0,Panda Express|2026-02-10|14,True,True,False
+Panda Express,2026-02-10,15,Train,34,0,Panda Express|2026-02-10|15,True,True,False
+Panda Express,2026-02-10,16,Train,3,0,Panda Express|2026-02-10|16,True,True,False
+Panda Express,2026-02-11,10,Train,1,0,Panda Express|2026-02-11|10,True,True,False
+Panda Express,2026-02-11,11,Train,53,0,Panda Express|2026-02-11|11,True,True,False
+Panda Express,2026-02-11,12,Train,69,0,Panda Express|2026-02-11|12,True,True,False
+Panda Express,2026-02-11,13,Train,62,0,Panda Express|2026-02-11|13,True,True,False
+Panda Express,2026-02-11,14,Train,31,0,Panda Express|2026-02-11|14,True,True,False
+Panda Express,2026-02-11,15,Train,29,0,Panda Express|2026-02-11|15,True,True,False
+Panda Express,2026-02-11,16,Train,4,0,Panda Express|2026-02-11|16,True,True,False
+Panda Express,2026-02-12,10,Train,3,0,Panda Express|2026-02-12|10,True,True,False
+Panda Express,2026-02-12,11,Train,43,0,Panda Express|2026-02-12|11,True,True,False
+Panda Express,2026-02-12,12,Train,99,0,Panda Express|2026-02-12|12,True,True,False
+Panda Express,2026-02-12,13,Train,44,0,Panda Express|2026-02-12|13,True,True,False
+Panda Express,2026-02-12,14,Train,34,0,Panda Express|2026-02-12|14,True,True,False
+Panda Express,2026-02-12,15,Train,19,0,Panda Express|2026-02-12|15,True,True,False
+Panda Express,2026-02-12,16,Train,1,0,Panda Express|2026-02-12|16,True,True,False
+Panda Express,2026-02-13,10,Train,2,0,Panda Express|2026-02-13|10,True,True,False
+Panda Express,2026-02-13,11,Train,16,0,Panda Express|2026-02-13|11,True,True,False
+Panda Express,2026-02-13,12,Train,26,0,Panda Express|2026-02-13|12,True,True,False
+Panda Express,2026-02-13,13,Train,20,0,Panda Express|2026-02-13|13,True,True,False
+Panda Express,2026-02-16,11,Train,54,0,Panda Express|2026-02-16|11,True,True,False
+Panda Express,2026-02-16,12,Train,65,0,Panda Express|2026-02-16|12,True,True,False
+Panda Express,2026-02-16,13,Train,53,0,Panda Express|2026-02-16|13,True,True,False
+Panda Express,2026-02-16,14,Train,22,0,Panda Express|2026-02-16|14,True,True,False
+Panda Express,2026-02-16,15,Train,21,0,Panda Express|2026-02-16|15,True,True,False
+Panda Express,2026-02-16,16,Train,2,0,Panda Express|2026-02-16|16,True,True,False
+Panda Express,2026-02-17,11,Train,52,0,Panda Express|2026-02-17|11,True,True,False
+Panda Express,2026-02-17,12,Train,90,0,Panda Express|2026-02-17|12,True,True,False
+Panda Express,2026-02-17,13,Train,43,0,Panda Express|2026-02-17|13,True,True,False
+Panda Express,2026-02-17,14,Train,26,0,Panda Express|2026-02-17|14,True,True,False
+Panda Express,2026-02-17,15,Train,36,0,Panda Express|2026-02-17|15,True,True,False
+Panda Express,2026-02-18,11,Train,67,0,Panda Express|2026-02-18|11,True,True,False
+Panda Express,2026-02-18,12,Train,62,0,Panda Express|2026-02-18|12,True,True,False
+Panda Express,2026-02-18,13,Train,60,0,Panda Express|2026-02-18|13,True,True,False
+Panda Express,2026-02-18,14,Train,33,0,Panda Express|2026-02-18|14,True,True,False
+Panda Express,2026-02-18,15,Train,19,0,Panda Express|2026-02-18|15,True,True,False
+Panda Express,2026-02-19,10,Train,1,0,Panda Express|2026-02-19|10,True,True,False
+Panda Express,2026-02-19,11,Train,54,0,Panda Express|2026-02-19|11,True,True,False
+Panda Express,2026-02-19,12,Train,128,0,Panda Express|2026-02-19|12,True,True,False
+Panda Express,2026-02-19,13,Train,36,0,Panda Express|2026-02-19|13,True,True,False
+Panda Express,2026-02-19,14,Train,31,0,Panda Express|2026-02-19|14,True,True,False
+Panda Express,2026-02-19,15,Train,34,0,Panda Express|2026-02-19|15,True,True,False
+Panda Express,2026-02-20,11,Train,41,0,Panda Express|2026-02-20|11,True,True,False
+Panda Express,2026-02-20,12,Train,63,0,Panda Express|2026-02-20|12,True,True,False
+Panda Express,2026-02-20,13,Train,34,0,Panda Express|2026-02-20|13,True,True,False
+Panda Express,2026-02-20,14,Train,2,0,Panda Express|2026-02-20|14,True,True,False
+Panda Express,2026-02-23,11,Train,82,0,Panda Express|2026-02-23|11,True,True,False
+Panda Express,2026-02-23,12,Train,100,0,Panda Express|2026-02-23|12,True,True,False
+Panda Express,2026-02-23,13,Train,62,0,Panda Express|2026-02-23|13,True,True,False
+Panda Express,2026-02-23,14,Train,32,0,Panda Express|2026-02-23|14,True,True,False
+Panda Express,2026-02-23,15,Train,21,0,Panda Express|2026-02-23|15,True,True,False
+Panda Express,2026-02-24,11,Train,49,0,Panda Express|2026-02-24|11,True,True,False
+Panda Express,2026-02-24,12,Train,75,0,Panda Express|2026-02-24|12,True,True,False
+Panda Express,2026-02-24,13,Train,24,0,Panda Express|2026-02-24|13,True,True,False
+Panda Express,2026-02-24,14,Train,36,0,Panda Express|2026-02-24|14,True,True,False
+Panda Express,2026-02-24,15,Train,29,0,Panda Express|2026-02-24|15,True,True,False
+Panda Express,2026-02-25,11,Train,43,0,Panda Express|2026-02-25|11,True,True,False
+Panda Express,2026-02-25,12,Train,87,0,Panda Express|2026-02-25|12,True,True,False
+Panda Express,2026-02-25,13,Train,45,0,Panda Express|2026-02-25|13,True,True,False
+Panda Express,2026-02-25,14,Train,35,0,Panda Express|2026-02-25|14,True,True,False
+Panda Express,2026-02-25,15,Train,32,0,Panda Express|2026-02-25|15,True,True,False
+Panda Express,2026-02-26,11,Train,46,0,Panda Express|2026-02-26|11,True,True,False
+Panda Express,2026-02-26,12,Train,79,0,Panda Express|2026-02-26|12,True,True,False
+Panda Express,2026-02-26,13,Train,61,0,Panda Express|2026-02-26|13,True,True,False
+Panda Express,2026-02-26,14,Train,50,0,Panda Express|2026-02-26|14,True,True,False
+Panda Express,2026-02-26,15,Train,23,0,Panda Express|2026-02-26|15,True,True,False
+Panda Express,2026-02-27,11,Train,46,0,Panda Express|2026-02-27|11,True,True,False
+Panda Express,2026-02-27,12,Train,85,0,Panda Express|2026-02-27|12,True,True,False
+Panda Express,2026-02-27,13,Train,22,0,Panda Express|2026-02-27|13,True,True,False
+Panda Express,2026-03-02,11,Validation,77,0,Panda Express|2026-03-02|11,False,True,True
+Panda Express,2026-03-02,12,Validation,126,0,Panda Express|2026-03-02|12,False,True,True
+Panda Express,2026-03-02,13,Validation,49,0,Panda Express|2026-03-02|13,False,True,True
+Panda Express,2026-03-02,14,Validation,27,0,Panda Express|2026-03-02|14,False,True,True
+Panda Express,2026-03-02,15,Validation,43,0,Panda Express|2026-03-02|15,False,True,True
+Panda Express,2026-03-03,11,Validation,97,0,Panda Express|2026-03-03|11,False,True,True
+Panda Express,2026-03-03,12,Validation,99,0,Panda Express|2026-03-03|12,False,True,True
+Panda Express,2026-03-03,13,Validation,36,0,Panda Express|2026-03-03|13,False,True,True
+Panda Express,2026-03-03,14,Validation,32,0,Panda Express|2026-03-03|14,False,True,True
+Panda Express,2026-03-03,15,Validation,23,0,Panda Express|2026-03-03|15,False,True,True
+Panda Express,2026-03-04,11,Validation,76,0,Panda Express|2026-03-04|11,False,True,True
+Panda Express,2026-03-04,12,Validation,77,0,Panda Express|2026-03-04|12,False,True,True
+Panda Express,2026-03-04,13,Validation,66,0,Panda Express|2026-03-04|13,False,True,True
+Panda Express,2026-03-04,14,Validation,29,0,Panda Express|2026-03-04|14,False,True,True
+Panda Express,2026-03-04,15,Validation,45,0,Panda Express|2026-03-04|15,False,True,True
+Panda Express,2026-03-05,11,Validation,34,0,Panda Express|2026-03-05|11,False,True,True
+Panda Express,2026-03-05,12,Validation,103,0,Panda Express|2026-03-05|12,False,True,True
+Panda Express,2026-03-05,13,Validation,46,0,Panda Express|2026-03-05|13,False,True,True
+Panda Express,2026-03-05,14,Validation,63,0,Panda Express|2026-03-05|14,False,True,True
+Panda Express,2026-03-05,15,Validation,17,0,Panda Express|2026-03-05|15,False,True,True
+Panda Express,2026-03-06,10,Validation,1,0,Panda Express|2026-03-06|10,False,True,True
+Panda Express,2026-03-06,11,Validation,27,0,Panda Express|2026-03-06|11,False,True,True
+Panda Express,2026-03-06,12,Validation,42,0,Panda Express|2026-03-06|12,False,True,True
+Panda Express,2026-03-06,13,Validation,23,0,Panda Express|2026-03-06|13,False,True,True
+Panda Express,2026-03-06,14,Validation,3,0,Panda Express|2026-03-06|14,False,True,True
+Panda Express,2026-03-09,11,Validation,51,0,Panda Express|2026-03-09|11,False,True,True
+Panda Express,2026-03-09,12,Validation,61,0,Panda Express|2026-03-09|12,False,True,True
+Panda Express,2026-03-09,13,Validation,78,0,Panda Express|2026-03-09|13,False,True,True
+Panda Express,2026-03-09,14,Validation,38,0,Panda Express|2026-03-09|14,False,True,True
+Panda Express,2026-03-09,15,Validation,32,0,Panda Express|2026-03-09|15,False,True,True
+Panda Express,2026-03-09,16,Validation,2,0,Panda Express|2026-03-09|16,False,True,True
+Panda Express,2026-03-10,10,Validation,1,0,Panda Express|2026-03-10|10,False,True,True
+Panda Express,2026-03-10,11,Validation,46,0,Panda Express|2026-03-10|11,False,True,True
+Panda Express,2026-03-10,12,Validation,93,0,Panda Express|2026-03-10|12,False,True,True
+Panda Express,2026-03-10,13,Validation,38,0,Panda Express|2026-03-10|13,False,True,True
+Panda Express,2026-03-10,14,Validation,28,0,Panda Express|2026-03-10|14,False,True,True
+Panda Express,2026-03-10,15,Validation,38,0,Panda Express|2026-03-10|15,False,True,True
+Panda Express,2026-03-11,11,Validation,68,0,Panda Express|2026-03-11|11,False,True,True
+Panda Express,2026-03-11,12,Validation,61,0,Panda Express|2026-03-11|12,False,True,True
+Panda Express,2026-03-11,13,Validation,73,0,Panda Express|2026-03-11|13,False,True,True
+Panda Express,2026-03-11,14,Validation,31,0,Panda Express|2026-03-11|14,False,True,True
+Panda Express,2026-03-11,15,Validation,27,0,Panda Express|2026-03-11|15,False,True,True
+Panda Express,2026-03-11,16,Validation,1,0,Panda Express|2026-03-11|16,False,True,True
+Panda Express,2026-03-12,11,Validation,57,0,Panda Express|2026-03-12|11,False,True,True
+Panda Express,2026-03-12,12,Validation,126,0,Panda Express|2026-03-12|12,False,True,True
+Panda Express,2026-03-12,13,Validation,76,0,Panda Express|2026-03-12|13,False,True,True
+Panda Express,2026-03-12,14,Validation,46,0,Panda Express|2026-03-12|14,False,True,True
+Panda Express,2026-03-12,15,Validation,19,0,Panda Express|2026-03-12|15,False,True,True
+Panda Express,2026-03-13,11,Validation,17,0,Panda Express|2026-03-13|11,False,True,True
+Panda Express,2026-03-13,12,Validation,34,0,Panda Express|2026-03-13|12,False,True,True
+Panda Express,2026-03-13,13,Validation,31,0,Panda Express|2026-03-13|13,False,True,True
+Panda Express,2026-03-13,14,Validation,5,0,Panda Express|2026-03-13|14,False,True,True
+Panda Express,2026-03-16,11,Validation,102,0,Panda Express|2026-03-16|11,False,True,True
+Panda Express,2026-03-16,12,Validation,92,0,Panda Express|2026-03-16|12,False,True,True
+Panda Express,2026-03-16,13,Validation,56,0,Panda Express|2026-03-16|13,False,True,True
+Panda Express,2026-03-16,14,Validation,40,0,Panda Express|2026-03-16|14,False,True,True
+Panda Express,2026-03-16,15,Validation,32,0,Panda Express|2026-03-16|15,False,True,True
+Panda Express,2026-03-16,16,Validation,1,0,Panda Express|2026-03-16|16,False,True,True
+Panda Express,2026-03-17,11,Validation,70,0,Panda Express|2026-03-17|11,False,True,True
+Panda Express,2026-03-17,12,Validation,100,0,Panda Express|2026-03-17|12,False,True,True
+Panda Express,2026-03-17,13,Validation,55,0,Panda Express|2026-03-17|13,False,True,True
+Panda Express,2026-03-17,14,Validation,61,0,Panda Express|2026-03-17|14,False,True,True
+Panda Express,2026-03-17,15,Validation,43,0,Panda Express|2026-03-17|15,False,True,True
+Panda Express,2026-03-18,11,Validation,49,0,Panda Express|2026-03-18|11,False,True,True
+Panda Express,2026-03-18,12,Validation,69,0,Panda Express|2026-03-18|12,False,True,True
+Panda Express,2026-03-18,13,Validation,69,0,Panda Express|2026-03-18|13,False,True,True
+Panda Express,2026-03-18,14,Validation,26,0,Panda Express|2026-03-18|14,False,True,True
+Panda Express,2026-03-18,15,Validation,24,0,Panda Express|2026-03-18|15,False,True,True
+Panda Express,2026-03-18,16,Validation,1,0,Panda Express|2026-03-18|16,False,True,True
+Panda Express,2026-03-19,11,Validation,37,0,Panda Express|2026-03-19|11,False,True,True
+Panda Express,2026-03-19,12,Validation,101,0,Panda Express|2026-03-19|12,False,True,True
+Panda Express,2026-03-19,13,Validation,42,0,Panda Express|2026-03-19|13,False,True,True
+Panda Express,2026-03-19,14,Validation,35,0,Panda Express|2026-03-19|14,False,True,True
+Panda Express,2026-03-19,15,Validation,27,0,Panda Express|2026-03-19|15,False,True,True
+Panda Express,2026-03-20,11,Validation,20,0,Panda Express|2026-03-20|11,False,True,True
+Panda Express,2026-03-20,12,Validation,147,0,Panda Express|2026-03-20|12,False,True,True
+Panda Express,2026-03-20,13,Validation,33,0,Panda Express|2026-03-20|13,False,True,True
+Panda Express,2026-03-20,14,Validation,5,0,Panda Express|2026-03-20|14,False,True,True
+Panda Express,2026-03-23,10,Validation,4,0,Panda Express|2026-03-23|10,False,True,True
+Panda Express,2026-03-23,11,Validation,64,0,Panda Express|2026-03-23|11,False,True,True
+Panda Express,2026-03-23,12,Validation,71,0,Panda Express|2026-03-23|12,False,True,True
+Panda Express,2026-03-23,13,Validation,61,0,Panda Express|2026-03-23|13,False,True,True
+Panda Express,2026-03-23,14,Validation,45,0,Panda Express|2026-03-23|14,False,True,True
+Panda Express,2026-03-23,15,Validation,28,0,Panda Express|2026-03-23|15,False,True,True
+Panda Express,2026-03-24,11,Validation,62,0,Panda Express|2026-03-24|11,False,True,True
+Panda Express,2026-03-24,12,Validation,135,0,Panda Express|2026-03-24|12,False,True,True
+Panda Express,2026-03-24,13,Validation,56,0,Panda Express|2026-03-24|13,False,True,True
+Panda Express,2026-03-24,14,Validation,84,0,Panda Express|2026-03-24|14,False,True,True
+Panda Express,2026-03-24,15,Validation,26,0,Panda Express|2026-03-24|15,False,True,True
+Panda Express,2026-03-25,11,Validation,64,0,Panda Express|2026-03-25|11,False,True,True
+Panda Express,2026-03-25,12,Validation,70,0,Panda Express|2026-03-25|12,False,True,True
+Panda Express,2026-03-25,13,Validation,56,0,Panda Express|2026-03-25|13,False,True,True
+Panda Express,2026-03-25,14,Validation,64,0,Panda Express|2026-03-25|14,False,True,True
+Panda Express,2026-03-25,15,Validation,44,0,Panda Express|2026-03-25|15,False,True,True
+Panda Express,2026-03-26,11,Validation,107,0,Panda Express|2026-03-26|11,False,True,True
+Panda Express,2026-03-26,12,Validation,109,0,Panda Express|2026-03-26|12,False,True,True
+Panda Express,2026-03-26,13,Validation,70,0,Panda Express|2026-03-26|13,False,True,True
+Panda Express,2026-03-26,14,Validation,53,0,Panda Express|2026-03-26|14,False,True,True
+Panda Express,2026-03-26,15,Validation,43,0,Panda Express|2026-03-26|15,False,True,True
+Panda Express,2026-03-27,10,Validation,3,0,Panda Express|2026-03-27|10,False,True,True
+Panda Express,2026-03-27,11,Validation,24,0,Panda Express|2026-03-27|11,False,True,True
+Panda Express,2026-03-27,12,Validation,29,0,Panda Express|2026-03-27|12,False,True,True
+Panda Express,2026-03-27,13,Validation,21,0,Panda Express|2026-03-27|13,False,True,True
+Panda Express,2026-04-06,11,Validation,49,0,Panda Express|2026-04-06|11,False,True,True
+Panda Express,2026-04-06,12,Validation,84,0,Panda Express|2026-04-06|12,False,True,True
+Panda Express,2026-04-06,13,Validation,59,0,Panda Express|2026-04-06|13,False,True,True
+Panda Express,2026-04-06,14,Validation,24,0,Panda Express|2026-04-06|14,False,True,True
+Panda Express,2026-04-06,15,Validation,40,0,Panda Express|2026-04-06|15,False,True,True
+Panda Express,2026-04-07,11,Validation,45,0,Panda Express|2026-04-07|11,False,True,True
+Panda Express,2026-04-07,12,Validation,82,0,Panda Express|2026-04-07|12,False,True,True
+Panda Express,2026-04-07,13,Validation,69,0,Panda Express|2026-04-07|13,False,True,True
+Panda Express,2026-04-07,14,Validation,28,0,Panda Express|2026-04-07|14,False,True,True
+Panda Express,2026-04-07,15,Validation,24,0,Panda Express|2026-04-07|15,False,True,True
+Panda Express,2026-04-08,10,Validation,2,0,Panda Express|2026-04-08|10,False,True,True
+Panda Express,2026-04-08,11,Validation,60,0,Panda Express|2026-04-08|11,False,True,True
+Panda Express,2026-04-08,12,Validation,80,0,Panda Express|2026-04-08|12,False,True,True
+Panda Express,2026-04-08,13,Validation,80,0,Panda Express|2026-04-08|13,False,True,True
+Panda Express,2026-04-08,14,Validation,36,0,Panda Express|2026-04-08|14,False,True,True
+Panda Express,2026-04-08,15,Validation,40,0,Panda Express|2026-04-08|15,False,True,True
+Panda Express,2026-04-08,16,Validation,2,0,Panda Express|2026-04-08|16,False,True,True
+Panda Express,2026-04-09,11,Validation,48,0,Panda Express|2026-04-09|11,False,True,True
+Panda Express,2026-04-09,12,Validation,99,0,Panda Express|2026-04-09|12,False,True,True
+Panda Express,2026-04-09,13,Validation,50,0,Panda Express|2026-04-09|13,False,True,True
+Panda Express,2026-04-09,14,Validation,38,0,Panda Express|2026-04-09|14,False,True,True
+Panda Express,2026-04-09,15,Validation,22,0,Panda Express|2026-04-09|15,False,True,True
+Panda Express,2026-04-10,10,Validation,1,0,Panda Express|2026-04-10|10,False,True,True
+Panda Express,2026-04-10,11,Validation,34,0,Panda Express|2026-04-10|11,False,True,True
+Panda Express,2026-04-10,12,Validation,49,0,Panda Express|2026-04-10|12,False,True,True
+Panda Express,2026-04-10,13,Validation,29,0,Panda Express|2026-04-10|13,False,True,True
+Panda Express,2026-04-10,14,Validation,2,0,Panda Express|2026-04-10|14,False,True,True
+Panda Express,2026-04-13,11,Validation,59,0,Panda Express|2026-04-13|11,False,True,True
+Panda Express,2026-04-13,12,Validation,84,0,Panda Express|2026-04-13|12,False,True,True
+Panda Express,2026-04-13,13,Validation,55,0,Panda Express|2026-04-13|13,False,True,True
+Panda Express,2026-04-13,14,Validation,31,0,Panda Express|2026-04-13|14,False,True,True
+Panda Express,2026-04-13,15,Validation,33,0,Panda Express|2026-04-13|15,False,True,True
+Panda Express,2026-04-14,11,Validation,42,0,Panda Express|2026-04-14|11,False,True,True
+Panda Express,2026-04-14,12,Validation,80,0,Panda Express|2026-04-14|12,False,True,True
+Panda Express,2026-04-14,13,Validation,54,0,Panda Express|2026-04-14|13,False,True,True
+Panda Express,2026-04-14,14,Validation,39,0,Panda Express|2026-04-14|14,False,True,True
+Panda Express,2026-04-14,15,Validation,18,0,Panda Express|2026-04-14|15,False,True,True
+Panda Express,2026-04-15,11,Validation,59,0,Panda Express|2026-04-15|11,False,True,True
+Panda Express,2026-04-15,12,Validation,74,0,Panda Express|2026-04-15|12,False,True,True
+Panda Express,2026-04-15,13,Validation,59,0,Panda Express|2026-04-15|13,False,True,True
+Panda Express,2026-04-15,14,Validation,46,0,Panda Express|2026-04-15|14,False,True,True
+Panda Express,2026-04-15,15,Validation,28,0,Panda Express|2026-04-15|15,False,True,True
+Panda Express,2026-04-16,10,Validation,1,0,Panda Express|2026-04-16|10,False,True,True
+Panda Express,2026-04-16,11,Validation,49,0,Panda Express|2026-04-16|11,False,True,True
+Panda Express,2026-04-16,12,Validation,95,0,Panda Express|2026-04-16|12,False,True,True
+Panda Express,2026-04-16,13,Validation,46,0,Panda Express|2026-04-16|13,False,True,True
+Panda Express,2026-04-16,14,Validation,32,0,Panda Express|2026-04-16|14,False,True,True
+Panda Express,2026-04-16,15,Validation,25,0,Panda Express|2026-04-16|15,False,True,True
+Panda Express,2026-04-16,16,Validation,1,0,Panda Express|2026-04-16|16,False,True,True
+Panda Express,2026-04-17,10,Validation,3,0,Panda Express|2026-04-17|10,False,True,True
+Panda Express,2026-04-17,11,Validation,35,0,Panda Express|2026-04-17|11,False,True,True
+Panda Express,2026-04-17,12,Validation,37,0,Panda Express|2026-04-17|12,False,True,True
+Panda Express,2026-04-17,13,Validation,43,0,Panda Express|2026-04-17|13,False,True,True
+Panda Express,2026-04-17,14,Validation,13,0,Panda Express|2026-04-17|14,False,True,True
+Panda Express,2026-04-20,11,Validation,50,0,Panda Express|2026-04-20|11,False,True,True
+Panda Express,2026-04-20,12,Validation,77,0,Panda Express|2026-04-20|12,False,True,True
+Panda Express,2026-04-20,13,Validation,70,0,Panda Express|2026-04-20|13,False,True,True
+Panda Express,2026-04-20,14,Validation,48,0,Panda Express|2026-04-20|14,False,True,True
+Panda Express,2026-04-20,15,Validation,17,0,Panda Express|2026-04-20|15,False,True,True
+Panda Express,2026-04-21,11,Validation,52,0,Panda Express|2026-04-21|11,False,True,True
+Panda Express,2026-04-21,12,Validation,81,0,Panda Express|2026-04-21|12,False,True,True
+Panda Express,2026-04-21,13,Validation,56,0,Panda Express|2026-04-21|13,False,True,True
+Panda Express,2026-04-21,14,Validation,16,0,Panda Express|2026-04-21|14,False,True,True
+Panda Express,2026-04-21,15,Validation,24,0,Panda Express|2026-04-21|15,False,True,True
+Panda Express,2026-04-22,10,Validation,4,0,Panda Express|2026-04-22|10,False,True,True
+Panda Express,2026-04-22,11,Validation,93,0,Panda Express|2026-04-22|11,False,True,True
+Panda Express,2026-04-22,12,Validation,93,0,Panda Express|2026-04-22|12,False,True,True
+Panda Express,2026-04-22,13,Validation,70,0,Panda Express|2026-04-22|13,False,True,True
+Panda Express,2026-04-22,14,Validation,43,0,Panda Express|2026-04-22|14,False,True,True
+Panda Express,2026-04-22,15,Validation,43,0,Panda Express|2026-04-22|15,False,True,True
+Panda Express,2026-04-23,11,Validation,48,0,Panda Express|2026-04-23|11,False,True,True
+Panda Express,2026-04-23,12,Validation,88,0,Panda Express|2026-04-23|12,False,True,True
+Panda Express,2026-04-23,13,Validation,45,0,Panda Express|2026-04-23|13,False,True,True
+Panda Express,2026-04-23,14,Validation,32,0,Panda Express|2026-04-23|14,False,True,True
+Panda Express,2026-04-23,15,Validation,20,0,Panda Express|2026-04-23|15,False,True,True
+Panda Express,2026-04-24,10,Validation,10,0,Panda Express|2026-04-24|10,False,True,True
+Panda Express,2026-04-24,11,Validation,40,0,Panda Express|2026-04-24|11,False,True,True
+Panda Express,2026-04-24,12,Validation,68,0,Panda Express|2026-04-24|12,False,True,True
+Panda Express,2026-04-24,13,Validation,28,0,Panda Express|2026-04-24|13,False,True,True
+Panda Express,2026-04-24,14,Validation,7,0,Panda Express|2026-04-24|14,False,True,True
+Panda Express,2026-04-27,11,Validation,76,0,Panda Express|2026-04-27|11,False,True,True
+Panda Express,2026-04-27,12,Validation,84,0,Panda Express|2026-04-27|12,False,True,True
+Panda Express,2026-04-27,13,Validation,61,0,Panda Express|2026-04-27|13,False,True,True
+Panda Express,2026-04-27,14,Validation,41,0,Panda Express|2026-04-27|14,False,True,True
+Panda Express,2026-04-27,15,Validation,31,0,Panda Express|2026-04-27|15,False,True,True
+Panda Express,2026-04-27,16,Validation,1,0,Panda Express|2026-04-27|16,False,True,True
+Panda Express,2026-04-28,11,Validation,42,0,Panda Express|2026-04-28|11,False,True,True
+Panda Express,2026-04-28,12,Validation,78,0,Panda Express|2026-04-28|12,False,True,True
+Panda Express,2026-04-28,13,Validation,44,0,Panda Express|2026-04-28|13,False,True,True
+Panda Express,2026-04-28,14,Validation,26,0,Panda Express|2026-04-28|14,False,True,True
+Panda Express,2026-04-28,15,Validation,31,0,Panda Express|2026-04-28|15,False,True,True
+Panda Express,2026-04-29,11,Validation,60,0,Panda Express|2026-04-29|11,False,True,True
+Panda Express,2026-04-29,12,Validation,87,0,Panda Express|2026-04-29|12,False,True,True
+Panda Express,2026-04-29,13,Validation,68,0,Panda Express|2026-04-29|13,False,True,True
+Panda Express,2026-04-29,14,Validation,39,0,Panda Express|2026-04-29|14,False,True,True
+Panda Express,2026-04-29,15,Validation,39,0,Panda Express|2026-04-29|15,False,True,True
+Panda Express,2026-04-30,11,Validation,45,0,Panda Express|2026-04-30|11,False,True,True
+Panda Express,2026-04-30,12,Validation,98,0,Panda Express|2026-04-30|12,False,True,True
+Panda Express,2026-04-30,13,Validation,73,0,Panda Express|2026-04-30|13,False,True,True
+Panda Express,2026-04-30,14,Validation,47,0,Panda Express|2026-04-30|14,False,True,True
+Panda Express,2026-04-30,15,Validation,29,0,Panda Express|2026-04-30|15,False,True,True
+Panda Express,2026-05-01,11,Test,20,0,Panda Express|2026-05-01|11,False,False,True
+Panda Express,2026-05-01,12,Test,51,0,Panda Express|2026-05-01|12,False,False,True
+Panda Express,2026-05-01,13,Test,35,0,Panda Express|2026-05-01|13,False,False,True
+Panda Express,2026-05-04,11,Test,93,0,Panda Express|2026-05-04|11,False,False,True
+Panda Express,2026-05-04,12,Test,83,0,Panda Express|2026-05-04|12,False,False,True
+Panda Express,2026-05-04,13,Test,53,0,Panda Express|2026-05-04|13,False,False,True
+Panda Express,2026-05-04,14,Test,37,0,Panda Express|2026-05-04|14,False,False,True
+Panda Express,2026-05-04,15,Test,49,0,Panda Express|2026-05-04|15,False,False,True
+Panda Express,2026-05-05,10,Test,1,0,Panda Express|2026-05-05|10,False,False,True
+Panda Express,2026-05-05,11,Test,68,0,Panda Express|2026-05-05|11,False,False,True
+Panda Express,2026-05-05,12,Test,72,0,Panda Express|2026-05-05|12,False,False,True
+Panda Express,2026-05-05,13,Test,34,0,Panda Express|2026-05-05|13,False,False,True
+Panda Express,2026-05-05,14,Test,30,0,Panda Express|2026-05-05|14,False,False,True
+Panda Express,2026-05-05,15,Test,30,0,Panda Express|2026-05-05|15,False,False,True
+Panda Express,2026-05-06,11,Test,54,0,Panda Express|2026-05-06|11,False,False,True
+Panda Express,2026-05-06,12,Test,91,0,Panda Express|2026-05-06|12,False,False,True
+Panda Express,2026-05-06,13,Test,59,0,Panda Express|2026-05-06|13,False,False,True
+Panda Express,2026-05-06,14,Test,52,0,Panda Express|2026-05-06|14,False,False,True
+Panda Express,2026-05-06,15,Test,48,0,Panda Express|2026-05-06|15,False,False,True
+Panda Express,2026-05-06,16,Test,1,0,Panda Express|2026-05-06|16,False,False,True
+Panda Express,2026-05-07,11,Test,43,0,Panda Express|2026-05-07|11,False,False,True
+Panda Express,2026-05-07,12,Test,91,0,Panda Express|2026-05-07|12,False,False,True
+Panda Express,2026-05-07,13,Test,41,0,Panda Express|2026-05-07|13,False,False,True
+Panda Express,2026-05-07,14,Test,48,0,Panda Express|2026-05-07|14,False,False,True
+Panda Express,2026-05-07,15,Test,27,0,Panda Express|2026-05-07|15,False,False,True
+Panda Express,2026-05-07,16,Test,1,0,Panda Express|2026-05-07|16,False,False,True
+Panda Express,2026-05-08,10,Test,4,0,Panda Express|2026-05-08|10,False,False,True
+Panda Express,2026-05-08,11,Test,31,0,Panda Express|2026-05-08|11,False,False,True
+Panda Express,2026-05-08,12,Test,58,0,Panda Express|2026-05-08|12,False,False,True
+Panda Express,2026-05-08,13,Test,20,0,Panda Express|2026-05-08|13,False,False,True
+Panda Express,2026-05-11,10,Test,1,0,Panda Express|2026-05-11|10,False,False,True
+Panda Express,2026-05-11,11,Test,34,0,Panda Express|2026-05-11|11,False,False,True
+Panda Express,2026-05-11,12,Test,42,0,Panda Express|2026-05-11|12,False,False,True
+Panda Express,2026-05-11,13,Test,39,0,Panda Express|2026-05-11|13,False,False,True
+Panda Express,2026-05-11,14,Test,48,0,Panda Express|2026-05-11|14,False,False,True
+Panda Express,2026-05-11,15,Test,43,0,Panda Express|2026-05-11|15,False,False,True
+Panda Express,2026-05-12,11,Test,39,0,Panda Express|2026-05-12|11,False,False,True
+Panda Express,2026-05-12,12,Test,49,0,Panda Express|2026-05-12|12,False,False,True
+Panda Express,2026-05-12,13,Test,32,0,Panda Express|2026-05-12|13,False,False,True
+Panda Express,2026-05-12,14,Test,37,0,Panda Express|2026-05-12|14,False,False,True
+Panda Express,2026-05-12,15,Test,24,0,Panda Express|2026-05-12|15,False,False,True
+Panda Express,2026-05-13,11,Test,51,0,Panda Express|2026-05-13|11,False,False,True
+Panda Express,2026-05-13,12,Test,36,0,Panda Express|2026-05-13|12,False,False,True
+Panda Express,2026-05-13,13,Test,40,0,Panda Express|2026-05-13|13,False,False,True
+Panda Express,2026-05-13,14,Test,24,0,Panda Express|2026-05-13|14,False,False,True
+Panda Express,2026-05-13,15,Test,24,0,Panda Express|2026-05-13|15,False,False,True
+Panda Express,2026-05-14,11,Test,29,0,Panda Express|2026-05-14|11,False,False,True
+Panda Express,2026-05-14,12,Test,54,0,Panda Express|2026-05-14|12,False,False,True
+Panda Express,2026-05-14,13,Test,43,0,Panda Express|2026-05-14|13,False,False,True
+Panda Express,2026-05-14,14,Test,35,0,Panda Express|2026-05-14|14,False,False,True
+Panda Express,2026-05-14,15,Test,6,0,Panda Express|2026-05-14|15,False,False,True
+Residential Dining,2026-01-11,17,Train,1,0,Residential Dining|2026-01-11|17,True,True,False
+Residential Dining,2026-01-13,11,Train,2,0,Residential Dining|2026-01-13|11,True,True,False
+Residential Dining,2026-01-14,12,Train,3,0,Residential Dining|2026-01-14|12,True,True,False
+Residential Dining,2026-01-15,12,Train,3,0,Residential Dining|2026-01-15|12,True,True,False
+Residential Dining,2026-01-16,12,Train,1,0,Residential Dining|2026-01-16|12,True,True,False
+Residential Dining,2026-01-16,14,Train,1,0,Residential Dining|2026-01-16|14,True,True,False
+Residential Dining,2026-01-17,11,Train,3,0,Residential Dining|2026-01-17|11,True,True,False
+Residential Dining,2026-01-17,12,Train,2,0,Residential Dining|2026-01-17|12,True,True,False
+Residential Dining,2026-01-17,13,Train,2,0,Residential Dining|2026-01-17|13,True,True,False
+Residential Dining,2026-01-17,14,Train,1,0,Residential Dining|2026-01-17|14,True,True,False
+Residential Dining,2026-01-17,18,Train,1,0,Residential Dining|2026-01-17|18,True,True,False
+Residential Dining,2026-01-17,19,Train,1,0,Residential Dining|2026-01-17|19,True,True,False
+Residential Dining,2026-01-18,17,Train,1,0,Residential Dining|2026-01-18|17,True,True,False
+Residential Dining,2026-01-19,17,Train,5,0,Residential Dining|2026-01-19|17,True,True,False
+Residential Dining,2026-01-19,18,Train,1,0,Residential Dining|2026-01-19|18,True,True,False
+Residential Dining,2026-01-20,8,Train,1,0,Residential Dining|2026-01-20|08,True,True,False
+Residential Dining,2026-01-20,9,Train,2,0,Residential Dining|2026-01-20|09,True,True,False
+Residential Dining,2026-01-20,10,Train,1,0,Residential Dining|2026-01-20|10,True,True,False
+Residential Dining,2026-01-20,11,Train,5,0,Residential Dining|2026-01-20|11,True,True,False
+Residential Dining,2026-01-20,12,Train,10,0,Residential Dining|2026-01-20|12,True,True,False
+Residential Dining,2026-01-20,13,Train,1,0,Residential Dining|2026-01-20|13,True,True,False
+Residential Dining,2026-01-20,16,Train,1,0,Residential Dining|2026-01-20|16,True,True,False
+Residential Dining,2026-01-20,17,Train,3,0,Residential Dining|2026-01-20|17,True,True,False
+Residential Dining,2026-01-20,18,Train,3,0,Residential Dining|2026-01-20|18,True,True,False
+Residential Dining,2026-01-20,19,Train,1,0,Residential Dining|2026-01-20|19,True,True,False
+Residential Dining,2026-01-21,7,Train,3,0,Residential Dining|2026-01-21|07,True,True,False
+Residential Dining,2026-01-21,8,Train,3,0,Residential Dining|2026-01-21|08,True,True,False
+Residential Dining,2026-01-21,9,Train,1,0,Residential Dining|2026-01-21|09,True,True,False
+Residential Dining,2026-01-21,10,Train,3,0,Residential Dining|2026-01-21|10,True,True,False
+Residential Dining,2026-01-21,11,Train,8,0,Residential Dining|2026-01-21|11,True,True,False
+Residential Dining,2026-01-21,12,Train,19,0,Residential Dining|2026-01-21|12,True,True,False
+Residential Dining,2026-01-21,13,Train,7,0,Residential Dining|2026-01-21|13,True,True,False
+Residential Dining,2026-01-21,17,Train,2,0,Residential Dining|2026-01-21|17,True,True,False
+Residential Dining,2026-01-21,18,Train,1,0,Residential Dining|2026-01-21|18,True,True,False
+Residential Dining,2026-01-21,19,Train,2,0,Residential Dining|2026-01-21|19,True,True,False
+Residential Dining,2026-01-22,7,Train,2,0,Residential Dining|2026-01-22|07,True,True,False
+Residential Dining,2026-01-22,8,Train,2,0,Residential Dining|2026-01-22|08,True,True,False
+Residential Dining,2026-01-22,9,Train,1,0,Residential Dining|2026-01-22|09,True,True,False
+Residential Dining,2026-01-22,10,Train,3,0,Residential Dining|2026-01-22|10,True,True,False
+Residential Dining,2026-01-22,11,Train,5,0,Residential Dining|2026-01-22|11,True,True,False
+Residential Dining,2026-01-22,12,Train,11,0,Residential Dining|2026-01-22|12,True,True,False
+Residential Dining,2026-01-22,16,Train,3,0,Residential Dining|2026-01-22|16,True,True,False
+Residential Dining,2026-01-22,17,Train,4,0,Residential Dining|2026-01-22|17,True,True,False
+Residential Dining,2026-01-22,18,Train,1,0,Residential Dining|2026-01-22|18,True,True,False
+Residential Dining,2026-01-22,20,Train,1,0,Residential Dining|2026-01-22|20,True,True,False
+Residential Dining,2026-01-23,8,Train,1,0,Residential Dining|2026-01-23|08,True,True,False
+Residential Dining,2026-01-23,9,Train,3,0,Residential Dining|2026-01-23|09,True,True,False
+Residential Dining,2026-01-23,11,Train,8,0,Residential Dining|2026-01-23|11,True,True,False
+Residential Dining,2026-01-23,12,Train,6,0,Residential Dining|2026-01-23|12,True,True,False
+Residential Dining,2026-01-23,13,Train,2,0,Residential Dining|2026-01-23|13,True,True,False
+Residential Dining,2026-01-23,17,Train,1,0,Residential Dining|2026-01-23|17,True,True,False
+Residential Dining,2026-01-23,18,Train,4,0,Residential Dining|2026-01-23|18,True,True,False
+Residential Dining,2026-01-24,16,Train,2,0,Residential Dining|2026-01-24|16,True,True,False
+Residential Dining,2026-01-24,17,Train,1,0,Residential Dining|2026-01-24|17,True,True,False
+Residential Dining,2026-01-24,18,Train,1,0,Residential Dining|2026-01-24|18,True,True,False
+Residential Dining,2026-01-25,11,Train,2,0,Residential Dining|2026-01-25|11,True,True,False
+Residential Dining,2026-01-25,16,Train,1,0,Residential Dining|2026-01-25|16,True,True,False
+Residential Dining,2026-01-25,17,Train,3,0,Residential Dining|2026-01-25|17,True,True,False
+Residential Dining,2026-01-25,18,Train,1,0,Residential Dining|2026-01-25|18,True,True,False
+Residential Dining,2026-01-26,7,Train,2,0,Residential Dining|2026-01-26|07,True,True,False
+Residential Dining,2026-01-26,8,Train,1,0,Residential Dining|2026-01-26|08,True,True,False
+Residential Dining,2026-01-26,9,Train,1,0,Residential Dining|2026-01-26|09,True,True,False
+Residential Dining,2026-01-26,10,Train,4,0,Residential Dining|2026-01-26|10,True,True,False
+Residential Dining,2026-01-26,11,Train,7,0,Residential Dining|2026-01-26|11,True,True,False
+Residential Dining,2026-01-26,12,Train,14,0,Residential Dining|2026-01-26|12,True,True,False
+Residential Dining,2026-01-26,13,Train,5,0,Residential Dining|2026-01-26|13,True,True,False
+Residential Dining,2026-01-26,16,Train,2,0,Residential Dining|2026-01-26|16,True,True,False
+Residential Dining,2026-01-26,17,Train,1,0,Residential Dining|2026-01-26|17,True,True,False
+Residential Dining,2026-01-26,18,Train,1,0,Residential Dining|2026-01-26|18,True,True,False
+Residential Dining,2026-01-27,8,Train,3,0,Residential Dining|2026-01-27|08,True,True,False
+Residential Dining,2026-01-27,10,Train,3,0,Residential Dining|2026-01-27|10,True,True,False
+Residential Dining,2026-01-27,11,Train,4,0,Residential Dining|2026-01-27|11,True,True,False
+Residential Dining,2026-01-27,12,Train,4,0,Residential Dining|2026-01-27|12,True,True,False
+Residential Dining,2026-01-27,13,Train,1,0,Residential Dining|2026-01-27|13,True,True,False
+Residential Dining,2026-01-27,16,Train,2,0,Residential Dining|2026-01-27|16,True,True,False
+Residential Dining,2026-01-27,17,Train,3,0,Residential Dining|2026-01-27|17,True,True,False
+Residential Dining,2026-01-27,20,Train,1,0,Residential Dining|2026-01-27|20,True,True,False
+Residential Dining,2026-01-28,7,Train,1,0,Residential Dining|2026-01-28|07,True,True,False
+Residential Dining,2026-01-28,8,Train,2,0,Residential Dining|2026-01-28|08,True,True,False
+Residential Dining,2026-01-28,9,Train,2,0,Residential Dining|2026-01-28|09,True,True,False
+Residential Dining,2026-01-28,10,Train,1,0,Residential Dining|2026-01-28|10,True,True,False
+Residential Dining,2026-01-28,11,Train,8,0,Residential Dining|2026-01-28|11,True,True,False
+Residential Dining,2026-01-28,12,Train,11,0,Residential Dining|2026-01-28|12,True,True,False
+Residential Dining,2026-01-28,13,Train,4,0,Residential Dining|2026-01-28|13,True,True,False
+Residential Dining,2026-01-28,17,Train,3,0,Residential Dining|2026-01-28|17,True,True,False
+Residential Dining,2026-01-28,19,Train,1,0,Residential Dining|2026-01-28|19,True,True,False
+Residential Dining,2026-01-29,11,Train,9,0,Residential Dining|2026-01-29|11,True,True,False
+Residential Dining,2026-01-29,12,Train,2,0,Residential Dining|2026-01-29|12,True,True,False
+Residential Dining,2026-01-29,15,Train,1,0,Residential Dining|2026-01-29|15,True,True,False
+Residential Dining,2026-01-29,16,Train,1,0,Residential Dining|2026-01-29|16,True,True,False
+Residential Dining,2026-01-29,17,Train,7,0,Residential Dining|2026-01-29|17,True,True,False
+Residential Dining,2026-01-29,18,Train,3,0,Residential Dining|2026-01-29|18,True,True,False
+Residential Dining,2026-01-29,20,Train,1,0,Residential Dining|2026-01-29|20,True,True,False
+Residential Dining,2026-01-30,7,Train,1,0,Residential Dining|2026-01-30|07,True,True,False
+Residential Dining,2026-01-30,9,Train,0,0,Residential Dining|2026-01-30|09,True,True,False
+Residential Dining,2026-01-30,10,Train,1,0,Residential Dining|2026-01-30|10,True,True,False
+Residential Dining,2026-01-30,11,Train,3,0,Residential Dining|2026-01-30|11,True,True,False
+Residential Dining,2026-01-30,12,Train,5,0,Residential Dining|2026-01-30|12,True,True,False
+Residential Dining,2026-01-30,13,Train,8,0,Residential Dining|2026-01-30|13,True,True,False
+Residential Dining,2026-01-30,17,Train,2,0,Residential Dining|2026-01-30|17,True,True,False
+Residential Dining,2026-01-30,18,Train,3,0,Residential Dining|2026-01-30|18,True,True,False
+Residential Dining,2026-01-30,19,Train,1,0,Residential Dining|2026-01-30|19,True,True,False
+Residential Dining,2026-01-31,17,Train,5,0,Residential Dining|2026-01-31|17,True,True,False
+Residential Dining,2026-01-31,18,Train,5,0,Residential Dining|2026-01-31|18,True,True,False
+Residential Dining,2026-01-31,19,Train,1,0,Residential Dining|2026-01-31|19,True,True,False
+Residential Dining,2026-02-01,10,Train,5,0,Residential Dining|2026-02-01|10,True,True,False
+Residential Dining,2026-02-01,11,Train,2,0,Residential Dining|2026-02-01|11,True,True,False
+Residential Dining,2026-02-01,12,Train,5,0,Residential Dining|2026-02-01|12,True,True,False
+Residential Dining,2026-02-01,13,Train,2,0,Residential Dining|2026-02-01|13,True,True,False
+Residential Dining,2026-02-01,16,Train,1,0,Residential Dining|2026-02-01|16,True,True,False
+Residential Dining,2026-02-01,17,Train,7,0,Residential Dining|2026-02-01|17,True,True,False
+Residential Dining,2026-02-01,18,Train,4,0,Residential Dining|2026-02-01|18,True,True,False
+Residential Dining,2026-02-02,8,Train,2,0,Residential Dining|2026-02-02|08,True,True,False
+Residential Dining,2026-02-02,10,Train,1,0,Residential Dining|2026-02-02|10,True,True,False
+Residential Dining,2026-02-02,11,Train,8,0,Residential Dining|2026-02-02|11,True,True,False
+Residential Dining,2026-02-02,12,Train,14,0,Residential Dining|2026-02-02|12,True,True,False
+Residential Dining,2026-02-02,13,Train,3,0,Residential Dining|2026-02-02|13,True,True,False
+Residential Dining,2026-02-02,17,Train,3,0,Residential Dining|2026-02-02|17,True,True,False
+Residential Dining,2026-02-02,18,Train,1,0,Residential Dining|2026-02-02|18,True,True,False
+Residential Dining,2026-02-03,7,Train,1,0,Residential Dining|2026-02-03|07,True,True,False
+Residential Dining,2026-02-03,8,Train,1,0,Residential Dining|2026-02-03|08,True,True,False
+Residential Dining,2026-02-03,9,Train,1,0,Residential Dining|2026-02-03|09,True,True,False
+Residential Dining,2026-02-03,10,Train,3,0,Residential Dining|2026-02-03|10,True,True,False
+Residential Dining,2026-02-03,11,Train,5,0,Residential Dining|2026-02-03|11,True,True,False
+Residential Dining,2026-02-03,12,Train,1,0,Residential Dining|2026-02-03|12,True,True,False
+Residential Dining,2026-02-03,16,Train,2,0,Residential Dining|2026-02-03|16,True,True,False
+Residential Dining,2026-02-03,17,Train,4,0,Residential Dining|2026-02-03|17,True,True,False
+Residential Dining,2026-02-03,18,Train,1,0,Residential Dining|2026-02-03|18,True,True,False
+Residential Dining,2026-02-04,7,Train,4,0,Residential Dining|2026-02-04|07,True,True,False
+Residential Dining,2026-02-04,8,Train,1,0,Residential Dining|2026-02-04|08,True,True,False
+Residential Dining,2026-02-04,9,Train,3,0,Residential Dining|2026-02-04|09,True,True,False
+Residential Dining,2026-02-04,11,Train,28,0,Residential Dining|2026-02-04|11,True,True,False
+Residential Dining,2026-02-04,12,Train,23,0,Residential Dining|2026-02-04|12,True,True,False
+Residential Dining,2026-02-04,13,Train,3,0,Residential Dining|2026-02-04|13,True,True,False
+Residential Dining,2026-02-04,17,Train,3,0,Residential Dining|2026-02-04|17,True,True,False
+Residential Dining,2026-02-05,9,Train,4,0,Residential Dining|2026-02-05|09,True,True,False
+Residential Dining,2026-02-05,10,Train,3,0,Residential Dining|2026-02-05|10,True,True,False
+Residential Dining,2026-02-05,11,Train,17,0,Residential Dining|2026-02-05|11,True,True,False
+Residential Dining,2026-02-05,12,Train,2,0,Residential Dining|2026-02-05|12,True,True,False
+Residential Dining,2026-02-05,13,Train,2,0,Residential Dining|2026-02-05|13,True,True,False
+Residential Dining,2026-02-05,14,Train,1,0,Residential Dining|2026-02-05|14,True,True,False
+Residential Dining,2026-02-05,16,Train,2,0,Residential Dining|2026-02-05|16,True,True,False
+Residential Dining,2026-02-05,17,Train,2,0,Residential Dining|2026-02-05|17,True,True,False
+Residential Dining,2026-02-05,20,Train,1,0,Residential Dining|2026-02-05|20,True,True,False
+Residential Dining,2026-02-06,7,Train,1,0,Residential Dining|2026-02-06|07,True,True,False
+Residential Dining,2026-02-06,8,Train,1,0,Residential Dining|2026-02-06|08,True,True,False
+Residential Dining,2026-02-06,9,Train,1,0,Residential Dining|2026-02-06|09,True,True,False
+Residential Dining,2026-02-06,11,Train,5,0,Residential Dining|2026-02-06|11,True,True,False
+Residential Dining,2026-02-06,12,Train,9,0,Residential Dining|2026-02-06|12,True,True,False
+Residential Dining,2026-02-06,13,Train,1,0,Residential Dining|2026-02-06|13,True,True,False
+Residential Dining,2026-02-06,17,Train,2,0,Residential Dining|2026-02-06|17,True,True,False
+Residential Dining,2026-02-06,18,Train,7,0,Residential Dining|2026-02-06|18,True,True,False
+Residential Dining,2026-02-07,17,Train,2,0,Residential Dining|2026-02-07|17,True,True,False
+Residential Dining,2026-02-07,18,Train,1,0,Residential Dining|2026-02-07|18,True,True,False
+Residential Dining,2026-02-07,19,Train,1,0,Residential Dining|2026-02-07|19,True,True,False
+Residential Dining,2026-02-08,12,Train,1,0,Residential Dining|2026-02-08|12,True,True,False
+Residential Dining,2026-02-08,17,Train,2,0,Residential Dining|2026-02-08|17,True,True,False
+Residential Dining,2026-02-08,20,Train,1,0,Residential Dining|2026-02-08|20,True,True,False
+Residential Dining,2026-02-09,8,Train,3,0,Residential Dining|2026-02-09|08,True,True,False
+Residential Dining,2026-02-09,9,Train,1,0,Residential Dining|2026-02-09|09,True,True,False
+Residential Dining,2026-02-09,10,Train,4,0,Residential Dining|2026-02-09|10,True,True,False
+Residential Dining,2026-02-09,11,Train,3,0,Residential Dining|2026-02-09|11,True,True,False
+Residential Dining,2026-02-09,12,Train,9,0,Residential Dining|2026-02-09|12,True,True,False
+Residential Dining,2026-02-09,17,Train,1,0,Residential Dining|2026-02-09|17,True,True,False
+Residential Dining,2026-02-10,7,Train,2,0,Residential Dining|2026-02-10|07,True,True,False
+Residential Dining,2026-02-10,8,Train,1,0,Residential Dining|2026-02-10|08,True,True,False
+Residential Dining,2026-02-10,9,Train,2,0,Residential Dining|2026-02-10|09,True,True,False
+Residential Dining,2026-02-10,10,Train,5,0,Residential Dining|2026-02-10|10,True,True,False
+Residential Dining,2026-02-10,11,Train,21,0,Residential Dining|2026-02-10|11,True,True,False
+Residential Dining,2026-02-10,12,Train,1,0,Residential Dining|2026-02-10|12,True,True,False
+Residential Dining,2026-02-10,15,Train,1,0,Residential Dining|2026-02-10|15,True,True,False
+Residential Dining,2026-02-10,16,Train,1,0,Residential Dining|2026-02-10|16,True,True,False
+Residential Dining,2026-02-10,17,Train,4,0,Residential Dining|2026-02-10|17,True,True,False
+Residential Dining,2026-02-11,7,Train,2,0,Residential Dining|2026-02-11|07,True,True,False
+Residential Dining,2026-02-11,8,Train,5,0,Residential Dining|2026-02-11|08,True,True,False
+Residential Dining,2026-02-11,9,Train,2,0,Residential Dining|2026-02-11|09,True,True,False
+Residential Dining,2026-02-11,10,Train,1,0,Residential Dining|2026-02-11|10,True,True,False
+Residential Dining,2026-02-11,11,Train,5,0,Residential Dining|2026-02-11|11,True,True,False
+Residential Dining,2026-02-11,12,Train,12,0,Residential Dining|2026-02-11|12,True,True,False
+Residential Dining,2026-02-11,13,Train,2,0,Residential Dining|2026-02-11|13,True,True,False
+Residential Dining,2026-02-11,14,Train,1,0,Residential Dining|2026-02-11|14,True,True,False
+Residential Dining,2026-02-11,18,Train,1,0,Residential Dining|2026-02-11|18,True,True,False
+Residential Dining,2026-02-12,9,Train,1,0,Residential Dining|2026-02-12|09,True,True,False
+Residential Dining,2026-02-12,10,Train,1,0,Residential Dining|2026-02-12|10,True,True,False
+Residential Dining,2026-02-12,11,Train,12,0,Residential Dining|2026-02-12|11,True,True,False
+Residential Dining,2026-02-12,12,Train,1,0,Residential Dining|2026-02-12|12,True,True,False
+Residential Dining,2026-02-12,13,Train,2,0,Residential Dining|2026-02-12|13,True,True,False
+Residential Dining,2026-02-12,16,Train,4,0,Residential Dining|2026-02-12|16,True,True,False
+Residential Dining,2026-02-12,17,Train,2,0,Residential Dining|2026-02-12|17,True,True,False
+Residential Dining,2026-02-12,19,Train,2,0,Residential Dining|2026-02-12|19,True,True,False
+Residential Dining,2026-02-13,8,Train,2,0,Residential Dining|2026-02-13|08,True,True,False
+Residential Dining,2026-02-13,9,Train,3,0,Residential Dining|2026-02-13|09,True,True,False
+Residential Dining,2026-02-13,10,Train,1,0,Residential Dining|2026-02-13|10,True,True,False
+Residential Dining,2026-02-13,11,Train,2,0,Residential Dining|2026-02-13|11,True,True,False
+Residential Dining,2026-02-13,12,Train,82,0,Residential Dining|2026-02-13|12,True,True,False
+Residential Dining,2026-02-13,17,Train,1,0,Residential Dining|2026-02-13|17,True,True,False
+Residential Dining,2026-02-13,18,Train,1,0,Residential Dining|2026-02-13|18,True,True,False
+Residential Dining,2026-02-14,13,Train,1,0,Residential Dining|2026-02-14|13,True,True,False
+Residential Dining,2026-02-14,17,Train,2,0,Residential Dining|2026-02-14|17,True,True,False
+Residential Dining,2026-02-15,17,Train,3,0,Residential Dining|2026-02-15|17,True,True,False
+Residential Dining,2026-02-16,7,Train,2,0,Residential Dining|2026-02-16|07,True,True,False
+Residential Dining,2026-02-16,8,Train,1,0,Residential Dining|2026-02-16|08,True,True,False
+Residential Dining,2026-02-16,9,Train,1,0,Residential Dining|2026-02-16|09,True,True,False
+Residential Dining,2026-02-16,11,Train,2,0,Residential Dining|2026-02-16|11,True,True,False
+Residential Dining,2026-02-16,12,Train,10,0,Residential Dining|2026-02-16|12,True,True,False
+Residential Dining,2026-02-16,13,Train,2,0,Residential Dining|2026-02-16|13,True,True,False
+Residential Dining,2026-02-16,14,Train,2,0,Residential Dining|2026-02-16|14,True,True,False
+Residential Dining,2026-02-16,17,Train,1,0,Residential Dining|2026-02-16|17,True,True,False
+Residential Dining,2026-02-16,18,Train,1,0,Residential Dining|2026-02-16|18,True,True,False
+Residential Dining,2026-02-17,9,Train,1,0,Residential Dining|2026-02-17|09,True,True,False
+Residential Dining,2026-02-17,10,Train,6,0,Residential Dining|2026-02-17|10,True,True,False
+Residential Dining,2026-02-17,11,Train,13,0,Residential Dining|2026-02-17|11,True,True,False
+Residential Dining,2026-02-17,12,Train,4,0,Residential Dining|2026-02-17|12,True,True,False
+Residential Dining,2026-02-17,13,Train,3,0,Residential Dining|2026-02-17|13,True,True,False
+Residential Dining,2026-02-17,14,Train,-1,1,Residential Dining|2026-02-17|14,False,False,False
+Residential Dining,2026-02-17,17,Train,2,0,Residential Dining|2026-02-17|17,True,True,False
+Residential Dining,2026-02-18,7,Train,1,0,Residential Dining|2026-02-18|07,True,True,False
+Residential Dining,2026-02-18,8,Train,1,0,Residential Dining|2026-02-18|08,True,True,False
+Residential Dining,2026-02-18,10,Train,2,0,Residential Dining|2026-02-18|10,True,True,False
+Residential Dining,2026-02-18,11,Train,7,0,Residential Dining|2026-02-18|11,True,True,False
+Residential Dining,2026-02-18,12,Train,7,0,Residential Dining|2026-02-18|12,True,True,False
+Residential Dining,2026-02-18,13,Train,6,0,Residential Dining|2026-02-18|13,True,True,False
+Residential Dining,2026-02-18,16,Train,3,0,Residential Dining|2026-02-18|16,True,True,False
+Residential Dining,2026-02-18,17,Train,3,0,Residential Dining|2026-02-18|17,True,True,False
+Residential Dining,2026-02-18,20,Train,1,0,Residential Dining|2026-02-18|20,True,True,False
+Residential Dining,2026-02-19,8,Train,1,0,Residential Dining|2026-02-19|08,True,True,False
+Residential Dining,2026-02-19,11,Train,5,0,Residential Dining|2026-02-19|11,True,True,False
+Residential Dining,2026-02-19,12,Train,2,0,Residential Dining|2026-02-19|12,True,True,False
+Residential Dining,2026-02-19,13,Train,1,0,Residential Dining|2026-02-19|13,True,True,False
+Residential Dining,2026-02-19,16,Train,1,0,Residential Dining|2026-02-19|16,True,True,False
+Residential Dining,2026-02-19,17,Train,5,0,Residential Dining|2026-02-19|17,True,True,False
+Residential Dining,2026-02-19,18,Train,1,0,Residential Dining|2026-02-19|18,True,True,False
+Residential Dining,2026-02-20,7,Train,1,0,Residential Dining|2026-02-20|07,True,True,False
+Residential Dining,2026-02-20,9,Train,2,0,Residential Dining|2026-02-20|09,True,True,False
+Residential Dining,2026-02-20,11,Train,1,0,Residential Dining|2026-02-20|11,True,True,False
+Residential Dining,2026-02-20,12,Train,3,0,Residential Dining|2026-02-20|12,True,True,False
+Residential Dining,2026-02-20,13,Train,2,0,Residential Dining|2026-02-20|13,True,True,False
+Residential Dining,2026-02-20,18,Train,2,0,Residential Dining|2026-02-20|18,True,True,False
+Residential Dining,2026-02-21,16,Train,1,0,Residential Dining|2026-02-21|16,True,True,False
+Residential Dining,2026-02-21,17,Train,1,0,Residential Dining|2026-02-21|17,True,True,False
+Residential Dining,2026-02-22,17,Train,3,0,Residential Dining|2026-02-22|17,True,True,False
+Residential Dining,2026-02-22,18,Train,2,0,Residential Dining|2026-02-22|18,True,True,False
+Residential Dining,2026-02-22,20,Train,1,0,Residential Dining|2026-02-22|20,True,True,False
+Residential Dining,2026-02-23,10,Train,3,0,Residential Dining|2026-02-23|10,True,True,False
+Residential Dining,2026-02-23,11,Train,19,0,Residential Dining|2026-02-23|11,True,True,False
+Residential Dining,2026-02-23,12,Train,4,0,Residential Dining|2026-02-23|12,True,True,False
+Residential Dining,2026-02-23,13,Train,2,0,Residential Dining|2026-02-23|13,True,True,False
+Residential Dining,2026-02-23,17,Train,1,0,Residential Dining|2026-02-23|17,True,True,False
+Residential Dining,2026-02-23,18,Train,4,0,Residential Dining|2026-02-23|18,True,True,False
+Residential Dining,2026-02-24,8,Train,1,0,Residential Dining|2026-02-24|08,True,True,False
+Residential Dining,2026-02-24,9,Train,1,0,Residential Dining|2026-02-24|09,True,True,False
+Residential Dining,2026-02-24,10,Train,1,0,Residential Dining|2026-02-24|10,True,True,False
+Residential Dining,2026-02-24,11,Train,6,0,Residential Dining|2026-02-24|11,True,True,False
+Residential Dining,2026-02-24,13,Train,1,0,Residential Dining|2026-02-24|13,True,True,False
+Residential Dining,2026-02-24,15,Train,2,0,Residential Dining|2026-02-24|15,True,True,False
+Residential Dining,2026-02-24,16,Train,2,0,Residential Dining|2026-02-24|16,True,True,False
+Residential Dining,2026-02-24,17,Train,2,0,Residential Dining|2026-02-24|17,True,True,False
+Residential Dining,2026-02-24,18,Train,1,0,Residential Dining|2026-02-24|18,True,True,False
+Residential Dining,2026-02-25,7,Train,1,0,Residential Dining|2026-02-25|07,True,True,False
+Residential Dining,2026-02-25,8,Train,3,0,Residential Dining|2026-02-25|08,True,True,False
+Residential Dining,2026-02-25,9,Train,1,0,Residential Dining|2026-02-25|09,True,True,False
+Residential Dining,2026-02-25,11,Train,7,0,Residential Dining|2026-02-25|11,True,True,False
+Residential Dining,2026-02-25,12,Train,8,0,Residential Dining|2026-02-25|12,True,True,False
+Residential Dining,2026-02-25,13,Train,3,0,Residential Dining|2026-02-25|13,True,True,False
+Residential Dining,2026-02-25,17,Train,3,0,Residential Dining|2026-02-25|17,True,True,False
+Residential Dining,2026-02-26,8,Train,2,0,Residential Dining|2026-02-26|08,True,True,False
+Residential Dining,2026-02-26,9,Train,2,0,Residential Dining|2026-02-26|09,True,True,False
+Residential Dining,2026-02-26,11,Train,5,0,Residential Dining|2026-02-26|11,True,True,False
+Residential Dining,2026-02-26,13,Train,1,0,Residential Dining|2026-02-26|13,True,True,False
+Residential Dining,2026-02-26,16,Train,1,0,Residential Dining|2026-02-26|16,True,True,False
+Residential Dining,2026-02-26,17,Train,3,0,Residential Dining|2026-02-26|17,True,True,False
+Residential Dining,2026-02-26,18,Train,1,0,Residential Dining|2026-02-26|18,True,True,False
+Residential Dining,2026-02-27,7,Train,2,0,Residential Dining|2026-02-27|07,True,True,False
+Residential Dining,2026-02-27,9,Train,3,0,Residential Dining|2026-02-27|09,True,True,False
+Residential Dining,2026-02-27,11,Train,14,0,Residential Dining|2026-02-27|11,True,True,False
+Residential Dining,2026-02-27,12,Train,2,0,Residential Dining|2026-02-27|12,True,True,False
+Residential Dining,2026-02-27,13,Train,7,0,Residential Dining|2026-02-27|13,True,True,False
+Residential Dining,2026-02-27,16,Train,3,0,Residential Dining|2026-02-27|16,True,True,False
+Residential Dining,2026-02-27,18,Train,1,0,Residential Dining|2026-02-27|18,True,True,False
+Residential Dining,2026-02-28,16,Train,2,0,Residential Dining|2026-02-28|16,True,True,False
+Residential Dining,2026-02-28,18,Train,7,0,Residential Dining|2026-02-28|18,True,True,False
+Residential Dining,2026-03-01,16,Validation,1,0,Residential Dining|2026-03-01|16,False,True,True
+Residential Dining,2026-03-02,7,Validation,2,0,Residential Dining|2026-03-02|07,False,True,True
+Residential Dining,2026-03-02,10,Validation,2,0,Residential Dining|2026-03-02|10,False,True,True
+Residential Dining,2026-03-02,11,Validation,7,0,Residential Dining|2026-03-02|11,False,True,True
+Residential Dining,2026-03-02,12,Validation,12,0,Residential Dining|2026-03-02|12,False,True,True
+Residential Dining,2026-03-02,13,Validation,1,0,Residential Dining|2026-03-02|13,False,True,True
+Residential Dining,2026-03-02,16,Validation,3,0,Residential Dining|2026-03-02|16,False,True,True
+Residential Dining,2026-03-02,17,Validation,3,0,Residential Dining|2026-03-02|17,False,True,True
+Residential Dining,2026-03-03,7,Validation,2,0,Residential Dining|2026-03-03|07,False,True,True
+Residential Dining,2026-03-03,8,Validation,1,0,Residential Dining|2026-03-03|08,False,True,True
+Residential Dining,2026-03-03,9,Validation,1,0,Residential Dining|2026-03-03|09,False,True,True
+Residential Dining,2026-03-03,11,Validation,10,0,Residential Dining|2026-03-03|11,False,True,True
+Residential Dining,2026-03-03,12,Validation,9,0,Residential Dining|2026-03-03|12,False,True,True
+Residential Dining,2026-03-03,13,Validation,3,0,Residential Dining|2026-03-03|13,False,True,True
+Residential Dining,2026-03-03,16,Validation,1,0,Residential Dining|2026-03-03|16,False,True,True
+Residential Dining,2026-03-03,17,Validation,7,0,Residential Dining|2026-03-03|17,False,True,True
+Residential Dining,2026-03-04,8,Validation,5,0,Residential Dining|2026-03-04|08,False,True,True
+Residential Dining,2026-03-04,9,Validation,2,0,Residential Dining|2026-03-04|09,False,True,True
+Residential Dining,2026-03-04,10,Validation,2,0,Residential Dining|2026-03-04|10,False,True,True
+Residential Dining,2026-03-04,11,Validation,5,0,Residential Dining|2026-03-04|11,False,True,True
+Residential Dining,2026-03-04,12,Validation,10,0,Residential Dining|2026-03-04|12,False,True,True
+Residential Dining,2026-03-04,13,Validation,32,0,Residential Dining|2026-03-04|13,False,True,True
+Residential Dining,2026-03-04,16,Validation,1,0,Residential Dining|2026-03-04|16,False,True,True
+Residential Dining,2026-03-04,17,Validation,3,0,Residential Dining|2026-03-04|17,False,True,True
+Residential Dining,2026-03-04,18,Validation,1,0,Residential Dining|2026-03-04|18,False,True,True
+Residential Dining,2026-03-05,7,Validation,1,0,Residential Dining|2026-03-05|07,False,True,True
+Residential Dining,2026-03-05,9,Validation,1,0,Residential Dining|2026-03-05|09,False,True,True
+Residential Dining,2026-03-05,10,Validation,1,0,Residential Dining|2026-03-05|10,False,True,True
+Residential Dining,2026-03-05,11,Validation,9,0,Residential Dining|2026-03-05|11,False,True,True
+Residential Dining,2026-03-05,12,Validation,1,0,Residential Dining|2026-03-05|12,False,True,True
+Residential Dining,2026-03-05,13,Validation,1,0,Residential Dining|2026-03-05|13,False,True,True
+Residential Dining,2026-03-05,17,Validation,4,0,Residential Dining|2026-03-05|17,False,True,True
+Residential Dining,2026-03-05,18,Validation,3,0,Residential Dining|2026-03-05|18,False,True,True
+Residential Dining,2026-03-06,7,Validation,2,0,Residential Dining|2026-03-06|07,False,True,True
+Residential Dining,2026-03-06,11,Validation,12,0,Residential Dining|2026-03-06|11,False,True,True
+Residential Dining,2026-03-06,12,Validation,6,0,Residential Dining|2026-03-06|12,False,True,True
+Residential Dining,2026-03-06,13,Validation,6,0,Residential Dining|2026-03-06|13,False,True,True
+Residential Dining,2026-03-06,16,Validation,1,0,Residential Dining|2026-03-06|16,False,True,True
+Residential Dining,2026-03-06,18,Validation,1,0,Residential Dining|2026-03-06|18,False,True,True
+Residential Dining,2026-03-07,14,Validation,1,0,Residential Dining|2026-03-07|14,False,True,True
+Residential Dining,2026-03-07,17,Validation,3,0,Residential Dining|2026-03-07|17,False,True,True
+Residential Dining,2026-03-07,19,Validation,1,0,Residential Dining|2026-03-07|19,False,True,True
+Residential Dining,2026-03-08,11,Validation,1,0,Residential Dining|2026-03-08|11,False,True,True
+Residential Dining,2026-03-08,12,Validation,2,0,Residential Dining|2026-03-08|12,False,True,True
+Residential Dining,2026-03-08,13,Validation,1,0,Residential Dining|2026-03-08|13,False,True,True
+Residential Dining,2026-03-08,17,Validation,2,0,Residential Dining|2026-03-08|17,False,True,True
+Residential Dining,2026-03-08,18,Validation,2,0,Residential Dining|2026-03-08|18,False,True,True
+Residential Dining,2026-03-09,7,Validation,3,0,Residential Dining|2026-03-09|07,False,True,True
+Residential Dining,2026-03-09,8,Validation,3,0,Residential Dining|2026-03-09|08,False,True,True
+Residential Dining,2026-03-09,10,Validation,1,0,Residential Dining|2026-03-09|10,False,True,True
+Residential Dining,2026-03-09,11,Validation,7,0,Residential Dining|2026-03-09|11,False,True,True
+Residential Dining,2026-03-09,12,Validation,6,0,Residential Dining|2026-03-09|12,False,True,True
+Residential Dining,2026-03-09,13,Validation,3,0,Residential Dining|2026-03-09|13,False,True,True
+Residential Dining,2026-03-09,16,Validation,1,0,Residential Dining|2026-03-09|16,False,True,True
+Residential Dining,2026-03-09,17,Validation,2,0,Residential Dining|2026-03-09|17,False,True,True
+Residential Dining,2026-03-09,18,Validation,2,0,Residential Dining|2026-03-09|18,False,True,True
+Residential Dining,2026-03-10,7,Validation,3,0,Residential Dining|2026-03-10|07,False,True,True
+Residential Dining,2026-03-10,9,Validation,2,0,Residential Dining|2026-03-10|09,False,True,True
+Residential Dining,2026-03-10,10,Validation,2,0,Residential Dining|2026-03-10|10,False,True,True
+Residential Dining,2026-03-10,11,Validation,3,0,Residential Dining|2026-03-10|11,False,True,True
+Residential Dining,2026-03-10,12,Validation,3,0,Residential Dining|2026-03-10|12,False,True,True
+Residential Dining,2026-03-10,13,Validation,2,0,Residential Dining|2026-03-10|13,False,True,True
+Residential Dining,2026-03-10,17,Validation,2,0,Residential Dining|2026-03-10|17,False,True,True
+Residential Dining,2026-03-10,18,Validation,2,0,Residential Dining|2026-03-10|18,False,True,True
+Residential Dining,2026-03-10,19,Validation,1,0,Residential Dining|2026-03-10|19,False,True,True
+Residential Dining,2026-03-11,7,Validation,2,0,Residential Dining|2026-03-11|07,False,True,True
+Residential Dining,2026-03-11,8,Validation,4,0,Residential Dining|2026-03-11|08,False,True,True
+Residential Dining,2026-03-11,9,Validation,1,0,Residential Dining|2026-03-11|09,False,True,True
+Residential Dining,2026-03-11,10,Validation,1,0,Residential Dining|2026-03-11|10,False,True,True
+Residential Dining,2026-03-11,11,Validation,10,0,Residential Dining|2026-03-11|11,False,True,True
+Residential Dining,2026-03-11,12,Validation,58,0,Residential Dining|2026-03-11|12,False,True,True
+Residential Dining,2026-03-11,13,Validation,4,0,Residential Dining|2026-03-11|13,False,True,True
+Residential Dining,2026-03-11,16,Validation,2,0,Residential Dining|2026-03-11|16,False,True,True
+Residential Dining,2026-03-11,17,Validation,5,0,Residential Dining|2026-03-11|17,False,True,True
+Residential Dining,2026-03-11,19,Validation,1,0,Residential Dining|2026-03-11|19,False,True,True
+Residential Dining,2026-03-12,8,Validation,1,0,Residential Dining|2026-03-12|08,False,True,True
+Residential Dining,2026-03-12,10,Validation,2,0,Residential Dining|2026-03-12|10,False,True,True
+Residential Dining,2026-03-12,11,Validation,2,0,Residential Dining|2026-03-12|11,False,True,True
+Residential Dining,2026-03-12,13,Validation,2,0,Residential Dining|2026-03-12|13,False,True,True
+Residential Dining,2026-03-12,15,Validation,1,0,Residential Dining|2026-03-12|15,False,True,True
+Residential Dining,2026-03-12,17,Validation,3,0,Residential Dining|2026-03-12|17,False,True,True
+Residential Dining,2026-03-12,18,Validation,2,0,Residential Dining|2026-03-12|18,False,True,True
+Residential Dining,2026-03-12,19,Validation,1,0,Residential Dining|2026-03-12|19,False,True,True
+Residential Dining,2026-03-12,20,Validation,1,0,Residential Dining|2026-03-12|20,False,True,True
+Residential Dining,2026-03-13,9,Validation,2,0,Residential Dining|2026-03-13|09,False,True,True
+Residential Dining,2026-03-13,11,Validation,2,0,Residential Dining|2026-03-13|11,False,True,True
+Residential Dining,2026-03-13,12,Validation,7,0,Residential Dining|2026-03-13|12,False,True,True
+Residential Dining,2026-03-13,13,Validation,4,0,Residential Dining|2026-03-13|13,False,True,True
+Residential Dining,2026-03-13,16,Validation,2,0,Residential Dining|2026-03-13|16,False,True,True
+Residential Dining,2026-03-13,18,Validation,5,0,Residential Dining|2026-03-13|18,False,True,True
+Residential Dining,2026-03-14,16,Validation,1,0,Residential Dining|2026-03-14|16,False,True,True
+Residential Dining,2026-03-14,17,Validation,4,0,Residential Dining|2026-03-14|17,False,True,True
+Residential Dining,2026-03-14,18,Validation,1,0,Residential Dining|2026-03-14|18,False,True,True
+Residential Dining,2026-03-15,17,Validation,3,0,Residential Dining|2026-03-15|17,False,True,True
+Residential Dining,2026-03-15,18,Validation,1,0,Residential Dining|2026-03-15|18,False,True,True
+Residential Dining,2026-03-15,20,Validation,1,0,Residential Dining|2026-03-15|20,False,True,True
+Residential Dining,2026-03-16,7,Validation,1,0,Residential Dining|2026-03-16|07,False,True,True
+Residential Dining,2026-03-16,8,Validation,5,0,Residential Dining|2026-03-16|08,False,True,True
+Residential Dining,2026-03-16,9,Validation,1,0,Residential Dining|2026-03-16|09,False,True,True
+Residential Dining,2026-03-16,10,Validation,2,0,Residential Dining|2026-03-16|10,False,True,True
+Residential Dining,2026-03-16,11,Validation,3,0,Residential Dining|2026-03-16|11,False,True,True
+Residential Dining,2026-03-16,12,Validation,16,0,Residential Dining|2026-03-16|12,False,True,True
+Residential Dining,2026-03-16,13,Validation,6,0,Residential Dining|2026-03-16|13,False,True,True
+Residential Dining,2026-03-16,17,Validation,3,0,Residential Dining|2026-03-16|17,False,True,True
+Residential Dining,2026-03-16,18,Validation,5,0,Residential Dining|2026-03-16|18,False,True,True
+Residential Dining,2026-03-17,9,Validation,4,0,Residential Dining|2026-03-17|09,False,True,True
+Residential Dining,2026-03-17,10,Validation,4,0,Residential Dining|2026-03-17|10,False,True,True
+Residential Dining,2026-03-17,11,Validation,16,0,Residential Dining|2026-03-17|11,False,True,True
+Residential Dining,2026-03-17,14,Validation,1,0,Residential Dining|2026-03-17|14,False,True,True
+Residential Dining,2026-03-17,16,Validation,3,0,Residential Dining|2026-03-17|16,False,True,True
+Residential Dining,2026-03-17,17,Validation,3,0,Residential Dining|2026-03-17|17,False,True,True
+Residential Dining,2026-03-17,18,Validation,1,0,Residential Dining|2026-03-17|18,False,True,True
+Residential Dining,2026-03-18,8,Validation,2,0,Residential Dining|2026-03-18|08,False,True,True
+Residential Dining,2026-03-18,9,Validation,4,0,Residential Dining|2026-03-18|09,False,True,True
+Residential Dining,2026-03-18,10,Validation,2,0,Residential Dining|2026-03-18|10,False,True,True
+Residential Dining,2026-03-18,11,Validation,9,0,Residential Dining|2026-03-18|11,False,True,True
+Residential Dining,2026-03-18,12,Validation,13,0,Residential Dining|2026-03-18|12,False,True,True
+Residential Dining,2026-03-18,16,Validation,1,0,Residential Dining|2026-03-18|16,False,True,True
+Residential Dining,2026-03-18,17,Validation,4,0,Residential Dining|2026-03-18|17,False,True,True
+Residential Dining,2026-03-18,18,Validation,1,0,Residential Dining|2026-03-18|18,False,True,True
+Residential Dining,2026-03-18,19,Validation,1,0,Residential Dining|2026-03-18|19,False,True,True
+Residential Dining,2026-03-19,7,Validation,2,0,Residential Dining|2026-03-19|07,False,True,True
+Residential Dining,2026-03-19,9,Validation,1,0,Residential Dining|2026-03-19|09,False,True,True
+Residential Dining,2026-03-19,11,Validation,4,0,Residential Dining|2026-03-19|11,False,True,True
+Residential Dining,2026-03-19,12,Validation,2,0,Residential Dining|2026-03-19|12,False,True,True
+Residential Dining,2026-03-19,16,Validation,2,0,Residential Dining|2026-03-19|16,False,True,True
+Residential Dining,2026-03-19,17,Validation,4,0,Residential Dining|2026-03-19|17,False,True,True
+Residential Dining,2026-03-19,18,Validation,1,0,Residential Dining|2026-03-19|18,False,True,True
+Residential Dining,2026-03-20,8,Validation,1,0,Residential Dining|2026-03-20|08,False,True,True
+Residential Dining,2026-03-20,10,Validation,2,0,Residential Dining|2026-03-20|10,False,True,True
+Residential Dining,2026-03-20,11,Validation,28,0,Residential Dining|2026-03-20|11,False,True,True
+Residential Dining,2026-03-20,12,Validation,8,0,Residential Dining|2026-03-20|12,False,True,True
+Residential Dining,2026-03-20,13,Validation,1,0,Residential Dining|2026-03-20|13,False,True,True
+Residential Dining,2026-03-20,17,Validation,2,0,Residential Dining|2026-03-20|17,False,True,True
+Residential Dining,2026-03-20,18,Validation,3,0,Residential Dining|2026-03-20|18,False,True,True
+Residential Dining,2026-03-22,13,Validation,2,0,Residential Dining|2026-03-22|13,False,True,True
+Residential Dining,2026-03-22,17,Validation,1,0,Residential Dining|2026-03-22|17,False,True,True
+Residential Dining,2026-03-22,18,Validation,2,0,Residential Dining|2026-03-22|18,False,True,True
+Residential Dining,2026-03-23,7,Validation,1,0,Residential Dining|2026-03-23|07,False,True,True
+Residential Dining,2026-03-23,9,Validation,1,0,Residential Dining|2026-03-23|09,False,True,True
+Residential Dining,2026-03-23,11,Validation,8,0,Residential Dining|2026-03-23|11,False,True,True
+Residential Dining,2026-03-23,12,Validation,58,0,Residential Dining|2026-03-23|12,False,True,True
+Residential Dining,2026-03-23,17,Validation,1,0,Residential Dining|2026-03-23|17,False,True,True
+Residential Dining,2026-03-23,18,Validation,1,0,Residential Dining|2026-03-23|18,False,True,True
+Residential Dining,2026-03-23,19,Validation,1,0,Residential Dining|2026-03-23|19,False,True,True
+Residential Dining,2026-03-24,7,Validation,1,0,Residential Dining|2026-03-24|07,False,True,True
+Residential Dining,2026-03-24,8,Validation,2,0,Residential Dining|2026-03-24|08,False,True,True
+Residential Dining,2026-03-24,9,Validation,1,0,Residential Dining|2026-03-24|09,False,True,True
+Residential Dining,2026-03-24,10,Validation,5,0,Residential Dining|2026-03-24|10,False,True,True
+Residential Dining,2026-03-24,11,Validation,5,0,Residential Dining|2026-03-24|11,False,True,True
+Residential Dining,2026-03-24,12,Validation,1,0,Residential Dining|2026-03-24|12,False,True,True
+Residential Dining,2026-03-24,13,Validation,3,0,Residential Dining|2026-03-24|13,False,True,True
+Residential Dining,2026-03-24,16,Validation,1,0,Residential Dining|2026-03-24|16,False,True,True
+Residential Dining,2026-03-24,17,Validation,2,0,Residential Dining|2026-03-24|17,False,True,True
+Residential Dining,2026-03-24,18,Validation,2,0,Residential Dining|2026-03-24|18,False,True,True
+Residential Dining,2026-03-25,7,Validation,2,0,Residential Dining|2026-03-25|07,False,True,True
+Residential Dining,2026-03-25,8,Validation,7,0,Residential Dining|2026-03-25|08,False,True,True
+Residential Dining,2026-03-25,9,Validation,1,0,Residential Dining|2026-03-25|09,False,True,True
+Residential Dining,2026-03-25,10,Validation,2,0,Residential Dining|2026-03-25|10,False,True,True
+Residential Dining,2026-03-25,11,Validation,5,0,Residential Dining|2026-03-25|11,False,True,True
+Residential Dining,2026-03-25,12,Validation,13,0,Residential Dining|2026-03-25|12,False,True,True
+Residential Dining,2026-03-25,13,Validation,3,0,Residential Dining|2026-03-25|13,False,True,True
+Residential Dining,2026-03-25,14,Validation,1,0,Residential Dining|2026-03-25|14,False,True,True
+Residential Dining,2026-03-25,17,Validation,1,0,Residential Dining|2026-03-25|17,False,True,True
+Residential Dining,2026-03-26,7,Validation,1,0,Residential Dining|2026-03-26|07,False,True,True
+Residential Dining,2026-03-26,11,Validation,14,0,Residential Dining|2026-03-26|11,False,True,True
+Residential Dining,2026-03-26,12,Validation,2,0,Residential Dining|2026-03-26|12,False,True,True
+Residential Dining,2026-03-26,13,Validation,1,0,Residential Dining|2026-03-26|13,False,True,True
+Residential Dining,2026-03-26,17,Validation,2,0,Residential Dining|2026-03-26|17,False,True,True
+Residential Dining,2026-03-26,18,Validation,2,0,Residential Dining|2026-03-26|18,False,True,True
+Residential Dining,2026-03-27,11,Validation,4,0,Residential Dining|2026-03-27|11,False,True,True
+Residential Dining,2026-03-27,12,Validation,1,0,Residential Dining|2026-03-27|12,False,True,True
+Residential Dining,2026-03-27,13,Validation,1,0,Residential Dining|2026-03-27|13,False,True,True
+Residential Dining,2026-03-27,14,Validation,1,0,Residential Dining|2026-03-27|14,False,True,True
+Residential Dining,2026-03-27,18,Validation,1,0,Residential Dining|2026-03-27|18,False,True,True
+Residential Dining,2026-03-28,18,Validation,1,0,Residential Dining|2026-03-28|18,False,True,True
+Residential Dining,2026-03-29,15,Validation,1,0,Residential Dining|2026-03-29|15,False,True,True
+Residential Dining,2026-03-29,18,Validation,2,0,Residential Dining|2026-03-29|18,False,True,True
+Residential Dining,2026-03-29,19,Validation,1,0,Residential Dining|2026-03-29|19,False,True,True
+Residential Dining,2026-04-05,12,Validation,0,0,Residential Dining|2026-04-05|12,False,True,True
+Residential Dining,2026-04-06,7,Validation,1,0,Residential Dining|2026-04-06|07,False,True,True
+Residential Dining,2026-04-06,8,Validation,2,0,Residential Dining|2026-04-06|08,False,True,True
+Residential Dining,2026-04-06,9,Validation,8,0,Residential Dining|2026-04-06|09,False,True,True
+Residential Dining,2026-04-06,10,Validation,1,0,Residential Dining|2026-04-06|10,False,True,True
+Residential Dining,2026-04-06,11,Validation,3,0,Residential Dining|2026-04-06|11,False,True,True
+Residential Dining,2026-04-06,12,Validation,12,0,Residential Dining|2026-04-06|12,False,True,True
+Residential Dining,2026-04-06,13,Validation,4,0,Residential Dining|2026-04-06|13,False,True,True
+Residential Dining,2026-04-06,16,Validation,1,0,Residential Dining|2026-04-06|16,False,True,True
+Residential Dining,2026-04-06,17,Validation,2,0,Residential Dining|2026-04-06|17,False,True,True
+Residential Dining,2026-04-07,7,Validation,1,0,Residential Dining|2026-04-07|07,False,True,True
+Residential Dining,2026-04-07,10,Validation,3,0,Residential Dining|2026-04-07|10,False,True,True
+Residential Dining,2026-04-07,11,Validation,26,0,Residential Dining|2026-04-07|11,False,True,True
+Residential Dining,2026-04-07,12,Validation,1,0,Residential Dining|2026-04-07|12,False,True,True
+Residential Dining,2026-04-07,13,Validation,2,0,Residential Dining|2026-04-07|13,False,True,True
+Residential Dining,2026-04-07,15,Validation,1,0,Residential Dining|2026-04-07|15,False,True,True
+Residential Dining,2026-04-07,16,Validation,1,0,Residential Dining|2026-04-07|16,False,True,True
+Residential Dining,2026-04-07,17,Validation,2,0,Residential Dining|2026-04-07|17,False,True,True
+Residential Dining,2026-04-07,18,Validation,2,0,Residential Dining|2026-04-07|18,False,True,True
+Residential Dining,2026-04-07,19,Validation,1,0,Residential Dining|2026-04-07|19,False,True,True
+Residential Dining,2026-04-08,8,Validation,3,0,Residential Dining|2026-04-08|08,False,True,True
+Residential Dining,2026-04-08,9,Validation,1,0,Residential Dining|2026-04-08|09,False,True,True
+Residential Dining,2026-04-08,10,Validation,3,0,Residential Dining|2026-04-08|10,False,True,True
+Residential Dining,2026-04-08,11,Validation,39,0,Residential Dining|2026-04-08|11,False,True,True
+Residential Dining,2026-04-08,12,Validation,14,0,Residential Dining|2026-04-08|12,False,True,True
+Residential Dining,2026-04-08,13,Validation,2,0,Residential Dining|2026-04-08|13,False,True,True
+Residential Dining,2026-04-08,17,Validation,1,0,Residential Dining|2026-04-08|17,False,True,True
+Residential Dining,2026-04-08,18,Validation,4,0,Residential Dining|2026-04-08|18,False,True,True
+Residential Dining,2026-04-09,7,Validation,1,0,Residential Dining|2026-04-09|07,False,True,True
+Residential Dining,2026-04-09,8,Validation,6,0,Residential Dining|2026-04-09|08,False,True,True
+Residential Dining,2026-04-09,9,Validation,3,0,Residential Dining|2026-04-09|09,False,True,True
+Residential Dining,2026-04-09,10,Validation,1,0,Residential Dining|2026-04-09|10,False,True,True
+Residential Dining,2026-04-09,11,Validation,6,0,Residential Dining|2026-04-09|11,False,True,True
+Residential Dining,2026-04-09,12,Validation,4,0,Residential Dining|2026-04-09|12,False,True,True
+Residential Dining,2026-04-09,13,Validation,1,0,Residential Dining|2026-04-09|13,False,True,True
+Residential Dining,2026-04-09,16,Validation,1,0,Residential Dining|2026-04-09|16,False,True,True
+Residential Dining,2026-04-09,17,Validation,5,0,Residential Dining|2026-04-09|17,False,True,True
+Residential Dining,2026-04-09,18,Validation,2,0,Residential Dining|2026-04-09|18,False,True,True
+Residential Dining,2026-04-09,19,Validation,1,0,Residential Dining|2026-04-09|19,False,True,True
+Residential Dining,2026-04-10,8,Validation,1,0,Residential Dining|2026-04-10|08,False,True,True
+Residential Dining,2026-04-10,9,Validation,1,0,Residential Dining|2026-04-10|09,False,True,True
+Residential Dining,2026-04-10,10,Validation,1,0,Residential Dining|2026-04-10|10,False,True,True
+Residential Dining,2026-04-10,11,Validation,1,0,Residential Dining|2026-04-10|11,False,True,True
+Residential Dining,2026-04-10,12,Validation,2,0,Residential Dining|2026-04-10|12,False,True,True
+Residential Dining,2026-04-10,13,Validation,5,0,Residential Dining|2026-04-10|13,False,True,True
+Residential Dining,2026-04-10,17,Validation,3,0,Residential Dining|2026-04-10|17,False,True,True
+Residential Dining,2026-04-10,18,Validation,1,0,Residential Dining|2026-04-10|18,False,True,True
+Residential Dining,2026-04-11,17,Validation,1,0,Residential Dining|2026-04-11|17,False,True,True
+Residential Dining,2026-04-11,18,Validation,3,0,Residential Dining|2026-04-11|18,False,True,True
+Residential Dining,2026-04-12,17,Validation,3,0,Residential Dining|2026-04-12|17,False,True,True
+Residential Dining,2026-04-12,18,Validation,2,0,Residential Dining|2026-04-12|18,False,True,True
+Residential Dining,2026-04-13,8,Validation,7,0,Residential Dining|2026-04-13|08,False,True,True
+Residential Dining,2026-04-13,9,Validation,2,0,Residential Dining|2026-04-13|09,False,True,True
+Residential Dining,2026-04-13,10,Validation,1,0,Residential Dining|2026-04-13|10,False,True,True
+Residential Dining,2026-04-13,11,Validation,4,0,Residential Dining|2026-04-13|11,False,True,True
+Residential Dining,2026-04-13,12,Validation,7,0,Residential Dining|2026-04-13|12,False,True,True
+Residential Dining,2026-04-13,13,Validation,1,0,Residential Dining|2026-04-13|13,False,True,True
+Residential Dining,2026-04-13,17,Validation,2,0,Residential Dining|2026-04-13|17,False,True,True
+Residential Dining,2026-04-13,18,Validation,3,0,Residential Dining|2026-04-13|18,False,True,True
+Residential Dining,2026-04-14,9,Validation,1,0,Residential Dining|2026-04-14|09,False,True,True
+Residential Dining,2026-04-14,10,Validation,3,0,Residential Dining|2026-04-14|10,False,True,True
+Residential Dining,2026-04-14,11,Validation,1,0,Residential Dining|2026-04-14|11,False,True,True
+Residential Dining,2026-04-14,16,Validation,2,0,Residential Dining|2026-04-14|16,False,True,True
+Residential Dining,2026-04-14,17,Validation,2,0,Residential Dining|2026-04-14|17,False,True,True
+Residential Dining,2026-04-14,18,Validation,2,0,Residential Dining|2026-04-14|18,False,True,True
+Residential Dining,2026-04-15,8,Validation,1,0,Residential Dining|2026-04-15|08,False,True,True
+Residential Dining,2026-04-15,9,Validation,1,0,Residential Dining|2026-04-15|09,False,True,True
+Residential Dining,2026-04-15,10,Validation,2,0,Residential Dining|2026-04-15|10,False,True,True
+Residential Dining,2026-04-15,11,Validation,6,0,Residential Dining|2026-04-15|11,False,True,True
+Residential Dining,2026-04-15,12,Validation,22,0,Residential Dining|2026-04-15|12,False,True,True
+Residential Dining,2026-04-15,13,Validation,2,0,Residential Dining|2026-04-15|13,False,True,True
+Residential Dining,2026-04-15,17,Validation,1,0,Residential Dining|2026-04-15|17,False,True,True
+Residential Dining,2026-04-16,8,Validation,4,0,Residential Dining|2026-04-16|08,False,True,True
+Residential Dining,2026-04-16,10,Validation,3,0,Residential Dining|2026-04-16|10,False,True,True
+Residential Dining,2026-04-16,11,Validation,10,0,Residential Dining|2026-04-16|11,False,True,True
+Residential Dining,2026-04-16,13,Validation,2,0,Residential Dining|2026-04-16|13,False,True,True
+Residential Dining,2026-04-16,17,Validation,2,0,Residential Dining|2026-04-16|17,False,True,True
+Residential Dining,2026-04-17,7,Validation,1,0,Residential Dining|2026-04-17|07,False,True,True
+Residential Dining,2026-04-17,8,Validation,1,0,Residential Dining|2026-04-17|08,False,True,True
+Residential Dining,2026-04-17,11,Validation,1,0,Residential Dining|2026-04-17|11,False,True,True
+Residential Dining,2026-04-17,12,Validation,4,0,Residential Dining|2026-04-17|12,False,True,True
+Residential Dining,2026-04-17,13,Validation,4,0,Residential Dining|2026-04-17|13,False,True,True
+Residential Dining,2026-04-17,16,Validation,1,0,Residential Dining|2026-04-17|16,False,True,True
+Residential Dining,2026-04-17,17,Validation,1,0,Residential Dining|2026-04-17|17,False,True,True
+Residential Dining,2026-04-17,18,Validation,1,0,Residential Dining|2026-04-17|18,False,True,True
+Residential Dining,2026-04-18,13,Validation,1,0,Residential Dining|2026-04-18|13,False,True,True
+Residential Dining,2026-04-19,12,Validation,1,0,Residential Dining|2026-04-19|12,False,True,True
+Residential Dining,2026-04-19,16,Validation,1,0,Residential Dining|2026-04-19|16,False,True,True
+Residential Dining,2026-04-19,18,Validation,1,0,Residential Dining|2026-04-19|18,False,True,True
+Residential Dining,2026-04-20,7,Validation,1,0,Residential Dining|2026-04-20|07,False,True,True
+Residential Dining,2026-04-20,8,Validation,1,0,Residential Dining|2026-04-20|08,False,True,True
+Residential Dining,2026-04-20,9,Validation,1,0,Residential Dining|2026-04-20|09,False,True,True
+Residential Dining,2026-04-20,11,Validation,4,0,Residential Dining|2026-04-20|11,False,True,True
+Residential Dining,2026-04-20,12,Validation,13,0,Residential Dining|2026-04-20|12,False,True,True
+Residential Dining,2026-04-20,13,Validation,5,0,Residential Dining|2026-04-20|13,False,True,True
+Residential Dining,2026-04-21,11,Validation,7,0,Residential Dining|2026-04-21|11,False,True,True
+Residential Dining,2026-04-21,12,Validation,1,0,Residential Dining|2026-04-21|12,False,True,True
+Residential Dining,2026-04-22,8,Validation,6,0,Residential Dining|2026-04-22|08,False,True,True
+Residential Dining,2026-04-22,9,Validation,1,0,Residential Dining|2026-04-22|09,False,True,True
+Residential Dining,2026-04-22,11,Validation,9,0,Residential Dining|2026-04-22|11,False,True,True
+Residential Dining,2026-04-22,12,Validation,11,0,Residential Dining|2026-04-22|12,False,True,True
+Residential Dining,2026-04-22,13,Validation,2,0,Residential Dining|2026-04-22|13,False,True,True
+Residential Dining,2026-04-22,17,Validation,1,0,Residential Dining|2026-04-22|17,False,True,True
+Residential Dining,2026-04-22,19,Validation,1,0,Residential Dining|2026-04-22|19,False,True,True
+Residential Dining,2026-04-23,8,Validation,3,0,Residential Dining|2026-04-23|08,False,True,True
+Residential Dining,2026-04-23,11,Validation,8,0,Residential Dining|2026-04-23|11,False,True,True
+Residential Dining,2026-04-23,12,Validation,6,0,Residential Dining|2026-04-23|12,False,True,True
+Residential Dining,2026-04-23,17,Validation,2,0,Residential Dining|2026-04-23|17,False,True,True
+Residential Dining,2026-04-24,12,Validation,2,0,Residential Dining|2026-04-24|12,False,True,True
+Residential Dining,2026-04-24,13,Validation,5,0,Residential Dining|2026-04-24|13,False,True,True
+Residential Dining,2026-04-24,17,Validation,3,0,Residential Dining|2026-04-24|17,False,True,True
+Residential Dining,2026-04-25,15,Validation,1,0,Residential Dining|2026-04-25|15,False,True,True
+Residential Dining,2026-04-25,17,Validation,1,0,Residential Dining|2026-04-25|17,False,True,True
+Residential Dining,2026-04-26,10,Validation,1,0,Residential Dining|2026-04-26|10,False,True,True
+Residential Dining,2026-04-26,11,Validation,2,0,Residential Dining|2026-04-26|11,False,True,True
+Residential Dining,2026-04-26,12,Validation,1,0,Residential Dining|2026-04-26|12,False,True,True
+Residential Dining,2026-04-26,13,Validation,3,0,Residential Dining|2026-04-26|13,False,True,True
+Residential Dining,2026-04-26,17,Validation,4,0,Residential Dining|2026-04-26|17,False,True,True
+Residential Dining,2026-04-26,18,Validation,3,0,Residential Dining|2026-04-26|18,False,True,True
+Residential Dining,2026-04-27,7,Validation,2,0,Residential Dining|2026-04-27|07,False,True,True
+Residential Dining,2026-04-27,8,Validation,3,0,Residential Dining|2026-04-27|08,False,True,True
+Residential Dining,2026-04-27,9,Validation,2,0,Residential Dining|2026-04-27|09,False,True,True
+Residential Dining,2026-04-27,10,Validation,1,0,Residential Dining|2026-04-27|10,False,True,True
+Residential Dining,2026-04-27,11,Validation,3,0,Residential Dining|2026-04-27|11,False,True,True
+Residential Dining,2026-04-27,12,Validation,8,0,Residential Dining|2026-04-27|12,False,True,True
+Residential Dining,2026-04-27,13,Validation,5,0,Residential Dining|2026-04-27|13,False,True,True
+Residential Dining,2026-04-27,16,Validation,1,0,Residential Dining|2026-04-27|16,False,True,True
+Residential Dining,2026-04-27,17,Validation,1,0,Residential Dining|2026-04-27|17,False,True,True
+Residential Dining,2026-04-27,18,Validation,4,0,Residential Dining|2026-04-27|18,False,True,True
+Residential Dining,2026-04-28,7,Validation,1,0,Residential Dining|2026-04-28|07,False,True,True
+Residential Dining,2026-04-28,9,Validation,1,0,Residential Dining|2026-04-28|09,False,True,True
+Residential Dining,2026-04-28,10,Validation,1,0,Residential Dining|2026-04-28|10,False,True,True
+Residential Dining,2026-04-28,11,Validation,3,0,Residential Dining|2026-04-28|11,False,True,True
+Residential Dining,2026-04-28,13,Validation,3,0,Residential Dining|2026-04-28|13,False,True,True
+Residential Dining,2026-04-28,16,Validation,3,0,Residential Dining|2026-04-28|16,False,True,True
+Residential Dining,2026-04-28,17,Validation,2,0,Residential Dining|2026-04-28|17,False,True,True
+Residential Dining,2026-04-29,7,Validation,1,0,Residential Dining|2026-04-29|07,False,True,True
+Residential Dining,2026-04-29,9,Validation,1,0,Residential Dining|2026-04-29|09,False,True,True
+Residential Dining,2026-04-29,10,Validation,2,0,Residential Dining|2026-04-29|10,False,True,True
+Residential Dining,2026-04-29,11,Validation,10,0,Residential Dining|2026-04-29|11,False,True,True
+Residential Dining,2026-04-29,12,Validation,14,0,Residential Dining|2026-04-29|12,False,True,True
+Residential Dining,2026-04-29,13,Validation,2,0,Residential Dining|2026-04-29|13,False,True,True
+Residential Dining,2026-04-29,15,Validation,1,0,Residential Dining|2026-04-29|15,False,True,True
+Residential Dining,2026-04-29,17,Validation,2,0,Residential Dining|2026-04-29|17,False,True,True
+Residential Dining,2026-04-29,18,Validation,1,0,Residential Dining|2026-04-29|18,False,True,True
+Residential Dining,2026-04-29,19,Validation,1,0,Residential Dining|2026-04-29|19,False,True,True
+Residential Dining,2026-04-30,7,Validation,1,0,Residential Dining|2026-04-30|07,False,True,True
+Residential Dining,2026-04-30,8,Validation,8,0,Residential Dining|2026-04-30|08,False,True,True
+Residential Dining,2026-04-30,9,Validation,1,0,Residential Dining|2026-04-30|09,False,True,True
+Residential Dining,2026-04-30,10,Validation,4,0,Residential Dining|2026-04-30|10,False,True,True
+Residential Dining,2026-04-30,11,Validation,8,0,Residential Dining|2026-04-30|11,False,True,True
+Residential Dining,2026-04-30,17,Validation,4,0,Residential Dining|2026-04-30|17,False,True,True
+Residential Dining,2026-04-30,18,Validation,1,0,Residential Dining|2026-04-30|18,False,True,True
+Residential Dining,2026-04-30,19,Validation,1,0,Residential Dining|2026-04-30|19,False,True,True
+Residential Dining,2026-05-01,7,Test,3,0,Residential Dining|2026-05-01|07,False,False,True
+Residential Dining,2026-05-01,8,Test,1,0,Residential Dining|2026-05-01|08,False,False,True
+Residential Dining,2026-05-01,9,Test,1,0,Residential Dining|2026-05-01|09,False,False,True
+Residential Dining,2026-05-01,11,Test,5,0,Residential Dining|2026-05-01|11,False,False,True
+Residential Dining,2026-05-01,12,Test,3,0,Residential Dining|2026-05-01|12,False,False,True
+Residential Dining,2026-05-01,13,Test,1,0,Residential Dining|2026-05-01|13,False,False,True
+Residential Dining,2026-05-01,18,Test,1,0,Residential Dining|2026-05-01|18,False,False,True
+Residential Dining,2026-05-02,18,Test,1,0,Residential Dining|2026-05-02|18,False,False,True
+Residential Dining,2026-05-03,12,Test,2,0,Residential Dining|2026-05-03|12,False,False,True
+Residential Dining,2026-05-03,17,Test,2,0,Residential Dining|2026-05-03|17,False,False,True
+Residential Dining,2026-05-04,7,Test,1,0,Residential Dining|2026-05-04|07,False,False,True
+Residential Dining,2026-05-04,8,Test,2,0,Residential Dining|2026-05-04|08,False,False,True
+Residential Dining,2026-05-04,9,Test,1,0,Residential Dining|2026-05-04|09,False,False,True
+Residential Dining,2026-05-04,10,Test,2,0,Residential Dining|2026-05-04|10,False,False,True
+Residential Dining,2026-05-04,11,Test,5,0,Residential Dining|2026-05-04|11,False,False,True
+Residential Dining,2026-05-04,12,Test,11,0,Residential Dining|2026-05-04|12,False,False,True
+Residential Dining,2026-05-04,17,Test,3,0,Residential Dining|2026-05-04|17,False,False,True
+Residential Dining,2026-05-04,18,Test,4,0,Residential Dining|2026-05-04|18,False,False,True
+Residential Dining,2026-05-05,8,Test,1,0,Residential Dining|2026-05-05|08,False,False,True
+Residential Dining,2026-05-05,9,Test,1,0,Residential Dining|2026-05-05|09,False,False,True
+Residential Dining,2026-05-05,10,Test,1,0,Residential Dining|2026-05-05|10,False,False,True
+Residential Dining,2026-05-05,11,Test,57,0,Residential Dining|2026-05-05|11,False,False,True
+Residential Dining,2026-05-05,12,Test,2,0,Residential Dining|2026-05-05|12,False,False,True
+Residential Dining,2026-05-05,17,Test,2,0,Residential Dining|2026-05-05|17,False,False,True
+Residential Dining,2026-05-05,18,Test,3,0,Residential Dining|2026-05-05|18,False,False,True
+Residential Dining,2026-05-05,19,Test,1,0,Residential Dining|2026-05-05|19,False,False,True
+Residential Dining,2026-05-06,7,Test,3,0,Residential Dining|2026-05-06|07,False,False,True
+Residential Dining,2026-05-06,8,Test,1,0,Residential Dining|2026-05-06|08,False,False,True
+Residential Dining,2026-05-06,9,Test,1,0,Residential Dining|2026-05-06|09,False,False,True
+Residential Dining,2026-05-06,10,Test,2,0,Residential Dining|2026-05-06|10,False,False,True
+Residential Dining,2026-05-06,11,Test,52,0,Residential Dining|2026-05-06|11,False,False,True
+Residential Dining,2026-05-06,12,Test,12,0,Residential Dining|2026-05-06|12,False,False,True
+Residential Dining,2026-05-06,13,Test,4,0,Residential Dining|2026-05-06|13,False,False,True
+Residential Dining,2026-05-06,17,Test,5,0,Residential Dining|2026-05-06|17,False,False,True
+Residential Dining,2026-05-06,18,Test,1,0,Residential Dining|2026-05-06|18,False,False,True
+Residential Dining,2026-05-07,7,Test,1,0,Residential Dining|2026-05-07|07,False,False,True
+Residential Dining,2026-05-07,11,Test,7,0,Residential Dining|2026-05-07|11,False,False,True
+Residential Dining,2026-05-07,13,Test,1,0,Residential Dining|2026-05-07|13,False,False,True
+Residential Dining,2026-05-07,17,Test,2,0,Residential Dining|2026-05-07|17,False,False,True
+Residential Dining,2026-05-07,18,Test,2,0,Residential Dining|2026-05-07|18,False,False,True
+Residential Dining,2026-05-08,7,Test,1,0,Residential Dining|2026-05-08|07,False,False,True
+Residential Dining,2026-05-08,8,Test,2,0,Residential Dining|2026-05-08|08,False,False,True
+Residential Dining,2026-05-08,9,Test,6,0,Residential Dining|2026-05-08|09,False,False,True
+Residential Dining,2026-05-08,11,Test,3,0,Residential Dining|2026-05-08|11,False,False,True
+Residential Dining,2026-05-08,13,Test,2,0,Residential Dining|2026-05-08|13,False,False,True
+Residential Dining,2026-05-08,16,Test,1,0,Residential Dining|2026-05-08|16,False,False,True
+Residential Dining,2026-05-08,17,Test,1,0,Residential Dining|2026-05-08|17,False,False,True
+Residential Dining,2026-05-08,21,Test,1,0,Residential Dining|2026-05-08|21,False,False,True
+Residential Dining,2026-05-09,13,Test,4,0,Residential Dining|2026-05-09|13,False,False,True
+Residential Dining,2026-05-10,12,Test,3,0,Residential Dining|2026-05-10|12,False,False,True
+Residential Dining,2026-05-10,18,Test,3,0,Residential Dining|2026-05-10|18,False,False,True
+Residential Dining,2026-05-11,8,Test,2,0,Residential Dining|2026-05-11|08,False,False,True
+Residential Dining,2026-05-11,9,Test,1,0,Residential Dining|2026-05-11|09,False,False,True
+Residential Dining,2026-05-11,10,Test,1,0,Residential Dining|2026-05-11|10,False,False,True
+Residential Dining,2026-05-11,11,Test,5,0,Residential Dining|2026-05-11|11,False,False,True
+Residential Dining,2026-05-11,12,Test,12,0,Residential Dining|2026-05-11|12,False,False,True
+Residential Dining,2026-05-11,13,Test,5,0,Residential Dining|2026-05-11|13,False,False,True
+Residential Dining,2026-05-11,16,Test,1,0,Residential Dining|2026-05-11|16,False,False,True
+Residential Dining,2026-05-11,17,Test,1,0,Residential Dining|2026-05-11|17,False,False,True
+Residential Dining,2026-05-11,18,Test,3,0,Residential Dining|2026-05-11|18,False,False,True
+Residential Dining,2026-05-12,7,Test,1,0,Residential Dining|2026-05-12|07,False,False,True
+Residential Dining,2026-05-12,8,Test,1,0,Residential Dining|2026-05-12|08,False,False,True
+Residential Dining,2026-05-12,9,Test,3,0,Residential Dining|2026-05-12|09,False,False,True
+Residential Dining,2026-05-12,10,Test,1,0,Residential Dining|2026-05-12|10,False,False,True
+Residential Dining,2026-05-12,11,Test,8,0,Residential Dining|2026-05-12|11,False,False,True
+Residential Dining,2026-05-12,15,Test,1,0,Residential Dining|2026-05-12|15,False,False,True
+Residential Dining,2026-05-12,17,Test,4,0,Residential Dining|2026-05-12|17,False,False,True
+Residential Dining,2026-05-13,8,Test,1,0,Residential Dining|2026-05-13|08,False,False,True
+Residential Dining,2026-05-13,9,Test,2,0,Residential Dining|2026-05-13|09,False,False,True
+Residential Dining,2026-05-13,10,Test,3,0,Residential Dining|2026-05-13|10,False,False,True
+Residential Dining,2026-05-13,11,Test,5,0,Residential Dining|2026-05-13|11,False,False,True
+Residential Dining,2026-05-13,12,Test,14,0,Residential Dining|2026-05-13|12,False,False,True
+Residential Dining,2026-05-13,13,Test,6,0,Residential Dining|2026-05-13|13,False,False,True
+Residential Dining,2026-05-13,16,Test,1,0,Residential Dining|2026-05-13|16,False,False,True
+Residential Dining,2026-05-13,17,Test,3,0,Residential Dining|2026-05-13|17,False,False,True
+Residential Dining,2026-05-14,7,Test,5,0,Residential Dining|2026-05-14|07,False,False,True
+Residential Dining,2026-05-14,8,Test,2,0,Residential Dining|2026-05-14|08,False,False,True
+Residential Dining,2026-05-14,9,Test,1,0,Residential Dining|2026-05-14|09,False,False,True
+Residential Dining,2026-05-14,10,Test,1,0,Residential Dining|2026-05-14|10,False,False,True
+Residential Dining,2026-05-14,11,Test,7,0,Residential Dining|2026-05-14|11,False,False,True
+Residential Dining,2026-05-14,12,Test,7,0,Residential Dining|2026-05-14|12,False,False,True
+Residential Dining,2026-05-14,13,Test,6,0,Residential Dining|2026-05-14|13,False,False,True
+Residential Dining,2026-05-14,17,Test,2,0,Residential Dining|2026-05-14|17,False,False,True
+Residential Dining,2026-05-14,18,Test,2,0,Residential Dining|2026-05-14|18,False,False,True
+Residential Dining,2026-05-15,7,Test,1,0,Residential Dining|2026-05-15|07,False,False,True
+Residential Dining,2026-05-15,8,Test,2,0,Residential Dining|2026-05-15|08,False,False,True
+Residential Dining,2026-05-15,9,Test,1,0,Residential Dining|2026-05-15|09,False,False,True
+Residential Dining,2026-05-15,10,Test,2,0,Residential Dining|2026-05-15|10,False,False,True
+Residential Dining,2026-05-15,11,Test,3,0,Residential Dining|2026-05-15|11,False,False,True
+Residential Dining,2026-05-15,12,Test,3,0,Residential Dining|2026-05-15|12,False,False,True
+Residential Dining,2026-05-15,13,Test,1,0,Residential Dining|2026-05-15|13,False,False,True
+Residential Dining,2026-05-15,17,Test,1,0,Residential Dining|2026-05-15|17,False,False,True

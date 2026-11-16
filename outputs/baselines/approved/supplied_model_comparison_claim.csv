@@ -1,0 +1,25 @@
+Field,Values checked,Mismatches
+Location,2032,0
+Weekday,2032,0
+Hour,2032,0
+Month,2032,0
+IsWeekend,2032,0
+Lag1Day_SameHour,2032,0
+Lag7Day_SameHour,2032,0
+Lag14Day_SameHour,2032,0
+Lag1Day_Missing,2032,0
+Lag7Day_Missing,2032,0
+Lag14Day_Missing,2032,0
+HistoricalSameHour_Avg,2032,0
+HistoricalSameHour_Count,2032,0
+PrevDay_TotalUnits,2032,0
+Prev7Days_AvgDailyUnits,2032,0
+Prev7Days_ObservedDays,2032,0
+Prev28Days_AvgDailyUnits,2032,0
+Prev28Days_ObservedDays,2032,0
+SpringBreak,2032,0
+FinalExamPeriod,2032,0
+RegularClassDay,2032,0
+CampusClosed,2032,0
+Target_HourlyUnits,2032,0
+DataSplit,2032,0

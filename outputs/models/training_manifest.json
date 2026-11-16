@@ -1,0 +1,32 @@
+{
+  "approved_file": "data/ServeSmart_ML_Flat_File_Updated.csv",
+  "features": [
+    "Location",
+    "Weekday",
+    "Hour",
+    "Month",
+    "IsWeekend",
+    "Lag1Day_SameHour",
+    "Lag7Day_SameHour",
+    "Lag14Day_SameHour",
+    "Lag1Day_Missing",
+    "Lag7Day_Missing",
+    "Lag14Day_Missing",
+    "HistoricalSameHour_Avg",
+    "HistoricalSameHour_Count",
+    "PrevDay_TotalUnits",
+    "Prev7Days_AvgDailyUnits",
+    "Prev7Days_ObservedDays",
+    "Prev28Days_AvgDailyUnits",
+    "Prev28Days_ObservedDays",
+    "SpringBreak",
+    "FinalExamPeriod",
+    "RegularClassDay",
+    "CampusClosed"
+  ],
+  "target": "Target_HourlyUnits",
+  "split": "DataSplit labels from approved handoff",
+  "negative_targets_excluded_from_fit": true,
+  "train_rows_used": 741,
+  "test_rows_scored": 316
+}

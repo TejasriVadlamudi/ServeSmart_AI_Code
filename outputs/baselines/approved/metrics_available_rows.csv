@@ -1,0 +1,17 @@
+split,location,model,comparison_scope,eligible_observed_rows,available_predictions,native_coverage_pct,scored_coverage_pct,n_scored,mae,rmse,wape_pct,absolute_error_sum,absolute_actual_sum,metric_status
+validation,ALL,seasonal_naive,model_available_rows,974,758,77.82340862,77.82340862,758,13.02110818,20.01305642,32.76348548,9870,30125,ok
+validation,ALL,historical_hour_mean,model_available_rows,974,974,100,100,974,10.54493397,16.59546696,31.30185811,10270.76568,32812,ok
+validation,Einstein's,seasonal_naive,model_available_rows,437,405,92.67734554,92.67734554,405,16.71851852,22.78449765,32.81795269,6771,20632,ok
+validation,Einstein's,historical_hour_mean,model_available_rows,437,437,100,100,437,15.31984895,20.65414039,30.75794354,6694.773991,21766,ok
+validation,Panda Express,seasonal_naive,model_available_rows,204,166,81.37254902,81.37254902,166,14.45180723,22.03652499,27.85971432,2399,8611,ok
+validation,Panda Express,historical_hour_mean,model_available_rows,204,204,100,100,204,13.55077631,18.72129696,28.18185715,2764.358368,9809,ok
+validation,Residential Dining,seasonal_naive,model_available_rows,333,187,56.15615616,56.15615616,187,3.743315508,8.252693613,79.36507937,700,882,ok
+validation,Residential Dining,historical_hour_mean,model_available_rows,333,333,100,100,333,2.437337313,5.569158495,65.61304166,811.6333253,1237,ok
+test,ALL,seasonal_naive,model_available_rows,316,280,88.60759494,88.60759494,280,14.76785714,21.03950366,49.67563671,4135,8324,ok
+test,ALL,historical_hour_mean,model_available_rows,316,315,99.6835443,99.6835443,315,14.60974446,20.66348779,54.79306473,4602.069506,8399,ok
+test,Einstein's,seasonal_naive,model_available_rows,173,170,98.26589595,98.26589595,170,18.8,23.81596103,53.59718263,3196,5963,ok
+test,Einstein's,historical_hour_mean,model_available_rows,173,173,100,100,173,21.15163569,25.69801822,61.24239289,3659.232975,5975,ok
+test,Panda Express,seasonal_naive,model_available_rows,51,46,90.19607843,90.19607843,46,14.58695652,19.79734282,32.77967758,671,2047,ok
+test,Panda Express,historical_hour_mean,model_available_rows,51,51,100,100,51,13.52552316,17.41313195,33.56699179,689.8016813,2055,ok
+test,Residential Dining,seasonal_naive,model_available_rows,92,64,69.56521739,69.56521739,64,4.1875,12.17836196,85.35031847,268,314,ok
+test,Residential Dining,historical_hour_mean,model_available_rows,92,91,98.91304348,98.91304348,91,2.780602746,7.253184656,68.57313006,253.0348499,369,ok

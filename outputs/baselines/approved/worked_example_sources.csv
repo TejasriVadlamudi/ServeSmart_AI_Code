@@ -1,0 +1,91 @@
+forecast_row_id,forecast_date,source_date,location,hour,source_value,used_in_mean,used_in_seasonal_naive
+Einstein's|2026-05-01|07,2026-05-01,2026-04-06,Einstein's,7,3,True,False
+Einstein's|2026-05-01|07,2026-05-01,2026-04-07,Einstein's,7,13,True,False
+Einstein's|2026-05-01|07,2026-05-01,2026-04-08,Einstein's,7,11,True,False
+Einstein's|2026-05-01|07,2026-05-01,2026-04-09,Einstein's,7,5,True,False
+Einstein's|2026-05-01|07,2026-05-01,2026-04-10,Einstein's,7,6,True,False
+Einstein's|2026-05-01|07,2026-05-01,2026-04-13,Einstein's,7,13,True,False
+Einstein's|2026-05-01|07,2026-05-01,2026-04-14,Einstein's,7,6,True,False
+Einstein's|2026-05-01|07,2026-05-01,2026-04-15,Einstein's,7,7,True,False
+Einstein's|2026-05-01|07,2026-05-01,2026-04-16,Einstein's,7,3,True,False
+Einstein's|2026-05-01|07,2026-05-01,2026-04-17,Einstein's,7,6,True,False
+Einstein's|2026-05-01|07,2026-05-01,2026-04-20,Einstein's,7,11,True,False
+Einstein's|2026-05-01|07,2026-05-01,2026-04-21,Einstein's,7,4,True,False
+Einstein's|2026-05-01|07,2026-05-01,2026-04-22,Einstein's,7,22,True,False
+Einstein's|2026-05-01|07,2026-05-01,2026-04-23,Einstein's,7,16,True,False
+Einstein's|2026-05-01|07,2026-05-01,2026-04-24,Einstein's,7,9,True,True
+Einstein's|2026-05-01|07,2026-05-01,2026-04-27,Einstein's,7,9,True,False
+Einstein's|2026-05-01|07,2026-05-01,2026-04-28,Einstein's,7,10,True,False
+Einstein's|2026-05-01|07,2026-05-01,2026-04-29,Einstein's,7,12,True,False
+Einstein's|2026-05-01|07,2026-05-01,2026-04-30,Einstein's,7,15,True,False
+Einstein's|2026-05-15|07,2026-05-15,2026-04-17,Einstein's,7,6,True,False
+Einstein's|2026-05-15|07,2026-05-15,2026-04-20,Einstein's,7,11,True,False
+Einstein's|2026-05-15|07,2026-05-15,2026-04-21,Einstein's,7,4,True,False
+Einstein's|2026-05-15|07,2026-05-15,2026-04-22,Einstein's,7,22,True,False
+Einstein's|2026-05-15|07,2026-05-15,2026-04-23,Einstein's,7,16,True,False
+Einstein's|2026-05-15|07,2026-05-15,2026-04-24,Einstein's,7,9,True,False
+Einstein's|2026-05-15|07,2026-05-15,2026-04-27,Einstein's,7,9,True,False
+Einstein's|2026-05-15|07,2026-05-15,2026-04-28,Einstein's,7,10,True,False
+Einstein's|2026-05-15|07,2026-05-15,2026-04-29,Einstein's,7,12,True,False
+Einstein's|2026-05-15|07,2026-05-15,2026-04-30,Einstein's,7,15,True,False
+Einstein's|2026-05-15|07,2026-05-15,2026-05-01,Einstein's,7,8,True,False
+Einstein's|2026-05-15|07,2026-05-15,2026-05-04,Einstein's,7,10,True,False
+Einstein's|2026-05-15|07,2026-05-15,2026-05-05,Einstein's,7,6,True,False
+Einstein's|2026-05-15|07,2026-05-15,2026-05-06,Einstein's,7,14,True,False
+Einstein's|2026-05-15|07,2026-05-15,2026-05-07,Einstein's,7,20,True,False
+Einstein's|2026-05-15|07,2026-05-15,2026-05-11,Einstein's,7,11,True,False
+Einstein's|2026-05-15|07,2026-05-15,2026-05-12,Einstein's,7,25,True,False
+Einstein's|2026-05-15|07,2026-05-15,2026-05-13,Einstein's,7,21,True,False
+Einstein's|2026-05-15|07,2026-05-15,2026-05-14,Einstein's,7,7,True,False
+Panda Express|2026-05-01|11,2026-05-01,2026-04-06,Panda Express,11,49,True,False
+Panda Express|2026-05-01|11,2026-05-01,2026-04-07,Panda Express,11,45,True,False
+Panda Express|2026-05-01|11,2026-05-01,2026-04-08,Panda Express,11,60,True,False
+Panda Express|2026-05-01|11,2026-05-01,2026-04-09,Panda Express,11,48,True,False
+Panda Express|2026-05-01|11,2026-05-01,2026-04-10,Panda Express,11,34,True,False
+Panda Express|2026-05-01|11,2026-05-01,2026-04-13,Panda Express,11,59,True,False
+Panda Express|2026-05-01|11,2026-05-01,2026-04-14,Panda Express,11,42,True,False
+Panda Express|2026-05-01|11,2026-05-01,2026-04-15,Panda Express,11,59,True,False
+Panda Express|2026-05-01|11,2026-05-01,2026-04-16,Panda Express,11,49,True,False
+Panda Express|2026-05-01|11,2026-05-01,2026-04-17,Panda Express,11,35,True,False
+Panda Express|2026-05-01|11,2026-05-01,2026-04-20,Panda Express,11,50,True,False
+Panda Express|2026-05-01|11,2026-05-01,2026-04-21,Panda Express,11,52,True,False
+Panda Express|2026-05-01|11,2026-05-01,2026-04-22,Panda Express,11,93,True,False
+Panda Express|2026-05-01|11,2026-05-01,2026-04-23,Panda Express,11,48,True,False
+Panda Express|2026-05-01|11,2026-05-01,2026-04-24,Panda Express,11,40,True,True
+Panda Express|2026-05-01|11,2026-05-01,2026-04-27,Panda Express,11,76,True,False
+Panda Express|2026-05-01|11,2026-05-01,2026-04-28,Panda Express,11,42,True,False
+Panda Express|2026-05-01|11,2026-05-01,2026-04-29,Panda Express,11,60,True,False
+Panda Express|2026-05-01|11,2026-05-01,2026-04-30,Panda Express,11,45,True,False
+Panda Express|2026-05-05|10,2026-05-05,2026-04-08,Panda Express,10,2,True,False
+Panda Express|2026-05-05|10,2026-05-05,2026-04-10,Panda Express,10,1,True,False
+Panda Express|2026-05-05|10,2026-05-05,2026-04-16,Panda Express,10,1,True,False
+Panda Express|2026-05-05|10,2026-05-05,2026-04-17,Panda Express,10,3,True,False
+Panda Express|2026-05-05|10,2026-05-05,2026-04-22,Panda Express,10,4,True,False
+Panda Express|2026-05-05|10,2026-05-05,2026-04-24,Panda Express,10,10,True,False
+Residential Dining|2026-05-01|12,2026-05-01,2026-04-05,Residential Dining,12,0,True,False
+Residential Dining|2026-05-01|12,2026-05-01,2026-04-06,Residential Dining,12,12,True,False
+Residential Dining|2026-05-01|12,2026-05-01,2026-04-07,Residential Dining,12,1,True,False
+Residential Dining|2026-05-01|12,2026-05-01,2026-04-08,Residential Dining,12,14,True,False
+Residential Dining|2026-05-01|12,2026-05-01,2026-04-09,Residential Dining,12,4,True,False
+Residential Dining|2026-05-01|12,2026-05-01,2026-04-10,Residential Dining,12,2,True,False
+Residential Dining|2026-05-01|12,2026-05-01,2026-04-13,Residential Dining,12,7,True,False
+Residential Dining|2026-05-01|12,2026-05-01,2026-04-15,Residential Dining,12,22,True,False
+Residential Dining|2026-05-01|12,2026-05-01,2026-04-17,Residential Dining,12,4,True,False
+Residential Dining|2026-05-01|12,2026-05-01,2026-04-19,Residential Dining,12,1,True,False
+Residential Dining|2026-05-01|12,2026-05-01,2026-04-20,Residential Dining,12,13,True,False
+Residential Dining|2026-05-01|12,2026-05-01,2026-04-21,Residential Dining,12,1,True,False
+Residential Dining|2026-05-01|12,2026-05-01,2026-04-22,Residential Dining,12,11,True,False
+Residential Dining|2026-05-01|12,2026-05-01,2026-04-23,Residential Dining,12,6,True,False
+Residential Dining|2026-05-01|12,2026-05-01,2026-04-24,Residential Dining,12,2,True,True
+Residential Dining|2026-05-01|12,2026-05-01,2026-04-26,Residential Dining,12,1,True,False
+Residential Dining|2026-05-01|12,2026-05-01,2026-04-27,Residential Dining,12,8,True,False
+Residential Dining|2026-05-01|12,2026-05-01,2026-04-29,Residential Dining,12,14,True,False
+Residential Dining|2026-05-01|07,2026-05-01,2026-04-06,Residential Dining,7,1,True,False
+Residential Dining|2026-05-01|07,2026-05-01,2026-04-07,Residential Dining,7,1,True,False
+Residential Dining|2026-05-01|07,2026-05-01,2026-04-09,Residential Dining,7,1,True,False
+Residential Dining|2026-05-01|07,2026-05-01,2026-04-17,Residential Dining,7,1,True,False
+Residential Dining|2026-05-01|07,2026-05-01,2026-04-20,Residential Dining,7,1,True,False
+Residential Dining|2026-05-01|07,2026-05-01,2026-04-27,Residential Dining,7,2,True,False
+Residential Dining|2026-05-01|07,2026-05-01,2026-04-28,Residential Dining,7,1,True,False
+Residential Dining|2026-05-01|07,2026-05-01,2026-04-29,Residential Dining,7,1,True,False
+Residential Dining|2026-05-01|07,2026-05-01,2026-04-30,Residential Dining,7,1,True,False

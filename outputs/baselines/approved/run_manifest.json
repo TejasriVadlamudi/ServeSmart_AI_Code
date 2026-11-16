@@ -1,0 +1,80 @@
+{
+  "input_path": "/Users/thanishkareddy/Documents/Codex/2026-11-11/my/outputs/ServeSmart_Baseline/data/handoff_updated/ServeSmart_ML_Flat_File_Updated.csv",
+  "input_sha256": "c784f24b4bebcebe6c66b3bb9b9ddbdb7d449efaab168a15a401c16f0fd9a82f",
+  "provided_rows": 2032,
+  "recorded_rows": 2032,
+  "unobserved_provided_rows": 0,
+  "recorded_dates": 128,
+  "date_min": "2026-01-11",
+  "date_max": "2026-05-28",
+  "negative_recorded_hours": 1,
+  "zero_recorded_hours": 2,
+  "recorded_target_total": 63891.0,
+  "negative_policy": "preserve",
+  "timezone_interpretation": "America/Los_Angeles",
+  "supplied_contract_checks": {
+    "split_labels_match_config": true,
+    "cutoff_dates_are_previous_day": true,
+    "negative_flags_match_target": true
+  },
+  "supervised_fit_policy": "Exclude negative-target rows for RF/XGBoost fitting, as specified in the handoff. Retain original target and historical quantities. The single negative target is in Train; no validation/test targets are negative.",
+  "baseline_history_policy": "Preserve recorded signed quantities; no supervised model is fitted here.",
+  "locations": [
+    {
+      "location": "Einstein's",
+      "recorded_rows": 918,
+      "target_total": 42753
+    },
+    {
+      "location": "Panda Express",
+      "recorded_rows": 408,
+      "target_total": 18534
+    },
+    {
+      "location": "Residential Dining",
+      "recorded_rows": 706,
+      "target_total": 2604
+    }
+  ],
+  "dataset_stage": "approved",
+  "target_definition": "Recorded signed net POS units from the final dimensional ETL; all 2032 targets match the validated hourly reference. Not orders, meals or people.",
+  "config_sha256": "5c2cb3bbf5f95754246535affa6c2510b36e98b6ade0ab347eb2743f14d7e2ff",
+  "source_code_sha256": "ed073b110b8ef1aa6da0d4c349c1bdda1f0d8191fe17cfaa04a02a7326a0ef24",
+  "config": {
+    "dataset_stage": "approved",
+    "approval_basis": "User supplied Sanjana's updated handoff as the current ML flat file on November 15, 2026; keys and targets independently reconciled to the validated ETL.",
+    "input_path": "data/handoff_updated/ServeSmart_ML_Flat_File_Updated.csv",
+    "sheet_name": null,
+    "columns": {
+      "location": "Location",
+      "date": "Date",
+      "hour": "Hour",
+      "target": "Target_HourlyUnits",
+      "observed": null,
+      "split": "DataSplit",
+      "forecast_cutoff_date": "ForecastCutoffDate",
+      "negative_flag": "Target_NegativeFlag"
+    },
+    "timezone": "America/Los_Angeles",
+    "target_definition": "Recorded signed net POS units from the final dimensional ETL; all 2032 targets match the validated hourly reference. Not orders, meals or people.",
+    "target_definition_confirmed": true,
+    "observation_policy": "recorded_rows_only",
+    "negative_policy": "preserve",
+    "supervised_fit_negative_policy": "Exclude negative-target rows for RF/XGBoost fitting, as specified in the handoff. Retain original target and historical quantities. The single negative target is in Train; no validation/test targets are negative.",
+    "lookback_days": 28,
+    "min_mean_observations": 1,
+    "train_end": "2026-02-28",
+    "validation_end": "2026-04-30",
+    "test_end": "2026-05-28",
+    "output_directory": "results/approved"
+  },
+  "forecast_rows": 9936,
+  "recorded_scoring_rows": 2032,
+  "future_history_violations": 0,
+  "python_version": "3.12.14",
+  "pandas_version": "2.2.3",
+  "numpy_version": "2.3.5",
+  "scoring_population": "Recorded hours only; operating schedule is not established.",
+  "evaluation_protocol": "Daily rolling origin; prior validation/test outcomes become available only on later days.",
+  "result_label": "APPROVED-DATA RUN"
+}

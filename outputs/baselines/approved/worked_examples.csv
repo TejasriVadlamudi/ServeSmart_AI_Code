@@ -1,0 +1,7 @@
+row_id,location,date,hour,forecast_origin_exclusive,forecast_cutoff,split,seasonal_naive,seasonal_source_timestamp,seasonal_status,historical_hour_mean,mean_history_count,mean_first_source_timestamp,mean_latest_source_timestamp,mean_status,target,observed,common_scored_row
+Einstein's|2026-05-01|07,Einstein's,2026-05-01,7,2026-05-01,2026-04-30 23:59:59,test,9.0,2026-04-24 07:00:00,available,9.526315789473685,19,2026-04-06 07:00:00,2026-04-30 07:00:00,available,8.0,True,True
+Einstein's|2026-05-15|07,Einstein's,2026-05-15,7,2026-05-15,2026-05-14 23:59:59,test,,,missing_exact_previous_week_hour,12.421052631578947,19,2026-04-17 07:00:00,2026-05-14 07:00:00,available,3.0,True,False
+Panda Express|2026-05-01|11,Panda Express,2026-05-01,11,2026-05-01,2026-04-30 23:59:59,test,40.0,2026-04-24 11:00:00,available,51.89473684210526,19,2026-04-06 11:00:00,2026-04-30 11:00:00,available,20.0,True,True
+Panda Express|2026-05-05|10,Panda Express,2026-05-05,10,2026-05-05,2026-05-04 23:59:59,test,,,missing_exact_previous_week_hour,3.5,6,2026-04-08 10:00:00,2026-04-24 10:00:00,available,1.0,True,False
+Residential Dining|2026-05-01|12,Residential Dining,2026-05-01,12,2026-05-01,2026-04-30 23:59:59,test,2.0,2026-04-24 12:00:00,available,6.833333333333333,18,2026-04-05 12:00:00,2026-04-29 12:00:00,available,3.0,True,True
+Residential Dining|2026-05-01|07,Residential Dining,2026-05-01,7,2026-05-01,2026-04-30 23:59:59,test,,,missing_exact_previous_week_hour,1.1111111111111112,9,2026-04-06 07:00:00,2026-04-30 07:00:00,available,3.0,True,False

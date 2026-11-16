@@ -1,0 +1,10 @@
+split,location,first_date,last_date,recorded_hours,common_hours,negative_hours
+test,Einstein's,2026-05-01,2026-05-28,173,170,0
+test,Panda Express,2026-05-01,2026-05-14,51,46,0
+test,Residential Dining,2026-05-01,2026-05-15,92,64,0
+train,Einstein's,2026-01-19,2026-02-27,308,255,0
+train,Panda Express,2026-01-19,2026-02-27,153,118,0
+train,Residential Dining,2026-01-11,2026-02-28,281,170,1
+validation,Einstein's,2026-03-02,2026-04-30,437,405,0
+validation,Panda Express,2026-03-02,2026-04-30,204,166,0
+validation,Residential Dining,2026-03-01,2026-04-30,333,187,0
