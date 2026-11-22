@@ -497,7 +497,7 @@ def manager_portal(st, data: pd.DataFrame, sales: pd.DataFrame, closures: pd.Dat
             "Forecast time bucket",
             options=manager_time_options,
             index=manager_time_options.index(st.session_state["manager_time_value"]),
-            format_func=lambda value: f"{value.strftime('%I:%M %p').lstrip('0')}–{(value.hour + 1) % 24:02d}:00 {'AM' if (value.hour + 1) % 24 < 12 else 'PM'}",
+            format_func=lambda value: f"{value.strftime('%I:%M %p').lstrip('0')}–{datetime(2000, 1, 1, (value.hour + 1) % 24).strftime('%I:%M %p').lstrip('0')}",
             key=manager_time_key,
         )
         st.session_state["manager_time_value"] = forecast_time
