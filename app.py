@@ -32,8 +32,12 @@ LOCAL_TZ = ZoneInfo("America/Los_Angeles")
 STATION_NAMES = {"Einstein's": "Einstein's", "Panda Express": "Panda's", "Residential Dining": "Dining Commons"}
 SUGGESTED_MANAGER_QUESTIONS = [
     "What are the predicted sales at 10 a.m. at Panda's?",
-    "What are the predicted sales at 2 p.m. at Einstein's?",
+    "What are the predicted sales at 2 p.m. tomorrow at Einstein's?",
+    "What are the predicted sales at 5 p.m. today at Dining Commons?",
     "Which items sell most on Mondays?",
+    "Which items sell most on Thursdays?",
+    "What are the peak hours at Panda's?",
+    "What are the peak hours at Dining Commons?",
 ]
 
 
@@ -611,69 +615,9 @@ def main() -> None:
     closures = load_closure_calendar()
     operating_hours = load_operating_hours()
     st.sidebar.title("Portal")
-    portal_options = ["Home", "Customer Portal", "Manager Portal", "Analytics"]
-    portal = st.sidebar.radio("Choose a view", portal_options, index=portal_options.index(st.session_state.get("portal_choice", "Home")))
-    if portal == "Home":
-        st.markdown(
-            """
-            <div class="welcome-wrap">
-              <div class="brand-mark">🍴 <span>Serve</span>Smart</div>
-              <div class="welcome-kicker">AI-Powered Campus Dining Forecasting</div>
-              <div class="welcome-title">Welcome to <span>ServeSmart</span></div>
-              <div class="welcome-caption">Smarter dining decisions for every visit.</div>
-              <div class="benefits">
-                <div class="benefit">📊 Predict Demand</div>
-                <div class="benefit">👥 Reduce Wait Time</div>
-                <div class="benefit">🌿 Optimize Operations</div>
-              </div>
-            </div>
-            """,
-            unsafe_allow_html=True,
-        )
-        c1, c2 = st.columns(2, gap="large")
-        with c1:
-            st.markdown(
-                """
-                <div class="portal-card customer-card">
-                  <div class="portal-icon">♧</div>
-                  <div class="portal-title">Customer Portal</div>
-                  <div class="portal-text">Check estimated wait times at your favorite dining locations before you visit.</div>
-                </div>
-                """,
-                unsafe_allow_html=True,
-            )
-            if st.button("Open Customer Portal  →", key="home_customer_portal", use_container_width=True):
-                st.session_state["portal_choice"] = "Customer Portal"
-                st.rerun()
-        with c2:
-            st.markdown(
-                """
-                <div class="portal-card manager-card">
-                  <div class="portal-icon">▥</div>
-                  <div class="portal-title">Manager Portal</div>
-                  <div class="portal-text">View today’s predicted sales, analyze trends, and search manager questions.</div>
-                </div>
-                """,
-                unsafe_allow_html=True,
-            )
-            if st.button("Open Manager Portal  →", key="home_manager_portal", use_container_width=True):
-                st.session_state["portal_choice"] = "Manager Portal"
-                st.rerun()
-        st.markdown(
-            """
-            <div class="location-heading">Our Dining Locations at <span style="color:#ff9d21">CSUEB</span></div>
-            <div class="locations">
-              <div class="location">🍽️ Dining Commons</div>
-              <div class="location">🥯 Einstein Bros. Bagels</div>
-              <div class="location">🐼 Panda Express</div>
-            </div>
-            """,
-            unsafe_allow_html=True,
-        )
-    elif portal == "Customer Portal":
-        st.title("ServeSmart")
-        customer_portal(st, data, queue, closures, operating_hours)
-    elif portal == "Manager Portal":
+    portal_options = ["Manager Portal", "Analytics"]
+    portal = st.sidebar.radio("Choose a view", portal_options, index=portal_options.index(st.session_state.get("portal_choice", "Manager Portal")))
+    if portal == "Manager Portal":
         st.title("ServeSmart")
         manager_portal(st, data, sales, closures, operating_hours)
     else:
