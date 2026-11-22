@@ -478,10 +478,14 @@ def manager_portal(st, data: pd.DataFrame, sales: pd.DataFrame, closures: pd.Dat
         st.markdown("### Plan Your View")
         today = pd.Timestamp(datetime.now(LOCAL_TZ).date())
         forecast_date = pd.Timestamp(st.date_input("Forecast date", value=today.date(), key="manager_date"))
-        manager_time_options = [time(hour, minute) for hour in range(24) for minute in range(60)]
-        manager_now = datetime.now(LOCAL_TZ).replace(second=0, microsecond=0).time()
+        # Forecasts are hourly, so the manager selects a demand bucket rather
+        # than an exact minute that the model cannot independently predict.
+        manager_time_options = [time(hour, 0) for hour in range(24)]
+        manager_now = datetime.now(LOCAL_TZ).replace(minute=0, second=0, microsecond=0).time()
         if "manager_time_value" not in st.session_state:
             st.session_state["manager_time_value"] = manager_now
+        else:
+            st.session_state["manager_time_value"] = st.session_state["manager_time_value"].replace(minute=0, second=0, microsecond=0)
         if "manager_time_reset" not in st.session_state:
             st.session_state["manager_time_reset"] = 0
         if st.button("◉  Use Current Time", key="manager_current_time", use_container_width=True):
@@ -490,16 +494,19 @@ def manager_portal(st, data: pd.DataFrame, sales: pd.DataFrame, closures: pd.Dat
             st.rerun()
         manager_time_key = f"manager_time_select_{st.session_state['manager_time_reset']}"
         forecast_time = st.selectbox(
-            "Forecast time",
+            "Forecast time bucket",
             options=manager_time_options,
             index=manager_time_options.index(st.session_state["manager_time_value"]),
-            format_func=lambda value: value.strftime("%I:%M %p").lstrip("0"),
+            format_func=lambda value: f"{value.strftime('%I:%M %p').lstrip('0')}–{(value.hour + 1) % 24:02d}:00 {'AM' if (value.hour + 1) % 24 < 12 else 'PM'}",
             key=manager_time_key,
         )
         st.session_state["manager_time_value"] = forecast_time
     selected_hour = forecast_time.hour
     with plan_col:
-        st.caption(f"Snapshot: {forecast_date.strftime('%B %-d, %Y')} at {forecast_time.strftime('%I:%M %p').lstrip('0')}. Past times remain estimates for that date; they do not switch to tomorrow.")
+        bucket_end = (forecast_time.hour + 1) % 24
+        end_label = datetime(2000, 1, 1, bucket_end).strftime("%I:%M %p").lstrip("0")
+        bucket_label = f"{forecast_time.strftime('%I:%M %p').lstrip('0')}–{end_label}"
+        st.caption(f"Snapshot: {forecast_date.strftime('%B %-d, %Y')} · {bucket_label}. Past times remain estimates for that date; they do not switch to tomorrow.")
     forecast_data, _ = forecast_for_date(data, forecast_date)
     snapshot_rows = []
     for station in data["Station"].dropna().unique():
@@ -511,7 +518,7 @@ def manager_portal(st, data: pd.DataFrame, sales: pd.DataFrame, closures: pd.Dat
             "Status": status,
         })
     with snapshot_col:
-        st.markdown(f"### Predicted Sales · {forecast_time.strftime('%I:%M %p').lstrip('0')}")
+        st.markdown(f"### Predicted Sales · {bucket_label}")
         st.caption(f"Selected date: {forecast_date.strftime('%B %-d, %Y')}")
         snapshot_columns = st.columns(len(snapshot_rows), gap="small")
         for column, row in zip(snapshot_columns, snapshot_rows):
