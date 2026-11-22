@@ -15,6 +15,10 @@ from decision_support import build_recommendations  # noqa: E402
 from forecasting_data import load_ml_flat_file  # noqa: E402
 
 APPROVED_ML_FILE = ROOT / "data" / "ServeSmart_ML_Flat_File_Updated.csv"
+FINAL_HOURLY_ML_FILE = ROOT / "data" / "updated_handoff" / "ServeSmart_Final_Hourly_ML.csv"
+FINAL_HOURLY_PREDICTIONS_FILE = ROOT / "data" / "updated_handoff" / "dashboard" / "ServeSmart_Hourly_May_Predictions.csv"
+FINAL_DAILY_PREDICTIONS_FILE = ROOT / "data" / "updated_handoff" / "dashboard" / "ServeSmart_Daily_May_Predictions.csv"
+FINAL_MODEL_SUMMARY_FILE = ROOT / "data" / "updated_handoff" / "evaluation" / "Final_Model_Summary.csv"
 BASELINE_FORECAST_FILE = ROOT / "outputs" / "baselines" / "approved" / "all_hour_forecasts.csv"
 BASELINE_COMPARISON_FILE = ROOT / "outputs" / "models" / "model_comparison_common_test.csv"
 QUEUE_FILE = ROOT / "data" / "queue_service_times.csv"
@@ -42,19 +46,28 @@ SUGGESTED_MANAGER_QUESTIONS = [
 
 
 def load_demo_data() -> pd.DataFrame:
-    source_file = APPROVED_ML_FILE if APPROVED_ML_FILE.exists() else LEGACY_DEMO_FILE
+    source_file = FINAL_HOURLY_ML_FILE if FINAL_HOURLY_ML_FILE.exists() else APPROVED_ML_FILE
     if source_file.exists():
         frame = load_ml_flat_file(source_file)
-        frame["ForecastUnits"] = frame["Target_HourlyUnits"]
+        # The updated handoff contains historical inputs, while its dashboard
+        # file contains the selected model's out-of-sample predictions. Keep
+        # those predictions separate from recorded actual demand.
+        frame["ForecastUnits"] = pd.NA
         frame["Date"] = pd.to_datetime(frame["Date"])
         frame["Station"] = frame["Location"].map(STATION_NAMES).fillna(frame["Location"])
+        if FINAL_HOURLY_PREDICTIONS_FILE.exists():
+            predictions = pd.read_csv(FINAL_HOURLY_PREDICTIONS_FILE, low_memory=False)
+            predictions["Date"] = pd.to_datetime(predictions["Date"], errors="coerce")
+            predictions["Predicted"] = pd.to_numeric(predictions["Predicted"], errors="coerce")
+            predictions = predictions[["Location", "Date", "Hour", "Predicted"]].rename(columns={"Predicted": "ForecastUnits"})
+            frame = frame.drop(columns=["ForecastUnits"]).merge(predictions, on=["Location", "Date", "Hour"], how="left")
         if BASELINE_FORECAST_FILE.exists():
             baseline = pd.read_csv(BASELINE_FORECAST_FILE, low_memory=False)
             baseline = baseline.rename(columns={"location": "Location", "date": "Date", "hour": "Hour"})
             baseline["Date"] = pd.to_datetime(baseline["Date"])
             baseline = baseline[["Location", "Date", "Hour", "seasonal_naive", "historical_hour_mean"]]
             frame = frame.merge(baseline, on=["Location", "Date", "Hour"], how="left")
-            frame["ForecastUnits"] = frame["seasonal_naive"].fillna(frame["historical_hour_mean"]).fillna(frame["ForecastUnits"])
+            frame["ForecastUnits"] = frame["ForecastUnits"].fillna(frame["seasonal_naive"]).fillna(frame["historical_hour_mean"])
         return frame
     dates = pd.date_range("2026-01-01", periods=14, freq="D")
     rows = []
@@ -170,6 +183,7 @@ def station_operating_status(data: pd.DataFrame, station: str, forecast_date: pd
 def forecast_for_date(data: pd.DataFrame, forecast_date: pd.Timestamp) -> tuple[pd.DataFrame, str]:
     """Use recorded baseline values when available, otherwise forecast by recent weekday/hour history."""
     exact = data[data["Date"].dt.normalize().eq(forecast_date.normalize())]
+    exact = exact.dropna(subset=["ForecastUnits"])
     if not exact.empty:
         return exact[["Station", "Hour", "ForecastUnits"]].copy(), "approved baseline output"
 

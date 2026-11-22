@@ -1,0 +1,89 @@
+ForecastLevel,Configuration,Model,Evaluation,Observations,MAE,RMSE,MAPE (%),MAPE Observations,Zero Actuals,EvaluationPeriod,ValidationSelected
+Hourly,Without students,Ridge,All validation,974,8.9701584842359559,13.944656320959869,66.695253429282815,973,1,March-April validation,
+Hourly,With students,Ridge,All validation,974,9.0212219912548761,13.671773423530603,76.162372221341045,973,1,March-April validation,
+Daily,Without students,Ridge,All validation,136,46.677807016924362,69.392604453850353,49.966113042748404,135,1,March-April validation,
+Daily,With students,Ridge,All validation,136,45.395476171219961,65.175761109765432,55.589092272211502,135,1,March-April validation,
+Hourly,Without students,Random Forest,All validation,974,8.8096286294905806,14.086187835606363,64.320268841231538,973,1,March-April validation,
+Hourly,With students,Random Forest,All validation,974,8.4351886750329417,13.490738818212412,63.546982386736985,973,1,March-April validation,
+Daily,Without students,Random Forest,All validation,136,37.950889057769579,66.455245696049246,51.804950274829331,135,1,March-April validation,
+Daily,With students,Random Forest,All validation,136,34.68685412253916,52.729517981612879,50.280086410941259,135,1,March-April validation,
+Hourly,Without students,XGBoost,All validation,974,9.2151401390530001,14.18526648207413,102.16061393903328,973,1,March-April validation,
+Hourly,With students,XGBoost,All validation,974,8.5752436047461984,13.036845283316584,90.923480488979706,973,1,March-April validation,
+Daily,Without students,XGBoost,All validation,136,41.800087904667151,67.501373920482621,52.266466540996163,135,1,March-April validation,
+Daily,With students,XGBoost,All validation,136,32.601950116017285,47.143818156518819,46.597062738310449,135,1,March-April validation,
+Hourly,Without students,LightGBM,All validation,974,9.130350481661667,14.180174062508584,93.008261874619151,973,1,March-April validation,
+Hourly,With students,LightGBM,All validation,974,8.5407565039915525,13.05360462317871,91.088959993830443,973,1,March-April validation,
+Daily,Without students,LightGBM,All validation,136,41.355721563536285,62.463105427275508,50.374475534261009,135,1,March-April validation,
+Daily,With students,LightGBM,All validation,136,33.618390217961149,47.839910802669266,52.343538165495239,135,1,March-April validation,
+Hourly,Without students,Prophet,All validation,974,9.4694906004265338,14.649868837042504,64.721680656109172,973,1,March-April validation,
+Hourly,With students,Prophet,All validation,974,9.1858042203501657,13.943003455168157,71.809380283547142,973,1,March-April validation,
+Daily,Without students,Prophet,All validation,136,35.461676401177414,63.933902127050416,34.196754660391733,135,1,March-April validation,
+Daily,With students,Prophet,All validation,136,32.953854829453505,52.71642663363982,32.309719771829386,135,1,March-April validation,
+Daily,With students,XGBoost,Common baseline comparison,123,33.035510873406885,47.725005030961221,47.526869319629967,122,1,March-April validation,
+Daily,With students,Prophet,Common baseline comparison,123,33.857499877122848,54.565803030486315,30.974552287668818,122,1,March-April validation,
+Daily,With students,LightGBM,Common baseline comparison,123,34.775226837859705,49.286230264870341,53.927219573061855,122,1,March-April validation,
+Daily,With students,Random Forest,Common baseline comparison,123,35.725852745756654,54.422742992480245,48.067804928485884,122,1,March-April validation,
+Daily,Without students,Prophet,Common baseline comparison,123,37.032786676010247,66.676447027123828,33.134959051776448,122,1,March-April validation,
+Daily,Without students,Random Forest,Common baseline comparison,123,39.213613623278263,68.926690717016115,49.728224706784992,122,1,March-April validation,
+Daily,Without students,LightGBM,Common baseline comparison,123,42.088695101046682,63.832329776468811,49.583216226153255,122,1,March-April validation,
+Daily,Without students,XGBoost,Common baseline comparison,123,42.254403839750985,68.838488241500485,52.722506035607665,122,1,March-April validation,
+Daily,With students,Ridge,Common baseline comparison,123,46.262197808825448,65.954747914736743,53.751485719246098,122,1,March-April validation,
+Daily,Without students,Ridge,Common baseline comparison,123,47.761418522509175,70.393240137775038,50.249325712178376,122,1,March-April validation,
+Daily,Baseline,Previous week,Common baseline comparison,123,53.650406504065039,104.30564062727704,41.950541480178281,122,1,March-April validation,
+Daily,Baseline,Historical average,Common baseline comparison,123,69.612872164886284,104.53790432215862,102.64290589237397,122,1,March-April validation,
+Hourly,With students,XGBoost,Common baseline comparison,758,9.4614338730130161,14.111809100586484,54.619181265864334,758,0,March-April validation,
+Hourly,With students,LightGBM,Common baseline comparison,758,9.4839965246751934,14.149437411467902,59.266625688621552,758,0,March-April validation,
+Hourly,With students,Random Forest,Common baseline comparison,758,9.5162659232342879,14.5985286145703,45.783715440953976,758,0,March-April validation,
+Hourly,Without students,Random Forest,Common baseline comparison,758,9.9987731616591109,15.307334716810988,48.058036199435669,758,0,March-April validation,
+Hourly,Without students,Ridge,Common baseline comparison,758,10.060534563086849,14.917318236339511,55.507324786015879,758,0,March-April validation,
+Hourly,Without students,LightGBM,Common baseline comparison,758,10.071136478428679,15.353803687700585,57.087729742854556,758,0,March-April validation,
+Hourly,Without students,XGBoost,Common baseline comparison,758,10.091762150183202,15.302435408764069,63.808054254945525,758,0,March-April validation,
+Hourly,With students,Ridge,Common baseline comparison,758,10.099703517334486,14.656266096442492,62.230251417837948,758,0,March-April validation,
+Hourly,With students,Prophet,Common baseline comparison,758,10.23990169151589,14.971703444961447,47.847167970711538,758,0,March-April validation,
+Hourly,Without students,Prophet,Common baseline comparison,758,10.752163436927281,15.913251667106538,48.696993653946976,758,0,March-April validation,
+Hourly,Baseline,Historical average,Common baseline comparison,758,12.006559977954876,18.11804327025888,54.256970587401632,758,0,March-April validation,
+Hourly,Baseline,Previous week,Common baseline comparison,758,13.021108179419524,20.013056424260469,57.021660897728879,758,0,March-April validation,
+Hourly,Without students,Ridge,Common baseline comparison,280,15.601922015266895,21.918405609787143,123.9205053769973,280,0,May benchmark,False
+Hourly,Without students,Ridge,All recorded May observations,316,14.268994777257459,20.783747464525131,131.09467559443388,316,0,May benchmark,False
+Hourly,Without students,Random Forest,Common baseline comparison,280,16.986521095231801,24.227813777925665,128.77316919977639,280,0,May benchmark,False
+Hourly,Without students,Random Forest,All recorded May observations,316,15.371753298229006,22.913813822765,129.86884372234115,316,0,May benchmark,False
+Hourly,Without students,XGBoost,Common baseline comparison,280,15.781411033868789,22.26231005300448,125.44018206783545,280,0,May benchmark,False
+Hourly,Without students,XGBoost,All recorded May observations,316,14.400364880320392,21.071283306326229,137.85058334526062,316,0,May benchmark,False
+Hourly,Without students,LightGBM,Common baseline comparison,280,15.850980678934434,22.346548457540976,121.65086235117697,280,0,May benchmark,False
+Hourly,Without students,LightGBM,All recorded May observations,316,14.416513332567751,21.150238415611284,129.37172370378877,316,0,May benchmark,False
+Hourly,With students,Ridge,Common baseline comparison,280,13.489352140676322,18.658784834303781,108.85956067521887,280,0,May benchmark,False
+Hourly,With students,Ridge,All recorded May observations,316,12.327321774051713,17.661225810156431,115.87892614672619,316,0,May benchmark,False
+Hourly,With students,Random Forest,Common baseline comparison,280,10.538154182710599,14.373345061941682,76.028699004279702,280,0,May benchmark,True
+Hourly,With students,Random Forest,All recorded May observations,316,9.5545462685245592,13.572198433806603,79.625381314290678,316,0,May benchmark,True
+Hourly,With students,XGBoost,Common baseline comparison,280,10.799720462730953,14.580724751734671,84.949844486666308,280,0,May benchmark,False
+Hourly,With students,XGBoost,All recorded May observations,316,9.8705539114867591,13.800817177731153,94.730790934526709,316,0,May benchmark,False
+Hourly,With students,LightGBM,Common baseline comparison,280,10.528014479794527,14.289799293431191,82.258130234226897,280,0,May benchmark,False
+Hourly,With students,LightGBM,All recorded May observations,316,9.7095092125893885,13.559054781861551,100.13409637183661,316,0,May benchmark,False
+Daily,Without students,Ridge,Common baseline comparison,43,63.531483414007916,107.87203135236665,69.513836599972748,43,0,May benchmark,False
+Daily,Without students,Ridge,All recorded May observations,43,63.531483414007916,107.87203135236665,69.513836599972748,43,0,May benchmark,False
+Daily,Without students,Random Forest,Common baseline comparison,43,64.907374464037247,106.29104835693937,83.335439787952367,43,0,May benchmark,False
+Daily,Without students,Random Forest,All recorded May observations,43,64.907374464037247,106.29104835693937,83.335439787952367,43,0,May benchmark,False
+Daily,Without students,XGBoost,Common baseline comparison,43,71.8187733250995,107.30480780588934,68.267537241143813,43,0,May benchmark,False
+Daily,Without students,XGBoost,All recorded May observations,43,71.8187733250995,107.30480780588934,68.267537241143813,43,0,May benchmark,False
+Daily,Without students,LightGBM,Common baseline comparison,43,76.346068031353653,116.34397775805031,89.137152995545392,43,0,May benchmark,False
+Daily,Without students,LightGBM,All recorded May observations,43,76.346068031353653,116.34397775805031,89.137152995545392,43,0,May benchmark,False
+Daily,With students,Ridge,Common baseline comparison,43,53.987448479047089,88.917115468320588,63.640032294356388,43,0,May benchmark,False
+Daily,With students,Ridge,All recorded May observations,43,53.987448479047089,88.917115468320588,63.640032294356388,43,0,May benchmark,False
+Daily,With students,Random Forest,Common baseline comparison,43,53.60046484071944,79.141972108988028,65.950282290215796,43,0,May benchmark,False
+Daily,With students,Random Forest,All recorded May observations,43,53.60046484071944,79.141972108988028,65.950282290215796,43,0,May benchmark,False
+Daily,With students,XGBoost,Common baseline comparison,43,56.732049964195078,82.834747035263263,53.071053082846262,43,0,May benchmark,True
+Daily,With students,XGBoost,All recorded May observations,43,56.732049964195078,82.834747035263263,53.071053082846262,43,0,May benchmark,True
+Daily,With students,LightGBM,Common baseline comparison,43,59.722258864360612,84.916431962658322,58.433335294080614,43,0,May benchmark,False
+Daily,With students,LightGBM,All recorded May observations,43,59.722258864360612,84.916431962658322,58.433335294080614,43,0,May benchmark,False
+Hourly,Without students,Prophet,Common baseline comparison,280,16.233201397637195,22.798112995080416,115.40021695392986,280,0,May benchmark,False
+Hourly,Without students,Prophet,All recorded May observations,316,14.84155013149776,21.609623977766141,133.24636540907227,316,0,May benchmark,False
+Hourly,With students,Prophet,Common baseline comparison,280,11.971732807996974,16.827422997529069,74.247275286468238,280,0,May benchmark,False
+Hourly,With students,Prophet,All recorded May observations,316,10.938123549949712,15.929980019348458,90.542046602293041,316,0,May benchmark,False
+Daily,Without students,Prophet,Common baseline comparison,43,92.275811992303616,157.92600646178059,74.677494595151856,43,0,May benchmark,False
+Daily,Without students,Prophet,All recorded May observations,43,92.275811992303616,157.92600646178059,74.677494595151856,43,0,May benchmark,False
+Daily,With students,Prophet,Common baseline comparison,43,68.797815987970651,106.98844593284828,57.229446944782381,43,0,May benchmark,False
+Daily,With students,Prophet,All recorded May observations,43,68.797815987970651,106.98844593284828,57.229446944782381,43,0,May benchmark,False
+Hourly,Baseline,Previous week,Common baseline comparison,280,14.767857142857142,21.039503660631215,96.414395331791894,280,0,May benchmark,False
+Hourly,Baseline,Historical average,Common baseline comparison,280,17.677071130991294,24.733851129639188,131.92885836052244,280,0,May benchmark,False
+Daily,Baseline,Previous week,Common baseline comparison,43,71.465116279069761,117.97210943545581,66.285716335321396,43,0,May benchmark,False
+Daily,Baseline,Historical average,Common baseline comparison,43,108.79991643813679,164.22943559313211,150.95644357934518,43,0,May benchmark,False
