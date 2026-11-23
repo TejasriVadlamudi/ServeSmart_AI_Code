@@ -1,8 +1,0 @@
-Check,Result,Expected,Status
-Hourly rows,2032,2032,PASS
-Target units,63891,63891,PASS
-Duplicate Location-Date-Hour keys,0,0,PASS
-Observed zero hours,2,2,PASS
-Negative target rows,1,1,PASS
-Spring Break predictors excluded,Yes,Yes,PASS
-CampusClosedFlag kept separate,Yes,Yes,PASS

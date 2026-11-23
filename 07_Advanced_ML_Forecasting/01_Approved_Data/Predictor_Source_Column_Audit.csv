@@ -1,0 +1,74 @@
+SourceColumn,Use,Reason
+LocationKey,Excluded,"Excluded: rebuilt predictors use explicit allowlist; source identifiers, outcomes and keys are not selected."
+DateKey,Excluded,"Excluded: rebuilt predictors use explicit allowlist; source identifiers, outcomes and keys are not selected."
+TimeKey,Excluded,"Excluded: rebuilt predictors use explicit allowlist; source identifiers, outcomes and keys are not selected."
+Location,Allowed,Allowed calendar/location identity; calendar fields cross-checked; no break-label encoding.
+Date,Excluded,"Excluded: rebuilt predictors use explicit allowlist; source identifiers, outcomes and keys are not selected."
+Hour,Allowed,Allowed calendar/location identity; calendar fields cross-checked; no break-label encoding.
+Timestamp,Excluded,"Excluded: rebuilt predictors use explicit allowlist; source identifiers, outcomes and keys are not selected."
+Target_HourlyUnits,Excluded,"Excluded: rebuilt predictors use explicit allowlist; source identifiers, outcomes and keys are not selected."
+DataSplit,Excluded,"Excluded: rebuilt predictors use explicit allowlist; source identifiers, outcomes and keys are not selected."
+ForecastCutoffDate,Excluded,"Excluded: rebuilt predictors use explicit allowlist; source identifiers, outcomes and keys are not selected."
+Target_NegativeFlag,Excluded,"Excluded: rebuilt predictors use explicit allowlist; source identifiers, outcomes and keys are not selected."
+Weekday,Allowed,Allowed calendar/location identity; calendar fields cross-checked; no break-label encoding.
+Month,Allowed,Allowed calendar/location identity; calendar fields cross-checked; no break-label encoding.
+IsWeekend,Allowed,Allowed calendar/location identity; calendar fields cross-checked; no break-label encoding.
+Lag1Day_SameHour,Excluded,"Excluded: rebuilt predictors use explicit allowlist; source identifiers, outcomes and keys are not selected."
+Lag7Day_SameHour,Excluded,"Excluded: rebuilt predictors use explicit allowlist; source identifiers, outcomes and keys are not selected."
+Lag14Day_SameHour,Excluded,"Excluded: rebuilt predictors use explicit allowlist; source identifiers, outcomes and keys are not selected."
+Lag1Day_Missing,Excluded,"Excluded: rebuilt predictors use explicit allowlist; source identifiers, outcomes and keys are not selected."
+Lag7Day_Missing,Excluded,"Excluded: rebuilt predictors use explicit allowlist; source identifiers, outcomes and keys are not selected."
+Lag14Day_Missing,Excluded,"Excluded: rebuilt predictors use explicit allowlist; source identifiers, outcomes and keys are not selected."
+HistoricalSameHour_Avg,Excluded,"Excluded: rebuilt predictors use explicit allowlist; source identifiers, outcomes and keys are not selected."
+HistoricalSameHour_Count,Excluded,"Excluded: rebuilt predictors use explicit allowlist; source identifiers, outcomes and keys are not selected."
+PrevDay_TotalUnits,Excluded,"Excluded: rebuilt predictors use explicit allowlist; source identifiers, outcomes and keys are not selected."
+Prev7Days_AvgDailyUnits,Excluded,"Excluded: rebuilt predictors use explicit allowlist; source identifiers, outcomes and keys are not selected."
+Prev7Days_ObservedDays,Excluded,"Excluded: rebuilt predictors use explicit allowlist; source identifiers, outcomes and keys are not selected."
+Prev28Days_AvgDailyUnits,Excluded,"Excluded: rebuilt predictors use explicit allowlist; source identifiers, outcomes and keys are not selected."
+Prev28Days_ObservedDays,Excluded,"Excluded: rebuilt predictors use explicit allowlist; source identifiers, outcomes and keys are not selected."
+SpringBreak,Excluded,Excluded: explicit Spring Break indicator or direct calendar-label/regular-class-day proxy.
+FinalExamPeriod,Allowed,Allowed calendar/location identity; calendar fields cross-checked; no break-label encoding.
+RegularClassDay,Excluded,Excluded: explicit Spring Break indicator or direct calendar-label/regular-class-day proxy.
+CampusClosed,Allowed,Allowed calendar/location identity; calendar fields cross-checked; no break-label encoding.
+NetSales,Excluded,"Excluded: rebuilt predictors use explicit allowlist; source identifiers, outcomes and keys are not selected."
+GrossAmount,Excluded,"Excluded: rebuilt predictors use explicit allowlist; source identifiers, outcomes and keys are not selected."
+TotalDiscount,Excluded,"Excluded: rebuilt predictors use explicit allowlist; source identifiers, outcomes and keys are not selected."
+TransactionRows,Excluded,"Excluded: rebuilt predictors use explicit allowlist; source identifiers, outcomes and keys are not selected."
+UniqueItems,Excluded,"Excluded: rebuilt predictors use explicit allowlist; source identifiers, outcomes and keys are not selected."
+Year,Excluded,"Excluded: rebuilt predictors use explicit allowlist; source identifiers, outcomes and keys are not selected."
+DayOfMonth,Excluded,"Excluded: rebuilt predictors use explicit allowlist; source identifiers, outcomes and keys are not selected."
+DayOfWeek,Excluded,"Excluded: rebuilt predictors use explicit allowlist; source identifiers, outcomes and keys are not selected."
+WeekOfYear,Excluded,"Excluded: rebuilt predictors use explicit allowlist; source identifiers, outcomes and keys are not selected."
+Academic_Phase,Excluded,Excluded: explicit Spring Break indicator or direct calendar-label/regular-class-day proxy.
+Academic_Status,Excluded,Excluded: explicit Spring Break indicator or direct calendar-label/regular-class-day proxy.
+Spring_Break,Excluded,Excluded: explicit Spring Break indicator or direct calendar-label/regular-class-day proxy.
+Final_Exam_Period,Excluded,"Excluded: rebuilt predictors use explicit allowlist; source identifiers, outcomes and keys are not selected."
+Regular_Class_Day,Excluded,Excluded: explicit Spring Break indicator or direct calendar-label/regular-class-day proxy.
+HolidayFlag,Allowed,Allowed calendar/location identity; calendar fields cross-checked; no break-label encoding.
+CampusClosedFlag,Excluded,"Excluded: rebuilt predictors use explicit allowlist; source identifiers, outcomes and keys are not selected."
+DayPart,Excluded,"Excluded: rebuilt predictors use explicit allowlist; source identifiers, outcomes and keys are not selected."
+ClassKey,Excluded,"Excluded: rebuilt predictors use explicit allowlist; source identifiers, outcomes and keys are not selected."
+ClassNaturalKey,Excluded,"Excluded: rebuilt predictors use explicit allowlist; source identifiers, outcomes and keys are not selected."
+HasClass,Excluded,Excluded: date-gated source may encode breaks/missing-as-zero; reconstruct ungated weekly schedule profile instead.
+ClassesActive,Excluded,Excluded: date-gated source may encode breaks/missing-as-zero; reconstruct ungated weekly schedule profile instead.
+EstimatedStudentsOnCampus,Excluded,Excluded: date-gated source may encode breaks/missing-as-zero; reconstruct ungated weekly schedule profile instead.
+ClassesStarting,Excluded,Excluded: date-gated source may encode breaks/missing-as-zero; reconstruct ungated weekly schedule profile instead.
+ClassesEnding,Excluded,Excluded: date-gated source may encode breaks/missing-as-zero; reconstruct ungated weekly schedule profile instead.
+EventKey,Excluded,Excluded contemporaneous event value/identifier: publication as-of not verified; use lagged mapped-event intensity only.
+EventNaturalKey,Excluded,Excluded contemporaneous event value/identifier: publication as-of not verified; use lagged mapped-event intensity only.
+HasEvent,Excluded,Excluded contemporaneous event value/identifier: publication as-of not verified; use lagged mapped-event intensity only.
+CampusEventCount,Excluded,Excluded contemporaneous event value/identifier: publication as-of not verified; use lagged mapped-event intensity only.
+EventOccurrenceCount,Excluded,Excluded contemporaneous event value/identifier: publication as-of not verified; use lagged mapped-event intensity only.
+EventFoodCount,Excluded,Excluded contemporaneous event value/identifier: publication as-of not verified; use lagged mapped-event intensity only.
+AllDayEventCount,Excluded,Excluded contemporaneous event value/identifier: publication as-of not verified; use lagged mapped-event intensity only.
+EventTypeCount,Excluded,Excluded contemporaneous event value/identifier: publication as-of not verified; use lagged mapped-event intensity only.
+WeatherKey,Excluded,"Excluded: rebuilt predictors use explicit allowlist; source identifiers, outcomes and keys are not selected."
+WeatherNaturalKey,Excluded,"Excluded: rebuilt predictors use explicit allowlist; source identifiers, outcomes and keys are not selected."
+TemperatureF,Excluded,Excluded: tomorrow actual weather unavailable at prior-day cutoff; use previous-day summaries only.
+HumidityPct,Excluded,Excluded: tomorrow actual weather unavailable at prior-day cutoff; use previous-day summaries only.
+PrecipitationIn,Excluded,Excluded: tomorrow actual weather unavailable at prior-day cutoff; use previous-day summaries only.
+RainFlag,Excluded,Excluded: tomorrow actual weather unavailable at prior-day cutoff; use previous-day summaries only.
+CloudCoverPct,Excluded,Excluded: tomorrow actual weather unavailable at prior-day cutoff; use previous-day summaries only.
+WindSpeedKmh,Excluded,Excluded: tomorrow actual weather unavailable at prior-day cutoff; use previous-day summaries only.
+ScheduledStudents_DailyPeak,Excluded,Excluded: date-gated source may encode breaks/missing-as-zero; reconstruct ungated weekly schedule profile instead.
+HourlyFitEligible,Excluded,"Excluded: rebuilt predictors use explicit allowlist; source identifiers, outcomes and keys are not selected."

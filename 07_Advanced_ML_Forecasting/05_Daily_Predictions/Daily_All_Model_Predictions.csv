@@ -1,0 +1,302 @@
+Location,Date,Hour,Weekday,Actual,ForecastCutoff,Prediction,ForecastLevel,Model,FeatureSet,Cohort,AbsoluteError,Error,RecordedHours,CommonEvaluationRow
+Einstein's,2026-05-01,,Friday,272,2026-04-30 23:59:59,263.9143540564374,Daily,Random Forest,HistoryEnrollment,Test,8.08564594356261,-8.08564594356261,9.0,True
+Einstein's,2026-05-04,,Monday,620,2026-05-03 23:59:59,538.3761704653369,Daily,Random Forest,HistoryEnrollment,Test,81.62382953466306,-81.62382953466306,11.0,True
+Einstein's,2026-05-05,,Tuesday,598,2026-05-04 23:59:59,627.4879695767194,Daily,Random Forest,HistoryEnrollment,Test,29.487969576719365,29.487969576719365,11.0,True
+Einstein's,2026-05-06,,Wednesday,662,2026-05-05 23:59:59,587.9348721340386,Daily,Random Forest,HistoryEnrollment,Test,74.06512786596136,-74.06512786596136,11.0,True
+Einstein's,2026-05-07,,Thursday,550,2026-05-06 23:59:59,540.735892857143,Daily,Random Forest,HistoryEnrollment,Test,9.264107142857029,-9.264107142857029,11.0,True
+Einstein's,2026-05-08,,Friday,289,2026-05-07 23:59:59,279.8172839506174,Daily,Random Forest,HistoryEnrollment,Test,9.182716049382577,-9.182716049382577,8.0,True
+Einstein's,2026-05-11,,Monday,417,2026-05-10 23:59:59,532.4239572310405,Daily,Random Forest,HistoryEnrollment,Test,115.4239572310405,115.4239572310405,11.0,True
+Einstein's,2026-05-12,,Tuesday,460,2026-05-11 23:59:59,600.1267680776012,Daily,Random Forest,HistoryEnrollment,Test,140.12676807760124,140.12676807760124,11.0,True
+Einstein's,2026-05-13,,Wednesday,466,2026-05-12 23:59:59,579.3359038800702,Daily,Random Forest,HistoryEnrollment,Test,113.33590388007019,113.33590388007019,11.0,True
+Einstein's,2026-05-14,,Thursday,424,2026-05-13 23:59:59,574.9432605820105,Daily,Random Forest,HistoryEnrollment,Test,150.94326058201045,150.94326058201045,11.0,True
+Einstein's,2026-05-15,,Friday,312,2026-05-14 23:59:59,273.6007495590829,Daily,Random Forest,HistoryEnrollment,Test,38.399250440917115,-38.399250440917115,8.0,True
+Einstein's,2026-05-18,,Monday,143,2026-05-17 23:59:59,571.2070258445258,Daily,Random Forest,HistoryEnrollment,Test,428.2070258445258,428.2070258445258,8.0,True
+Einstein's,2026-05-19,,Tuesday,120,2026-05-18 23:59:59,417.2067216117217,Daily,Random Forest,HistoryEnrollment,Test,297.2067216117217,297.2067216117217,8.0,True
+Einstein's,2026-05-20,,Wednesday,131,2026-05-19 23:59:59,414.89715811965823,Daily,Random Forest,HistoryEnrollment,Test,283.89715811965823,283.89715811965823,8.0,True
+Einstein's,2026-05-21,,Thursday,98,2026-05-20 23:59:59,425.6955443630443,Daily,Random Forest,HistoryEnrollment,Test,327.6955443630443,327.6955443630443,9.0,True
+Einstein's,2026-05-26,,Tuesday,113,2026-05-25 23:59:59,400.4498280423281,Daily,Random Forest,HistoryEnrollment,Test,287.4498280423281,287.4498280423281,9.0,True
+Einstein's,2026-05-27,,Wednesday,154,2026-05-26 23:59:59,402.5321428571429,Daily,Random Forest,HistoryEnrollment,Test,248.5321428571429,248.5321428571429,9.0,True
+Einstein's,2026-05-28,,Thursday,146,2026-05-27 23:59:59,409.9260317460317,Daily,Random Forest,HistoryEnrollment,Test,263.9260317460317,263.9260317460317,9.0,True
+Panda Express,2026-05-01,,Friday,106,2026-04-30 23:59:59,114.51593694885368,Daily,Random Forest,HistoryEnrollment,Test,8.515936948853678,8.515936948853678,3.0,True
+Panda Express,2026-05-04,,Monday,315,2026-05-03 23:59:59,274.3566269841271,Daily,Random Forest,HistoryEnrollment,Test,40.643373015872896,-40.643373015872896,5.0,True
+Panda Express,2026-05-05,,Tuesday,235,2026-05-04 23:59:59,258.3435471781306,Daily,Random Forest,HistoryEnrollment,Test,23.34354717813062,23.34354717813062,6.0,True
+Panda Express,2026-05-06,,Wednesday,305,2026-05-05 23:59:59,290.31760141093486,Daily,Random Forest,HistoryEnrollment,Test,14.682398589065144,-14.682398589065144,6.0,True
+Panda Express,2026-05-07,,Thursday,251,2026-05-06 23:59:59,270.830310846561,Daily,Random Forest,HistoryEnrollment,Test,19.83031084656102,19.83031084656102,6.0,True
+Panda Express,2026-05-08,,Friday,113,2026-05-07 23:59:59,124.53234126984131,Daily,Random Forest,HistoryEnrollment,Test,11.53234126984131,11.53234126984131,4.0,True
+Panda Express,2026-05-11,,Monday,207,2026-05-10 23:59:59,281.3864880952381,Daily,Random Forest,HistoryEnrollment,Test,74.38648809523812,74.38648809523812,6.0,True
+Panda Express,2026-05-12,,Tuesday,181,2026-05-11 23:59:59,257.6419378306879,Daily,Random Forest,HistoryEnrollment,Test,76.64193783068788,76.64193783068788,5.0,True
+Panda Express,2026-05-13,,Wednesday,175,2026-05-12 23:59:59,273.86182539682545,Daily,Random Forest,HistoryEnrollment,Test,98.86182539682545,98.86182539682545,5.0,True
+Panda Express,2026-05-14,,Thursday,167,2026-05-13 23:59:59,265.08981040564373,Daily,Random Forest,HistoryEnrollment,Test,98.08981040564373,98.08981040564373,5.0,True
+Residential Dining,2026-05-01,,Friday,15,2026-04-30 23:59:59,21.723291446208115,Daily,Random Forest,HistoryEnrollment,Test,6.7232914462081155,6.7232914462081155,7.0,True
+Residential Dining,2026-05-02,,Saturday,1,2026-05-01 23:59:59,7.913397266313932,Daily,Random Forest,HistoryEnrollment,Test,6.913397266313932,6.913397266313932,1.0,True
+Residential Dining,2026-05-03,,Sunday,4,2026-05-02 23:59:59,5.993293650793652,Daily,Random Forest,HistoryEnrollment,Test,1.9932936507936523,1.9932936507936523,2.0,True
+Residential Dining,2026-05-04,,Monday,29,2026-05-03 23:59:59,34.65561287477953,Daily,Random Forest,HistoryEnrollment,Test,5.6556128747795285,5.6556128747795285,8.0,True
+Residential Dining,2026-05-05,,Tuesday,68,2026-05-04 23:59:59,21.706236772486772,Daily,Random Forest,HistoryEnrollment,Test,46.293763227513224,-46.293763227513224,8.0,True
+Residential Dining,2026-05-06,,Wednesday,81,2026-05-05 23:59:59,42.929592151675486,Daily,Random Forest,HistoryEnrollment,Test,38.070407848324514,-38.070407848324514,9.0,True
+Residential Dining,2026-05-07,,Thursday,13,2026-05-06 23:59:59,23.030835537918872,Daily,Random Forest,HistoryEnrollment,Test,10.030835537918872,10.030835537918872,5.0,True
+Residential Dining,2026-05-08,,Friday,17,2026-05-07 23:59:59,25.660343915343915,Daily,Random Forest,HistoryEnrollment,Test,8.660343915343915,8.660343915343915,8.0,True
+Residential Dining,2026-05-09,,Saturday,4,2026-05-08 23:59:59,8.277947530864195,Daily,Random Forest,HistoryEnrollment,Test,4.2779475308641945,4.2779475308641945,1.0,True
+Residential Dining,2026-05-10,,Sunday,6,2026-05-09 23:59:59,4.303425925925924,Daily,Random Forest,HistoryEnrollment,Test,1.6965740740740758,-1.6965740740740758,2.0,True
+Residential Dining,2026-05-11,,Monday,31,2026-05-10 23:59:59,33.998615520282186,Daily,Random Forest,HistoryEnrollment,Test,2.9986155202821863,2.9986155202821863,9.0,True
+Residential Dining,2026-05-12,,Tuesday,19,2026-05-11 23:59:59,22.430776014109345,Daily,Random Forest,HistoryEnrollment,Test,3.4307760141093446,3.4307760141093446,7.0,True
+Residential Dining,2026-05-13,,Wednesday,35,2026-05-12 23:59:59,50.597347883597905,Daily,Random Forest,HistoryEnrollment,Test,15.597347883597905,15.597347883597905,8.0,True
+Residential Dining,2026-05-14,,Thursday,33,2026-05-13 23:59:59,22.994735449735437,Daily,Random Forest,HistoryEnrollment,Test,10.005264550264563,-10.005264550264563,9.0,True
+Residential Dining,2026-05-15,,Friday,14,2026-05-14 23:59:59,26.736717372134034,Daily,Random Forest,HistoryEnrollment,Test,12.736717372134034,12.736717372134034,8.0,True
+Einstein's,2026-05-01,,Friday,272,2026-04-30 23:59:59,258.85714285714283,Daily,Historical Average,HistoricalOnly,Test,13.142857142857167,-13.142857142857167,9.0,True
+Einstein's,2026-05-04,,Monday,620,2026-05-03 23:59:59,510.0,Daily,Historical Average,HistoricalOnly,Test,110.0,-110.0,11.0,True
+Einstein's,2026-05-05,,Tuesday,598,2026-05-04 23:59:59,604.7142857142857,Daily,Historical Average,HistoricalOnly,Test,6.714285714285666,6.714285714285666,11.0,True
+Einstein's,2026-05-06,,Wednesday,662,2026-05-05 23:59:59,597.8,Daily,Historical Average,HistoricalOnly,Test,64.20000000000005,-64.20000000000005,11.0,True
+Einstein's,2026-05-07,,Thursday,550,2026-05-06 23:59:59,538.0666666666667,Daily,Historical Average,HistoricalOnly,Test,11.93333333333328,-11.93333333333328,11.0,True
+Einstein's,2026-05-08,,Friday,289,2026-05-07 23:59:59,259.73333333333335,Daily,Historical Average,HistoricalOnly,Test,29.26666666666665,-29.26666666666665,8.0,True
+Einstein's,2026-05-11,,Monday,417,2026-05-10 23:59:59,516.875,Daily,Historical Average,HistoricalOnly,Test,99.875,99.875,11.0,True
+Einstein's,2026-05-12,,Tuesday,460,2026-05-11 23:59:59,604.2666666666667,Daily,Historical Average,HistoricalOnly,Test,144.26666666666665,144.26666666666665,11.0,True
+Einstein's,2026-05-13,,Wednesday,466,2026-05-12 23:59:59,601.8125,Daily,Historical Average,HistoricalOnly,Test,135.8125,135.8125,11.0,True
+Einstein's,2026-05-14,,Thursday,424,2026-05-13 23:59:59,538.8125,Daily,Historical Average,HistoricalOnly,Test,114.8125,114.8125,11.0,True
+Einstein's,2026-05-15,,Friday,312,2026-05-14 23:59:59,261.5625,Daily,Historical Average,HistoricalOnly,Test,50.4375,-50.4375,8.0,True
+Einstein's,2026-05-18,,Monday,143,2026-05-17 23:59:59,511.0,Daily,Historical Average,HistoricalOnly,Test,368.0,368.0,8.0,True
+Einstein's,2026-05-19,,Tuesday,120,2026-05-18 23:59:59,595.25,Daily,Historical Average,HistoricalOnly,Test,475.25,475.25,8.0,True
+Einstein's,2026-05-20,,Wednesday,131,2026-05-19 23:59:59,593.8235294117648,Daily,Historical Average,HistoricalOnly,Test,462.82352941176475,462.82352941176475,8.0,True
+Einstein's,2026-05-21,,Thursday,98,2026-05-20 23:59:59,532.0588235294117,Daily,Historical Average,HistoricalOnly,Test,434.0588235294117,434.0588235294117,9.0,True
+Einstein's,2026-05-26,,Tuesday,113,2026-05-25 23:59:59,567.2941176470588,Daily,Historical Average,HistoricalOnly,Test,454.2941176470588,454.2941176470588,9.0,True
+Einstein's,2026-05-27,,Wednesday,154,2026-05-26 23:59:59,568.1111111111111,Daily,Historical Average,HistoricalOnly,Test,414.1111111111111,414.1111111111111,9.0,True
+Einstein's,2026-05-28,,Thursday,146,2026-05-27 23:59:59,507.94444444444446,Daily,Historical Average,HistoricalOnly,Test,361.94444444444446,361.94444444444446,9.0,True
+Panda Express,2026-05-01,,Friday,106,2026-04-30 23:59:59,111.6923076923077,Daily,Historical Average,HistoricalOnly,Test,5.692307692307693,5.692307692307693,3.0,True
+Panda Express,2026-05-04,,Monday,315,2026-05-03 23:59:59,262.64285714285717,Daily,Historical Average,HistoricalOnly,Test,52.35714285714283,-52.35714285714283,5.0,True
+Panda Express,2026-05-05,,Tuesday,235,2026-05-04 23:59:59,264.85714285714283,Daily,Historical Average,HistoricalOnly,Test,29.857142857142833,29.857142857142833,6.0,True
+Panda Express,2026-05-06,,Wednesday,305,2026-05-05 23:59:59,274.7857142857143,Daily,Historical Average,HistoricalOnly,Test,30.214285714285722,-30.214285714285722,6.0,True
+Panda Express,2026-05-07,,Thursday,251,2026-05-06 23:59:59,271.07142857142856,Daily,Historical Average,HistoricalOnly,Test,20.071428571428555,20.071428571428555,6.0,True
+Panda Express,2026-05-08,,Friday,113,2026-05-07 23:59:59,111.28571428571429,Daily,Historical Average,HistoricalOnly,Test,1.7142857142857082,-1.7142857142857082,4.0,True
+Panda Express,2026-05-11,,Monday,207,2026-05-10 23:59:59,266.1333333333333,Daily,Historical Average,HistoricalOnly,Test,59.133333333333326,59.133333333333326,6.0,True
+Panda Express,2026-05-12,,Tuesday,181,2026-05-11 23:59:59,262.8666666666667,Daily,Historical Average,HistoricalOnly,Test,81.86666666666667,81.86666666666667,5.0,True
+Panda Express,2026-05-13,,Wednesday,175,2026-05-12 23:59:59,276.8,Daily,Historical Average,HistoricalOnly,Test,101.80000000000001,101.80000000000001,5.0,True
+Panda Express,2026-05-14,,Thursday,167,2026-05-13 23:59:59,269.73333333333335,Daily,Historical Average,HistoricalOnly,Test,102.73333333333335,102.73333333333335,5.0,True
+Residential Dining,2026-05-01,,Friday,15,2026-04-30 23:59:59,25.357142857142858,Daily,Historical Average,HistoricalOnly,Test,10.357142857142858,10.357142857142858,7.0,True
+Residential Dining,2026-05-02,,Saturday,1,2026-05-01 23:59:59,4.769230769230769,Daily,Historical Average,HistoricalOnly,Test,3.769230769230769,3.769230769230769,1.0,True
+Residential Dining,2026-05-03,,Sunday,4,2026-05-02 23:59:59,5.8125,Daily,Historical Average,HistoricalOnly,Test,1.8125,1.8125,2.0,True
+Residential Dining,2026-05-04,,Monday,29,2026-05-03 23:59:59,31.357142857142858,Daily,Historical Average,HistoricalOnly,Test,2.3571428571428577,2.3571428571428577,8.0,True
+Residential Dining,2026-05-05,,Tuesday,68,2026-05-04 23:59:59,22.333333333333332,Daily,Historical Average,HistoricalOnly,Test,45.66666666666667,-45.66666666666667,8.0,True
+Residential Dining,2026-05-06,,Wednesday,81,2026-05-05 23:59:59,41.8,Daily,Historical Average,HistoricalOnly,Test,39.2,-39.2,9.0,True
+Residential Dining,2026-05-07,,Thursday,13,2026-05-06 23:59:59,21.533333333333335,Daily,Historical Average,HistoricalOnly,Test,8.533333333333335,8.533333333333335,5.0,True
+Residential Dining,2026-05-08,,Friday,17,2026-05-07 23:59:59,24.666666666666668,Daily,Historical Average,HistoricalOnly,Test,7.666666666666668,7.666666666666668,8.0,True
+Residential Dining,2026-05-09,,Saturday,4,2026-05-08 23:59:59,4.5,Daily,Historical Average,HistoricalOnly,Test,0.5,0.5,1.0,True
+Residential Dining,2026-05-10,,Sunday,6,2026-05-09 23:59:59,5.705882352941177,Daily,Historical Average,HistoricalOnly,Test,0.2941176470588234,-0.2941176470588234,2.0,True
+Residential Dining,2026-05-11,,Monday,31,2026-05-10 23:59:59,31.2,Daily,Historical Average,HistoricalOnly,Test,0.1999999999999993,0.1999999999999993,9.0,True
+Residential Dining,2026-05-12,,Tuesday,19,2026-05-11 23:59:59,25.1875,Daily,Historical Average,HistoricalOnly,Test,6.1875,6.1875,7.0,True
+Residential Dining,2026-05-13,,Wednesday,35,2026-05-12 23:59:59,44.25,Daily,Historical Average,HistoricalOnly,Test,9.25,9.25,8.0,True
+Residential Dining,2026-05-14,,Thursday,33,2026-05-13 23:59:59,21.0,Daily,Historical Average,HistoricalOnly,Test,12.0,-12.0,9.0,True
+Residential Dining,2026-05-15,,Friday,14,2026-05-14 23:59:59,24.1875,Daily,Historical Average,HistoricalOnly,Test,10.1875,10.1875,8.0,True
+Einstein's,2026-05-01,,Friday,272,2026-04-30 23:59:59,259.77606201171875,Daily,XGBoost,HistoryEnrollment,Test,12.22393798828125,-12.22393798828125,9.0,True
+Einstein's,2026-05-04,,Monday,620,2026-05-03 23:59:59,552.2940673828125,Daily,XGBoost,HistoryEnrollment,Test,67.7059326171875,-67.7059326171875,11.0,True
+Einstein's,2026-05-05,,Tuesday,598,2026-05-04 23:59:59,601.421142578125,Daily,XGBoost,HistoryEnrollment,Test,3.421142578125,3.421142578125,11.0,True
+Einstein's,2026-05-06,,Wednesday,662,2026-05-05 23:59:59,583.3079833984375,Daily,XGBoost,HistoryEnrollment,Test,78.6920166015625,-78.6920166015625,11.0,True
+Einstein's,2026-05-07,,Thursday,550,2026-05-06 23:59:59,536.0125122070312,Daily,XGBoost,HistoryEnrollment,Test,13.98748779296875,-13.98748779296875,11.0,True
+Einstein's,2026-05-08,,Friday,289,2026-05-07 23:59:59,259.77606201171875,Daily,XGBoost,HistoryEnrollment,Test,29.22393798828125,-29.22393798828125,8.0,True
+Einstein's,2026-05-11,,Monday,417,2026-05-10 23:59:59,536.6522827148438,Daily,XGBoost,HistoryEnrollment,Test,119.65228271484375,119.65228271484375,11.0,True
+Einstein's,2026-05-12,,Tuesday,460,2026-05-11 23:59:59,506.6328430175781,Daily,XGBoost,HistoryEnrollment,Test,46.632843017578125,46.632843017578125,11.0,True
+Einstein's,2026-05-13,,Wednesday,466,2026-05-12 23:59:59,504.6855773925781,Daily,XGBoost,HistoryEnrollment,Test,38.685577392578125,38.685577392578125,11.0,True
+Einstein's,2026-05-14,,Thursday,424,2026-05-13 23:59:59,522.97021484375,Daily,XGBoost,HistoryEnrollment,Test,98.97021484375,98.97021484375,11.0,True
+Einstein's,2026-05-15,,Friday,312,2026-05-14 23:59:59,246.93968200683594,Daily,XGBoost,HistoryEnrollment,Test,65.06031799316406,-65.06031799316406,8.0,True
+Einstein's,2026-05-18,,Monday,143,2026-05-17 23:59:59,581.7764282226562,Daily,XGBoost,HistoryEnrollment,Test,438.77642822265625,438.77642822265625,8.0,True
+Einstein's,2026-05-19,,Tuesday,120,2026-05-18 23:59:59,439.2201843261719,Daily,XGBoost,HistoryEnrollment,Test,319.2201843261719,319.2201843261719,8.0,True
+Einstein's,2026-05-20,,Wednesday,131,2026-05-19 23:59:59,440.17510986328125,Daily,XGBoost,HistoryEnrollment,Test,309.17510986328125,309.17510986328125,8.0,True
+Einstein's,2026-05-21,,Thursday,98,2026-05-20 23:59:59,428.598876953125,Daily,XGBoost,HistoryEnrollment,Test,330.598876953125,330.598876953125,9.0,True
+Einstein's,2026-05-26,,Tuesday,113,2026-05-25 23:59:59,478.2278137207031,Daily,XGBoost,HistoryEnrollment,Test,365.2278137207031,365.2278137207031,9.0,True
+Einstein's,2026-05-27,,Wednesday,154,2026-05-26 23:59:59,446.40838623046875,Daily,XGBoost,HistoryEnrollment,Test,292.40838623046875,292.40838623046875,9.0,True
+Einstein's,2026-05-28,,Thursday,146,2026-05-27 23:59:59,456.8478698730469,Daily,XGBoost,HistoryEnrollment,Test,310.8478698730469,310.8478698730469,9.0,True
+Panda Express,2026-05-01,,Friday,106,2026-04-30 23:59:59,150.81951904296875,Daily,XGBoost,HistoryEnrollment,Test,44.81951904296875,44.81951904296875,3.0,True
+Panda Express,2026-05-04,,Monday,315,2026-05-03 23:59:59,284.0814514160156,Daily,XGBoost,HistoryEnrollment,Test,30.918548583984375,-30.918548583984375,5.0,True
+Panda Express,2026-05-05,,Tuesday,235,2026-05-04 23:59:59,222.11761474609375,Daily,XGBoost,HistoryEnrollment,Test,12.88238525390625,-12.88238525390625,6.0,True
+Panda Express,2026-05-06,,Wednesday,305,2026-05-05 23:59:59,257.70880126953125,Daily,XGBoost,HistoryEnrollment,Test,47.29119873046875,-47.29119873046875,6.0,True
+Panda Express,2026-05-07,,Thursday,251,2026-05-06 23:59:59,272.04620361328125,Daily,XGBoost,HistoryEnrollment,Test,21.04620361328125,21.04620361328125,6.0,True
+Panda Express,2026-05-08,,Friday,113,2026-05-07 23:59:59,142.3589630126953,Daily,XGBoost,HistoryEnrollment,Test,29.358963012695312,29.358963012695312,4.0,True
+Panda Express,2026-05-11,,Monday,207,2026-05-10 23:59:59,286.420166015625,Daily,XGBoost,HistoryEnrollment,Test,79.420166015625,79.420166015625,6.0,True
+Panda Express,2026-05-12,,Tuesday,181,2026-05-11 23:59:59,187.11766052246094,Daily,XGBoost,HistoryEnrollment,Test,6.1176605224609375,6.1176605224609375,5.0,True
+Panda Express,2026-05-13,,Wednesday,175,2026-05-12 23:59:59,244.03977966308594,Daily,XGBoost,HistoryEnrollment,Test,69.03977966308594,69.03977966308594,5.0,True
+Panda Express,2026-05-14,,Thursday,167,2026-05-13 23:59:59,251.31468200683594,Daily,XGBoost,HistoryEnrollment,Test,84.31468200683594,84.31468200683594,5.0,True
+Residential Dining,2026-05-01,,Friday,15,2026-04-30 23:59:59,25.793027877807617,Daily,XGBoost,HistoryEnrollment,Test,10.793027877807617,10.793027877807617,7.0,True
+Residential Dining,2026-05-02,,Saturday,1,2026-05-01 23:59:59,22.08589744567871,Daily,XGBoost,HistoryEnrollment,Test,21.08589744567871,21.08589744567871,1.0,True
+Residential Dining,2026-05-03,,Sunday,4,2026-05-02 23:59:59,25.261165618896484,Daily,XGBoost,HistoryEnrollment,Test,21.261165618896484,21.261165618896484,2.0,True
+Residential Dining,2026-05-04,,Monday,29,2026-05-03 23:59:59,32.8400993347168,Daily,XGBoost,HistoryEnrollment,Test,3.840099334716797,3.840099334716797,8.0,True
+Residential Dining,2026-05-05,,Tuesday,68,2026-05-04 23:59:59,26.46489143371582,Daily,XGBoost,HistoryEnrollment,Test,41.53510856628418,-41.53510856628418,8.0,True
+Residential Dining,2026-05-06,,Wednesday,81,2026-05-05 23:59:59,34.81496047973633,Daily,XGBoost,HistoryEnrollment,Test,46.18503952026367,-46.18503952026367,9.0,True
+Residential Dining,2026-05-07,,Thursday,13,2026-05-06 23:59:59,25.59195899963379,Daily,XGBoost,HistoryEnrollment,Test,12.591958999633789,12.591958999633789,5.0,True
+Residential Dining,2026-05-08,,Friday,17,2026-05-07 23:59:59,25.793027877807617,Daily,XGBoost,HistoryEnrollment,Test,8.793027877807617,8.793027877807617,8.0,True
+Residential Dining,2026-05-09,,Saturday,4,2026-05-08 23:59:59,22.08589744567871,Daily,XGBoost,HistoryEnrollment,Test,18.08589744567871,18.08589744567871,1.0,True
+Residential Dining,2026-05-10,,Sunday,6,2026-05-09 23:59:59,21.583194732666016,Daily,XGBoost,HistoryEnrollment,Test,15.583194732666016,15.583194732666016,2.0,True
+Residential Dining,2026-05-11,,Monday,31,2026-05-10 23:59:59,33.34280014038086,Daily,XGBoost,HistoryEnrollment,Test,2.3428001403808594,2.3428001403808594,9.0,True
+Residential Dining,2026-05-12,,Tuesday,19,2026-05-11 23:59:59,27.551753997802734,Daily,XGBoost,HistoryEnrollment,Test,8.551753997802734,8.551753997802734,7.0,True
+Residential Dining,2026-05-13,,Wednesday,35,2026-05-12 23:59:59,35.90182876586914,Daily,XGBoost,HistoryEnrollment,Test,0.9018287658691406,0.9018287658691406,8.0,True
+Residential Dining,2026-05-14,,Thursday,33,2026-05-13 23:59:59,25.59195899963379,Daily,XGBoost,HistoryEnrollment,Test,7.408041000366211,-7.408041000366211,9.0,True
+Residential Dining,2026-05-15,,Friday,14,2026-05-14 23:59:59,25.793027877807617,Daily,XGBoost,HistoryEnrollment,Test,11.793027877807617,11.793027877807617,8.0,True
+Einstein's,2026-05-01,,Friday,272,2026-04-30 23:59:59,240.83626301267105,Daily,LightGBM,HistoryEnrollment,Test,31.163736987328946,-31.163736987328946,9.0,True
+Einstein's,2026-05-04,,Monday,620,2026-05-03 23:59:59,517.7675924461093,Daily,LightGBM,HistoryEnrollment,Test,102.23240755389065,-102.23240755389065,11.0,True
+Einstein's,2026-05-05,,Tuesday,598,2026-05-04 23:59:59,616.4454419945303,Daily,LightGBM,HistoryEnrollment,Test,18.445441994530256,18.445441994530256,11.0,True
+Einstein's,2026-05-06,,Wednesday,662,2026-05-05 23:59:59,576.59122478603,Daily,LightGBM,HistoryEnrollment,Test,85.40877521396999,-85.40877521396999,11.0,True
+Einstein's,2026-05-07,,Thursday,550,2026-05-06 23:59:59,525.4036865992969,Daily,LightGBM,HistoryEnrollment,Test,24.59631340070314,-24.59631340070314,11.0,True
+Einstein's,2026-05-08,,Friday,289,2026-05-07 23:59:59,221.1857705917408,Daily,LightGBM,HistoryEnrollment,Test,67.8142294082592,-67.8142294082592,8.0,True
+Einstein's,2026-05-11,,Monday,417,2026-05-10 23:59:59,522.8280841536852,Daily,LightGBM,HistoryEnrollment,Test,105.82808415368515,105.82808415368515,11.0,True
+Einstein's,2026-05-12,,Tuesday,460,2026-05-11 23:59:59,557.3183266779951,Daily,LightGBM,HistoryEnrollment,Test,97.31832667799506,97.31832667799506,11.0,True
+Einstein's,2026-05-13,,Wednesday,466,2026-05-12 23:59:59,528.2133594107721,Daily,LightGBM,HistoryEnrollment,Test,62.213359410772114,62.213359410772114,11.0,True
+Einstein's,2026-05-14,,Thursday,424,2026-05-13 23:59:59,569.729925407335,Daily,LightGBM,HistoryEnrollment,Test,145.72992540733503,145.72992540733503,11.0,True
+Einstein's,2026-05-15,,Friday,312,2026-05-14 23:59:59,249.4978916246243,Daily,LightGBM,HistoryEnrollment,Test,62.50210837537571,-62.50210837537571,8.0,True
+Einstein's,2026-05-18,,Monday,143,2026-05-17 23:59:59,601.2677975964904,Daily,LightGBM,HistoryEnrollment,Test,458.26779759649037,458.26779759649037,8.0,True
+Einstein's,2026-05-19,,Tuesday,120,2026-05-18 23:59:59,496.8158666085184,Daily,LightGBM,HistoryEnrollment,Test,376.8158666085184,376.8158666085184,8.0,True
+Einstein's,2026-05-20,,Wednesday,131,2026-05-19 23:59:59,496.2687615242051,Daily,LightGBM,HistoryEnrollment,Test,365.2687615242051,365.2687615242051,8.0,True
+Einstein's,2026-05-21,,Thursday,98,2026-05-20 23:59:59,489.9506185988492,Daily,LightGBM,HistoryEnrollment,Test,391.9506185988492,391.9506185988492,9.0,True
+Einstein's,2026-05-26,,Tuesday,113,2026-05-25 23:59:59,535.7496254437036,Daily,LightGBM,HistoryEnrollment,Test,422.7496254437036,422.7496254437036,9.0,True
+Einstein's,2026-05-27,,Wednesday,154,2026-05-26 23:59:59,509.0183523950299,Daily,LightGBM,HistoryEnrollment,Test,355.0183523950299,355.0183523950299,9.0,True
+Einstein's,2026-05-28,,Thursday,146,2026-05-27 23:59:59,487.0295669876938,Daily,LightGBM,HistoryEnrollment,Test,341.0295669876938,341.0295669876938,9.0,True
+Panda Express,2026-05-01,,Friday,106,2026-04-30 23:59:59,133.05134440142677,Daily,LightGBM,HistoryEnrollment,Test,27.051344401426775,27.051344401426775,3.0,True
+Panda Express,2026-05-04,,Monday,315,2026-05-03 23:59:59,278.49820736543023,Daily,LightGBM,HistoryEnrollment,Test,36.50179263456977,-36.50179263456977,5.0,True
+Panda Express,2026-05-05,,Tuesday,235,2026-05-04 23:59:59,263.47656233767424,Daily,LightGBM,HistoryEnrollment,Test,28.47656233767424,28.47656233767424,6.0,True
+Panda Express,2026-05-06,,Wednesday,305,2026-05-05 23:59:59,278.4969445814433,Daily,LightGBM,HistoryEnrollment,Test,26.5030554185567,-26.5030554185567,6.0,True
+Panda Express,2026-05-07,,Thursday,251,2026-05-06 23:59:59,258.9962003348541,Daily,LightGBM,HistoryEnrollment,Test,7.996200334854109,7.996200334854109,6.0,True
+Panda Express,2026-05-08,,Friday,113,2026-05-07 23:59:59,132.15602275603123,Daily,LightGBM,HistoryEnrollment,Test,19.156022756031234,19.156022756031234,4.0,True
+Panda Express,2026-05-11,,Monday,207,2026-05-10 23:59:59,274.1054610664193,Daily,LightGBM,HistoryEnrollment,Test,67.10546106641931,67.10546106641931,6.0,True
+Panda Express,2026-05-12,,Tuesday,181,2026-05-11 23:59:59,192.06040998754858,Daily,LightGBM,HistoryEnrollment,Test,11.060409987548582,11.060409987548582,5.0,True
+Panda Express,2026-05-13,,Wednesday,175,2026-05-12 23:59:59,223.91131388574374,Daily,LightGBM,HistoryEnrollment,Test,48.91131388574374,48.91131388574374,5.0,True
+Panda Express,2026-05-14,,Thursday,167,2026-05-13 23:59:59,243.96114609929734,Daily,LightGBM,HistoryEnrollment,Test,76.96114609929734,76.96114609929734,5.0,True
+Residential Dining,2026-05-01,,Friday,15,2026-04-30 23:59:59,25.329345817944578,Daily,LightGBM,HistoryEnrollment,Test,10.329345817944578,10.329345817944578,7.0,True
+Residential Dining,2026-05-02,,Saturday,1,2026-05-01 23:59:59,14.603008287094259,Daily,LightGBM,HistoryEnrollment,Test,13.603008287094259,13.603008287094259,1.0,True
+Residential Dining,2026-05-03,,Sunday,4,2026-05-02 23:59:59,17.08165100408355,Daily,LightGBM,HistoryEnrollment,Test,13.08165100408355,13.08165100408355,2.0,True
+Residential Dining,2026-05-04,,Monday,29,2026-05-03 23:59:59,29.780946744766617,Daily,LightGBM,HistoryEnrollment,Test,0.7809467447666165,0.7809467447666165,8.0,True
+Residential Dining,2026-05-05,,Tuesday,68,2026-05-04 23:59:59,25.329345817944578,Daily,LightGBM,HistoryEnrollment,Test,42.67065418205542,-42.67065418205542,8.0,True
+Residential Dining,2026-05-06,,Wednesday,81,2026-05-05 23:59:59,33.910011542321826,Daily,LightGBM,HistoryEnrollment,Test,47.089988457678174,-47.089988457678174,9.0,True
+Residential Dining,2026-05-07,,Thursday,13,2026-05-06 23:59:59,11.71778826276005,Daily,LightGBM,HistoryEnrollment,Test,1.2822117372399493,-1.2822117372399493,5.0,True
+Residential Dining,2026-05-08,,Friday,17,2026-05-07 23:59:59,25.329345817944578,Daily,LightGBM,HistoryEnrollment,Test,8.329345817944578,8.329345817944578,8.0,True
+Residential Dining,2026-05-09,,Saturday,4,2026-05-08 23:59:59,14.603008287094259,Daily,LightGBM,HistoryEnrollment,Test,10.603008287094259,10.603008287094259,1.0,True
+Residential Dining,2026-05-10,,Sunday,6,2026-05-09 23:59:59,13.985536477262015,Daily,LightGBM,HistoryEnrollment,Test,7.9855364772620145,7.9855364772620145,2.0,True
+Residential Dining,2026-05-11,,Monday,31,2026-05-10 23:59:59,30.39841855459886,Daily,LightGBM,HistoryEnrollment,Test,0.6015814454011412,-0.6015814454011412,9.0,True
+Residential Dining,2026-05-12,,Tuesday,19,2026-05-11 23:59:59,28.881500527708152,Daily,LightGBM,HistoryEnrollment,Test,9.881500527708152,9.881500527708152,7.0,True
+Residential Dining,2026-05-13,,Wednesday,35,2026-05-12 23:59:59,38.05330078596754,Daily,LightGBM,HistoryEnrollment,Test,3.0533007859675365,3.0533007859675365,8.0,True
+Residential Dining,2026-05-14,,Thursday,33,2026-05-13 23:59:59,25.329345817944578,Daily,LightGBM,HistoryEnrollment,Test,7.670654182055422,-7.670654182055422,9.0,True
+Residential Dining,2026-05-15,,Friday,14,2026-05-14 23:59:59,25.329345817944578,Daily,LightGBM,HistoryEnrollment,Test,11.329345817944578,11.329345817944578,8.0,True
+Einstein's,2026-05-01,,Friday,272,2026-04-30 23:59:59,360.79491742988165,Daily,Ridge,Full,Test,88.79491742988165,88.79491742988165,9.0,True
+Einstein's,2026-05-04,,Monday,620,2026-05-03 23:59:59,513.9953347094628,Daily,Ridge,Full,Test,106.00466529053722,-106.00466529053722,11.0,True
+Einstein's,2026-05-05,,Tuesday,598,2026-05-04 23:59:59,597.8256990678956,Daily,Ridge,Full,Test,0.17430093210441555,-0.17430093210441555,11.0,True
+Einstein's,2026-05-06,,Wednesday,662,2026-05-05 23:59:59,582.0010312851655,Daily,Ridge,Full,Test,79.99896871483452,-79.99896871483452,11.0,True
+Einstein's,2026-05-07,,Thursday,550,2026-05-06 23:59:59,543.749897494685,Daily,Ridge,Full,Test,6.250102505314999,-6.250102505314999,11.0,True
+Einstein's,2026-05-08,,Friday,289,2026-05-07 23:59:59,346.76142973027515,Daily,Ridge,Full,Test,57.761429730275154,57.761429730275154,8.0,True
+Einstein's,2026-05-11,,Monday,417,2026-05-10 23:59:59,527.4325598126551,Daily,Ridge,Full,Test,110.43255981265509,110.43255981265509,11.0,True
+Einstein's,2026-05-12,,Tuesday,460,2026-05-11 23:59:59,533.5022601197228,Daily,Ridge,Full,Test,73.50226011972279,73.50226011972279,11.0,True
+Einstein's,2026-05-13,,Wednesday,466,2026-05-12 23:59:59,552.1320244018523,Daily,Ridge,Full,Test,86.13202440185228,86.13202440185228,11.0,True
+Einstein's,2026-05-14,,Thursday,424,2026-05-13 23:59:59,515.0549436394939,Daily,Ridge,Full,Test,91.0549436394939,91.0549436394939,11.0,True
+Einstein's,2026-05-15,,Friday,312,2026-05-14 23:59:59,305.21785919896996,Daily,Ridge,Full,Test,6.782140801030039,-6.782140801030039,8.0,True
+Einstein's,2026-05-18,,Monday,143,2026-05-17 23:59:59,503.83165847236035,Daily,Ridge,Full,Test,360.83165847236035,360.83165847236035,8.0,True
+Einstein's,2026-05-19,,Tuesday,120,2026-05-18 23:59:59,438.993291737802,Daily,Ridge,Full,Test,318.993291737802,318.993291737802,8.0,True
+Einstein's,2026-05-20,,Wednesday,131,2026-05-19 23:59:59,444.5298427235762,Daily,Ridge,Full,Test,313.5298427235762,313.5298427235762,8.0,True
+Einstein's,2026-05-21,,Thursday,98,2026-05-20 23:59:59,384.42710234837676,Daily,Ridge,Full,Test,286.42710234837676,286.42710234837676,9.0,True
+Einstein's,2026-05-26,,Tuesday,113,2026-05-25 23:59:59,433.1142391811012,Daily,Ridge,Full,Test,320.1142391811012,320.1142391811012,9.0,True
+Einstein's,2026-05-27,,Wednesday,154,2026-05-26 23:59:59,385.02273905046115,Daily,Ridge,Full,Test,231.02273905046115,231.02273905046115,9.0,True
+Einstein's,2026-05-28,,Thursday,146,2026-05-27 23:59:59,347.2770917334286,Daily,Ridge,Full,Test,201.27709173342862,201.27709173342862,9.0,True
+Panda Express,2026-05-01,,Friday,106,2026-04-30 23:59:59,128.1236618946734,Daily,Ridge,Full,Test,22.123661894673404,22.123661894673404,3.0,True
+Panda Express,2026-05-04,,Monday,315,2026-05-03 23:59:59,290.6093015866143,Daily,Ridge,Full,Test,24.390698413385678,-24.390698413385678,5.0,True
+Panda Express,2026-05-05,,Tuesday,235,2026-05-04 23:59:59,276.5499128690043,Daily,Ridge,Full,Test,41.54991286900429,41.54991286900429,6.0,True
+Panda Express,2026-05-06,,Wednesday,305,2026-05-05 23:59:59,293.5921566912232,Daily,Ridge,Full,Test,11.407843308776819,-11.407843308776819,6.0,True
+Panda Express,2026-05-07,,Thursday,251,2026-05-06 23:59:59,261.762600422161,Daily,Ridge,Full,Test,10.762600422160972,10.762600422160972,6.0,True
+Panda Express,2026-05-08,,Friday,113,2026-05-07 23:59:59,121.68086206928024,Daily,Ridge,Full,Test,8.680862069280238,8.680862069280238,4.0,True
+Panda Express,2026-05-11,,Monday,207,2026-05-10 23:59:59,299.28177057253276,Daily,Ridge,Full,Test,92.28177057253276,92.28177057253276,6.0,True
+Panda Express,2026-05-12,,Tuesday,181,2026-05-11 23:59:59,248.2610786341159,Daily,Ridge,Full,Test,67.2610786341159,67.2610786341159,5.0,True
+Panda Express,2026-05-13,,Wednesday,175,2026-05-12 23:59:59,278.0907027913308,Daily,Ridge,Full,Test,103.09070279133078,103.09070279133078,5.0,True
+Panda Express,2026-05-14,,Thursday,167,2026-05-13 23:59:59,239.01608660052753,Daily,Ridge,Full,Test,72.01608660052753,72.01608660052753,5.0,True
+Residential Dining,2026-05-01,,Friday,15,2026-04-30 23:59:59,0.0,Daily,Ridge,Full,Test,15.0,-15.0,7.0,True
+Residential Dining,2026-05-02,,Saturday,1,2026-05-01 23:59:59,0.0,Daily,Ridge,Full,Test,1.0,-1.0,1.0,True
+Residential Dining,2026-05-03,,Sunday,4,2026-05-02 23:59:59,0.0,Daily,Ridge,Full,Test,4.0,-4.0,2.0,True
+Residential Dining,2026-05-04,,Monday,29,2026-05-03 23:59:59,44.99443442126753,Daily,Ridge,Full,Test,15.994434421267528,15.994434421267528,8.0,True
+Residential Dining,2026-05-05,,Tuesday,68,2026-05-04 23:59:59,41.16175831884644,Daily,Ridge,Full,Test,26.838241681153562,-26.838241681153562,8.0,True
+Residential Dining,2026-05-06,,Wednesday,81,2026-05-05 23:59:59,69.61581833421829,Daily,Ridge,Full,Test,11.38418166578171,-11.38418166578171,9.0,True
+Residential Dining,2026-05-07,,Thursday,13,2026-05-06 23:59:59,38.2468504840096,Daily,Ridge,Full,Test,25.2468504840096,25.2468504840096,5.0,True
+Residential Dining,2026-05-08,,Friday,17,2026-05-07 23:59:59,0.0,Daily,Ridge,Full,Test,17.0,-17.0,8.0,True
+Residential Dining,2026-05-09,,Saturday,4,2026-05-08 23:59:59,0.0,Daily,Ridge,Full,Test,4.0,-4.0,1.0,True
+Residential Dining,2026-05-10,,Sunday,6,2026-05-09 23:59:59,0.0,Daily,Ridge,Full,Test,6.0,-6.0,2.0,True
+Residential Dining,2026-05-11,,Monday,31,2026-05-10 23:59:59,49.10850225639447,Daily,Ridge,Full,Test,18.108502256394473,18.108502256394473,9.0,True
+Residential Dining,2026-05-12,,Tuesday,19,2026-05-11 23:59:59,45.24027846090871,Daily,Ridge,Full,Test,26.240278460908712,26.240278460908712,7.0,True
+Residential Dining,2026-05-13,,Wednesday,35,2026-05-12 23:59:59,67.645412726302,Daily,Ridge,Full,Test,32.645412726302,32.645412726302,8.0,True
+Residential Dining,2026-05-14,,Thursday,33,2026-05-13 23:59:59,35.082330118231624,Daily,Ridge,Full,Test,2.0823301182316243,2.0823301182316243,9.0,True
+Residential Dining,2026-05-15,,Friday,14,2026-05-14 23:59:59,0.0,Daily,Ridge,Full,Test,14.0,-14.0,8.0,True
+Einstein's,2026-05-01,,Friday,272,2026-04-30 23:59:59,287.0,Daily,Seasonal Naive,HistoricalOnly,Test,15.0,15.0,9.0,True
+Einstein's,2026-05-04,,Monday,620,2026-05-03 23:59:59,583.0,Daily,Seasonal Naive,HistoricalOnly,Test,37.0,-37.0,11.0,True
+Einstein's,2026-05-05,,Tuesday,598,2026-05-04 23:59:59,587.0,Daily,Seasonal Naive,HistoricalOnly,Test,11.0,-11.0,11.0,True
+Einstein's,2026-05-06,,Wednesday,662,2026-05-05 23:59:59,579.0,Daily,Seasonal Naive,HistoricalOnly,Test,83.0,-83.0,11.0,True
+Einstein's,2026-05-07,,Thursday,550,2026-05-06 23:59:59,644.0,Daily,Seasonal Naive,HistoricalOnly,Test,94.0,94.0,11.0,True
+Einstein's,2026-05-08,,Friday,289,2026-05-07 23:59:59,272.0,Daily,Seasonal Naive,HistoricalOnly,Test,17.0,-17.0,8.0,True
+Einstein's,2026-05-11,,Monday,417,2026-05-10 23:59:59,620.0,Daily,Seasonal Naive,HistoricalOnly,Test,203.0,203.0,11.0,True
+Einstein's,2026-05-12,,Tuesday,460,2026-05-11 23:59:59,598.0,Daily,Seasonal Naive,HistoricalOnly,Test,138.0,138.0,11.0,True
+Einstein's,2026-05-13,,Wednesday,466,2026-05-12 23:59:59,662.0,Daily,Seasonal Naive,HistoricalOnly,Test,196.0,196.0,11.0,True
+Einstein's,2026-05-14,,Thursday,424,2026-05-13 23:59:59,550.0,Daily,Seasonal Naive,HistoricalOnly,Test,126.0,126.0,11.0,True
+Einstein's,2026-05-15,,Friday,312,2026-05-14 23:59:59,289.0,Daily,Seasonal Naive,HistoricalOnly,Test,23.0,-23.0,8.0,True
+Einstein's,2026-05-18,,Monday,143,2026-05-17 23:59:59,417.0,Daily,Seasonal Naive,HistoricalOnly,Test,274.0,274.0,8.0,True
+Einstein's,2026-05-19,,Tuesday,120,2026-05-18 23:59:59,460.0,Daily,Seasonal Naive,HistoricalOnly,Test,340.0,340.0,8.0,True
+Einstein's,2026-05-20,,Wednesday,131,2026-05-19 23:59:59,466.0,Daily,Seasonal Naive,HistoricalOnly,Test,335.0,335.0,8.0,True
+Einstein's,2026-05-21,,Thursday,98,2026-05-20 23:59:59,424.0,Daily,Seasonal Naive,HistoricalOnly,Test,326.0,326.0,9.0,True
+Einstein's,2026-05-26,,Tuesday,113,2026-05-25 23:59:59,120.0,Daily,Seasonal Naive,HistoricalOnly,Test,7.0,7.0,9.0,True
+Einstein's,2026-05-27,,Wednesday,154,2026-05-26 23:59:59,131.0,Daily,Seasonal Naive,HistoricalOnly,Test,23.0,-23.0,9.0,True
+Einstein's,2026-05-28,,Thursday,146,2026-05-27 23:59:59,98.0,Daily,Seasonal Naive,HistoricalOnly,Test,48.0,-48.0,9.0,True
+Panda Express,2026-05-01,,Friday,106,2026-04-30 23:59:59,153.0,Daily,Seasonal Naive,HistoricalOnly,Test,47.0,47.0,3.0,True
+Panda Express,2026-05-04,,Monday,315,2026-05-03 23:59:59,294.0,Daily,Seasonal Naive,HistoricalOnly,Test,21.0,-21.0,5.0,True
+Panda Express,2026-05-05,,Tuesday,235,2026-05-04 23:59:59,221.0,Daily,Seasonal Naive,HistoricalOnly,Test,14.0,-14.0,6.0,True
+Panda Express,2026-05-06,,Wednesday,305,2026-05-05 23:59:59,293.0,Daily,Seasonal Naive,HistoricalOnly,Test,12.0,-12.0,6.0,True
+Panda Express,2026-05-07,,Thursday,251,2026-05-06 23:59:59,292.0,Daily,Seasonal Naive,HistoricalOnly,Test,41.0,41.0,6.0,True
+Panda Express,2026-05-08,,Friday,113,2026-05-07 23:59:59,106.0,Daily,Seasonal Naive,HistoricalOnly,Test,7.0,-7.0,4.0,True
+Panda Express,2026-05-11,,Monday,207,2026-05-10 23:59:59,315.0,Daily,Seasonal Naive,HistoricalOnly,Test,108.0,108.0,6.0,True
+Panda Express,2026-05-12,,Tuesday,181,2026-05-11 23:59:59,235.0,Daily,Seasonal Naive,HistoricalOnly,Test,54.0,54.0,5.0,True
+Panda Express,2026-05-13,,Wednesday,175,2026-05-12 23:59:59,305.0,Daily,Seasonal Naive,HistoricalOnly,Test,130.0,130.0,5.0,True
+Panda Express,2026-05-14,,Thursday,167,2026-05-13 23:59:59,251.0,Daily,Seasonal Naive,HistoricalOnly,Test,84.0,84.0,5.0,True
+Residential Dining,2026-05-01,,Friday,15,2026-04-30 23:59:59,10.0,Daily,Seasonal Naive,HistoricalOnly,Test,5.0,-5.0,7.0,True
+Residential Dining,2026-05-02,,Saturday,1,2026-05-01 23:59:59,2.0,Daily,Seasonal Naive,HistoricalOnly,Test,1.0,1.0,1.0,True
+Residential Dining,2026-05-03,,Sunday,4,2026-05-02 23:59:59,14.0,Daily,Seasonal Naive,HistoricalOnly,Test,10.0,10.0,2.0,True
+Residential Dining,2026-05-04,,Monday,29,2026-05-03 23:59:59,30.0,Daily,Seasonal Naive,HistoricalOnly,Test,1.0,1.0,8.0,True
+Residential Dining,2026-05-05,,Tuesday,68,2026-05-04 23:59:59,14.0,Daily,Seasonal Naive,HistoricalOnly,Test,54.0,-54.0,8.0,True
+Residential Dining,2026-05-06,,Wednesday,81,2026-05-05 23:59:59,35.0,Daily,Seasonal Naive,HistoricalOnly,Test,46.0,-46.0,9.0,True
+Residential Dining,2026-05-07,,Thursday,13,2026-05-06 23:59:59,28.0,Daily,Seasonal Naive,HistoricalOnly,Test,15.0,15.0,5.0,True
+Residential Dining,2026-05-08,,Friday,17,2026-05-07 23:59:59,15.0,Daily,Seasonal Naive,HistoricalOnly,Test,2.0,-2.0,8.0,True
+Residential Dining,2026-05-09,,Saturday,4,2026-05-08 23:59:59,1.0,Daily,Seasonal Naive,HistoricalOnly,Test,3.0,-3.0,1.0,True
+Residential Dining,2026-05-10,,Sunday,6,2026-05-09 23:59:59,4.0,Daily,Seasonal Naive,HistoricalOnly,Test,2.0,-2.0,2.0,True
+Residential Dining,2026-05-11,,Monday,31,2026-05-10 23:59:59,29.0,Daily,Seasonal Naive,HistoricalOnly,Test,2.0,-2.0,9.0,True
+Residential Dining,2026-05-12,,Tuesday,19,2026-05-11 23:59:59,68.0,Daily,Seasonal Naive,HistoricalOnly,Test,49.0,49.0,7.0,True
+Residential Dining,2026-05-13,,Wednesday,35,2026-05-12 23:59:59,81.0,Daily,Seasonal Naive,HistoricalOnly,Test,46.0,46.0,8.0,True
+Residential Dining,2026-05-14,,Thursday,33,2026-05-13 23:59:59,13.0,Daily,Seasonal Naive,HistoricalOnly,Test,20.0,-20.0,9.0,True
+Residential Dining,2026-05-15,,Friday,14,2026-05-14 23:59:59,17.0,Daily,Seasonal Naive,HistoricalOnly,Test,3.0,3.0,8.0,True
+Einstein's,2026-05-01,,Friday,272,2026-04-30 23:59:59,283.1760160933053,Daily,Prophet,HistoryEnrollment,Test,11.176016093305293,11.176016093305293,9.0,True
+Einstein's,2026-05-04,,Monday,620,2026-05-03 23:59:59,513.1311138233176,Daily,Prophet,HistoryEnrollment,Test,106.8688861766824,-106.8688861766824,11.0,True
+Einstein's,2026-05-05,,Tuesday,598,2026-05-04 23:59:59,615.3978437844185,Daily,Prophet,HistoryEnrollment,Test,17.397843784418455,17.397843784418455,11.0,True
+Einstein's,2026-05-06,,Wednesday,662,2026-05-05 23:59:59,577.1103414378987,Daily,Prophet,HistoryEnrollment,Test,84.88965856210132,-84.88965856210132,11.0,True
+Einstein's,2026-05-07,,Thursday,550,2026-05-06 23:59:59,510.4114458028338,Daily,Prophet,HistoryEnrollment,Test,39.58855419716622,-39.58855419716622,11.0,True
+Einstein's,2026-05-08,,Friday,289,2026-05-07 23:59:59,226.89841326149693,Daily,Prophet,HistoryEnrollment,Test,62.10158673850307,-62.10158673850307,8.0,True
+Einstein's,2026-05-11,,Monday,417,2026-05-10 23:59:59,506.9620098827316,Daily,Prophet,HistoryEnrollment,Test,89.96200988273159,89.96200988273159,11.0,True
+Einstein's,2026-05-12,,Tuesday,460,2026-05-11 23:59:59,559.6186075398513,Daily,Prophet,HistoryEnrollment,Test,99.61860753985127,99.61860753985127,11.0,True
+Einstein's,2026-05-13,,Wednesday,466,2026-05-12 23:59:59,547.196744480054,Daily,Prophet,HistoryEnrollment,Test,81.19674448005401,81.19674448005401,11.0,True
+Einstein's,2026-05-14,,Thursday,424,2026-05-13 23:59:59,486.0002192785576,Daily,Prophet,HistoryEnrollment,Test,62.00021927855761,62.00021927855761,11.0,True
+Einstein's,2026-05-15,,Friday,312,2026-05-14 23:59:59,244.7623448582748,Daily,Prophet,HistoryEnrollment,Test,67.23765514172521,-67.23765514172521,8.0,True
+Einstein's,2026-05-18,,Monday,143,2026-05-17 23:59:59,636.5995418049757,Daily,Prophet,HistoryEnrollment,Test,493.59954180497573,493.59954180497573,8.0,True
+Einstein's,2026-05-19,,Tuesday,120,2026-05-18 23:59:59,535.8425533929006,Daily,Prophet,HistoryEnrollment,Test,415.84255339290064,415.84255339290064,8.0,True
+Einstein's,2026-05-20,,Wednesday,131,2026-05-19 23:59:59,518.7099366699999,Daily,Prophet,HistoryEnrollment,Test,387.70993666999993,387.70993666999993,8.0,True
+Einstein's,2026-05-21,,Thursday,98,2026-05-20 23:59:59,495.30442658355656,Daily,Prophet,HistoryEnrollment,Test,397.30442658355656,397.30442658355656,9.0,True
+Einstein's,2026-05-26,,Tuesday,113,2026-05-25 23:59:59,641.2478766460785,Daily,Prophet,HistoryEnrollment,Test,528.2478766460785,528.2478766460785,9.0,True
+Einstein's,2026-05-27,,Wednesday,154,2026-05-26 23:59:59,432.4673543829215,Daily,Prophet,HistoryEnrollment,Test,278.4673543829215,278.4673543829215,9.0,True
+Einstein's,2026-05-28,,Thursday,146,2026-05-27 23:59:59,359.25732084092436,Daily,Prophet,HistoryEnrollment,Test,213.25732084092436,213.25732084092436,9.0,True
+Panda Express,2026-05-01,,Friday,106,2026-04-30 23:59:59,131.75657516120035,Daily,Prophet,HistoryEnrollment,Test,25.756575161200345,25.756575161200345,3.0,True
+Panda Express,2026-05-04,,Monday,315,2026-05-03 23:59:59,271.70681659308843,Daily,Prophet,HistoryEnrollment,Test,43.29318340691157,-43.29318340691157,5.0,True
+Panda Express,2026-05-05,,Tuesday,235,2026-05-04 23:59:59,268.1102895183442,Daily,Prophet,HistoryEnrollment,Test,33.11028951834419,33.11028951834419,6.0,True
+Panda Express,2026-05-06,,Wednesday,305,2026-05-05 23:59:59,319.07384242242426,Daily,Prophet,HistoryEnrollment,Test,14.073842422424264,14.073842422424264,6.0,True
+Panda Express,2026-05-07,,Thursday,251,2026-05-06 23:59:59,276.2200847236961,Daily,Prophet,HistoryEnrollment,Test,25.220084723696118,25.220084723696118,6.0,True
+Panda Express,2026-05-08,,Friday,113,2026-05-07 23:59:59,141.22873978383217,Daily,Prophet,HistoryEnrollment,Test,28.228739783832168,28.228739783832168,4.0,True
+Panda Express,2026-05-11,,Monday,207,2026-05-10 23:59:59,285.8300551893785,Daily,Prophet,HistoryEnrollment,Test,78.83005518937853,78.83005518937853,6.0,True
+Panda Express,2026-05-12,,Tuesday,181,2026-05-11 23:59:59,277.09527089226503,Daily,Prophet,HistoryEnrollment,Test,96.09527089226503,96.09527089226503,5.0,True
+Panda Express,2026-05-13,,Wednesday,175,2026-05-12 23:59:59,315.64868300103365,Daily,Prophet,HistoryEnrollment,Test,140.64868300103365,140.64868300103365,5.0,True
+Panda Express,2026-05-14,,Thursday,167,2026-05-13 23:59:59,298.71496717255445,Daily,Prophet,HistoryEnrollment,Test,131.71496717255445,131.71496717255445,5.0,True
+Residential Dining,2026-05-01,,Friday,15,2026-04-30 23:59:59,23.505189758935064,Daily,Prophet,HistoryEnrollment,Test,8.505189758935064,8.505189758935064,7.0,True
+Residential Dining,2026-05-02,,Saturday,1,2026-05-01 23:59:59,4.633041297627372,Daily,Prophet,HistoryEnrollment,Test,3.633041297627372,3.633041297627372,1.0,True
+Residential Dining,2026-05-03,,Sunday,4,2026-05-02 23:59:59,6.797193399202328,Daily,Prophet,HistoryEnrollment,Test,2.797193399202328,2.797193399202328,2.0,True
+Residential Dining,2026-05-04,,Monday,29,2026-05-03 23:59:59,31.154816047460507,Daily,Prophet,HistoryEnrollment,Test,2.154816047460507,2.154816047460507,8.0,True
+Residential Dining,2026-05-05,,Tuesday,68,2026-05-04 23:59:59,22.314160601588117,Daily,Prophet,HistoryEnrollment,Test,45.685839398411886,-45.685839398411886,8.0,True
+Residential Dining,2026-05-06,,Wednesday,81,2026-05-05 23:59:59,46.46317663746328,Daily,Prophet,HistoryEnrollment,Test,34.53682336253672,-34.53682336253672,9.0,True
+Residential Dining,2026-05-07,,Thursday,13,2026-05-06 23:59:59,27.96775382604037,Daily,Prophet,HistoryEnrollment,Test,14.967753826040369,14.967753826040369,5.0,True
+Residential Dining,2026-05-08,,Friday,17,2026-05-07 23:59:59,21.327165229816345,Daily,Prophet,HistoryEnrollment,Test,4.3271652298163445,4.3271652298163445,8.0,True
+Residential Dining,2026-05-09,,Saturday,4,2026-05-08 23:59:59,4.213887149666348,Daily,Prophet,HistoryEnrollment,Test,0.21388714966634836,0.21388714966634836,1.0,True
+Residential Dining,2026-05-10,,Sunday,6,2026-05-09 23:59:59,5.963483001381398,Daily,Prophet,HistoryEnrollment,Test,0.036516998618601804,-0.036516998618601804,2.0,True
+Residential Dining,2026-05-11,,Monday,31,2026-05-10 23:59:59,30.38692605403287,Daily,Prophet,HistoryEnrollment,Test,0.6130739459671304,-0.6130739459671304,9.0,True
+Residential Dining,2026-05-12,,Tuesday,19,2026-05-11 23:59:59,24.949879245089647,Daily,Prophet,HistoryEnrollment,Test,5.949879245089647,5.949879245089647,7.0,True
+Residential Dining,2026-05-13,,Wednesday,35,2026-05-12 23:59:59,41.83896746812477,Daily,Prophet,HistoryEnrollment,Test,6.838967468124771,6.838967468124771,8.0,True
+Residential Dining,2026-05-14,,Thursday,33,2026-05-13 23:59:59,21.236858514334497,Daily,Prophet,HistoryEnrollment,Test,11.763141485665503,-11.763141485665503,9.0,True
+Residential Dining,2026-05-15,,Friday,14,2026-05-14 23:59:59,24.336951718117476,Daily,Prophet,HistoryEnrollment,Test,10.336951718117476,10.336951718117476,8.0,True

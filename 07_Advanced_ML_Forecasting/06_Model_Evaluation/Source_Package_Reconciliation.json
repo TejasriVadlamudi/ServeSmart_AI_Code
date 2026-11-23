@@ -1,0 +1,29 @@
+{
+  "SameApprovedHourlyTargets": true,
+  "Rows": 2032,
+  "B_FinalRunnerPresent": false,
+  "FlatFileHistoricalSameHourAvg_matches_pooled_location_clock": true,
+  "FlatFileHistoricalSameHourAvg_matches_same_weekday_clock": false,
+  "B_Python": "3.9.6",
+  "B_DocumentedVersions": [
+    {
+      "Component": "sklearn",
+      "Status": "available",
+      "Version": "1.6.1",
+      "Detail": ""
+    },
+    {
+      "Component": "xgboost",
+      "Status": "available",
+      "Version": "2.1.4",
+      "Detail": ""
+    },
+    {
+      "Component": "lightgbm",
+      "Status": "available",
+      "Version": "4.6.0",
+      "Detail": ""
+    }
+  ],
+  "Note": "Exact original end-to-end rerun is not recoverable from B because run_ml_models.py is omitted. Documented model parameters are rerun on explicit safe predictors in the new official pipeline; stored B scores are reference only. WAPE in B is fractional; comparisons here express percent. No measured causal allocation of the A-B score gap is claimed."
+}

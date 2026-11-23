@@ -1,0 +1,3 @@
+# Website handoff
+
+04_Hourly_Predictions and05_Daily_Predictions contain clearly labeled historicalMay backtestCSV files. They are not live forecasts for tomorrow and do not estimate people,wait times orattendance. The model registry and relative-pathPredict_Prepared_Batch.py support inference from explicitly caller-prepared as-of features. Samples omitActual. Default models are the locked hourlyHistoricalAverage and dailyRF;live enrollment inputs forRFremainconditional. Establish an openingcalendar,source timestamps and fresh holdout before production integration. No existing website orTableau file was modified.

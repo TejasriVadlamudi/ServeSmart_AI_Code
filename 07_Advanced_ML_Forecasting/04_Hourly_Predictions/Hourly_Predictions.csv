@@ -1,0 +1,317 @@
+Location,Date,Hour,Weekday,Actual,ForecastCutoff,Prediction,ForecastLevel,Model,FeatureSet,Cohort,AbsoluteError,Error,RecordedHours,CommonEvaluationRow
+Einstein's,2026-05-01,7.0,Friday,8,2026-04-30 23:59:59,4.636363636363637,Hourly,Historical Average,HistoricalOnly,Test,3.3636363636363633,-3.3636363636363633,,True
+Einstein's,2026-05-01,8.0,Friday,42,2026-04-30 23:59:59,26.571428571428573,Hourly,Historical Average,HistoricalOnly,Test,15.428571428571427,-15.428571428571427,,True
+Einstein's,2026-05-01,9.0,Friday,51,2026-04-30 23:59:59,37.357142857142854,Hourly,Historical Average,HistoricalOnly,Test,13.642857142857146,-13.642857142857146,,True
+Einstein's,2026-05-01,10.0,Friday,34,2026-04-30 23:59:59,40.42857142857143,Hourly,Historical Average,HistoricalOnly,Test,6.428571428571431,6.428571428571431,,True
+Einstein's,2026-05-01,11.0,Friday,20,2026-04-30 23:59:59,41.57142857142857,Hourly,Historical Average,HistoricalOnly,Test,21.57142857142857,21.57142857142857,,True
+Einstein's,2026-05-01,12.0,Friday,38,2026-04-30 23:59:59,43.0,Hourly,Historical Average,HistoricalOnly,Test,5.0,5.0,,True
+Einstein's,2026-05-01,13.0,Friday,43,2026-04-30 23:59:59,33.785714285714285,Hourly,Historical Average,HistoricalOnly,Test,9.214285714285715,-9.214285714285715,,True
+Einstein's,2026-05-01,14.0,Friday,9,2026-04-30 23:59:59,19.333333333333332,Hourly,Historical Average,HistoricalOnly,Test,10.333333333333332,10.333333333333332,,True
+Einstein's,2026-05-01,15.0,Friday,27,2026-04-30 23:59:59,18.0,Hourly,Historical Average,HistoricalOnly,Test,9.0,-9.0,,True
+Einstein's,2026-05-04,7.0,Monday,10,2026-05-03 23:59:59,8.153846153846153,Hourly,Historical Average,HistoricalOnly,Test,1.8461538461538467,-1.8461538461538467,,True
+Einstein's,2026-05-04,8.0,Monday,36,2026-05-03 23:59:59,27.857142857142858,Hourly,Historical Average,HistoricalOnly,Test,8.142857142857142,-8.142857142857142,,True
+Einstein's,2026-05-04,9.0,Monday,65,2026-05-03 23:59:59,70.85714285714286,Hourly,Historical Average,HistoricalOnly,Test,5.857142857142861,5.857142857142861,,True
+Einstein's,2026-05-04,10.0,Monday,88,2026-05-03 23:59:59,78.2,Hourly,Historical Average,HistoricalOnly,Test,9.799999999999997,-9.799999999999997,,True
+Einstein's,2026-05-04,11.0,Monday,102,2026-05-03 23:59:59,84.0,Hourly,Historical Average,HistoricalOnly,Test,18.0,-18.0,,True
+Einstein's,2026-05-04,12.0,Monday,82,2026-05-03 23:59:59,81.42857142857143,Hourly,Historical Average,HistoricalOnly,Test,0.5714285714285694,-0.5714285714285694,,True
+Einstein's,2026-05-04,13.0,Monday,97,2026-05-03 23:59:59,76.35714285714286,Hourly,Historical Average,HistoricalOnly,Test,20.64285714285714,-20.64285714285714,,True
+Einstein's,2026-05-04,14.0,Monday,33,2026-05-03 23:59:59,32.38461538461539,Hourly,Historical Average,HistoricalOnly,Test,0.6153846153846132,-0.6153846153846132,,True
+Einstein's,2026-05-04,15.0,Monday,63,2026-05-03 23:59:59,47.61538461538461,Hourly,Historical Average,HistoricalOnly,Test,15.384615384615387,-15.384615384615387,,True
+Einstein's,2026-05-04,16.0,Monday,19,2026-05-03 23:59:59,29.692307692307693,Hourly,Historical Average,HistoricalOnly,Test,10.692307692307693,10.692307692307693,,True
+Einstein's,2026-05-04,17.0,Monday,25,2026-05-03 23:59:59,13.692307692307692,Hourly,Historical Average,HistoricalOnly,Test,11.307692307692308,-11.307692307692308,,True
+Einstein's,2026-05-05,7.0,Tuesday,6,2026-05-04 23:59:59,7.928571428571429,Hourly,Historical Average,HistoricalOnly,Test,1.9285714285714288,1.9285714285714288,,True
+Einstein's,2026-05-05,8.0,Tuesday,48,2026-05-04 23:59:59,52.857142857142854,Hourly,Historical Average,HistoricalOnly,Test,4.857142857142854,4.857142857142854,,True
+Einstein's,2026-05-05,9.0,Tuesday,40,2026-05-04 23:59:59,80.28571428571429,Hourly,Historical Average,HistoricalOnly,Test,40.28571428571429,40.28571428571429,,True
+Einstein's,2026-05-05,10.0,Tuesday,116,2026-05-04 23:59:59,103.07142857142857,Hourly,Historical Average,HistoricalOnly,Test,12.92857142857143,-12.92857142857143,,True
+Einstein's,2026-05-05,11.0,Tuesday,74,2026-05-04 23:59:59,66.5,Hourly,Historical Average,HistoricalOnly,Test,7.5,-7.5,,True
+Einstein's,2026-05-05,12.0,Tuesday,120,2026-05-04 23:59:59,104.5,Hourly,Historical Average,HistoricalOnly,Test,15.5,-15.5,,True
+Einstein's,2026-05-05,13.0,Tuesday,38,2026-05-04 23:59:59,55.5,Hourly,Historical Average,HistoricalOnly,Test,17.5,17.5,,True
+Einstein's,2026-05-05,14.0,Tuesday,61,2026-05-04 23:59:59,47.857142857142854,Hourly,Historical Average,HistoricalOnly,Test,13.142857142857146,-13.142857142857146,,True
+Einstein's,2026-05-05,15.0,Tuesday,52,2026-05-04 23:59:59,37.714285714285715,Hourly,Historical Average,HistoricalOnly,Test,14.285714285714285,-14.285714285714285,,True
+Einstein's,2026-05-05,16.0,Tuesday,29,2026-05-04 23:59:59,33.285714285714285,Hourly,Historical Average,HistoricalOnly,Test,4.285714285714285,4.285714285714285,,True
+Einstein's,2026-05-05,17.0,Tuesday,14,2026-05-04 23:59:59,15.214285714285714,Hourly,Historical Average,HistoricalOnly,Test,1.2142857142857135,1.2142857142857135,,True
+Einstein's,2026-05-06,7.0,Wednesday,14,2026-05-05 23:59:59,10.785714285714286,Hourly,Historical Average,HistoricalOnly,Test,3.2142857142857135,-3.2142857142857135,,True
+Einstein's,2026-05-06,8.0,Wednesday,42,2026-05-05 23:59:59,34.733333333333334,Hourly,Historical Average,HistoricalOnly,Test,7.266666666666666,-7.266666666666666,,True
+Einstein's,2026-05-06,9.0,Wednesday,84,2026-05-05 23:59:59,78.8,Hourly,Historical Average,HistoricalOnly,Test,5.200000000000003,-5.200000000000003,,True
+Einstein's,2026-05-06,10.0,Wednesday,86,2026-05-05 23:59:59,99.33333333333333,Hourly,Historical Average,HistoricalOnly,Test,13.333333333333329,13.333333333333329,,True
+Einstein's,2026-05-06,11.0,Wednesday,97,2026-05-05 23:59:59,86.06666666666666,Hourly,Historical Average,HistoricalOnly,Test,10.933333333333337,-10.933333333333337,,True
+Einstein's,2026-05-06,12.0,Wednesday,100,2026-05-05 23:59:59,82.53333333333333,Hourly,Historical Average,HistoricalOnly,Test,17.46666666666667,-17.46666666666667,,True
+Einstein's,2026-05-06,13.0,Wednesday,79,2026-05-05 23:59:59,80.73333333333333,Hourly,Historical Average,HistoricalOnly,Test,1.7333333333333343,1.7333333333333343,,True
+Einstein's,2026-05-06,14.0,Wednesday,62,2026-05-05 23:59:59,40.357142857142854,Hourly,Historical Average,HistoricalOnly,Test,21.642857142857146,-21.642857142857146,,True
+Einstein's,2026-05-06,15.0,Wednesday,51,2026-05-05 23:59:59,49.0,Hourly,Historical Average,HistoricalOnly,Test,2.0,-2.0,,True
+Einstein's,2026-05-06,16.0,Wednesday,35,2026-05-05 23:59:59,38.0,Hourly,Historical Average,HistoricalOnly,Test,3.0,3.0,,True
+Einstein's,2026-05-06,17.0,Wednesday,12,2026-05-05 23:59:59,7.142857142857143,Hourly,Historical Average,HistoricalOnly,Test,4.857142857142857,-4.857142857142857,,True
+Einstein's,2026-05-07,7.0,Thursday,20,2026-05-06 23:59:59,9.928571428571429,Hourly,Historical Average,HistoricalOnly,Test,10.071428571428571,-10.071428571428571,,True
+Einstein's,2026-05-07,8.0,Thursday,36,2026-05-06 23:59:59,34.6,Hourly,Historical Average,HistoricalOnly,Test,1.3999999999999986,-1.3999999999999986,,True
+Einstein's,2026-05-07,9.0,Thursday,75,2026-05-06 23:59:59,63.86666666666667,Hourly,Historical Average,HistoricalOnly,Test,11.133333333333333,-11.133333333333333,,True
+Einstein's,2026-05-07,10.0,Thursday,72,2026-05-06 23:59:59,86.73333333333333,Hourly,Historical Average,HistoricalOnly,Test,14.733333333333334,14.733333333333334,,True
+Einstein's,2026-05-07,11.0,Thursday,74,2026-05-06 23:59:59,69.33333333333333,Hourly,Historical Average,HistoricalOnly,Test,4.666666666666671,-4.666666666666671,,True
+Einstein's,2026-05-07,12.0,Thursday,79,2026-05-06 23:59:59,99.13333333333334,Hourly,Historical Average,HistoricalOnly,Test,20.13333333333334,20.13333333333334,,True
+Einstein's,2026-05-07,13.0,Thursday,57,2026-05-06 23:59:59,49.733333333333334,Hourly,Historical Average,HistoricalOnly,Test,7.266666666666666,-7.266666666666666,,True
+Einstein's,2026-05-07,14.0,Thursday,69,2026-05-06 23:59:59,55.07142857142857,Hourly,Historical Average,HistoricalOnly,Test,13.92857142857143,-13.92857142857143,,True
+Einstein's,2026-05-07,15.0,Thursday,40,2026-05-06 23:59:59,35.642857142857146,Hourly,Historical Average,HistoricalOnly,Test,4.357142857142854,-4.357142857142854,,True
+Einstein's,2026-05-07,16.0,Thursday,21,2026-05-06 23:59:59,30.857142857142858,Hourly,Historical Average,HistoricalOnly,Test,9.857142857142858,9.857142857142858,,True
+Einstein's,2026-05-07,17.0,Thursday,7,2026-05-06 23:59:59,12.785714285714286,Hourly,Historical Average,HistoricalOnly,Test,5.7857142857142865,5.7857142857142865,,True
+Einstein's,2026-05-08,8.0,Friday,40,2026-05-07 23:59:59,27.6,Hourly,Historical Average,HistoricalOnly,Test,12.399999999999999,-12.399999999999999,,True
+Einstein's,2026-05-08,9.0,Friday,28,2026-05-07 23:59:59,38.266666666666666,Hourly,Historical Average,HistoricalOnly,Test,10.266666666666666,10.266666666666666,,True
+Einstein's,2026-05-08,10.0,Friday,35,2026-05-07 23:59:59,40.0,Hourly,Historical Average,HistoricalOnly,Test,5.0,5.0,,True
+Einstein's,2026-05-08,11.0,Friday,51,2026-05-07 23:59:59,40.13333333333333,Hourly,Historical Average,HistoricalOnly,Test,10.866666666666667,-10.866666666666667,,True
+Einstein's,2026-05-08,12.0,Friday,56,2026-05-07 23:59:59,42.666666666666664,Hourly,Historical Average,HistoricalOnly,Test,13.333333333333336,-13.333333333333336,,True
+Einstein's,2026-05-08,13.0,Friday,28,2026-05-07 23:59:59,34.4,Hourly,Historical Average,HistoricalOnly,Test,6.399999999999999,6.399999999999999,,True
+Einstein's,2026-05-08,14.0,Friday,11,2026-05-07 23:59:59,18.53846153846154,Hourly,Historical Average,HistoricalOnly,Test,7.53846153846154,7.53846153846154,,True
+Einstein's,2026-05-08,15.0,Friday,40,2026-05-07 23:59:59,18.692307692307693,Hourly,Historical Average,HistoricalOnly,Test,21.307692307692307,-21.307692307692307,,True
+Einstein's,2026-05-11,7.0,Monday,11,2026-05-10 23:59:59,8.285714285714286,Hourly,Historical Average,HistoricalOnly,Test,2.7142857142857135,-2.7142857142857135,,True
+Einstein's,2026-05-11,8.0,Monday,20,2026-05-10 23:59:59,28.4,Hourly,Historical Average,HistoricalOnly,Test,8.399999999999999,8.399999999999999,,True
+Einstein's,2026-05-11,9.0,Monday,49,2026-05-10 23:59:59,70.46666666666667,Hourly,Historical Average,HistoricalOnly,Test,21.46666666666667,21.46666666666667,,True
+Einstein's,2026-05-11,10.0,Monday,49,2026-05-10 23:59:59,78.8125,Hourly,Historical Average,HistoricalOnly,Test,29.8125,29.8125,,True
+Einstein's,2026-05-11,11.0,Monday,52,2026-05-10 23:59:59,85.2,Hourly,Historical Average,HistoricalOnly,Test,33.2,33.2,,True
+Einstein's,2026-05-11,12.0,Monday,63,2026-05-10 23:59:59,81.46666666666667,Hourly,Historical Average,HistoricalOnly,Test,18.46666666666667,18.46666666666667,,True
+Einstein's,2026-05-11,13.0,Monday,36,2026-05-10 23:59:59,77.73333333333333,Hourly,Historical Average,HistoricalOnly,Test,41.733333333333334,41.733333333333334,,True
+Einstein's,2026-05-11,14.0,Monday,42,2026-05-10 23:59:59,32.42857142857143,Hourly,Historical Average,HistoricalOnly,Test,9.57142857142857,-9.57142857142857,,True
+Einstein's,2026-05-11,15.0,Monday,31,2026-05-10 23:59:59,48.714285714285715,Hourly,Historical Average,HistoricalOnly,Test,17.714285714285715,17.714285714285715,,True
+Einstein's,2026-05-11,16.0,Monday,38,2026-05-10 23:59:59,28.928571428571427,Hourly,Historical Average,HistoricalOnly,Test,9.071428571428573,-9.071428571428573,,True
+Einstein's,2026-05-11,17.0,Monday,26,2026-05-10 23:59:59,14.5,Hourly,Historical Average,HistoricalOnly,Test,11.5,-11.5,,True
+Einstein's,2026-05-12,7.0,Tuesday,25,2026-05-11 23:59:59,7.8,Hourly,Historical Average,HistoricalOnly,Test,17.2,-17.2,,True
+Einstein's,2026-05-12,8.0,Tuesday,23,2026-05-11 23:59:59,52.53333333333333,Hourly,Historical Average,HistoricalOnly,Test,29.53333333333333,29.53333333333333,,True
+Einstein's,2026-05-12,9.0,Tuesday,69,2026-05-11 23:59:59,77.6,Hourly,Historical Average,HistoricalOnly,Test,8.599999999999994,8.599999999999994,,True
+Einstein's,2026-05-12,10.0,Tuesday,50,2026-05-11 23:59:59,103.93333333333334,Hourly,Historical Average,HistoricalOnly,Test,53.93333333333334,53.93333333333334,,True
+Einstein's,2026-05-12,11.0,Tuesday,46,2026-05-11 23:59:59,67.0,Hourly,Historical Average,HistoricalOnly,Test,21.0,21.0,,True
+Einstein's,2026-05-12,12.0,Tuesday,82,2026-05-11 23:59:59,105.53333333333333,Hourly,Historical Average,HistoricalOnly,Test,23.53333333333333,23.53333333333333,,True
+Einstein's,2026-05-12,13.0,Tuesday,64,2026-05-11 23:59:59,54.333333333333336,Hourly,Historical Average,HistoricalOnly,Test,9.666666666666664,-9.666666666666664,,True
+Einstein's,2026-05-12,14.0,Tuesday,36,2026-05-11 23:59:59,48.733333333333334,Hourly,Historical Average,HistoricalOnly,Test,12.733333333333334,12.733333333333334,,True
+Einstein's,2026-05-12,15.0,Tuesday,18,2026-05-11 23:59:59,38.666666666666664,Hourly,Historical Average,HistoricalOnly,Test,20.666666666666664,20.666666666666664,,True
+Einstein's,2026-05-12,16.0,Tuesday,33,2026-05-11 23:59:59,33.0,Hourly,Historical Average,HistoricalOnly,Test,0.0,0.0,,True
+Einstein's,2026-05-12,17.0,Tuesday,14,2026-05-11 23:59:59,15.133333333333333,Hourly,Historical Average,HistoricalOnly,Test,1.1333333333333329,1.1333333333333329,,True
+Einstein's,2026-05-13,7.0,Wednesday,21,2026-05-12 23:59:59,11.0,Hourly,Historical Average,HistoricalOnly,Test,10.0,-10.0,,True
+Einstein's,2026-05-13,8.0,Wednesday,18,2026-05-12 23:59:59,35.1875,Hourly,Historical Average,HistoricalOnly,Test,17.1875,17.1875,,True
+Einstein's,2026-05-13,9.0,Wednesday,36,2026-05-12 23:59:59,79.125,Hourly,Historical Average,HistoricalOnly,Test,43.125,43.125,,True
+Einstein's,2026-05-13,10.0,Wednesday,54,2026-05-12 23:59:59,98.5,Hourly,Historical Average,HistoricalOnly,Test,44.5,44.5,,True
+Einstein's,2026-05-13,11.0,Wednesday,54,2026-05-12 23:59:59,86.75,Hourly,Historical Average,HistoricalOnly,Test,32.75,32.75,,True
+Einstein's,2026-05-13,12.0,Wednesday,60,2026-05-12 23:59:59,83.625,Hourly,Historical Average,HistoricalOnly,Test,23.625,23.625,,True
+Einstein's,2026-05-13,13.0,Wednesday,50,2026-05-12 23:59:59,80.625,Hourly,Historical Average,HistoricalOnly,Test,30.625,30.625,,True
+Einstein's,2026-05-13,14.0,Wednesday,47,2026-05-12 23:59:59,41.8,Hourly,Historical Average,HistoricalOnly,Test,5.200000000000003,-5.200000000000003,,True
+Einstein's,2026-05-13,15.0,Wednesday,31,2026-05-12 23:59:59,49.13333333333333,Hourly,Historical Average,HistoricalOnly,Test,18.133333333333333,18.133333333333333,,True
+Einstein's,2026-05-13,16.0,Wednesday,63,2026-05-12 23:59:59,37.8,Hourly,Historical Average,HistoricalOnly,Test,25.200000000000003,-25.200000000000003,,True
+Einstein's,2026-05-13,17.0,Wednesday,32,2026-05-12 23:59:59,7.466666666666667,Hourly,Historical Average,HistoricalOnly,Test,24.53333333333333,-24.53333333333333,,True
+Einstein's,2026-05-14,7.0,Thursday,7,2026-05-13 23:59:59,10.6,Hourly,Historical Average,HistoricalOnly,Test,3.5999999999999996,3.5999999999999996,,True
+Einstein's,2026-05-14,8.0,Thursday,20,2026-05-13 23:59:59,34.6875,Hourly,Historical Average,HistoricalOnly,Test,14.6875,14.6875,,True
+Einstein's,2026-05-14,9.0,Thursday,57,2026-05-13 23:59:59,64.5625,Hourly,Historical Average,HistoricalOnly,Test,7.5625,7.5625,,True
+Einstein's,2026-05-14,10.0,Thursday,44,2026-05-13 23:59:59,85.8125,Hourly,Historical Average,HistoricalOnly,Test,41.8125,41.8125,,True
+Einstein's,2026-05-14,11.0,Thursday,39,2026-05-13 23:59:59,69.625,Hourly,Historical Average,HistoricalOnly,Test,30.625,30.625,,True
+Einstein's,2026-05-14,12.0,Thursday,62,2026-05-13 23:59:59,97.875,Hourly,Historical Average,HistoricalOnly,Test,35.875,35.875,,True
+Einstein's,2026-05-14,13.0,Thursday,47,2026-05-13 23:59:59,50.1875,Hourly,Historical Average,HistoricalOnly,Test,3.1875,3.1875,,True
+Einstein's,2026-05-14,14.0,Thursday,46,2026-05-13 23:59:59,56.0,Hourly,Historical Average,HistoricalOnly,Test,10.0,10.0,,True
+Einstein's,2026-05-14,15.0,Thursday,55,2026-05-13 23:59:59,35.93333333333333,Hourly,Historical Average,HistoricalOnly,Test,19.06666666666667,-19.06666666666667,,True
+Einstein's,2026-05-14,16.0,Thursday,38,2026-05-13 23:59:59,30.2,Hourly,Historical Average,HistoricalOnly,Test,7.800000000000001,-7.800000000000001,,True
+Einstein's,2026-05-14,17.0,Thursday,9,2026-05-13 23:59:59,12.4,Hourly,Historical Average,HistoricalOnly,Test,3.4000000000000004,3.4000000000000004,,True
+Einstein's,2026-05-15,7.0,Friday,3,2026-05-14 23:59:59,4.916666666666667,Hourly,Historical Average,HistoricalOnly,Test,1.916666666666667,1.916666666666667,,False
+Einstein's,2026-05-15,8.0,Friday,20,2026-05-14 23:59:59,28.375,Hourly,Historical Average,HistoricalOnly,Test,8.375,8.375,,True
+Einstein's,2026-05-15,9.0,Friday,44,2026-05-14 23:59:59,37.625,Hourly,Historical Average,HistoricalOnly,Test,6.375,-6.375,,True
+Einstein's,2026-05-15,10.0,Friday,70,2026-05-14 23:59:59,39.6875,Hourly,Historical Average,HistoricalOnly,Test,30.3125,-30.3125,,True
+Einstein's,2026-05-15,11.0,Friday,72,2026-05-14 23:59:59,40.8125,Hourly,Historical Average,HistoricalOnly,Test,31.1875,-31.1875,,True
+Einstein's,2026-05-15,12.0,Friday,59,2026-05-14 23:59:59,43.5,Hourly,Historical Average,HistoricalOnly,Test,15.5,-15.5,,True
+Einstein's,2026-05-15,13.0,Friday,40,2026-05-14 23:59:59,34.0,Hourly,Historical Average,HistoricalOnly,Test,6.0,-6.0,,True
+Einstein's,2026-05-15,14.0,Friday,4,2026-05-14 23:59:59,18.0,Hourly,Historical Average,HistoricalOnly,Test,14.0,14.0,,True
+Einstein's,2026-05-18,8.0,Monday,24,2026-05-17 23:59:59,27.875,Hourly,Historical Average,HistoricalOnly,Test,3.875,3.875,,True
+Einstein's,2026-05-18,9.0,Monday,18,2026-05-17 23:59:59,69.125,Hourly,Historical Average,HistoricalOnly,Test,51.125,51.125,,True
+Einstein's,2026-05-18,10.0,Monday,17,2026-05-17 23:59:59,77.05882352941177,Hourly,Historical Average,HistoricalOnly,Test,60.05882352941177,60.05882352941177,,True
+Einstein's,2026-05-18,11.0,Monday,21,2026-05-17 23:59:59,83.125,Hourly,Historical Average,HistoricalOnly,Test,62.125,62.125,,True
+Einstein's,2026-05-18,12.0,Monday,29,2026-05-17 23:59:59,80.3125,Hourly,Historical Average,HistoricalOnly,Test,51.3125,51.3125,,True
+Einstein's,2026-05-18,13.0,Monday,20,2026-05-17 23:59:59,75.125,Hourly,Historical Average,HistoricalOnly,Test,55.125,55.125,,True
+Einstein's,2026-05-18,14.0,Monday,6,2026-05-17 23:59:59,33.06666666666667,Hourly,Historical Average,HistoricalOnly,Test,27.06666666666667,27.06666666666667,,True
+Einstein's,2026-05-18,15.0,Monday,8,2026-05-17 23:59:59,47.53333333333333,Hourly,Historical Average,HistoricalOnly,Test,39.53333333333333,39.53333333333333,,True
+Einstein's,2026-05-19,8.0,Tuesday,9,2026-05-18 23:59:59,50.6875,Hourly,Historical Average,HistoricalOnly,Test,41.6875,41.6875,,True
+Einstein's,2026-05-19,9.0,Tuesday,7,2026-05-18 23:59:59,77.0625,Hourly,Historical Average,HistoricalOnly,Test,70.0625,70.0625,,True
+Einstein's,2026-05-19,10.0,Tuesday,15,2026-05-18 23:59:59,100.5625,Hourly,Historical Average,HistoricalOnly,Test,85.5625,85.5625,,True
+Einstein's,2026-05-19,11.0,Tuesday,11,2026-05-18 23:59:59,65.6875,Hourly,Historical Average,HistoricalOnly,Test,54.6875,54.6875,,True
+Einstein's,2026-05-19,12.0,Tuesday,49,2026-05-18 23:59:59,104.0625,Hourly,Historical Average,HistoricalOnly,Test,55.0625,55.0625,,True
+Einstein's,2026-05-19,13.0,Tuesday,10,2026-05-18 23:59:59,54.9375,Hourly,Historical Average,HistoricalOnly,Test,44.9375,44.9375,,True
+Einstein's,2026-05-19,14.0,Tuesday,13,2026-05-18 23:59:59,47.9375,Hourly,Historical Average,HistoricalOnly,Test,34.9375,34.9375,,True
+Einstein's,2026-05-19,15.0,Tuesday,6,2026-05-18 23:59:59,37.375,Hourly,Historical Average,HistoricalOnly,Test,31.375,31.375,,True
+Einstein's,2026-05-20,8.0,Wednesday,18,2026-05-19 23:59:59,34.1764705882353,Hourly,Historical Average,HistoricalOnly,Test,16.176470588235297,16.176470588235297,,True
+Einstein's,2026-05-20,9.0,Wednesday,17,2026-05-19 23:59:59,76.58823529411765,Hourly,Historical Average,HistoricalOnly,Test,59.58823529411765,59.58823529411765,,True
+Einstein's,2026-05-20,10.0,Wednesday,7,2026-05-19 23:59:59,95.88235294117646,Hourly,Historical Average,HistoricalOnly,Test,88.88235294117646,88.88235294117646,,True
+Einstein's,2026-05-20,11.0,Wednesday,23,2026-05-19 23:59:59,84.82352941176471,Hourly,Historical Average,HistoricalOnly,Test,61.82352941176471,61.82352941176471,,True
+Einstein's,2026-05-20,12.0,Wednesday,27,2026-05-19 23:59:59,82.23529411764706,Hourly,Historical Average,HistoricalOnly,Test,55.23529411764706,55.23529411764706,,True
+Einstein's,2026-05-20,13.0,Wednesday,21,2026-05-19 23:59:59,78.82352941176471,Hourly,Historical Average,HistoricalOnly,Test,57.82352941176471,57.82352941176471,,True
+Einstein's,2026-05-20,14.0,Wednesday,11,2026-05-19 23:59:59,42.125,Hourly,Historical Average,HistoricalOnly,Test,31.125,31.125,,True
+Einstein's,2026-05-20,15.0,Wednesday,7,2026-05-19 23:59:59,48.0,Hourly,Historical Average,HistoricalOnly,Test,41.0,41.0,,True
+Einstein's,2026-05-21,8.0,Thursday,12,2026-05-20 23:59:59,33.8235294117647,Hourly,Historical Average,HistoricalOnly,Test,21.823529411764703,21.823529411764703,,True
+Einstein's,2026-05-21,9.0,Thursday,25,2026-05-20 23:59:59,64.11764705882354,Hourly,Historical Average,HistoricalOnly,Test,39.117647058823536,39.117647058823536,,True
+Einstein's,2026-05-21,10.0,Thursday,13,2026-05-20 23:59:59,83.3529411764706,Hourly,Historical Average,HistoricalOnly,Test,70.3529411764706,70.3529411764706,,True
+Einstein's,2026-05-21,11.0,Thursday,9,2026-05-20 23:59:59,67.82352941176471,Hourly,Historical Average,HistoricalOnly,Test,58.82352941176471,58.82352941176471,,True
+Einstein's,2026-05-21,12.0,Thursday,16,2026-05-20 23:59:59,95.76470588235294,Hourly,Historical Average,HistoricalOnly,Test,79.76470588235294,79.76470588235294,,True
+Einstein's,2026-05-21,13.0,Thursday,7,2026-05-20 23:59:59,50.0,Hourly,Historical Average,HistoricalOnly,Test,43.0,43.0,,True
+Einstein's,2026-05-21,14.0,Thursday,5,2026-05-20 23:59:59,55.375,Hourly,Historical Average,HistoricalOnly,Test,50.375,50.375,,True
+Einstein's,2026-05-21,15.0,Thursday,10,2026-05-20 23:59:59,37.125,Hourly,Historical Average,HistoricalOnly,Test,27.125,27.125,,True
+Einstein's,2026-05-21,16.0,Thursday,1,2026-05-20 23:59:59,30.6875,Hourly,Historical Average,HistoricalOnly,Test,29.6875,29.6875,,True
+Einstein's,2026-05-26,8.0,Tuesday,5,2026-05-25 23:59:59,48.23529411764706,Hourly,Historical Average,HistoricalOnly,Test,43.23529411764706,43.23529411764706,,True
+Einstein's,2026-05-26,9.0,Tuesday,12,2026-05-25 23:59:59,72.94117647058823,Hourly,Historical Average,HistoricalOnly,Test,60.94117647058823,60.94117647058823,,True
+Einstein's,2026-05-26,10.0,Tuesday,15,2026-05-25 23:59:59,95.52941176470588,Hourly,Historical Average,HistoricalOnly,Test,80.52941176470588,80.52941176470588,,True
+Einstein's,2026-05-26,11.0,Tuesday,21,2026-05-25 23:59:59,62.470588235294116,Hourly,Historical Average,HistoricalOnly,Test,41.470588235294116,41.470588235294116,,True
+Einstein's,2026-05-26,12.0,Tuesday,23,2026-05-25 23:59:59,100.82352941176471,Hourly,Historical Average,HistoricalOnly,Test,77.82352941176471,77.82352941176471,,True
+Einstein's,2026-05-26,13.0,Tuesday,26,2026-05-25 23:59:59,52.294117647058826,Hourly,Historical Average,HistoricalOnly,Test,26.294117647058826,26.294117647058826,,True
+Einstein's,2026-05-26,14.0,Tuesday,4,2026-05-25 23:59:59,45.88235294117647,Hourly,Historical Average,HistoricalOnly,Test,41.88235294117647,41.88235294117647,,True
+Einstein's,2026-05-26,15.0,Tuesday,5,2026-05-25 23:59:59,35.529411764705884,Hourly,Historical Average,HistoricalOnly,Test,30.529411764705884,30.529411764705884,,True
+Einstein's,2026-05-26,16.0,Tuesday,2,2026-05-25 23:59:59,33.0,Hourly,Historical Average,HistoricalOnly,Test,31.0,31.0,,False
+Einstein's,2026-05-27,8.0,Wednesday,15,2026-05-26 23:59:59,33.27777777777778,Hourly,Historical Average,HistoricalOnly,Test,18.27777777777778,18.27777777777778,,True
+Einstein's,2026-05-27,9.0,Wednesday,35,2026-05-26 23:59:59,73.27777777777777,Hourly,Historical Average,HistoricalOnly,Test,38.27777777777777,38.27777777777777,,True
+Einstein's,2026-05-27,10.0,Wednesday,6,2026-05-26 23:59:59,90.94444444444444,Hourly,Historical Average,HistoricalOnly,Test,84.94444444444444,84.94444444444444,,True
+Einstein's,2026-05-27,11.0,Wednesday,27,2026-05-26 23:59:59,81.38888888888889,Hourly,Historical Average,HistoricalOnly,Test,54.388888888888886,54.388888888888886,,True
+Einstein's,2026-05-27,12.0,Wednesday,23,2026-05-26 23:59:59,79.16666666666667,Hourly,Historical Average,HistoricalOnly,Test,56.16666666666667,56.16666666666667,,True
+Einstein's,2026-05-27,13.0,Wednesday,15,2026-05-26 23:59:59,75.61111111111111,Hourly,Historical Average,HistoricalOnly,Test,60.611111111111114,60.611111111111114,,True
+Einstein's,2026-05-27,14.0,Wednesday,10,2026-05-26 23:59:59,40.294117647058826,Hourly,Historical Average,HistoricalOnly,Test,30.294117647058826,30.294117647058826,,True
+Einstein's,2026-05-27,15.0,Wednesday,16,2026-05-26 23:59:59,45.588235294117645,Hourly,Historical Average,HistoricalOnly,Test,29.588235294117645,29.588235294117645,,True
+Einstein's,2026-05-27,16.0,Wednesday,7,2026-05-26 23:59:59,39.375,Hourly,Historical Average,HistoricalOnly,Test,32.375,32.375,,False
+Einstein's,2026-05-28,8.0,Thursday,23,2026-05-27 23:59:59,32.611111111111114,Hourly,Historical Average,HistoricalOnly,Test,9.611111111111114,9.611111111111114,,True
+Einstein's,2026-05-28,9.0,Thursday,11,2026-05-27 23:59:59,61.94444444444444,Hourly,Historical Average,HistoricalOnly,Test,50.94444444444444,50.94444444444444,,True
+Einstein's,2026-05-28,10.0,Thursday,22,2026-05-27 23:59:59,79.44444444444444,Hourly,Historical Average,HistoricalOnly,Test,57.44444444444444,57.44444444444444,,True
+Einstein's,2026-05-28,11.0,Thursday,17,2026-05-27 23:59:59,64.55555555555556,Hourly,Historical Average,HistoricalOnly,Test,47.55555555555556,47.55555555555556,,True
+Einstein's,2026-05-28,12.0,Thursday,36,2026-05-27 23:59:59,91.33333333333333,Hourly,Historical Average,HistoricalOnly,Test,55.33333333333333,55.33333333333333,,True
+Einstein's,2026-05-28,13.0,Thursday,17,2026-05-27 23:59:59,47.611111111111114,Hourly,Historical Average,HistoricalOnly,Test,30.611111111111114,30.611111111111114,,True
+Einstein's,2026-05-28,14.0,Thursday,10,2026-05-27 23:59:59,52.411764705882355,Hourly,Historical Average,HistoricalOnly,Test,42.411764705882355,42.411764705882355,,True
+Einstein's,2026-05-28,15.0,Thursday,2,2026-05-27 23:59:59,35.529411764705884,Hourly,Historical Average,HistoricalOnly,Test,33.529411764705884,33.529411764705884,,True
+Einstein's,2026-05-28,16.0,Thursday,8,2026-05-27 23:59:59,28.941176470588236,Hourly,Historical Average,HistoricalOnly,Test,20.941176470588236,20.941176470588236,,True
+Panda Express,2026-05-01,11.0,Friday,20,2026-04-30 23:59:59,27.53846153846154,Hourly,Historical Average,HistoricalOnly,Test,7.53846153846154,7.53846153846154,,True
+Panda Express,2026-05-01,12.0,Friday,51,2026-04-30 23:59:59,51.53846153846154,Hourly,Historical Average,HistoricalOnly,Test,0.5384615384615401,0.5384615384615401,,True
+Panda Express,2026-05-01,13.0,Friday,35,2026-04-30 23:59:59,27.692307692307693,Hourly,Historical Average,HistoricalOnly,Test,7.307692307692307,-7.307692307692307,,True
+Panda Express,2026-05-04,11.0,Monday,93,2026-05-03 23:59:59,65.0,Hourly,Historical Average,HistoricalOnly,Test,28.0,-28.0,,True
+Panda Express,2026-05-04,12.0,Monday,83,2026-05-03 23:59:59,84.84615384615384,Hourly,Historical Average,HistoricalOnly,Test,1.8461538461538396,1.8461538461538396,,True
+Panda Express,2026-05-04,13.0,Monday,53,2026-05-03 23:59:59,64.76923076923077,Hourly,Historical Average,HistoricalOnly,Test,11.769230769230774,11.769230769230774,,True
+Panda Express,2026-05-04,14.0,Monday,37,2026-05-03 23:59:59,36.38461538461539,Hourly,Historical Average,HistoricalOnly,Test,0.6153846153846132,-0.6153846153846132,,True
+Panda Express,2026-05-04,15.0,Monday,49,2026-05-03 23:59:59,30.76923076923077,Hourly,Historical Average,HistoricalOnly,Test,18.23076923076923,-18.23076923076923,,True
+Panda Express,2026-05-05,10.0,Tuesday,1,2026-05-04 23:59:59,2.6666666666666665,Hourly,Historical Average,HistoricalOnly,Test,1.6666666666666665,1.6666666666666665,,False
+Panda Express,2026-05-05,11.0,Tuesday,68,2026-05-04 23:59:59,56.785714285714285,Hourly,Historical Average,HistoricalOnly,Test,11.214285714285715,-11.214285714285715,,True
+Panda Express,2026-05-05,12.0,Tuesday,72,2026-05-04 23:59:59,93.64285714285714,Hourly,Historical Average,HistoricalOnly,Test,21.64285714285714,21.64285714285714,,True
+Panda Express,2026-05-05,13.0,Tuesday,34,2026-05-04 23:59:59,45.5,Hourly,Historical Average,HistoricalOnly,Test,11.5,11.5,,True
+Panda Express,2026-05-05,14.0,Tuesday,30,2026-05-04 23:59:59,38.0,Hourly,Historical Average,HistoricalOnly,Test,8.0,8.0,,True
+Panda Express,2026-05-05,15.0,Tuesday,30,2026-05-04 23:59:59,30.142857142857142,Hourly,Historical Average,HistoricalOnly,Test,0.14285714285714235,0.14285714285714235,,True
+Panda Express,2026-05-06,11.0,Wednesday,54,2026-05-05 23:59:59,61.857142857142854,Hourly,Historical Average,HistoricalOnly,Test,7.857142857142854,7.857142857142854,,True
+Panda Express,2026-05-06,12.0,Wednesday,91,2026-05-05 23:59:59,77.21428571428571,Hourly,Historical Average,HistoricalOnly,Test,13.785714285714292,-13.785714285714292,,True
+Panda Express,2026-05-06,13.0,Wednesday,59,2026-05-05 23:59:59,64.28571428571429,Hourly,Historical Average,HistoricalOnly,Test,5.285714285714292,5.285714285714292,,True
+Panda Express,2026-05-06,14.0,Wednesday,52,2026-05-05 23:59:59,37.285714285714285,Hourly,Historical Average,HistoricalOnly,Test,14.714285714285715,-14.714285714285715,,True
+Panda Express,2026-05-06,15.0,Wednesday,48,2026-05-05 23:59:59,32.857142857142854,Hourly,Historical Average,HistoricalOnly,Test,15.142857142857146,-15.142857142857146,,True
+Panda Express,2026-05-06,16.0,Wednesday,1,2026-05-05 23:59:59,2.0,Hourly,Historical Average,HistoricalOnly,Test,1.0,1.0,,False
+Panda Express,2026-05-07,11.0,Thursday,43,2026-05-06 23:59:59,49.142857142857146,Hourly,Historical Average,HistoricalOnly,Test,6.142857142857146,6.142857142857146,,True
+Panda Express,2026-05-07,12.0,Thursday,91,2026-05-06 23:59:59,102.28571428571429,Hourly,Historical Average,HistoricalOnly,Test,11.285714285714292,11.285714285714292,,True
+Panda Express,2026-05-07,13.0,Thursday,41,2026-05-06 23:59:59,51.07142857142857,Hourly,Historical Average,HistoricalOnly,Test,10.07142857142857,10.07142857142857,,True
+Panda Express,2026-05-07,14.0,Thursday,48,2026-05-06 23:59:59,42.5,Hourly,Historical Average,HistoricalOnly,Test,5.5,-5.5,,True
+Panda Express,2026-05-07,15.0,Thursday,27,2026-05-06 23:59:59,24.428571428571427,Hourly,Historical Average,HistoricalOnly,Test,2.571428571428573,-2.571428571428573,,True
+Panda Express,2026-05-07,16.0,Thursday,1,2026-05-06 23:59:59,1.0,Hourly,Historical Average,HistoricalOnly,Test,0.0,0.0,,False
+Panda Express,2026-05-08,10.0,Friday,4,2026-05-07 23:59:59,3.5714285714285716,Hourly,Historical Average,HistoricalOnly,Test,0.4285714285714284,-0.4285714285714284,,False
+Panda Express,2026-05-08,11.0,Friday,31,2026-05-07 23:59:59,27.0,Hourly,Historical Average,HistoricalOnly,Test,4.0,-4.0,,True
+Panda Express,2026-05-08,12.0,Friday,58,2026-05-07 23:59:59,51.5,Hourly,Historical Average,HistoricalOnly,Test,6.5,-6.5,,True
+Panda Express,2026-05-08,13.0,Friday,20,2026-05-07 23:59:59,28.214285714285715,Hourly,Historical Average,HistoricalOnly,Test,8.214285714285715,8.214285714285715,,True
+Panda Express,2026-05-11,10.0,Monday,1,2026-05-10 23:59:59,4.0,Hourly,Historical Average,HistoricalOnly,Test,3.0,3.0,,False
+Panda Express,2026-05-11,11.0,Monday,34,2026-05-10 23:59:59,67.0,Hourly,Historical Average,HistoricalOnly,Test,33.0,33.0,,True
+Panda Express,2026-05-11,12.0,Monday,42,2026-05-10 23:59:59,84.71428571428571,Hourly,Historical Average,HistoricalOnly,Test,42.71428571428571,42.71428571428571,,True
+Panda Express,2026-05-11,13.0,Monday,39,2026-05-10 23:59:59,63.92857142857143,Hourly,Historical Average,HistoricalOnly,Test,24.92857142857143,24.92857142857143,,True
+Panda Express,2026-05-11,14.0,Monday,48,2026-05-10 23:59:59,36.42857142857143,Hourly,Historical Average,HistoricalOnly,Test,11.57142857142857,-11.57142857142857,,True
+Panda Express,2026-05-11,15.0,Monday,43,2026-05-10 23:59:59,32.07142857142857,Hourly,Historical Average,HistoricalOnly,Test,10.92857142857143,-10.92857142857143,,True
+Panda Express,2026-05-12,11.0,Tuesday,39,2026-05-11 23:59:59,57.53333333333333,Hourly,Historical Average,HistoricalOnly,Test,18.53333333333333,18.53333333333333,,True
+Panda Express,2026-05-12,12.0,Tuesday,49,2026-05-11 23:59:59,92.2,Hourly,Historical Average,HistoricalOnly,Test,43.2,43.2,,True
+Panda Express,2026-05-12,13.0,Tuesday,32,2026-05-11 23:59:59,44.733333333333334,Hourly,Historical Average,HistoricalOnly,Test,12.733333333333334,12.733333333333334,,True
+Panda Express,2026-05-12,14.0,Tuesday,37,2026-05-11 23:59:59,37.46666666666667,Hourly,Historical Average,HistoricalOnly,Test,0.46666666666666856,0.46666666666666856,,True
+Panda Express,2026-05-12,15.0,Tuesday,24,2026-05-11 23:59:59,30.133333333333333,Hourly,Historical Average,HistoricalOnly,Test,6.133333333333333,6.133333333333333,,True
+Panda Express,2026-05-13,11.0,Wednesday,51,2026-05-12 23:59:59,61.333333333333336,Hourly,Historical Average,HistoricalOnly,Test,10.333333333333336,10.333333333333336,,True
+Panda Express,2026-05-13,12.0,Wednesday,36,2026-05-12 23:59:59,78.13333333333334,Hourly,Historical Average,HistoricalOnly,Test,42.13333333333334,42.13333333333334,,True
+Panda Express,2026-05-13,13.0,Wednesday,40,2026-05-12 23:59:59,63.93333333333333,Hourly,Historical Average,HistoricalOnly,Test,23.93333333333333,23.93333333333333,,True
+Panda Express,2026-05-13,14.0,Wednesday,24,2026-05-12 23:59:59,38.266666666666666,Hourly,Historical Average,HistoricalOnly,Test,14.266666666666666,14.266666666666666,,True
+Panda Express,2026-05-13,15.0,Wednesday,24,2026-05-12 23:59:59,33.86666666666667,Hourly,Historical Average,HistoricalOnly,Test,9.866666666666667,9.866666666666667,,True
+Panda Express,2026-05-14,11.0,Thursday,29,2026-05-13 23:59:59,48.733333333333334,Hourly,Historical Average,HistoricalOnly,Test,19.733333333333334,19.733333333333334,,True
+Panda Express,2026-05-14,12.0,Thursday,54,2026-05-13 23:59:59,101.53333333333333,Hourly,Historical Average,HistoricalOnly,Test,47.53333333333333,47.53333333333333,,True
+Panda Express,2026-05-14,13.0,Thursday,43,2026-05-13 23:59:59,50.4,Hourly,Historical Average,HistoricalOnly,Test,7.399999999999999,7.399999999999999,,True
+Panda Express,2026-05-14,14.0,Thursday,35,2026-05-13 23:59:59,42.86666666666667,Hourly,Historical Average,HistoricalOnly,Test,7.866666666666667,7.866666666666667,,True
+Panda Express,2026-05-14,15.0,Thursday,6,2026-05-13 23:59:59,24.6,Hourly,Historical Average,HistoricalOnly,Test,18.6,18.6,,True
+Residential Dining,2026-05-01,7.0,Friday,3,2026-04-30 23:59:59,1.3333333333333333,Hourly,Historical Average,HistoricalOnly,Test,1.6666666666666667,-1.6666666666666667,,False
+Residential Dining,2026-05-01,8.0,Friday,1,2026-04-30 23:59:59,1.1666666666666667,Hourly,Historical Average,HistoricalOnly,Test,0.16666666666666674,0.16666666666666674,,False
+Residential Dining,2026-05-01,9.0,Friday,1,2026-04-30 23:59:59,1.875,Hourly,Historical Average,HistoricalOnly,Test,0.875,0.875,,False
+Residential Dining,2026-05-01,11.0,Friday,5,2026-04-30 23:59:59,6.75,Hourly,Historical Average,HistoricalOnly,Test,1.75,1.75,,False
+Residential Dining,2026-05-01,12.0,Friday,3,2026-04-30 23:59:59,9.857142857142858,Hourly,Historical Average,HistoricalOnly,Test,6.857142857142858,6.857142857142858,,True
+Residential Dining,2026-05-01,13.0,Friday,1,2026-04-30 23:59:59,3.8333333333333335,Hourly,Historical Average,HistoricalOnly,Test,2.8333333333333335,2.8333333333333335,,True
+Residential Dining,2026-05-01,18.0,Friday,1,2026-04-30 23:59:59,2.5,Hourly,Historical Average,HistoricalOnly,Test,1.5,1.5,,False
+Residential Dining,2026-05-02,18.0,Saturday,1,2026-05-01 23:59:59,2.5,Hourly,Historical Average,HistoricalOnly,Test,1.5,1.5,,False
+Residential Dining,2026-05-03,12.0,Sunday,2,2026-05-02 23:59:59,1.6666666666666667,Hourly,Historical Average,HistoricalOnly,Test,0.33333333333333326,-0.33333333333333326,,True
+Residential Dining,2026-05-03,17.0,Sunday,2,2026-05-02 23:59:59,2.75,Hourly,Historical Average,HistoricalOnly,Test,0.75,0.75,,True
+Residential Dining,2026-05-04,7.0,Monday,1,2026-05-03 23:59:59,1.6666666666666667,Hourly,Historical Average,HistoricalOnly,Test,0.6666666666666667,0.6666666666666667,,True
+Residential Dining,2026-05-04,8.0,Monday,2,2026-05-03 23:59:59,2.8,Hourly,Historical Average,HistoricalOnly,Test,0.7999999999999998,0.7999999999999998,,True
+Residential Dining,2026-05-04,9.0,Monday,1,2026-05-03 23:59:59,2.0,Hourly,Historical Average,HistoricalOnly,Test,1.0,1.0,,True
+Residential Dining,2026-05-04,10.0,Monday,2,2026-05-03 23:59:59,2.0,Hourly,Historical Average,HistoricalOnly,Test,0.0,0.0,,True
+Residential Dining,2026-05-04,11.0,Monday,5,2026-05-03 23:59:59,6.0,Hourly,Historical Average,HistoricalOnly,Test,1.0,1.0,,True
+Residential Dining,2026-05-04,12.0,Monday,11,2026-05-03 23:59:59,14.076923076923077,Hourly,Historical Average,HistoricalOnly,Test,3.0769230769230766,3.0769230769230766,,True
+Residential Dining,2026-05-04,17.0,Monday,3,2026-05-03 23:59:59,2.0,Hourly,Historical Average,HistoricalOnly,Test,1.0,-1.0,,True
+Residential Dining,2026-05-04,18.0,Monday,4,2026-05-03 23:59:59,2.3,Hourly,Historical Average,HistoricalOnly,Test,1.7000000000000002,-1.7000000000000002,,True
+Residential Dining,2026-05-05,8.0,Tuesday,1,2026-05-04 23:59:59,1.4285714285714286,Hourly,Historical Average,HistoricalOnly,Test,0.4285714285714286,0.4285714285714286,,False
+Residential Dining,2026-05-05,9.0,Tuesday,1,2026-05-04 23:59:59,1.5454545454545454,Hourly,Historical Average,HistoricalOnly,Test,0.5454545454545454,0.5454545454545454,,True
+Residential Dining,2026-05-05,10.0,Tuesday,1,2026-05-04 23:59:59,3.0833333333333335,Hourly,Historical Average,HistoricalOnly,Test,2.0833333333333335,2.0833333333333335,,True
+Residential Dining,2026-05-05,11.0,Tuesday,57,2026-05-04 23:59:59,8.466666666666667,Hourly,Historical Average,HistoricalOnly,Test,48.53333333333333,-48.53333333333333,,True
+Residential Dining,2026-05-05,12.0,Tuesday,2,2026-05-04 23:59:59,3.5,Hourly,Historical Average,HistoricalOnly,Test,1.5,1.5,,False
+Residential Dining,2026-05-05,17.0,Tuesday,2,2026-05-04 23:59:59,2.923076923076923,Hourly,Historical Average,HistoricalOnly,Test,0.9230769230769229,0.9230769230769229,,True
+Residential Dining,2026-05-05,18.0,Tuesday,3,2026-05-04 23:59:59,1.75,Hourly,Historical Average,HistoricalOnly,Test,1.25,-1.25,,False
+Residential Dining,2026-05-05,19.0,Tuesday,1,2026-05-04 23:59:59,1.0,Hourly,Historical Average,HistoricalOnly,Test,0.0,0.0,,False
+Residential Dining,2026-05-06,7.0,Wednesday,3,2026-05-05 23:59:59,1.8888888888888888,Hourly,Historical Average,HistoricalOnly,Test,1.1111111111111112,-1.1111111111111112,,True
+Residential Dining,2026-05-06,8.0,Wednesday,1,2026-05-05 23:59:59,3.3076923076923075,Hourly,Historical Average,HistoricalOnly,Test,2.3076923076923075,2.3076923076923075,,False
+Residential Dining,2026-05-06,9.0,Wednesday,1,2026-05-05 23:59:59,1.6153846153846154,Hourly,Historical Average,HistoricalOnly,Test,0.6153846153846154,0.6153846153846154,,True
+Residential Dining,2026-05-06,10.0,Wednesday,2,2026-05-05 23:59:59,1.9090909090909092,Hourly,Historical Average,HistoricalOnly,Test,0.09090909090909083,-0.09090909090909083,,True
+Residential Dining,2026-05-06,11.0,Wednesday,52,2026-05-05 23:59:59,11.142857142857142,Hourly,Historical Average,HistoricalOnly,Test,40.85714285714286,-40.85714285714286,,True
+Residential Dining,2026-05-06,12.0,Wednesday,12,2026-05-05 23:59:59,15.866666666666667,Hourly,Historical Average,HistoricalOnly,Test,3.866666666666667,3.866666666666667,,True
+Residential Dining,2026-05-06,13.0,Wednesday,4,2026-05-05 23:59:59,5.538461538461538,Hourly,Historical Average,HistoricalOnly,Test,1.5384615384615383,1.5384615384615383,,True
+Residential Dining,2026-05-06,17.0,Wednesday,5,2026-05-05 23:59:59,2.4615384615384617,Hourly,Historical Average,HistoricalOnly,Test,2.5384615384615383,-2.5384615384615383,,True
+Residential Dining,2026-05-06,18.0,Wednesday,1,2026-05-05 23:59:59,1.5,Hourly,Historical Average,HistoricalOnly,Test,0.5,0.5,,True
+Residential Dining,2026-05-07,7.0,Thursday,1,2026-05-06 23:59:59,1.3333333333333333,Hourly,Historical Average,HistoricalOnly,Test,0.33333333333333326,0.33333333333333326,,True
+Residential Dining,2026-05-07,11.0,Thursday,7,2026-05-06 23:59:59,8.142857142857142,Hourly,Historical Average,HistoricalOnly,Test,1.1428571428571423,1.1428571428571423,,True
+Residential Dining,2026-05-07,13.0,Thursday,1,2026-05-06 23:59:59,1.4444444444444444,Hourly,Historical Average,HistoricalOnly,Test,0.4444444444444444,0.4444444444444444,,False
+Residential Dining,2026-05-07,17.0,Thursday,2,2026-05-06 23:59:59,3.5,Hourly,Historical Average,HistoricalOnly,Test,1.5,1.5,,True
+Residential Dining,2026-05-07,18.0,Thursday,2,2026-05-06 23:59:59,1.7,Hourly,Historical Average,HistoricalOnly,Test,0.30000000000000004,-0.30000000000000004,,True
+Residential Dining,2026-05-08,7.0,Friday,1,2026-05-07 23:59:59,1.5714285714285714,Hourly,Historical Average,HistoricalOnly,Test,0.5714285714285714,0.5714285714285714,,True
+Residential Dining,2026-05-08,8.0,Friday,2,2026-05-07 23:59:59,1.1428571428571428,Hourly,Historical Average,HistoricalOnly,Test,0.8571428571428572,-0.8571428571428572,,True
+Residential Dining,2026-05-08,9.0,Friday,6,2026-05-07 23:59:59,1.7777777777777777,Hourly,Historical Average,HistoricalOnly,Test,4.222222222222222,-4.222222222222222,,True
+Residential Dining,2026-05-08,11.0,Friday,3,2026-05-07 23:59:59,6.615384615384615,Hourly,Historical Average,HistoricalOnly,Test,3.615384615384615,3.615384615384615,,True
+Residential Dining,2026-05-08,13.0,Friday,2,2026-05-07 23:59:59,3.6153846153846154,Hourly,Historical Average,HistoricalOnly,Test,1.6153846153846154,1.6153846153846154,,True
+Residential Dining,2026-05-08,16.0,Friday,1,2026-05-07 23:59:59,1.75,Hourly,Historical Average,HistoricalOnly,Test,0.75,0.75,,False
+Residential Dining,2026-05-08,17.0,Friday,1,2026-05-07 23:59:59,1.875,Hourly,Historical Average,HistoricalOnly,Test,0.875,0.875,,False
+Residential Dining,2026-05-08,21.0,Friday,1,2026-05-07 23:59:59,,Hourly,Historical Average,HistoricalOnly,Test,,,,False
+Residential Dining,2026-05-09,13.0,Saturday,4,2026-05-08 23:59:59,1.3333333333333333,Hourly,Historical Average,HistoricalOnly,Test,2.666666666666667,-2.666666666666667,,False
+Residential Dining,2026-05-10,12.0,Sunday,3,2026-05-09 23:59:59,1.7142857142857142,Hourly,Historical Average,HistoricalOnly,Test,1.2857142857142858,-1.2857142857142858,,True
+Residential Dining,2026-05-10,18.0,Sunday,3,2026-05-09 23:59:59,2.0,Hourly,Historical Average,HistoricalOnly,Test,1.0,-1.0,,False
+Residential Dining,2026-05-11,8.0,Monday,2,2026-05-10 23:59:59,2.727272727272727,Hourly,Historical Average,HistoricalOnly,Test,0.7272727272727271,0.7272727272727271,,True
+Residential Dining,2026-05-11,9.0,Monday,1,2026-05-10 23:59:59,1.9,Hourly,Historical Average,HistoricalOnly,Test,0.8999999999999999,0.8999999999999999,,True
+Residential Dining,2026-05-11,10.0,Monday,1,2026-05-10 23:59:59,2.0,Hourly,Historical Average,HistoricalOnly,Test,1.0,1.0,,True
+Residential Dining,2026-05-11,11.0,Monday,5,2026-05-10 23:59:59,5.928571428571429,Hourly,Historical Average,HistoricalOnly,Test,0.9285714285714288,0.9285714285714288,,True
+Residential Dining,2026-05-11,12.0,Monday,12,2026-05-10 23:59:59,13.857142857142858,Hourly,Historical Average,HistoricalOnly,Test,1.8571428571428577,1.8571428571428577,,True
+Residential Dining,2026-05-11,13.0,Monday,5,2026-05-10 23:59:59,3.3636363636363638,Hourly,Historical Average,HistoricalOnly,Test,1.6363636363636362,-1.6363636363636362,,False
+Residential Dining,2026-05-11,16.0,Monday,1,2026-05-10 23:59:59,1.6,Hourly,Historical Average,HistoricalOnly,Test,0.6000000000000001,0.6000000000000001,,False
+Residential Dining,2026-05-11,17.0,Monday,1,2026-05-10 23:59:59,2.0714285714285716,Hourly,Historical Average,HistoricalOnly,Test,1.0714285714285716,1.0714285714285716,,True
+Residential Dining,2026-05-11,18.0,Monday,3,2026-05-10 23:59:59,2.4545454545454546,Hourly,Historical Average,HistoricalOnly,Test,0.5454545454545454,-0.5454545454545454,,True
+Residential Dining,2026-05-12,7.0,Tuesday,1,2026-05-11 23:59:59,1.5714285714285714,Hourly,Historical Average,HistoricalOnly,Test,0.5714285714285714,0.5714285714285714,,False
+Residential Dining,2026-05-12,8.0,Tuesday,1,2026-05-11 23:59:59,1.375,Hourly,Historical Average,HistoricalOnly,Test,0.375,0.375,,True
+Residential Dining,2026-05-12,9.0,Tuesday,3,2026-05-11 23:59:59,1.5,Hourly,Historical Average,HistoricalOnly,Test,1.5,-1.5,,True
+Residential Dining,2026-05-12,10.0,Tuesday,1,2026-05-11 23:59:59,2.923076923076923,Hourly,Historical Average,HistoricalOnly,Test,1.923076923076923,1.923076923076923,,True
+Residential Dining,2026-05-12,11.0,Tuesday,8,2026-05-11 23:59:59,11.5,Hourly,Historical Average,HistoricalOnly,Test,3.5,3.5,,True
+Residential Dining,2026-05-12,15.0,Tuesday,1,2026-05-11 23:59:59,1.3333333333333333,Hourly,Historical Average,HistoricalOnly,Test,0.33333333333333326,0.33333333333333326,,False
+Residential Dining,2026-05-12,17.0,Tuesday,4,2026-05-11 23:59:59,2.857142857142857,Hourly,Historical Average,HistoricalOnly,Test,1.1428571428571428,-1.1428571428571428,,True
+Residential Dining,2026-05-13,8.0,Wednesday,1,2026-05-12 23:59:59,3.142857142857143,Hourly,Historical Average,HistoricalOnly,Test,2.142857142857143,2.142857142857143,,True
+Residential Dining,2026-05-13,9.0,Wednesday,2,2026-05-12 23:59:59,1.5714285714285714,Hourly,Historical Average,HistoricalOnly,Test,0.4285714285714286,-0.4285714285714286,,True
+Residential Dining,2026-05-13,10.0,Wednesday,3,2026-05-12 23:59:59,1.9166666666666667,Hourly,Historical Average,HistoricalOnly,Test,1.0833333333333333,-1.0833333333333333,,True
+Residential Dining,2026-05-13,11.0,Wednesday,5,2026-05-12 23:59:59,13.866666666666667,Hourly,Historical Average,HistoricalOnly,Test,8.866666666666667,8.866666666666667,,True
+Residential Dining,2026-05-13,12.0,Wednesday,14,2026-05-12 23:59:59,15.625,Hourly,Historical Average,HistoricalOnly,Test,1.625,1.625,,True
+Residential Dining,2026-05-13,13.0,Wednesday,6,2026-05-12 23:59:59,5.428571428571429,Hourly,Historical Average,HistoricalOnly,Test,0.5714285714285712,-0.5714285714285712,,True
+Residential Dining,2026-05-13,16.0,Wednesday,1,2026-05-12 23:59:59,1.75,Hourly,Historical Average,HistoricalOnly,Test,0.75,0.75,,False
+Residential Dining,2026-05-13,17.0,Wednesday,3,2026-05-12 23:59:59,2.642857142857143,Hourly,Historical Average,HistoricalOnly,Test,0.3571428571428572,-0.3571428571428572,,True
+Residential Dining,2026-05-14,7.0,Thursday,5,2026-05-13 23:59:59,1.2857142857142858,Hourly,Historical Average,HistoricalOnly,Test,3.7142857142857144,-3.7142857142857144,,True
+Residential Dining,2026-05-14,8.0,Thursday,2,2026-05-13 23:59:59,3.375,Hourly,Historical Average,HistoricalOnly,Test,1.375,1.375,,False
+Residential Dining,2026-05-14,9.0,Thursday,1,2026-05-13 23:59:59,1.75,Hourly,Historical Average,HistoricalOnly,Test,0.75,0.75,,False
+Residential Dining,2026-05-14,10.0,Thursday,1,2026-05-13 23:59:59,2.25,Hourly,Historical Average,HistoricalOnly,Test,1.25,1.25,,False
+Residential Dining,2026-05-14,11.0,Thursday,7,2026-05-13 23:59:59,8.066666666666666,Hourly,Historical Average,HistoricalOnly,Test,1.0666666666666664,1.0666666666666664,,True
+Residential Dining,2026-05-14,12.0,Thursday,7,2026-05-13 23:59:59,3.272727272727273,Hourly,Historical Average,HistoricalOnly,Test,3.727272727272727,-3.727272727272727,,False
+Residential Dining,2026-05-14,13.0,Thursday,6,2026-05-13 23:59:59,1.4,Hourly,Historical Average,HistoricalOnly,Test,4.6,-4.6,,True
+Residential Dining,2026-05-14,17.0,Thursday,2,2026-05-13 23:59:59,3.4,Hourly,Historical Average,HistoricalOnly,Test,1.4,1.4,,True
+Residential Dining,2026-05-14,18.0,Thursday,2,2026-05-13 23:59:59,1.7272727272727273,Hourly,Historical Average,HistoricalOnly,Test,0.2727272727272727,-0.2727272727272727,,True
+Residential Dining,2026-05-15,7.0,Friday,1,2026-05-14 23:59:59,1.5,Hourly,Historical Average,HistoricalOnly,Test,0.5,0.5,,True
+Residential Dining,2026-05-15,8.0,Friday,2,2026-05-14 23:59:59,1.25,Hourly,Historical Average,HistoricalOnly,Test,0.75,-0.75,,True
+Residential Dining,2026-05-15,9.0,Friday,1,2026-05-14 23:59:59,2.2,Hourly,Historical Average,HistoricalOnly,Test,1.2000000000000002,1.2000000000000002,,True
+Residential Dining,2026-05-15,10.0,Friday,2,2026-05-14 23:59:59,1.25,Hourly,Historical Average,HistoricalOnly,Test,0.75,-0.75,,False
+Residential Dining,2026-05-15,11.0,Friday,3,2026-05-14 23:59:59,6.357142857142857,Hourly,Historical Average,HistoricalOnly,Test,3.3571428571428568,3.3571428571428568,,True
+Residential Dining,2026-05-15,12.0,Friday,3,2026-05-14 23:59:59,9.4,Hourly,Historical Average,HistoricalOnly,Test,6.4,6.4,,False
+Residential Dining,2026-05-15,13.0,Friday,1,2026-05-14 23:59:59,3.5,Hourly,Historical Average,HistoricalOnly,Test,2.5,2.5,,True
+Residential Dining,2026-05-15,17.0,Friday,1,2026-05-14 23:59:59,1.7777777777777777,Hourly,Historical Average,HistoricalOnly,Test,0.7777777777777777,0.7777777777777777,,True

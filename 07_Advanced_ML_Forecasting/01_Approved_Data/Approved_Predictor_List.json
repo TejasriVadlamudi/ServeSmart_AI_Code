@@ -1,0 +1,60 @@
+{
+  "history": [
+    "Lag1Day",
+    "Lag7Day",
+    "Lag14Day",
+    "HistoryWeekdayMean",
+    "HistoryWeekdayCount",
+    "PrevDayTotal",
+    "Prev7DayMean",
+    "Prev7DayCount",
+    "Prev28DayMean",
+    "Prev28DayCount",
+    "HistoryClockMean",
+    "HistoryClockCount",
+    "Recent28WeekdayMean",
+    "Recent56WeekdayMean",
+    "LastObservedComparable",
+    "ComparableAgeDays",
+    "Recent7ClockMean",
+    "Recent28ClockMean",
+    "Lag7MinusLag14",
+    "Lag7To14Ratio"
+  ],
+  "calendar": [
+    "Weekday",
+    "Month",
+    "IsWeekend",
+    "FinalExamPeriod",
+    "CampusClosed",
+    "HolidayFlag"
+  ],
+  "schedule": [
+    "WeeklyScheduledEnrollment",
+    "WeeklyActiveClasses",
+    "WeeklyClassesStarting",
+    "WeeklyClassesEnding",
+    "WeeklyDailyEnrollmentPeak",
+    "ProfileMissing"
+  ],
+  "past_weather_events": [
+    "PriorDayTemperatureF",
+    "PriorDayPrecipitationIn",
+    "PriorDayMappedEventCount"
+  ],
+  "excluded_break_and_direct_proxy_columns": [
+    "SpringBreak",
+    "Spring_Break",
+    "Academic_Status",
+    "Academic_Phase",
+    "RegularClassDay",
+    "Regular_Class_Day",
+    "ScheduledStudents_DailyPeak",
+    "EstimatedStudentsOnCampus",
+    "ClassesActive",
+    "ClassesStarting",
+    "ClassesEnding",
+    "HasClass"
+  ],
+  "availability": "Schedule counts are conditional on the supplied weekly enrollment snapshot being available at cutoff; no historical publication evidence was supplied. All demand/weather/event histories are strictly earlier calendar dates. No statement of deployment readiness."
+}

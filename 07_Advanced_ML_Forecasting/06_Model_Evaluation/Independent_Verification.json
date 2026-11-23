@@ -1,0 +1,152 @@
+{
+  "Status": "PASS",
+  "OverallComparisons": 14,
+  "GroupedComparisons": 623,
+  "Checks": [
+    {
+      "Check": "All predictions are May holdout",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Check": "Seven completed methods at each level",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Check": "14 saved model reload checks passed",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Check": "Unique predictions by model and target key",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Check": "Daily Random Forest metrics",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Check": "Daily Historical Average metrics",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Check": "Daily XGBoost metrics",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Check": "Daily LightGBM metrics",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Check": "Daily Ridge metrics",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Check": "Daily Seasonal Naive metrics",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Check": "Daily Prophet metrics",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Check": "Hourly Historical Average metrics",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Check": "Hourly LightGBM metrics",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Check": "Hourly XGBoost metrics",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Check": "Hourly Random Forest metrics",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Check": "Hourly Ridge metrics",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Check": "Hourly Seasonal Naive metrics",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Check": "Hourly Prophet metrics",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Check": "All grouped scores independently reproduced",
+      "Passed": true,
+      "Detail": "623"
+    },
+    {
+      "Check": "Hourly common sample has every method",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Check": "Hourly baseline values independently recomputed",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Check": "Hourly selection matches locked validation winner",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Check": "Daily common sample has every method",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Check": "Daily baseline values independently recomputed",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Check": "Daily selection matches locked validation winner",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Check": "Daily totals preserve every signed hourly unit",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Check": "Spring Break and direct calendar proxies excluded",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Check": "Undefined WAPE on all-zero groups",
+      "Passed": true,
+      "Detail": ""
+    },
+    {
+      "Check": "No unresolved ERROR-level data checks",
+      "Passed": true,
+      "Detail": ""
+    }
+  ]
+}

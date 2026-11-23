@@ -1,5 +1,0 @@
-Rank,Model,Scope,Observations,MAE,RMSE,WAPE (%)
-1,Seasonal Naive,May test common rows,280,14.77,21.04,49.68
-2,Historical Hour Mean,May test common rows,280,16.07,21.79,54.05
-3,XGBoost,May test common rows,280,16.98,22.99,57.13
-4,Random Forest,May test common rows,280,18.16,25.32,61.09

@@ -1,0 +1,589 @@
+Subject,SubjectName,Course,Section,ClassNumber,TotalSeats,AvailableSeats,EstimatedEnrolled,Days,StartTime,EndTime,HaywardCampus
+ACCT,Accounting,ACCT 210,1,2066,75,1,74,M,,,Yes
+ACCT,Accounting,ACCT 215,1,2069,65,4,61,T,,,Yes
+ACCT,Accounting,ACCT 220,1,2070,65,28,37,W,,,Yes
+ACCT,Accounting,ACCT 321,1,2101,55,32,23,M,,,Yes
+ACCT,Accounting,ACCT 340,1,2114,55,0,55,T,,,Yes
+ACCT,Accounting,ACCT 411,1,2118,55,14,41,M,,,Yes
+ACCT,Accounting,ACCT 604,1,2199,45,19,26,M,,,Yes
+ANTH,Anthropology,ANTH 130,1,1479,50,4,46,Th,,,Yes
+ANTH,Anthropology,ANTH 431,2,3753,1,0,1,T,,,Yes
+ART,Art,ART 100,1,2055,24,0,24,TTh,,,Yes
+ART,Art,ART 101,1,2417,24,0,24,TTh,,,Yes
+ART,Art,ART 102,1,2056,24,0,24,MW,,,Yes
+ART,Art,ART 103,1,2418,24,0,24,MW,,,Yes
+ART,Art,ART 104,1,2057,24,0,24,MW,,,Yes
+ART,Art,ART 115,1,2420,15,1,14,TTh,,,Yes
+ART,Art,ART 120,1,2425,55,0,55,Th,,,Yes
+ART,Art,ART 127,1,2427,40,1,39,W,,,Yes
+ART,Art,ART 152,1,2428,24,0,24,MW,,,Yes
+ART,Art,ART 172,1,2444,24,0,24,TTh,,,Yes
+ART,Art,ART 230,1,2058,20,0,20,MW,,,Yes
+ART,Art,ART 241,1,2430,24,0,24,TTh,,,Yes
+ART,Art,ART 245,1,2431,24,0,24,MW,,,Yes
+ART,Art,ART 246,1,2432,24,0,24,MW,,,Yes
+ART,Art,ART 251,1,2433,24,0,24,MW,,,Yes
+ART,Art,ART 259,1,2709,24,1,23,TTh,,,Yes
+ART,Art,ART 270,1,2434,17,0,17,TTh,,,Yes
+ART,Art,ART 274,1,2436,14,0,14,TTh,,,Yes
+ART,Art,ART 279,1,2071,16,0,16,TTh,,,Yes
+ART,Art,ART 323,1,2438,40,0,40,T,,,Yes
+ART,Art,ART 326,1,2440,40,0,40,T,,,Yes
+ART,Art,ART 327,1,2810,30,0,30,F,,,Yes
+ART,Art,ART 330,1,2441,24,0,24,MW,,,Yes
+ART,Art,ART 331,1,2442,24,0,24,MW,,,Yes
+ART,Art,ART 332,1,2443,23,0,23,MW,,,Yes
+ART,Art,ART 335,1,2059,24,0,24,MW,,,Yes
+ART,Art,ART 336,1,2060,24,0,24,MW,,,Yes
+ART,Art,ART 341,1,2507,24,5,19,TTh,,,Yes
+ART,Art,ART 343,1,2445,24,3,21,TTh,,,Yes
+ART,Art,ART 346,1,2446,24,0,24,MW,,,Yes
+ART,Art,ART 352,1,2447,24,0,24,MW,,,Yes
+ART,Art,ART 355,1,2061,24,7,17,MW,,,Yes
+ART,Art,ART 361,1,2062,24,0,24,MW,,,Yes
+ART,Art,ART 362,1,2453,24,0,24,TTh,,,Yes
+ART,Art,ART 363,1,2454,24,0,24,TTh,,,Yes
+ART,Art,ART 371,1,2063,24,0,24,MW,,,Yes
+ART,Art,ART 379,1,2455,30,0,30,Th,,,Yes
+ART,Art,ART 379,1,2456,30,0,30,T,,,Yes
+ART,Art,ART 379,1,2064,29,0,29,TTh,,,Yes
+ART,Art,ART 430,1,2065,24,7,17,MW,,,Yes
+ART,Art,ART 448,1,2205,15,2,13,MW,,,Yes
+ART,Art,ART 492,1,2208,9,0,9,MW,,,Yes
+ART,Art,ART 492,2,2468,2,0,2,MW,,,Yes
+ART,Art,ART 492,1,2218,5,0,5,T,,,Yes
+ART,Art,ART 496,1,2465,24,0,24,TTh,,,Yes
+BIOL,Biological Sciences,BIOL 102,1,1349,24,0,24,T,,,Yes
+BIOL,Biological Sciences,BIOL 106,1,1424,24,1,23,TTh,,,Yes
+BIOL,Biological Sciences,BIOL 106,1,1432,24,3,21,MW,,,Yes
+BIOL,Biological Sciences,BIOL 230,1,1353,120,25,95,MW,,,Yes
+BIOL,Biological Sciences,BIOL 270,1,1359,168,23,145,MWF,,,Yes
+BIOL,Biological Sciences,BIOL 271,1,1365,144,9,135,T,,,Yes
+BIOL,Biological Sciences,BIOL 310,1,1370,50,8,42,TTh,,,Yes
+BIOL,Biological Sciences,BIOL 320,1,1374,50,2,48,TTh,,,Yes
+BIOL,Biological Sciences,BIOL 330,1,2815,24,0,24,MWF,,,Yes
+BIOL,Biological Sciences,BIOL 370,1,1377,24,0,24,MW,,,Yes
+BIOL,Biological Sciences,BIOL 410,1,1379,50,30,20,TTh,,,Yes
+BIOL,Biological Sciences,BIOL 425,1,1380,15,8,7,T,,,Yes
+BIOL,Biological Sciences,BIOL 426,1,1382,50,23,27,TTh,,,Yes
+BIOL,Biological Sciences,BIOL 427,1,1383,48,23,25,MW,,,Yes
+BIOL,Biological Sciences,BIOL 428,1,1386,24,2,22,MW,,,Yes
+BIOL,Biological Sciences,BIOL 431,2,3388,48,13,35,MWF,,,Yes
+BIOL,Biological Sciences,BIOL 445,1,1395,50,5,45,TTh,,,Yes
+BIOL,Biological Sciences,BIOL 447,1,1396,48,20,28,TTh,,,Yes
+BIOL,Biological Sciences,BIOL 456,1,1397,24,14,10,T,,,Yes
+BIOL,Biological Sciences,BIOL 469,1,1399,24,11,13,M,,,Yes
+BIOL,Biological Sciences,BIOL 475,1,1403,24,10,14,TTh,,,Yes
+BIOL,Biological Sciences,BIOL 475,1,3110,36,36,0,T,,,Yes
+BIOL,Biological Sciences,BIOL 475,1,3541,30,27,3,T,,,Yes
+BIOL,Biological Sciences,BIOL 475,100,1407,24,24,0,,,,Yes
+BIOL,Biological Sciences,BIOL 475,1,1408,12,0,12,W,,,Yes
+BIOL,Biological Sciences,BIOL 610,1,2942,12,7,5,M,,,Yes
+BIOL,Biological Sciences,BIOL 620,1,1409,12,0,12,M,,,Yes
+BIOL,Biological Sciences,BIOL 622,1,1411,12,4,8,T,,,Yes
+BIOL,Biological Sciences,BIOL 655,2,3716,0,0,0,TTh,,,Yes
+BIOL,Biological Sciences,BIOL 655,2,3526,25,24,1,M,,,Yes
+BIOL,Biological Sciences,BIOL 655,2,3569,36,35,1,,,,Yes
+BIOL,Biological Sciences,BIOL 655,2,3568,25,24,1,,,,Yes
+BIOL,Biological Sciences,BIOL 655,2,3692,30,29,1,,,,Yes
+BIOL,Biological Sciences,BIOL 655,100,1419,10,10,0,,,,Yes
+BSTA,Biostatistics,BSTA 663,2,3116,25,9,16,MW,,,Yes
+BAN,Business Analytics,BAN 601,1,2222,45,30,15,T,,,Yes
+BAN,Business Analytics,BAN 602,1,2200,45,27,18,W,,,Yes
+BAN,Business Analytics,BAN 610,1,2223,45,23,22,T,,,Yes
+BAN,Business Analytics,BAN 612,1,2201,45,7,38,Th,,,Yes
+BAN,Business Analytics,BAN 622,1,2224,45,16,29,M,,,Yes
+BAN,Business Analytics,BAN 630,1,2203,45,16,29,T,,,Yes
+BAN,Business Analytics,BAN 632,1,2225,45,18,27,M,,,Yes
+BAN,Business Analytics,BAN 670,1,2226,45,34,11,T,,,Yes
+BAN,Business Analytics,BAN 673,1,2204,45,20,25,T,,,Yes
+BAN,Business Analytics,BAN 674,1,2202,45,33,12,M,,,Yes
+BAN,Business Analytics,BAN 675,1,2221,45,25,20,W,,,Yes
+BAN,Business Analytics,BAN 693,1,2227,35,7,28,S,,,Yes
+CHEM,Chemistry,CHEM 100,1,1577,0,0,0,T,,,Yes
+CHEM,Chemistry,CHEM 110,1,1581,72,3,69,MW,,,Yes
+CHEM,Chemistry,CHEM 111,1,1584,72,1,71,TTh,,,Yes
+CHEM,Chemistry,CHEM 111,1,1585,72,12,60,F,,,Yes
+CHEM,Chemistry,CHEM 112,1,1736,72,28,44,MWF,,,Yes
+CHEM,Chemistry,CHEM 161,1,1740,72,1,71,TTh,,,Yes
+CHEM,Chemistry,CHEM 220,1,1753,0,0,0,TTh,,,Yes
+CHEM,Chemistry,CHEM 320,1,1764,24,10,14,W,,,Yes
+CHEM,Chemistry,CHEM 331,1,1768,66,8,58,TTh,,,Yes
+CHEM,Chemistry,CHEM 332,1,1773,66,6,60,MWF,,,Yes
+CHEM,Chemistry,CHEM 340,1,1777,50,16,34,MW,,,Yes
+CHEM,Chemistry,CHEM 352,1,1778,40,22,18,TTh,,,Yes
+CHEM,Chemistry,CHEM 415,1,1780,13,9,4,TTh,,,Yes
+CHEM,Chemistry,CHEM 425,1,1781,24,13,11,MWF,,,Yes
+CHEM,Chemistry,CHEM 441,1,2515,50,30,20,MWF,,,Yes
+CHEM,Chemistry,CHEM 442,1,1783,85,74,11,MWF,,,Yes
+CHEM,Chemistry,CHEM 444,1,1784,20,10,10,MW,,,Yes
+CHEM,Chemistry,CHEM 445,1,1786,55,40,15,TTh,,,Yes
+CHEM,Chemistry,CHEM 445,2,3525,36,35,1,S,,,Yes
+CHEM,Chemistry,CHEM 445,1,3542,36,35,1,M,,,Yes
+CHEM,Chemistry,CHEM 445,1,3657,0,0,0,,,,Yes
+CHEM,Chemistry,CHEM 642,1,1787,24,11,13,TTh,,,Yes
+CHEM,Chemistry,CHEM 652,1,1789,25,14,11,MW,,,Yes
+CHEM,Chemistry,CHEM 680,1,1790,30,20,10,F,,,Yes
+CHEM,Chemistry,CHEM 680,2,3329,25,23,2,M,,,Yes
+CHEM,Chemistry,CHEM 680,1,3332,25,24,1,M,,,Yes
+CHEM,Chemistry,CHEM 691,2,3524,10,8,2,M,,,Yes
+CHEM,Chemistry,CHEM 692,2,3328,0,0,0,M,,,Yes
+CHEM,Chemistry,CHEM 693,1,3333,1,0,1,S,,,Yes
+CIVE,Civil Engineering,CIVE 206,1,1915,38,1,37,T,,,Yes
+CIVE,Civil Engineering,CIVE 361,1,1917,35,8,27,W,,,Yes
+CIVE,Civil Engineering,CIVE 385,1,1919,38,23,15,TTh,,,Yes
+CIVE,Civil Engineering,CIVE 430,1,1920,38,14,24,TTh,,,Yes
+CIVE,Civil Engineering,CIVE 440,1,1921,40,19,21,TTh,,,Yes
+CIVE,Civil Engineering,CIVE 492,1,1922,35,26,9,TTh,,,Yes
+COMM,Communication,COMM 100,1,2249,30,0,30,MW,,,Yes
+COMM,Communication,COMM 104,1,2820,30,0,30,MW,,,Yes
+COMM,Communication,COMM 333,1,2257,20,0,20,TTh,,,Yes
+COMM,Communication,COMM 404,1,2988,30,12,18,W,,,Yes
+COMM,Communication,COMM 410,1,2818,35,12,23,T,,,Yes
+COMM,Communication,COMM 444,1,3044,30,16,14,TTh,,,Yes
+COMM,Communication,COMM 496,1,2989,30,12,18,M,,,Yes
+CMPE,Computer Engineering,CMPE 221,1,1939,24,9,15,MW,,,Yes
+CMPE,Computer Engineering,CMPE 330,1,1940,24,3,21,T,,,Yes
+CMPE,Computer Engineering,CMPE 344,1,1942,24,8,16,Th,,,Yes
+CMPE,Computer Engineering,CMPE 421,1,1944,24,4,20,TTh,,,Yes
+CMPE,Computer Engineering,CMPE 480,1,1948,24,7,17,MW,,,Yes
+CMPE,Computer Engineering,CMPE 480,1,1972,10,10,0,,,,Yes
+CMPE,Computer Engineering,CMPE 493,1,1950,24,10,14,F,,,Yes
+CS,Computer Science,CS 101,2,1608,35,0,35,TTh,,,Yes
+CS,Computer Science,CS 201,2,1611,35,8,27,T,,,Yes
+CS,Computer Science,CS 211,1,1612,20,1,19,Th,,,Yes
+CS,Computer Science,CS 301,2,1629,35,0,35,MW,,,Yes
+CS,Computer Science,CS 311,2,1646,35,0,35,MW,,,Yes
+CS,Computer Science,CS 321,2,1675,35,0,35,T,,,Yes
+CS,Computer Science,CS 401,1,1677,35,7,28,TTh,,,Yes
+CS,Computer Science,CS 413,1,1685,35,0,35,MW,,,Yes
+CS,Computer Science,CS 421,1,1689,35,2,33,MW,,,Yes
+CS,Computer Science,CS 431,1,1699,35,3,32,MW,,,Yes
+CS,Computer Science,CS 441,1,1692,35,3,32,TTh,,,Yes
+CS,Computer Science,CS 453,1,1701,35,1,34,T,,,Yes
+CS,Computer Science,CS 461,1,1703,35,1,34,M,,,Yes
+CS,Computer Science,CS 471,1,1706,35,3,32,T,,,Yes
+CS,Computer Science,CS 497,1,1812,35,19,16,TTh,,,Yes
+CS,Computer Science,CS 497,1,1695,15,13,2,F,,,Yes
+CS,Computer Science,CS 601,2,1820,30,17,13,Th,,,Yes
+CS,Computer Science,CS 603,1,1828,30,14,16,MW,,,Yes
+CS,Computer Science,CS 611,2,1822,30,12,18,TTh,,,Yes
+CS,Computer Science,CS 621,1,1823,30,12,18,T,,,Yes
+CS,Computer Science,CS 623,1,1831,30,1,29,M,,,Yes
+CS,Computer Science,CS 651,1,1824,30,10,20,Th,,,Yes
+CS,Computer Science,CS 661,1,1836,30,9,21,T,,,Yes
+CS,Computer Science,CS 667,1,1839,30,1,29,W,,,Yes
+CS,Computer Science,CS 671,1,1825,30,2,28,MW,,,Yes
+CS,Computer Science,CS 692,1,1826,30,5,25,F,,,Yes
+CS,Computer Science,CS 692,1,3651,0,0,0,,,,Yes
+CS,Computer Science,CS 692,3,1848,30,7,23,M,,,Yes
+CS,Computer Science,CS 692,1,1827,15,6,9,F,,,Yes
+CMGT,Construction Management,CMGT 201,1,1923,35,1,34,T,,,Yes
+CMGT,Construction Management,CMGT 207,1,1925,65,14,51,TTh,,,Yes
+CMGT,Construction Management,CMGT 310,1,1926,50,17,33,Th,,,Yes
+CMGT,Construction Management,CMGT 325,1,1927,55,8,47,M,,,Yes
+CMGT,Construction Management,CMGT 340,1,1928,48,0,48,W,,,Yes
+CMGT,Construction Management,CMGT 360,1,1929,48,3,45,TTh,,,Yes
+CMGT,Construction Management,CMGT 410,1,1930,49,0,49,TTh,,,Yes
+CMGT,Construction Management,CMGT 480,1,1931,59,1,58,T,,,Yes
+CMGT,Construction Management,CMGT 493,1,1932,24,0,24,M,,,Yes
+CMGT,Construction Management,CMGT 610,1,1934,48,17,31,T,,,Yes
+CMGT,Construction Management,CMGT 640,1,1935,55,25,30,W,,,Yes
+CMGT,Construction Management,CMGT 660,1,1936,50,10,40,F,,,Yes
+CMGT,Construction Management,CMGT 670,1,1937,50,25,25,M,,,Yes
+CMGT,Construction Management,CMGT 670,1,1938,50,21,29,Th,,,Yes
+CMGT,Construction Management,CMGT 670,1,3650,0,0,0,,,,Yes
+CMGT,Construction Management,CMGT 670,1,3350,24,19,5,F,,,Yes
+CRJ,Criminal Justice,CRJ 101,1,1031,50,3,47,TTh,,,Yes
+CRJ,Criminal Justice,CRJ 230,1,2767,50,28,22,MW,,,Yes
+CRJ,Criminal Justice,CRJ 320,1,1038,35,0,35,TTh,,,Yes
+CRJ,Criminal Justice,CRJ 350,1,1036,50,2,48,MW,,,Yes
+CRJ,Criminal Justice,CRJ 370,1,1032,50,14,36,TTh,,,Yes
+CRJ,Criminal Justice,CRJ 460,1,1029,48,3,45,TTh,,,Yes
+CRJ,Criminal Justice,CRJ 485,1,1034,50,24,26,MW,,,Yes
+CRJ,Criminal Justice,CRJ 485,1,3745,3,2,1,,,,Yes
+DANC,Dance,DANC 360,1,1010,20,12,8,T,,,Yes
+DANC,Dance,DANC 362,1,1009,20,2,18,T,,,Yes
+DANC,Dance,DANC 370,1,2841,20,2,18,,,,Yes
+EESC,"Earth, Environmental & Sus Sci",EESC 211,1,1445,24,18,6,T,,,Yes
+EESC,"Earth, Environmental & Sus Sci",EESC 280,1,1449,60,36,24,W,,,Yes
+EESC,"Earth, Environmental & Sus Sci",EESC 320,1,1450,24,7,17,MW,,,Yes
+EESC,"Earth, Environmental & Sus Sci",EESC 410,1,1472,24,8,16,MW,,,Yes
+EESC,"Earth, Environmental & Sus Sci",EESC 455,1,1475,25,9,16,M,,,Yes
+EESC,"Earth, Environmental & Sus Sci",EESC 499,1,1452,24,6,18,Th,,,Yes
+EESC,"Earth, Environmental & Sus Sci",EESC 655,1,1476,5,5,0,M,,,Yes
+ECON,Economics,ECON 200,1,1222,65,3,62,Th,,,Yes
+ECON,Economics,ECON 205,1,1224,65,37,28,F,,,Yes
+ECON,Economics,ECON 380,1,1229,55,0,55,Th,,,Yes
+EDUI,Education Interdisciplinary,EDUI 699,1,2497,40,40,0,,,,Yes
+EDLD,Educational Leadership,EDLD 610,1,2545,25,11,14,T,,,Yes
+EDLD,Educational Leadership,EDLD 686,1,2558,25,17,8,,,,Yes
+EDLD,Educational Leadership,EDLD 693,1,2543,25,10,15,T,,,Yes
+EDLD,Educational Leadership,EDLD 694,1,2544,35,21,14,M,,,Yes
+EDLD,Educational Leadership,EDLD 696,1,2551,15,12,3,S,,,Yes
+EDLD,Educational Leadership,EDLD 696,1,2556,1,1,0,,,,Yes
+EDLD,Educational Leadership,EDLD 720,1,2560,25,6,19,F,,,Yes
+EDLD,Educational Leadership,EDLD 730,1,2564,25,7,18,,,,Yes
+EDLD,Educational Leadership,EDLD 760,1,2522,25,14,11,Th,,,Yes
+EDLD,Educational Leadership,EDLD 783,1,2523,30,16,14,,,,Yes
+EDLD,Educational Leadership,EDLD 784,1,2524,30,29,1,,,,Yes
+EDLD,Educational Leadership,EDLD 792,1,2565,25,14,11,,,,Yes
+EDLD,Educational Leadership,EDLD 796,1,2566,7,5,2,F,,,Yes
+EDLD,Educational Leadership,EDLD 796,1,2569,25,24,1,,,,Yes
+EDLD,Educational Leadership,EDLD 799,1,2528,1,0,1,S,,,Yes
+EPSY,Educational Psychology,EPSY 637,1,2232,24,4,20,T,,,Yes
+EPSY,Educational Psychology,EPSY 643,2,3672,21,0,21,W,,,Yes
+EPSY,Educational Psychology,EPSY 644,1,2393,23,2,21,T,,,Yes
+EPSY,Educational Psychology,EPSY 650,1,2234,24,4,20,T,,,Yes
+EPSY,Educational Psychology,EPSY 653,1,2397,15,4,11,W,,,Yes
+EPSY,Educational Psychology,EPSY 660,1,2309,25,8,17,W,,,Yes
+EPSY,Educational Psychology,EPSY 668,1,2382,8,2,6,W,,,Yes
+EPSY,Educational Psychology,EPSY 669,1,2386,8,2,6,T,,,Yes
+EPSY,Educational Psychology,EPSY 671,1,2311,16,3,13,W,,,Yes
+EPSY,Educational Psychology,EPSY 672,1,2246,16,3,13,T,,,Yes
+EPSY,Educational Psychology,EPSY 678,1,2307,8,1,7,W,,,Yes
+EPSY,Educational Psychology,EPSY 679,1,2383,8,2,6,T,,,Yes
+EPSY,Educational Psychology,EPSY 680,1,2387,9,1,8,T,,,Yes
+EPSY,Educational Psychology,EPSY 682,1,2384,8,2,6,W,,,Yes
+EPSY,Educational Psychology,EPSY 685,1,2385,8,2,6,T,,,Yes
+EPSY,Educational Psychology,EPSY 685,1,2396,12,1,11,W,,,Yes
+EPSY,Educational Psychology,EPSY 685,1,2681,10,4,6,Th,,,Yes
+EPSY,Educational Psychology,EPSY 685,1,2236,8,1,7,W,,,Yes
+EPSY,Educational Psychology,EPSY 696,1,2242,8,2,6,W,,,Yes
+ENGR,Engineering,ENGR 200,1,1951,36,36,0,M,,,Yes
+ENGR,Engineering,ENGR 210,1,1953,30,24,6,W,,,Yes
+ENGR,Engineering,ENGR 215,1,1955,47,11,36,M,,,Yes
+ENGR,Engineering,ENGR 220,1,1957,45,15,30,MW,,,Yes
+ENGR,Engineering,ENGR 615,1,1958,45,41,4,Th,,,Yes
+ENGR,Engineering,ENGR 620,1,1963,45,41,4,W,,,Yes
+ENGR,Engineering,ENGR 640,1,1966,55,51,4,T,,,Yes
+ENGR,Engineering,ENGR 670,1,1968,45,25,20,M,,,Yes
+ENGR,Engineering,ENGR 690,1,1970,10,10,0,,,,Yes
+ENGR,Engineering,ENGR 690,1,1969,38,29,9,W,,,Yes
+ENGR,Engineering,ENGR 690,1,3465,0,0,0,S,,,Yes
+ENGR,Engineering,ENGR 690,1,1971,24,23,1,S,,,Yes
+ENGL,English,ENGL 100,23,2600,20,1,19,MW,,,Yes
+ENGL,English,ENGL 102,71,2618,25,4,21,MW,,,Yes
+ENGL,English,ENGL 105,1,2625,30,21,9,MW,,,Yes
+ENGL,English,ENGL 109,1,1107,25,9,16,T,,,Yes
+ENGL,English,ENGL 200,1,1108,30,0,30,TTh,,,Yes
+ENGL,English,ENGL 204,1,1109,30,1,29,T,,,Yes
+ENGL,English,ENGL 205,1,1110,30,1,29,M,,,Yes
+ENGL,English,ENGL 205,1,1112,30,1,29,T,,,Yes
+ENGL,English,ENGL 390,1,1123,30,13,17,T,,,Yes
+ENGL,English,ENGL 405,1,1124,30,5,25,M,,,Yes
+ENGL,English,ENGL 406,1,1125,30,10,20,Th,,,Yes
+ENSC,Environmental Science,ENSC 631,1,2924,12,8,4,MW,,,Yes
+ENVT,Environmental Studies,ENVT 465,1,1671,15,0,15,MW,,,Yes
+ES,Ethnic Studies,ES 121,2,1618,30,0,30,TTh,,,Yes
+ES,Ethnic Studies,ES 222,1,1621,70,2,68,TTh,,,Yes
+FIN,Finance,FIN 300,1,1801,55,5,50,T,,,Yes
+FIN,Finance,FIN 420,1,1867,30,17,13,TTh,,,Yes
+FIN,Finance,FIN 435,1,1870,59,0,59,W,,,Yes
+FIN,Finance,FIN 605,1,2238,45,23,22,M,,,Yes
+FIN,Finance,FIN 620,1,2984,45,31,14,M,,,Yes
+FIN,Finance,FIN 640,1,3034,45,34,11,W,,,Yes
+GEOG,Geography,GEOG 330,1,2562,30,5,25,TTh,,,Yes
+GEOG,Geography,GEOG 465,1,1672,15,4,11,MW,,,Yes
+GEOL,Geology,GEOL 100,1,1453,48,4,44,MW,,,Yes
+GEOL,Geology,GEOL 371,1,1467,24,13,11,T,,,Yes
+GEOL,Geology,GEOL 432,1,1456,24,9,15,TTh,,,Yes
+GEOL,Geology,GEOL 432,1,3158,10,7,3,T,,,Yes
+GEOL,Geology,GEOL 602,1,1471,24,18,6,T,,,Yes
+GEOL,Geology,GEOL 631,1,2923,12,2,10,MW,,,Yes
+GEOL,Geology,GEOL 631,1,3711,0,0,0,,,,Yes
+GEOL,Geology,GEOL 631,1,3334,25,25,0,,,,Yes
+GEOL,Geology,GEOL 631,1,3529,25,24,1,,,,Yes
+HIST,History,HIST 101,1,2723,50,1,49,TTh,,,Yes
+HIST,History,HIST 110,1,2726,70,7,63,TTh,,,Yes
+HIST,History,HIST 111,1,1049,70,0,70,MW,,,Yes
+HIST,History,HIST 338,1,2764,30,6,24,TTh,,,Yes
+HIST,History,HIST 600,1,1063,10,2,8,Th,,,Yes
+HIST,History,HIST 610,1,1064,10,0,10,T,,,Yes
+HIST,History,HIST 641,1,3636,2,1,1,,,,Yes
+HIST,History,HIST 652,1,3281,2,0,2,,,,Yes
+INDE,Industrial Engineering,INDE 340,1,1973,40,25,15,MW,,,Yes
+INDE,Industrial Engineering,INDE 410,1,1974,35,26,9,F,,,Yes
+INDE,Industrial Engineering,INDE 440,1,2521,35,24,11,W,,,Yes
+INDE,Industrial Engineering,INDE 450,2,3155,35,25,10,MW,,,Yes
+INDE,Industrial Engineering,INDE 460,1,1978,35,23,12,T,,,Yes
+INDE,Industrial Engineering,INDE 460,1,1979,2,2,0,,,,Yes
+INDE,Industrial Engineering,INDE 492,1,1980,35,26,9,Th,,,Yes
+INFO,Information Studies,INFO 390,1,2517,30,25,5,TTh,,,Yes
+ITM,Information Technology Mgmt,ITM 300,1,1590,55,0,55,TTh,,,Yes
+ITM,Information Technology Mgmt,ITM 331,1,1595,55,33,22,Th,,,Yes
+KIN,Kinesiology,KIN 101,1,2740,40,16,24,F,,,Yes
+KIN,Kinesiology,KIN 109,1,2312,40,9,31,F,,,Yes
+KIN,Kinesiology,KIN 114,1,2313,40,3,37,TTh,,,Yes
+KIN,Kinesiology,KIN 133,1,2314,40,12,28,TTh,,,Yes
+KIN,Kinesiology,KIN 134,1,2317,40,9,31,TTh,,,Yes
+KIN,Kinesiology,KIN 160,1,2320,50,27,23,W,,,Yes
+KIN,Kinesiology,KIN 162,2,2322,35,0,35,MW,,,Yes
+KIN,Kinesiology,KIN 265,1,2700,32,9,23,F,,,Yes
+KIN,Kinesiology,KIN 300,1,2328,35,12,23,MW,,,Yes
+KIN,Kinesiology,KIN 301,1,2330,53,17,36,M,,,Yes
+KIN,Kinesiology,KIN 302,1,2334,30,5,25,W,,,Yes
+KIN,Kinesiology,KIN 303,1,2336,54,12,42,TTh,,,Yes
+KIN,Kinesiology,KIN 305,1,2342,30,0,30,T,,,Yes
+KIN,Kinesiology,KIN 306,1,2344,32,0,32,TTh,,,Yes
+KIN,Kinesiology,KIN 308,1,2350,0,0,0,TTh,,,Yes
+KIN,Kinesiology,KIN 406,2,2973,30,22,8,MW,,,Yes
+KIN,Kinesiology,KIN 410,1,2368,30,0,30,MW,,,Yes
+KIN,Kinesiology,KIN 470,1,2371,35,22,13,W,,,Yes
+KIN,Kinesiology,KIN 481,1,2702,30,0,30,M,,,Yes
+KIN,Kinesiology,KIN 489,2,3567,10,2,8,M,,,Yes
+KIN,Kinesiology,KIN 489,1,2375,30,30,0,M,,,Yes
+KIN,Kinesiology,KIN 497,2,3141,30,17,13,W,,,Yes
+KIN,Kinesiology,KIN 497,1,2377,40,13,27,M,,,Yes
+KIN,Kinesiology,KIN 603,1,2380,25,11,14,W,,,Yes
+KIN,Kinesiology,KIN 603,1,3720,48,46,2,,,,Yes
+KIN,Kinesiology,KIN 603,2,3670,10,6,4,,,,Yes
+LBST,Liberal Studies,LBST 223,1,1661,30,0,30,W,,,Yes
+MGMT,Management,MGMT 300,1,1902,55,0,55,Th,,,Yes
+MGMT,Management,MGMT 310,1,1906,55,0,55,Th,,,Yes
+MGMT,Management,MGMT 316,1,1913,55,21,34,W,,,Yes
+MGMT,Management,MGMT 350,1,1855,55,1,54,Th,,,Yes
+MGMT,Management,MGMT 360,1,1861,55,7,48,Th,,,Yes
+MGMT,Management,MGMT 370,1,1872,55,0,55,W,,,Yes
+MGMT,Management,MGMT 385,1,1878,55,0,55,W,,,Yes
+MGMT,Management,MGMT 400,1,2302,45,29,16,,,,Yes
+MGMT,Management,MGMT 487,1,1881,55,32,23,Th,,,Yes
+MGMT,Management,MGMT 499,1,1888,45,0,45,Th,,,Yes
+MGMT,Management,MGMT 499,1,2230,45,32,13,M,,,Yes
+MGMT,Management,MGMT 602,1,2207,45,23,22,W,,,Yes
+MGMT,Management,MGMT 603,1,2159,45,28,17,W,,,Yes
+MGMT,Management,MGMT 608,1,2214,45,27,18,Th,,,Yes
+MGMT,Management,MGMT 609,1,2233,45,29,16,Th,,,Yes
+MGMT,Management,MGMT 616,1,2243,45,18,27,W,,,Yes
+MGMT,Management,MGMT 622,1,2509,45,27,18,Th,,,Yes
+MGMT,Management,MGMT 624,1,2303,45,40,5,,,,Yes
+MGMT,Management,MGMT 654,1,2976,35,16,19,Th,,,Yes
+MGMT,Management,MGMT 676,1,2160,45,35,10,T,,,Yes
+MGMT,Management,MGMT 693,1,2161,45,21,24,T,,,Yes
+MGMT,Management,MGMT 697,1,3722,25,25,0,,,,Yes
+MGMT,Management,MGMT 697,1,2219,30,26,4,S,,,Yes
+MKTG,Marketing,MKTG 300,1,1297,55,8,47,W,,,Yes
+MKTG,Marketing,MKTG 300,1,1302,30,2,28,S,,,Yes
+MKTG,Marketing,MKTG 310,1,1305,55,30,25,Th,,,Yes
+MKTG,Marketing,MKTG 314,1,1308,55,32,23,W,,,Yes
+MKTG,Marketing,MKTG 432,1,1317,55,21,34,Th,,,Yes
+MKTG,Marketing,MKTG 440,1,1422,45,38,7,M,,,Yes
+MKTG,Marketing,MKTG 607,1,1421,45,14,31,T,,,Yes
+MKTG,Marketing,MKTG 612,1,1427,45,28,17,M,,,Yes
+MKTG,Marketing,MKTG 628,1,1430,45,27,18,Th,,,Yes
+MKTG,Marketing,MKTG 638,1,1428,45,31,14,W,,,Yes
+MKTG,Marketing,MKTG 693,1,1431,45,40,5,,,,Yes
+MKTG,Marketing,MKTG 697,1,1429,45,31,14,M,,,Yes
+MKTG,Marketing,MKTG 697,1,3781,1,0,1,,,,Yes
+MATH,Mathematics,MATH 110,1,1830,40,3,37,TTh,,,Yes
+MATH,Mathematics,MATH 110,1,1833,40,21,19,MW,,,Yes
+MATH,Mathematics,MATH 110,1,1838,42,0,42,MW,,,Yes
+MATH,Mathematics,MATH 118,1,1842,35,6,29,MW,,,Yes
+MATH,Mathematics,MATH 118,1,1843,40,1,39,MW,,,Yes
+MATH,Mathematics,MATH 120,1,1991,35,10,25,MW,,,Yes
+MATH,Mathematics,MATH 125,1,1994,35,2,33,MW,,,Yes
+MATH,Mathematics,MATH 130,1,1995,35,0,35,MW,,,Yes
+MATH,Mathematics,MATH 131,1,1999,35,5,30,MW,,,Yes
+MATH,Mathematics,MATH 205,1,2002,35,15,20,MW,,,Yes
+MATH,Mathematics,MATH 211,1,1988,15,13,2,Th,,,Yes
+MATH,Mathematics,MATH 215,1,2946,35,0,35,TTh,,,Yes
+MATH,Mathematics,MATH 225,1,2003,35,9,26,MW,,,Yes
+MATH,Mathematics,MATH 230,1,2006,35,0,35,TTh,,,Yes
+MATH,Mathematics,MATH 285,1,2007,35,14,21,MW,,,Yes
+MATH,Mathematics,MATH 300,1,2008,35,17,18,MW,,,Yes
+MATH,Mathematics,MATH 318,1,2009,35,2,33,MW,,,Yes
+MATH,Mathematics,MATH 321,1,2010,35,24,11,TTh,,,Yes
+MATH,Mathematics,MATH 330,1,2011,35,14,21,MW,,,Yes
+MATH,Mathematics,MATH 330,1,2012,30,4,26,MW,,,Yes
+MATH,Mathematics,MATH 370,1,2013,35,22,13,MW,,,Yes
+MATH,Mathematics,MATH 493,1,2014,35,20,15,MW,,,Yes
+MATH,Mathematics,MATH 605,2,3338,25,22,3,Th,,,Yes
+MATH,Mathematics,MATH 606,1,2016,25,17,8,W,,,Yes
+MATH,Mathematics,MATH 640,1,2017,25,4,21,TTh,,,Yes
+MATH,Mathematics,MATH 675,1,2018,25,0,25,TTh,,,Yes
+MATH,Mathematics,MATH 692,1,2019,35,28,7,F,,,Yes
+MLL,Modern Languages & Literatures,MLL 131,1,1099,30,0,30,MW,,,Yes
+MLL,Modern Languages & Literatures,MLL 132,2,3104,30,22,8,MW,,,Yes
+MM,Multimedia,MM 602,1,2067,10,0,10,M,,,Yes
+MM,Multimedia,MM 622,1,2448,10,0,10,TTh,,,Yes
+MM,Multimedia,MM 665,1,2811,12,2,10,MW,,,Yes
+MM,Multimedia,MM 693,3,3450,5,0,5,W,,,Yes
+MUS,Music,MUS 108,1,1130,25,0,25,MW,,,Yes
+MUS,Music,MUS 109,1,1131,20,11,9,MW,,,Yes
+MUS,Music,MUS 115,1,1178,12,4,8,MW,,,Yes
+MUS,Music,MUS 118,1,1133,12,1,11,MW,,,Yes
+MUS,Music,MUS 215,1,1179,12,8,4,TTh,,,Yes
+MUS,Music,MUS 218,1,1135,12,9,3,TTh,,,Yes
+MUS,Music,MUS 261,1,1136,10,9,1,,,,Yes
+MUS,Music,MUS 262,1,1137,10,7,3,,,,Yes
+MUS,Music,MUS 264,1,2691,5,4,1,,,,Yes
+MUS,Music,MUS 266,1,2692,5,3,2,,,,Yes
+MUS,Music,MUS 281,1,2689,5,4,1,,,,Yes
+MUS,Music,MUS 282,1,2690,5,3,2,,,,Yes
+MUS,Music,MUS 317,1,2852,12,8,4,T,,,Yes
+MUS,Music,MUS 317,1,1141,25,4,21,MW,,,Yes
+MUS,Music,MUS 355,1,2712,20,7,13,T,,,Yes
+MUS,Music,MUS 360,1,2713,20,6,14,W,,,Yes
+MUS,Music,MUS 361,1,1142,12,2,10,,,,Yes
+MUS,Music,MUS 363,1,2853,12,6,6,Th,,,Yes
+MUS,Music,MUS 363,1,2854,20,15,5,W,,,Yes
+MUS,Music,MUS 410,1,1144,20,8,12,MW,,,Yes
+MUS,Music,MUS 410,1,3048,5,4,1,,,,Yes
+MUS,Music,MUS 410,1,2710,5,2,3,,,,Yes
+MUS,Music,MUS 410,1,2699,5,3,2,,,,Yes
+MUS,Music,MUS 410,1,1147,10,9,1,,,,Yes
+MUS,Music,MUS 410,1,1148,10,8,2,,,,Yes
+MUS,Music,MUS 410,1,3733,5,4,1,,,,Yes
+MUS,Music,MUS 410,1,1149,10,6,4,,,,Yes
+MUS,Music,MUS 410,1,1150,5,4,1,,,,Yes
+MUS,Music,MUS 410,1,3129,10,3,7,,,,Yes
+NURS,Nursing,NURS 320,1,1509,55,8,47,T,,,Yes
+NURS,Nursing,NURS 321,1,1510,17,1,16,Th,,,Yes
+NURS,Nursing,NURS 322,1,1519,55,8,47,T,,,Yes
+NURS,Nursing,NURS 326,1,1520,55,8,47,T,,,Yes
+NURS,Nursing,NURS 327,1,2191,25,3,22,T,,,Yes
+NURS,Nursing,NURS 420,1,2043,55,7,48,T,,,Yes
+NURS,Nursing,NURS 422,1,2050,25,3,22,T,,,Yes
+NURS,Nursing,NURS 423,1,2052,55,8,47,T,,,Yes
+NURS,Nursing,NURS 427,1,2053,25,0,25,T,,,Yes
+NURS,Nursing,NURS 453,1,3118,5,2,3,S,,,Yes
+PHIL,Philosophy,PHIL 100,1,1068,30,1,29,S,,,Yes
+PHYS,Physics,PHYS 115,1,1324,30,8,22,TTh,,,Yes
+PHYS,Physics,PHYS 125,1,1326,96,12,84,MW,,,Yes
+PHYS,Physics,PHYS 126,1,1330,96,26,70,MWF,,,Yes
+PHYS,Physics,PHYS 135,1,1335,72,0,72,TTh,,,Yes
+PHYS,Physics,PHYS 136,1,1339,48,0,48,MWF,,,Yes
+PHYS,Physics,PHYS 230,1,1341,30,10,20,MW,,,Yes
+PHYS,Physics,PHYS 308,1,1342,24,1,23,M,,,Yes
+PHYS,Physics,PHYS 330,1,3713,0,0,0,,,,Yes
+PHYS,Physics,PHYS 351,1,1344,20,5,15,MWF,,,Yes
+PHYS,Physics,PHYS 360,1,2581,20,12,8,F,,,Yes
+PHYS,Physics,PHYS 461,1,1345,20,5,15,MWF,,,Yes
+PHYS,Physics,PHYS 480,1,3746,0,0,0,,,,Yes
+PHYS,Physics,PHYS 481,1,1346,20,11,9,MW,,,Yes
+PHYS,Physics,PHYS 481,1,3705,0,0,0,,,,Yes
+POSC,Political Science,POSC 101,1,1044,50,1,49,M,,,Yes
+POSC,Political Science,POSC 300,1,1091,25,5,20,TTh,,,Yes
+POSC,Political Science,POSC 333,1,1092,50,25,25,TTh,,,Yes
+POSC,Political Science,POSC 344,1,2694,50,14,36,MW,,,Yes
+POSC,Political Science,POSC 345,1,1094,30,2,28,MW,,,Yes
+POSC,Political Science,POSC 351,1,1095,30,2,28,TTh,,,Yes
+POSC,Political Science,POSC 361,1,1096,30,2,28,MW,,,Yes
+POSC,Political Science,POSC 499,1,1097,25,6,19,MW,,,Yes
+PSYC,Psychology,PSYC 100,1,1420,125,39,86,TTh,,,Yes
+PSYC,Psychology,PSYC 110,2,1531,30,3,27,MW,,,Yes
+PSYC,Psychology,PSYC 200,1,1533,50,8,42,TTh,,,Yes
+PSYC,Psychology,PSYC 201,1,1541,20,0,20,TTh,,,Yes
+PSYC,Psychology,PSYC 330,1,1547,53,0,53,TTh,,,Yes
+PSYC,Psychology,PSYC 350,1,1551,50,1,49,T,,,Yes
+PSYC,Psychology,PSYC 360,1,1553,50,0,50,W,,,Yes
+PSYC,Psychology,PSYC 370,1,1540,35,0,35,MW,,,Yes
+PSYC,Psychology,PSYC 381,1,1555,50,2,48,MW,,,Yes
+PSYC,Psychology,PSYC 382,1,1556,50,1,49,TTh,,,Yes
+PSYC,Psychology,PSYC 415,1,1558,50,2,48,MW,,,Yes
+PSYC,Psychology,PSYC 451,1,1562,30,0,30,MW,,,Yes
+PSYC,Psychology,PSYC 462,1,1559,50,27,23,TTh,,,Yes
+PSYC,Psychology,PSYC 464,1,1560,50,28,22,TTh,,,Yes
+PSYC,Psychology,PSYC 481,1,1561,33,0,33,TTh,,,Yes
+PSYC,Psychology,PSYC 481,1,1570,20,0,20,TTh,,,Yes
+PSYC,Psychology,PSYC 481,1,1571,23,2,21,F,,,Yes
+PSYC,Psychology,PSYC 481,1,1542,20,0,20,MW,,,Yes
+PSYC,Psychology,PSYC 481,1,1572,20,2,18,M,,,Yes
+PSYC,Psychology,PSYC 481,1,1573,20,0,20,MW,,,Yes
+PSYC,Psychology,PSYC 481,1,1576,20,0,20,TTh,,,Yes
+PSYC,Psychology,PSYC 481,1,1575,20,7,13,TTh,,,Yes
+PH,Public Health,PH 100,1,1665,25,1,24,MW,,,Yes
+PH,Public Health,PH 110,1,1721,120,50,70,MW,,,Yes
+PH,Public Health,PH 130,1,1722,25,0,25,MW,,,Yes
+PH,Public Health,PH 250,4,2964,50,2,48,W,,,Yes
+PH,Public Health,PH 270,2,2994,100,52,48,M,,,Yes
+PH,Public Health,PH 300,1,1898,50,0,50,M,,,Yes
+PH,Public Health,PH 310,2,2967,50,19,31,W,,,Yes
+PH,Public Health,PH 315,1,2022,152,1,151,M,,,Yes
+PH,Public Health,PH 327,1,2036,50,12,38,MW,,,Yes
+PH,Public Health,PH 330,1,2037,48,0,48,M,,,Yes
+PH,Public Health,PH 340,1,2035,30,0,30,TTh,,,Yes
+PH,Public Health,PH 350,1,2034,50,0,50,T,,,Yes
+PH,Public Health,PH 355,1,2033,31,0,31,MW,,,Yes
+PH,Public Health,PH 360,2,3050,120,9,111,MW,,,Yes
+PH,Public Health,PH 362,2,2963,30,0,30,W,,,Yes
+PH,Public Health,PH 370,1,2030,50,10,40,TTh,,,Yes
+PH,Public Health,PH 375,1,2027,48,21,27,W,,,Yes
+PH,Public Health,PH 380,1,1763,50,31,19,Th,,,Yes
+PH,Public Health,PH 435,2,2962,50,30,20,W,,,Yes
+PH,Public Health,PH 450,2,2960,50,14,36,Th,,,Yes
+PH,Public Health,PH 497,2,2958,50,38,12,W,,,Yes
+PH,Public Health,PH 499,3,1731,26,0,26,TTh,,,Yes
+SCI,Science,SCI 308,1,1423,24,2,22,F,,,Yes
+SW,Social Work,SW 302,1,1191,25,0,25,M,,,Yes
+SW,Social Work,SW 303,1,1193,26,9,17,M,,,Yes
+SW,Social Work,SW 602,1,1197,23,0,23,M,,,Yes
+SW,Social Work,SW 603,1,1201,23,0,23,M,,,Yes
+SW,Social Work,SW 611,2,3540,34,1,33,T,,,Yes
+SW,Social Work,SW 612,1,1206,23,3,20,M,,,Yes
+SW,Social Work,SW 612,1,1209,16,0,16,M,,,Yes
+SW,Social Work,SW 612,1,1236,20,2,18,M,,,Yes
+SW,Social Work,SW 634,2,3729,36,35,1,T,,,Yes
+SW,Social Work,SW 693,1,1211,19,1,18,M,,,Yes
+SW,Social Work,SW 693,1,1215,13,1,12,W,,,Yes
+SW,Social Work,SW 693,7,3121,17,1,16,T,,,Yes
+SW,Social Work,SW 699,1,3766,25,24,1,,,,Yes
+SOC,Sociology,SOC 100,1,1015,120,52,68,W,,,Yes
+SOC,Sociology,SOC 325,1,2716,30,0,30,W,,,Yes
+SOC,Sociology,SOC 350,1,1019,30,2,28,W,,,Yes
+SLHS,"Speech, Language & Hearing Sci",SLHS 300,1,1183,50,12,38,MW,,,Yes
+SLHS,"Speech, Language & Hearing Sci",SLHS 302,1,1274,50,15,35,MW,,,Yes
+SLHS,"Speech, Language & Hearing Sci",SLHS 303,1,1276,55,19,36,W,,,Yes
+SLHS,"Speech, Language & Hearing Sci",SLHS 303,1,3027,60,18,42,,,,Yes
+SLHS,"Speech, Language & Hearing Sci",SLHS 303,1,3023,30,2,28,TTh,,,Yes
+SLHS,"Speech, Language & Hearing Sci",SLHS 310,1,3167,30,10,20,M,,,Yes
+SLHS,"Speech, Language & Hearing Sci",SLHS 405,1,1184,50,18,32,Th,,,Yes
+SLHS,"Speech, Language & Hearing Sci",SLHS 406,1,1187,55,15,40,T,,,Yes
+SLHS,"Speech, Language & Hearing Sci",SLHS 497,1,3024,50,21,29,T,,,Yes
+SLHS,"Speech, Language & Hearing Sci",SLHS 508,1,1186,55,36,19,MW,,,Yes
+SLHS,"Speech, Language & Hearing Sci",SLHS 600,1,1188,20,2,18,T,,,Yes
+SLHS,"Speech, Language & Hearing Sci",SLHS 600,1,1279,50,17,33,M,,,Yes
+SLHS,"Speech, Language & Hearing Sci",SLHS 604,1,1277,42,7,35,W,,,Yes
+SLHS,"Speech, Language & Hearing Sci",SLHS 605,1,1282,42,6,36,Th,,,Yes
+SLHS,"Speech, Language & Hearing Sci",SLHS 606,1,1275,45,11,34,Th,,,Yes
+SLHS,"Speech, Language & Hearing Sci",SLHS 608,1,1189,45,8,37,M,,,Yes
+SLHS,"Speech, Language & Hearing Sci",SLHS 611,1,3029,35,0,35,,,,Yes
+SLHS,"Speech, Language & Hearing Sci",SLHS 612,1,1281,35,0,35,Th,,,Yes
+SLHS,"Speech, Language & Hearing Sci",SLHS 612,1,3760,10,9,1,,,,Yes
+SLHS,"Speech, Language & Hearing Sci",SLHS 693,2,3654,35,0,35,T,,,Yes
+SLHS,"Speech, Language & Hearing Sci",SLHS 694,1,1283,25,7,18,S,,,Yes
+SLHS,"Speech, Language & Hearing Sci",SLHS 695,1,1284,12,7,5,S,,,Yes
+SLHS,"Speech, Language & Hearing Sci",SLHS 696,1,1286,24,6,18,S,,,Yes
+SLHS,"Speech, Language & Hearing Sci",SLHS 697,1,2686,35,14,21,Th,,,Yes
+SLHS,"Speech, Language & Hearing Sci",SLHS 698,1,1287,35,1,34,S,,,Yes
+SLHS,"Speech, Language & Hearing Sci",SLHS 698,1,3728,25,23,2,,,,Yes
+STAT,Statistics,STAT 100,1,2074,40,0,40,MW,,,Yes
+STAT,Statistics,STAT 100,1,2080,25,9,16,MW,,,Yes
+STAT,Statistics,STAT 303,1,2085,35,5,30,M,,,Yes
+STAT,Statistics,STAT 310,1,2087,35,0,35,M,,,Yes
+STAT,Statistics,STAT 312,2,3108,35,0,35,MW,,,Yes
+STAT,Statistics,STAT 316,1,2099,50,5,45,MW,,,Yes
+STAT,Statistics,STAT 331,1,2102,35,0,35,MW,,,Yes
+STAT,Statistics,STAT 432,1,2103,35,0,35,MW,,,Yes
+STAT,Statistics,STAT 452,2,3107,35,4,31,MW,,,Yes
+STAT,Statistics,STAT 481,1,2109,35,23,12,MW,,,Yes
+STAT,Statistics,STAT 481,1,2127,25,9,16,TTh,,,Yes
+STAT,Statistics,STAT 481,1,2130,25,7,18,TTh,,,Yes
+STAT,Statistics,STAT 481,1,2872,30,10,20,TTh,,,Yes
+STAT,Statistics,STAT 481,1,2133,25,14,11,TTh,,,Yes
+STAT,Statistics,STAT 652,1,2141,25,10,15,MW,,,Yes
+STAT,Statistics,STAT 654,1,2144,25,3,22,MW,,,Yes
+STAT,Statistics,STAT 674,1,2145,30,4,26,MW,,,Yes
+STAT,Statistics,STAT 692,1,2146,35,1,34,F,,,Yes
+TED,Teacher Education,TED 472,1,2490,40,23,17,T,,,Yes
+TED,Teacher Education,TED 512,1,2473,40,10,30,T,,,Yes
+TED,Teacher Education,TED 538,1,2486,40,25,15,M,,,Yes
+TED,Teacher Education,TED 541,1,2487,40,28,12,M,,,Yes
+TED,Teacher Education,TED 550,1,2488,40,32,8,M,,,Yes
+TED,Teacher Education,TED 581,1,2478,40,34,6,,,,Yes
+TED,Teacher Education,TED 586,2,2876,15,15,0,S,,,Yes
+THEA,Theatre,THEA 261,1,1006,20,2,18,W,,,Yes
+THEA,Theatre,THEA 360,1,2842,20,7,13,,,,Yes
+THEA,Theatre,THEA 371,1,2990,25,0,25,MW,,,Yes
+THEA,Theatre,THEA 382,1,2995,30,9,21,,,,Yes
+THEA,Theatre,THEA 493,1,1014,17,1,16,W,,,Yes

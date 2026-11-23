@@ -1,0 +1,258 @@
+Location,Date,Hour,Weekday,Actual,Prediction
+Einstein's,2026-01-26,,Monday,646,1.0
+Einstein's,2026-01-27,,Tuesday,625,529.0
+Einstein's,2026-01-28,,Wednesday,697,609.0
+Einstein's,2026-01-29,,Thursday,540,533.0
+Einstein's,2026-01-30,,Friday,279,263.0
+Einstein's,2026-02-02,,Monday,573,646.0
+Einstein's,2026-02-03,,Tuesday,570,625.0
+Einstein's,2026-02-04,,Wednesday,615,697.0
+Einstein's,2026-02-05,,Thursday,595,540.0
+Einstein's,2026-02-06,,Friday,211,279.0
+Einstein's,2026-02-09,,Monday,622,573.0
+Einstein's,2026-02-10,,Tuesday,617,570.0
+Einstein's,2026-02-11,,Wednesday,646,615.0
+Einstein's,2026-02-12,,Thursday,588,595.0
+Einstein's,2026-02-13,,Friday,313,211.0
+Einstein's,2026-02-16,,Monday,485,622.0
+Einstein's,2026-02-17,,Tuesday,526,617.0
+Einstein's,2026-02-18,,Wednesday,550,646.0
+Einstein's,2026-02-19,,Thursday,535,588.0
+Einstein's,2026-02-20,,Friday,300,313.0
+Einstein's,2026-02-23,,Monday,531,485.0
+Einstein's,2026-02-24,,Tuesday,617,526.0
+Einstein's,2026-02-25,,Wednesday,684,550.0
+Einstein's,2026-02-26,,Thursday,497,535.0
+Einstein's,2026-02-27,,Friday,215,300.0
+Einstein's,2026-03-02,,Monday,577,531.0
+Einstein's,2026-03-03,,Tuesday,621,617.0
+Einstein's,2026-03-04,,Wednesday,636,684.0
+Einstein's,2026-03-05,,Thursday,510,497.0
+Einstein's,2026-03-06,,Friday,240,215.0
+Einstein's,2026-03-09,,Monday,554,577.0
+Einstein's,2026-03-10,,Tuesday,704,621.0
+Einstein's,2026-03-11,,Wednesday,613,636.0
+Einstein's,2026-03-12,,Thursday,594,510.0
+Einstein's,2026-03-13,,Friday,326,240.0
+Einstein's,2026-03-16,,Monday,609,554.0
+Einstein's,2026-03-17,,Tuesday,542,704.0
+Einstein's,2026-03-18,,Wednesday,602,613.0
+Einstein's,2026-03-19,,Thursday,510,594.0
+Einstein's,2026-03-20,,Friday,277,326.0
+Einstein's,2026-03-23,,Monday,610,609.0
+Einstein's,2026-03-24,,Tuesday,652,542.0
+Einstein's,2026-03-25,,Wednesday,663,602.0
+Einstein's,2026-03-26,,Thursday,640,510.0
+Einstein's,2026-03-27,,Friday,208,277.0
+Einstein's,2026-03-30,,Monday,215,610.0
+Einstein's,2026-04-01,,Wednesday,208,663.0
+Einstein's,2026-04-02,,Thursday,241,640.0
+Einstein's,2026-04-03,,Friday,229,208.0
+Einstein's,2026-04-06,,Monday,556,215.0
+Einstein's,2026-04-08,,Wednesday,686,208.0
+Einstein's,2026-04-09,,Thursday,612,241.0
+Einstein's,2026-04-10,,Friday,198,229.0
+Einstein's,2026-04-13,,Monday,554,556.0
+Einstein's,2026-04-14,,Tuesday,574,598.0
+Einstein's,2026-04-15,,Wednesday,615,686.0
+Einstein's,2026-04-16,,Thursday,581,612.0
+Einstein's,2026-04-17,,Friday,278,198.0
+Einstein's,2026-04-20,,Monday,534,554.0
+Einstein's,2026-04-21,,Tuesday,704,574.0
+Einstein's,2026-04-22,,Wednesday,564,615.0
+Einstein's,2026-04-23,,Thursday,451,581.0
+Einstein's,2026-04-24,,Friday,287,278.0
+Einstein's,2026-04-27,,Monday,583,534.0
+Einstein's,2026-04-28,,Tuesday,587,704.0
+Einstein's,2026-04-29,,Wednesday,579,564.0
+Einstein's,2026-04-30,,Thursday,644,451.0
+Einstein's,2026-05-01,,Friday,272,287.0
+Einstein's,2026-05-04,,Monday,620,583.0
+Einstein's,2026-05-05,,Tuesday,598,587.0
+Einstein's,2026-05-06,,Wednesday,662,579.0
+Einstein's,2026-05-07,,Thursday,550,644.0
+Einstein's,2026-05-08,,Friday,289,272.0
+Einstein's,2026-05-11,,Monday,417,620.0
+Einstein's,2026-05-12,,Tuesday,460,598.0
+Einstein's,2026-05-13,,Wednesday,466,662.0
+Einstein's,2026-05-14,,Thursday,424,550.0
+Einstein's,2026-05-15,,Friday,312,289.0
+Einstein's,2026-05-18,,Monday,143,417.0
+Einstein's,2026-05-19,,Tuesday,120,460.0
+Einstein's,2026-05-20,,Wednesday,131,466.0
+Einstein's,2026-05-21,,Thursday,98,424.0
+Einstein's,2026-05-26,,Tuesday,113,120.0
+Einstein's,2026-05-27,,Wednesday,154,131.0
+Einstein's,2026-05-28,,Thursday,146,98.0
+Panda Express,2026-01-26,,Monday,346,1.0
+Panda Express,2026-01-27,,Tuesday,303,259.0
+Panda Express,2026-01-28,,Wednesday,267,302.0
+Panda Express,2026-01-29,,Thursday,269,255.0
+Panda Express,2026-01-30,,Friday,85,66.0
+Panda Express,2026-02-02,,Monday,296,346.0
+Panda Express,2026-02-03,,Tuesday,287,303.0
+Panda Express,2026-02-04,,Wednesday,251,267.0
+Panda Express,2026-02-05,,Thursday,243,269.0
+Panda Express,2026-02-06,,Friday,80,85.0
+Panda Express,2026-02-09,,Monday,266,296.0
+Panda Express,2026-02-10,,Tuesday,245,287.0
+Panda Express,2026-02-11,,Wednesday,249,251.0
+Panda Express,2026-02-12,,Thursday,243,243.0
+Panda Express,2026-02-13,,Friday,64,80.0
+Panda Express,2026-02-16,,Monday,217,266.0
+Panda Express,2026-02-17,,Tuesday,247,245.0
+Panda Express,2026-02-18,,Wednesday,241,249.0
+Panda Express,2026-02-19,,Thursday,284,243.0
+Panda Express,2026-02-20,,Friday,140,64.0
+Panda Express,2026-02-23,,Monday,297,217.0
+Panda Express,2026-02-24,,Tuesday,213,247.0
+Panda Express,2026-02-25,,Wednesday,242,241.0
+Panda Express,2026-02-26,,Thursday,259,284.0
+Panda Express,2026-02-27,,Friday,153,140.0
+Panda Express,2026-03-02,,Monday,322,297.0
+Panda Express,2026-03-03,,Tuesday,287,213.0
+Panda Express,2026-03-04,,Wednesday,293,242.0
+Panda Express,2026-03-05,,Thursday,263,259.0
+Panda Express,2026-03-06,,Friday,96,153.0
+Panda Express,2026-03-09,,Monday,262,322.0
+Panda Express,2026-03-10,,Tuesday,244,287.0
+Panda Express,2026-03-11,,Wednesday,261,293.0
+Panda Express,2026-03-12,,Thursday,324,263.0
+Panda Express,2026-03-13,,Friday,87,96.0
+Panda Express,2026-03-16,,Monday,323,262.0
+Panda Express,2026-03-17,,Tuesday,329,244.0
+Panda Express,2026-03-18,,Wednesday,238,261.0
+Panda Express,2026-03-19,,Thursday,242,324.0
+Panda Express,2026-03-20,,Friday,205,87.0
+Panda Express,2026-03-23,,Monday,273,323.0
+Panda Express,2026-03-24,,Tuesday,363,329.0
+Panda Express,2026-03-25,,Wednesday,298,238.0
+Panda Express,2026-03-26,,Thursday,382,242.0
+Panda Express,2026-03-27,,Friday,77,205.0
+Panda Express,2026-04-13,,Monday,262,256.0
+Panda Express,2026-04-14,,Tuesday,233,248.0
+Panda Express,2026-04-15,,Wednesday,266,300.0
+Panda Express,2026-04-16,,Thursday,249,257.0
+Panda Express,2026-04-17,,Friday,131,115.0
+Panda Express,2026-04-20,,Monday,262,262.0
+Panda Express,2026-04-21,,Tuesday,229,233.0
+Panda Express,2026-04-22,,Wednesday,346,266.0
+Panda Express,2026-04-23,,Thursday,233,249.0
+Panda Express,2026-04-24,,Friday,153,131.0
+Panda Express,2026-04-27,,Monday,294,262.0
+Panda Express,2026-04-28,,Tuesday,221,229.0
+Panda Express,2026-04-29,,Wednesday,293,346.0
+Panda Express,2026-04-30,,Thursday,292,233.0
+Panda Express,2026-05-01,,Friday,106,153.0
+Panda Express,2026-05-04,,Monday,315,294.0
+Panda Express,2026-05-05,,Tuesday,235,221.0
+Panda Express,2026-05-06,,Wednesday,305,293.0
+Panda Express,2026-05-07,,Thursday,251,292.0
+Panda Express,2026-05-08,,Friday,113,106.0
+Panda Express,2026-05-11,,Monday,207,315.0
+Panda Express,2026-05-12,,Tuesday,181,235.0
+Panda Express,2026-05-13,,Wednesday,175,305.0
+Panda Express,2026-05-14,,Thursday,167,251.0
+Residential Dining,2026-01-18,,Sunday,1,1.0
+Residential Dining,2026-01-20,,Tuesday,28,2.0
+Residential Dining,2026-01-21,,Wednesday,49,3.0
+Residential Dining,2026-01-22,,Thursday,33,3.0
+Residential Dining,2026-01-23,,Friday,25,2.0
+Residential Dining,2026-01-24,,Saturday,4,10.0
+Residential Dining,2026-01-25,,Sunday,7,1.0
+Residential Dining,2026-01-26,,Monday,38,6.0
+Residential Dining,2026-01-27,,Tuesday,21,28.0
+Residential Dining,2026-01-28,,Wednesday,33,49.0
+Residential Dining,2026-01-29,,Thursday,24,33.0
+Residential Dining,2026-01-30,,Friday,24,25.0
+Residential Dining,2026-01-31,,Saturday,11,4.0
+Residential Dining,2026-02-01,,Sunday,26,7.0
+Residential Dining,2026-02-02,,Monday,32,38.0
+Residential Dining,2026-02-03,,Tuesday,19,21.0
+Residential Dining,2026-02-04,,Wednesday,65,33.0
+Residential Dining,2026-02-05,,Thursday,34,24.0
+Residential Dining,2026-02-06,,Friday,27,24.0
+Residential Dining,2026-02-07,,Saturday,4,11.0
+Residential Dining,2026-02-08,,Sunday,4,26.0
+Residential Dining,2026-02-09,,Monday,21,32.0
+Residential Dining,2026-02-10,,Tuesday,38,19.0
+Residential Dining,2026-02-11,,Wednesday,31,65.0
+Residential Dining,2026-02-12,,Thursday,25,34.0
+Residential Dining,2026-02-13,,Friday,92,27.0
+Residential Dining,2026-02-14,,Saturday,3,4.0
+Residential Dining,2026-02-15,,Sunday,3,4.0
+Residential Dining,2026-02-16,,Monday,22,21.0
+Residential Dining,2026-02-17,,Tuesday,28,38.0
+Residential Dining,2026-02-18,,Wednesday,31,31.0
+Residential Dining,2026-02-19,,Thursday,16,25.0
+Residential Dining,2026-02-20,,Friday,11,92.0
+Residential Dining,2026-02-21,,Saturday,2,3.0
+Residential Dining,2026-02-22,,Sunday,6,3.0
+Residential Dining,2026-02-23,,Monday,33,22.0
+Residential Dining,2026-02-24,,Tuesday,17,28.0
+Residential Dining,2026-02-25,,Wednesday,26,31.0
+Residential Dining,2026-02-26,,Thursday,15,16.0
+Residential Dining,2026-02-27,,Friday,32,11.0
+Residential Dining,2026-02-28,,Saturday,9,2.0
+Residential Dining,2026-03-01,,Sunday,1,6.0
+Residential Dining,2026-03-02,,Monday,30,33.0
+Residential Dining,2026-03-03,,Tuesday,34,17.0
+Residential Dining,2026-03-04,,Wednesday,61,26.0
+Residential Dining,2026-03-05,,Thursday,21,15.0
+Residential Dining,2026-03-06,,Friday,28,32.0
+Residential Dining,2026-03-07,,Saturday,5,9.0
+Residential Dining,2026-03-08,,Sunday,8,1.0
+Residential Dining,2026-03-09,,Monday,28,30.0
+Residential Dining,2026-03-10,,Tuesday,20,34.0
+Residential Dining,2026-03-11,,Wednesday,88,61.0
+Residential Dining,2026-03-12,,Thursday,15,21.0
+Residential Dining,2026-03-13,,Friday,22,28.0
+Residential Dining,2026-03-14,,Saturday,6,5.0
+Residential Dining,2026-03-15,,Sunday,5,8.0
+Residential Dining,2026-03-16,,Monday,42,28.0
+Residential Dining,2026-03-17,,Tuesday,32,20.0
+Residential Dining,2026-03-18,,Wednesday,37,88.0
+Residential Dining,2026-03-19,,Thursday,16,15.0
+Residential Dining,2026-03-20,,Friday,45,22.0
+Residential Dining,2026-03-22,,Sunday,5,5.0
+Residential Dining,2026-03-23,,Monday,71,42.0
+Residential Dining,2026-03-24,,Tuesday,23,32.0
+Residential Dining,2026-03-25,,Wednesday,35,37.0
+Residential Dining,2026-03-26,,Thursday,22,16.0
+Residential Dining,2026-03-27,,Friday,8,45.0
+Residential Dining,2026-03-29,,Sunday,4,5.0
+Residential Dining,2026-04-05,,Sunday,0,4.0
+Residential Dining,2026-04-12,,Sunday,5,0.0
+Residential Dining,2026-04-13,,Monday,27,34.0
+Residential Dining,2026-04-14,,Tuesday,11,40.0
+Residential Dining,2026-04-15,,Wednesday,35,67.0
+Residential Dining,2026-04-16,,Thursday,21,31.0
+Residential Dining,2026-04-17,,Friday,14,15.0
+Residential Dining,2026-04-18,,Saturday,1,4.0
+Residential Dining,2026-04-19,,Sunday,3,5.0
+Residential Dining,2026-04-20,,Monday,25,27.0
+Residential Dining,2026-04-21,,Tuesday,8,11.0
+Residential Dining,2026-04-22,,Wednesday,31,35.0
+Residential Dining,2026-04-23,,Thursday,19,21.0
+Residential Dining,2026-04-24,,Friday,10,14.0
+Residential Dining,2026-04-25,,Saturday,2,1.0
+Residential Dining,2026-04-26,,Sunday,14,3.0
+Residential Dining,2026-04-27,,Monday,30,25.0
+Residential Dining,2026-04-28,,Tuesday,14,8.0
+Residential Dining,2026-04-29,,Wednesday,35,31.0
+Residential Dining,2026-04-30,,Thursday,28,19.0
+Residential Dining,2026-05-01,,Friday,15,10.0
+Residential Dining,2026-05-02,,Saturday,1,2.0
+Residential Dining,2026-05-03,,Sunday,4,14.0
+Residential Dining,2026-05-04,,Monday,29,30.0
+Residential Dining,2026-05-05,,Tuesday,68,14.0
+Residential Dining,2026-05-06,,Wednesday,81,35.0
+Residential Dining,2026-05-07,,Thursday,13,28.0
+Residential Dining,2026-05-08,,Friday,17,15.0
+Residential Dining,2026-05-09,,Saturday,4,1.0
+Residential Dining,2026-05-10,,Sunday,6,4.0
+Residential Dining,2026-05-11,,Monday,31,29.0
+Residential Dining,2026-05-12,,Tuesday,19,68.0
+Residential Dining,2026-05-13,,Wednesday,35,81.0
+Residential Dining,2026-05-14,,Thursday,33,13.0
+Residential Dining,2026-05-15,,Friday,14,17.0

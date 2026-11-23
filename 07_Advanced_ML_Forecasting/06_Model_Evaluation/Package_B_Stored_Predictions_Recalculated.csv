@@ -1,0 +1,13 @@
+Source,ForecastLevel,Model,Scope,Observations,MAE,RMSE,WAPE
+Package B stored predictions; not a safe rerun,Daily,LightGBM,All_B_saved_test_rows,43,46.4864766731957,59.05221087931304,23.796648773183513
+Package B stored predictions; not a safe rerun,Daily,LightGBM,Common_previous_week_available_keys,43,46.4864766731957,59.05221087931304,23.796648773183513
+Package B stored predictions; not a safe rerun,Daily,Random Forest,All_B_saved_test_rows,43,48.59776667002251,68.57773832416997,24.877428176321047
+Package B stored predictions; not a safe rerun,Daily,Random Forest,Common_previous_week_available_keys,43,48.59776667002251,68.57773832416997,24.877428176321047
+Package B stored predictions; not a safe rerun,Daily,XGBoost,All_B_saved_test_rows,43,44.03559619326924,59.7670859739998,22.542031384649732
+Package B stored predictions; not a safe rerun,Daily,XGBoost,Common_previous_week_available_keys,43,44.03559619326924,59.7670859739998,22.542031384649732
+Package B stored predictions; not a safe rerun,Hourly,LightGBM,All_B_saved_test_rows,316,9.958550448081342,13.9651636674429,37.463118352306
+Package B stored predictions; not a safe rerun,Hourly,LightGBM,Common_previous_week_available_keys,280,10.879696252430394,14.753570109753882,36.59676778808878
+Package B stored predictions; not a safe rerun,Hourly,Random Forest,All_B_saved_test_rows,316,9.93396242192387,13.916439665153112,37.370620539618365
+Package B stored predictions; not a safe rerun,Hourly,Random Forest,Common_previous_week_available_keys,280,10.932297409002363,14.706496630817101,36.77370584479411
+Package B stored predictions; not a safe rerun,Hourly,XGBoost,All_B_saved_test_rows,316,10.117272083629866,14.354442123030754,38.060214028893306
+Package B stored predictions; not a safe rerun,Hourly,XGBoost,Common_previous_week_available_keys,280,11.117921723904354,15.15764378973567,37.39810286753026

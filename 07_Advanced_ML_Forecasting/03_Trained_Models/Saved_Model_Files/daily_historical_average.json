@@ -1,0 +1,5 @@
+{
+  "Model": "Historical Average",
+  "PredictionFeature": "HistoryWeekdayMean",
+  "Policy": "Exact previous calendar week / expanding same weekday and hour; never fill missing with zero; clip predictions at zero."
+}

@@ -1,0 +1,22 @@
+STRICT VERDICT: NOT YET READY FOR AN UNCONDITIONAL COMPLETION CLAIM
+
+Completed: all seven hourly/daily methods; 204 validation trials; documented
+Package B settings rerun on safe features; 14 overall and 623 grouped scores;
+selected-model SHAP/explanations; model reload and prepared-batch inference;
+two full runs with matching results; the comparison workbook and final ZIP.
+
+Evidence still needed to close the partial requirements:
+1. The exact weekly class-profile generator and effective-date/section rules,
+   plus historical availability timestamps. The current master has blank class
+   times. Related timed Tableau evidence is included for audit but does not
+   fully reproduce the supplied weekly profile under the checked methods.
+   These registrations are not measured attendance.
+2. An outlet opening/closure calendar. Current daily targets are recorded-day
+   units and cannot be certified as complete future operating-day demand.
+3. Package B's missing run_ml_models.py and its exact preprocessing/daily
+   aggregation logic, if an exact original end-to-end reproduction is required.
+4. A genuinely new holdout for prospective performance. May was already used
+   in previous project development; no rerun can erase that earlier exposure.
+
+The package is suitable for a transparent research review with these limits.
+It must not be described as a fully verified live operational forecaster.

@@ -10,6 +10,7 @@ def build_recommendations(frame: pd.DataFrame, thresholds: dict | None = None) -
     data = frame.copy()
     if "ForecastUnits" not in data:
         data["ForecastUnits"] = data.get("Target_HourlyUnits", 0)
+    data["ForecastUnits"] = pd.to_numeric(data["ForecastUnits"], errors="coerce").fillna(0)
     q75 = data["ForecastUnits"].quantile(limits["high_demand"])
     q25 = data["ForecastUnits"].quantile(limits["low_demand"])
     rows = []
@@ -28,5 +29,5 @@ def build_recommendations(frame: pd.DataFrame, thresholds: dict | None = None) -
         inventory = "Review perishables and reorder points against current stock and lead times."
         if rain >= limits["rain_mm"]:
             inventory += " Rain may affect demand; confirm outdoor/event assumptions."
-        rows.append({"Location": row.get("Location", "Unknown"), "Date": row.get("Date"), "Hour": row.get("Hour"), "Food preparation": prep, "Inventory": inventory, "Staffing": staff, "Planning note": "Directional guidance only; not an exact quantity or staffing order."})
+        rows.append({"Location": row.get("Location", "Unknown"), "Date": row.get("Date"), "Hour": row.get("Hour"), "Food preparation": prep, "Inventory": inventory, "Staffing": staff, "Forecast source": row.get("ForecastSource", "Selected forecasting output"), "Planning note": "Directional guidance only; not an exact quantity or staffing order."})
     return pd.DataFrame(rows)

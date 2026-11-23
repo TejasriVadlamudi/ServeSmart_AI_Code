@@ -1,0 +1,6 @@
+{
+  "Hourly": "PASS",
+  "Daily": "PASS",
+  "ActualRemovedFromInferenceInputs": true,
+  "InputCaveat": "Prepared as-of values are supplied by caller, not a live future-data service."
+}

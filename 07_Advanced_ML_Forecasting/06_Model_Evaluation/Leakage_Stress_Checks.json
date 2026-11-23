@@ -1,0 +1,16 @@
+[
+  {
+    "Level": "Hourly",
+    "FutureTargetPerturbationInvariant": true,
+    "IncludesCutoffDay": true,
+    "NoRecordedHoursPredictor": true,
+    "Test": "Add one million units to all targets on/after April15; every history predictor on/before that day remains identical."
+  },
+  {
+    "Level": "Daily",
+    "FutureTargetPerturbationInvariant": true,
+    "IncludesCutoffDay": true,
+    "NoRecordedHoursPredictor": true,
+    "Test": "Add one million units to all targets on/after April15; every history predictor on/before that day remains identical."
+  }
+]

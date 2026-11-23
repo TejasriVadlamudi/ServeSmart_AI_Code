@@ -1,0 +1,99 @@
+{
+  "input_policy": "Only user-designated Desktop files modified/downloaded November22,2026. OLD folders excluded. Input filename Approved means user-designated, not professor certification.",
+  "sources": [
+    {
+      "path": "/Users/thanishkareddy/Desktop/ServeSmart_FinalFlatfile_Hourly_ML.csv",
+      "copied_to": "01_Data/Source_Files/ServeSmart_FinalFlatfile_Hourly_ML.csv",
+      "sha256": "302f9748bf79dc527c6dd364ff03d1e7a500b7cfbcfe0a1360445e4029af60b8",
+      "modified_local": "2026-11-22T14:48:04.224066"
+    },
+    {
+      "path": "/Users/thanishkareddy/Desktop/ServeSmart_ML_Flat_File_Updated.csv",
+      "copied_to": "01_Data/Source_Files/ServeSmart_ML_Flat_File_Updated.csv",
+      "sha256": "c784f24b4bebcebe6c66b3bb9b9ddbdb7d449efaab168a15a401c16f0fd9a82f",
+      "modified_local": "2026-11-22T14:48:10.782738"
+    },
+    {
+      "path": "/Users/thanishkareddy/Desktop/01-ServeSmart_Master-Dataset-Copy.xlsx",
+      "copied_to": "01_Data/Source_Files/01-ServeSmart_Master-Dataset-Copy.xlsx",
+      "sha256": "7a6c691f6951257a3738e80592907494c5f0de2cbc78b09d68d660196df0e991",
+      "modified_local": "2026-11-22T14:48:16.745221"
+    },
+    {
+      "path": "/Users/thanishkareddy/Desktop/ServeSmart_Hourly_Daily_Forecasting.ipynb",
+      "copied_to": "01_Data/Source_Files/ServeSmart_Hourly_Daily_Forecasting.ipynb",
+      "sha256": "d1e14db7123475fa11b0e0d180df08f60f8e17f9cef64691a9d87c9214749b4f",
+      "modified_local": "2026-11-22T14:48:07.568139"
+    },
+    {
+      "path": "/Users/thanishkareddy/Desktop/04_ETL_Pipeline/phase1_corrected_file/outputs_phase1_20261122/Fact_Item_Daily.csv",
+      "copied_to": "01_Data/Source_Files/Corrected_ETL/Fact_Item_Daily.csv",
+      "sha256": "8bc4cbdbff5dfab689afa4537636bf1de381a0c546a2e0ffa4cdee9370f93d78"
+    },
+    {
+      "path": "/Users/thanishkareddy/Desktop/04_ETL_Pipeline/phase1_corrected_file/outputs_phase1_20261122/Dim_Weather.csv",
+      "copied_to": "01_Data/Source_Files/Corrected_ETL/Dim_Weather.csv",
+      "sha256": "014805cdd4dd6878a00837063d008c72a3ae14274dfba856dad23ef8e773937b"
+    },
+    {
+      "path": "/Users/thanishkareddy/Desktop/04_ETL_Pipeline/phase1_corrected_file/outputs_phase1_20261122/Fact_Sales_Line.csv",
+      "copied_to": "01_Data/Source_Files/Corrected_ETL/Fact_Sales_Line.csv",
+      "sha256": "2fc4fc4d59f77aa05a1aad3517bff7979a0002ad3191052417325d34479fe01f"
+    },
+    {
+      "path": "/Users/thanishkareddy/Desktop/04_ETL_Pipeline/phase1_corrected_file/outputs_phase1_20261122/Dim_Time.csv",
+      "copied_to": "01_Data/Source_Files/Corrected_ETL/Dim_Time.csv",
+      "sha256": "3aea23c120f92f6225e4af46f464609fb8ffc417e9afb013704b4dbeba0a1d97"
+    },
+    {
+      "path": "/Users/thanishkareddy/Desktop/04_ETL_Pipeline/phase1_corrected_file/outputs_phase1_20261122/ETL_Validation_Report.csv",
+      "copied_to": "01_Data/Source_Files/Corrected_ETL/ETL_Validation_Report.csv",
+      "sha256": "f683c2593d1935d29741d01e3494e9d0856c9e32367b19cf642d7833742a7dcf"
+    },
+    {
+      "path": "/Users/thanishkareddy/Desktop/04_ETL_Pipeline/phase1_corrected_file/outputs_phase1_20261122/Dim_Location.csv",
+      "copied_to": "01_Data/Source_Files/Corrected_ETL/Dim_Location.csv",
+      "sha256": "d0330fd3e89a115fa7065d6d90442e586a326054dcb87841c10a4add9dd447b8"
+    },
+    {
+      "path": "/Users/thanishkareddy/Desktop/04_ETL_Pipeline/phase1_corrected_file/outputs_phase1_20261122/Dim_Class_Context.csv",
+      "copied_to": "01_Data/Source_Files/Corrected_ETL/Dim_Class_Context.csv",
+      "sha256": "ef4db17f608e307e6cdd2fad97c1262114c0aae0838b9e948cdaa912c545bc25"
+    },
+    {
+      "path": "/Users/thanishkareddy/Desktop/04_ETL_Pipeline/phase1_corrected_file/outputs_phase1_20261122/Dim_Date.csv",
+      "copied_to": "01_Data/Source_Files/Corrected_ETL/Dim_Date.csv",
+      "sha256": "6072e8b3f5d5b66fb47f7821eeaa4f653db69273d9fabc0be943118277680df3"
+    },
+    {
+      "path": "/Users/thanishkareddy/Desktop/04_ETL_Pipeline/phase1_corrected_file/outputs_phase1_20261122/Dim_Item.csv",
+      "copied_to": "01_Data/Source_Files/Corrected_ETL/Dim_Item.csv",
+      "sha256": "b057c768b49141f953f84808954f4efb0d473acb599e3d6fe95f47b808a33f87"
+    },
+    {
+      "path": "/Users/thanishkareddy/Desktop/04_ETL_Pipeline/phase1_corrected_file/outputs_phase1_20261122/Dim_Event.csv",
+      "copied_to": "01_Data/Source_Files/Corrected_ETL/Dim_Event.csv",
+      "sha256": "c253a4bcbfeaf2ed2b8362940a71a7205afe4979425ceb44ff56437788f52aa6"
+    },
+    {
+      "path": "/Users/thanishkareddy/Desktop/04_ETL_Pipeline/phase1_corrected_file/outputs_phase1_20261122/Source_to_Fact_Reconciliation.csv",
+      "copied_to": "01_Data/Source_Files/Corrected_ETL/Source_to_Fact_Reconciliation.csv",
+      "sha256": "ae920d1f2c6f2e4579b36b7dbd56aafe3d54202af843fec61ced59d34e29e612"
+    },
+    {
+      "path": "/Users/thanishkareddy/Desktop/04_ETL_Pipeline/phase1_corrected_file/outputs_phase1_20261122/Hourly_Source_to_Fact_Reconciliation.csv",
+      "copied_to": "01_Data/Source_Files/Corrected_ETL/Hourly_Source_to_Fact_Reconciliation.csv",
+      "sha256": "5b408dac4027d342b0de968396fb5e6d2ccb8fc66b99f41f563ff10d44022ae6"
+    },
+    {
+      "path": "/Users/thanishkareddy/Desktop/04_ETL_Pipeline/phase1_corrected_file/outputs_phase1_20261122/Fact_Hourly_Demand.csv",
+      "copied_to": "01_Data/Source_Files/Corrected_ETL/Fact_Hourly_Demand.csv",
+      "sha256": "ded1aad082116c77aeb17811c589d0415a42fbbc66882fc8ad15f5992417bd7a"
+    },
+    {
+      "path": "/Users/thanishkareddy/Desktop/04_ETL_Pipeline/phase1_corrected_file/outputs_phase1_20261122/Hour_Status_Audit.csv",
+      "copied_to": "01_Data/Source_Files/Corrected_ETL/Hour_Status_Audit.csv",
+      "sha256": "dce23577eb99f0263afb86474dfccc40ff2146516b3fad8f1507cd3e588c76da"
+    }
+  ]
+}

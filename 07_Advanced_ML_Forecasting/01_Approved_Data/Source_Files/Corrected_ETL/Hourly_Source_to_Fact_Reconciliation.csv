@@ -1,0 +1,5 @@
+Measure,HourlyValue,FactValue,Difference,Status
+ItemUnits,63891.0,63891.0,0.0,PASS
+NetSales,369586.75,369586.75,0.0,PASS
+GrossSales,369654.82,369654.82,0.0,PASS
+TransactionRows,65885.0,65885.0,0.0,PASS

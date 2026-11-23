@@ -1,0 +1,317 @@
+Location,Date,Hour,ForecastCutoff,Prediction,Model,InputStatus
+Einstein's,2026-05-01,7,2026-04-30 23:59:59,4.636363636363637,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-01,8,2026-04-30 23:59:59,26.571428571428573,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-01,9,2026-04-30 23:59:59,37.357142857142854,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-01,10,2026-04-30 23:59:59,40.42857142857143,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-01,11,2026-04-30 23:59:59,41.57142857142857,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-01,12,2026-04-30 23:59:59,43.0,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-01,13,2026-04-30 23:59:59,33.785714285714285,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-01,14,2026-04-30 23:59:59,19.333333333333332,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-01,15,2026-04-30 23:59:59,18.0,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-04,7,2026-05-03 23:59:59,8.153846153846153,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-04,8,2026-05-03 23:59:59,27.857142857142858,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-04,9,2026-05-03 23:59:59,70.85714285714286,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-04,10,2026-05-03 23:59:59,78.2,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-04,11,2026-05-03 23:59:59,84.0,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-04,12,2026-05-03 23:59:59,81.42857142857143,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-04,13,2026-05-03 23:59:59,76.35714285714286,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-04,14,2026-05-03 23:59:59,32.38461538461539,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-04,15,2026-05-03 23:59:59,47.61538461538461,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-04,16,2026-05-03 23:59:59,29.692307692307693,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-04,17,2026-05-03 23:59:59,13.692307692307692,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-05,7,2026-05-04 23:59:59,7.928571428571429,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-05,8,2026-05-04 23:59:59,52.857142857142854,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-05,9,2026-05-04 23:59:59,80.28571428571429,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-05,10,2026-05-04 23:59:59,103.07142857142856,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-05,11,2026-05-04 23:59:59,66.5,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-05,12,2026-05-04 23:59:59,104.5,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-05,13,2026-05-04 23:59:59,55.5,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-05,14,2026-05-04 23:59:59,47.857142857142854,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-05,15,2026-05-04 23:59:59,37.714285714285715,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-05,16,2026-05-04 23:59:59,33.285714285714285,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-05,17,2026-05-04 23:59:59,15.214285714285714,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-06,7,2026-05-05 23:59:59,10.785714285714286,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-06,8,2026-05-05 23:59:59,34.733333333333334,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-06,9,2026-05-05 23:59:59,78.8,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-06,10,2026-05-05 23:59:59,99.33333333333331,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-06,11,2026-05-05 23:59:59,86.06666666666666,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-06,12,2026-05-05 23:59:59,82.53333333333333,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-06,13,2026-05-05 23:59:59,80.73333333333333,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-06,14,2026-05-05 23:59:59,40.357142857142854,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-06,15,2026-05-05 23:59:59,49.0,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-06,16,2026-05-05 23:59:59,38.0,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-06,17,2026-05-05 23:59:59,7.142857142857143,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-07,7,2026-05-06 23:59:59,9.928571428571429,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-07,8,2026-05-06 23:59:59,34.6,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-07,9,2026-05-06 23:59:59,63.86666666666667,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-07,10,2026-05-06 23:59:59,86.73333333333333,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-07,11,2026-05-06 23:59:59,69.33333333333333,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-07,12,2026-05-06 23:59:59,99.13333333333334,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-07,13,2026-05-06 23:59:59,49.733333333333334,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-07,14,2026-05-06 23:59:59,55.07142857142857,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-07,15,2026-05-06 23:59:59,35.642857142857146,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-07,16,2026-05-06 23:59:59,30.857142857142858,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-07,17,2026-05-06 23:59:59,12.785714285714286,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-08,8,2026-05-07 23:59:59,27.6,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-08,9,2026-05-07 23:59:59,38.266666666666666,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-08,10,2026-05-07 23:59:59,40.0,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-08,11,2026-05-07 23:59:59,40.13333333333333,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-08,12,2026-05-07 23:59:59,42.666666666666664,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-08,13,2026-05-07 23:59:59,34.4,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-08,14,2026-05-07 23:59:59,18.53846153846154,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-08,15,2026-05-07 23:59:59,18.692307692307693,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-11,7,2026-05-10 23:59:59,8.285714285714286,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-11,8,2026-05-10 23:59:59,28.4,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-11,9,2026-05-10 23:59:59,70.46666666666667,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-11,10,2026-05-10 23:59:59,78.8125,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-11,11,2026-05-10 23:59:59,85.2,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-11,12,2026-05-10 23:59:59,81.46666666666667,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-11,13,2026-05-10 23:59:59,77.73333333333333,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-11,14,2026-05-10 23:59:59,32.42857142857143,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-11,15,2026-05-10 23:59:59,48.714285714285715,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-11,16,2026-05-10 23:59:59,28.928571428571427,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-11,17,2026-05-10 23:59:59,14.5,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-12,7,2026-05-11 23:59:59,7.8,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-12,8,2026-05-11 23:59:59,52.53333333333333,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-12,9,2026-05-11 23:59:59,77.6,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-12,10,2026-05-11 23:59:59,103.93333333333334,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-12,11,2026-05-11 23:59:59,67.0,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-12,12,2026-05-11 23:59:59,105.53333333333332,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-12,13,2026-05-11 23:59:59,54.333333333333336,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-12,14,2026-05-11 23:59:59,48.733333333333334,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-12,15,2026-05-11 23:59:59,38.666666666666664,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-12,16,2026-05-11 23:59:59,33.0,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-12,17,2026-05-11 23:59:59,15.133333333333333,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-13,7,2026-05-12 23:59:59,11.0,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-13,8,2026-05-12 23:59:59,35.1875,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-13,9,2026-05-12 23:59:59,79.125,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-13,10,2026-05-12 23:59:59,98.5,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-13,11,2026-05-12 23:59:59,86.75,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-13,12,2026-05-12 23:59:59,83.625,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-13,13,2026-05-12 23:59:59,80.625,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-13,14,2026-05-12 23:59:59,41.8,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-13,15,2026-05-12 23:59:59,49.13333333333333,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-13,16,2026-05-12 23:59:59,37.8,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-13,17,2026-05-12 23:59:59,7.466666666666667,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-14,7,2026-05-13 23:59:59,10.6,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-14,8,2026-05-13 23:59:59,34.6875,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-14,9,2026-05-13 23:59:59,64.5625,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-14,10,2026-05-13 23:59:59,85.8125,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-14,11,2026-05-13 23:59:59,69.625,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-14,12,2026-05-13 23:59:59,97.875,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-14,13,2026-05-13 23:59:59,50.1875,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-14,14,2026-05-13 23:59:59,56.0,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-14,15,2026-05-13 23:59:59,35.93333333333333,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-14,16,2026-05-13 23:59:59,30.2,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-14,17,2026-05-13 23:59:59,12.4,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-15,7,2026-05-14 23:59:59,4.916666666666667,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-15,8,2026-05-14 23:59:59,28.375,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-15,9,2026-05-14 23:59:59,37.625,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-15,10,2026-05-14 23:59:59,39.6875,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-15,11,2026-05-14 23:59:59,40.8125,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-15,12,2026-05-14 23:59:59,43.5,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-15,13,2026-05-14 23:59:59,34.0,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-15,14,2026-05-14 23:59:59,18.0,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-18,8,2026-05-17 23:59:59,27.875,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-18,9,2026-05-17 23:59:59,69.125,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-18,10,2026-05-17 23:59:59,77.05882352941177,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-18,11,2026-05-17 23:59:59,83.125,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-18,12,2026-05-17 23:59:59,80.3125,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-18,13,2026-05-17 23:59:59,75.125,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-18,14,2026-05-17 23:59:59,33.06666666666667,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-18,15,2026-05-17 23:59:59,47.53333333333333,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-19,8,2026-05-18 23:59:59,50.6875,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-19,9,2026-05-18 23:59:59,77.0625,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-19,10,2026-05-18 23:59:59,100.5625,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-19,11,2026-05-18 23:59:59,65.6875,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-19,12,2026-05-18 23:59:59,104.0625,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-19,13,2026-05-18 23:59:59,54.9375,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-19,14,2026-05-18 23:59:59,47.9375,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-19,15,2026-05-18 23:59:59,37.375,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-20,8,2026-05-19 23:59:59,34.1764705882353,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-20,9,2026-05-19 23:59:59,76.58823529411765,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-20,10,2026-05-19 23:59:59,95.88235294117646,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-20,11,2026-05-19 23:59:59,84.82352941176471,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-20,12,2026-05-19 23:59:59,82.23529411764706,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-20,13,2026-05-19 23:59:59,78.82352941176471,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-20,14,2026-05-19 23:59:59,42.125,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-20,15,2026-05-19 23:59:59,48.0,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-21,8,2026-05-20 23:59:59,33.8235294117647,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-21,9,2026-05-20 23:59:59,64.11764705882354,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-21,10,2026-05-20 23:59:59,83.3529411764706,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-21,11,2026-05-20 23:59:59,67.82352941176471,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-21,12,2026-05-20 23:59:59,95.76470588235294,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-21,13,2026-05-20 23:59:59,50.0,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-21,14,2026-05-20 23:59:59,55.375,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-21,15,2026-05-20 23:59:59,37.125,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-21,16,2026-05-20 23:59:59,30.6875,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-26,8,2026-05-25 23:59:59,48.23529411764706,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-26,9,2026-05-25 23:59:59,72.94117647058823,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-26,10,2026-05-25 23:59:59,95.52941176470588,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-26,11,2026-05-25 23:59:59,62.47058823529411,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-26,12,2026-05-25 23:59:59,100.82352941176472,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-26,13,2026-05-25 23:59:59,52.294117647058826,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-26,14,2026-05-25 23:59:59,45.88235294117647,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-26,15,2026-05-25 23:59:59,35.529411764705884,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-26,16,2026-05-25 23:59:59,33.0,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-27,8,2026-05-26 23:59:59,33.27777777777778,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-27,9,2026-05-26 23:59:59,73.27777777777777,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-27,10,2026-05-26 23:59:59,90.94444444444444,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-27,11,2026-05-26 23:59:59,81.38888888888889,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-27,12,2026-05-26 23:59:59,79.16666666666667,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-27,13,2026-05-26 23:59:59,75.61111111111111,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-27,14,2026-05-26 23:59:59,40.294117647058826,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-27,15,2026-05-26 23:59:59,45.588235294117645,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-27,16,2026-05-26 23:59:59,39.375,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-28,8,2026-05-27 23:59:59,32.611111111111114,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-28,9,2026-05-27 23:59:59,61.94444444444444,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-28,10,2026-05-27 23:59:59,79.44444444444444,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-28,11,2026-05-27 23:59:59,64.55555555555556,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-28,12,2026-05-27 23:59:59,91.33333333333331,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-28,13,2026-05-27 23:59:59,47.611111111111114,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-28,14,2026-05-27 23:59:59,52.411764705882355,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-28,15,2026-05-27 23:59:59,35.529411764705884,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Einstein's,2026-05-28,16,2026-05-27 23:59:59,28.941176470588236,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Panda Express,2026-05-01,11,2026-04-30 23:59:59,27.53846153846154,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Panda Express,2026-05-01,12,2026-04-30 23:59:59,51.53846153846154,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Panda Express,2026-05-01,13,2026-04-30 23:59:59,27.692307692307693,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Panda Express,2026-05-04,11,2026-05-03 23:59:59,65.0,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Panda Express,2026-05-04,12,2026-05-03 23:59:59,84.84615384615384,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Panda Express,2026-05-04,13,2026-05-03 23:59:59,64.76923076923077,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Panda Express,2026-05-04,14,2026-05-03 23:59:59,36.38461538461539,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Panda Express,2026-05-04,15,2026-05-03 23:59:59,30.76923076923077,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Panda Express,2026-05-05,10,2026-05-04 23:59:59,2.6666666666666665,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Panda Express,2026-05-05,11,2026-05-04 23:59:59,56.785714285714285,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Panda Express,2026-05-05,12,2026-05-04 23:59:59,93.64285714285714,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Panda Express,2026-05-05,13,2026-05-04 23:59:59,45.5,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Panda Express,2026-05-05,14,2026-05-04 23:59:59,38.0,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Panda Express,2026-05-05,15,2026-05-04 23:59:59,30.142857142857142,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Panda Express,2026-05-06,11,2026-05-05 23:59:59,61.857142857142854,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Panda Express,2026-05-06,12,2026-05-05 23:59:59,77.21428571428571,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Panda Express,2026-05-06,13,2026-05-05 23:59:59,64.28571428571429,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Panda Express,2026-05-06,14,2026-05-05 23:59:59,37.285714285714285,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Panda Express,2026-05-06,15,2026-05-05 23:59:59,32.857142857142854,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Panda Express,2026-05-06,16,2026-05-05 23:59:59,2.0,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Panda Express,2026-05-07,11,2026-05-06 23:59:59,49.142857142857146,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Panda Express,2026-05-07,12,2026-05-06 23:59:59,102.28571428571428,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Panda Express,2026-05-07,13,2026-05-06 23:59:59,51.07142857142857,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Panda Express,2026-05-07,14,2026-05-06 23:59:59,42.5,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Panda Express,2026-05-07,15,2026-05-06 23:59:59,24.428571428571427,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Panda Express,2026-05-07,16,2026-05-06 23:59:59,1.0,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Panda Express,2026-05-08,10,2026-05-07 23:59:59,3.5714285714285716,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Panda Express,2026-05-08,11,2026-05-07 23:59:59,27.0,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Panda Express,2026-05-08,12,2026-05-07 23:59:59,51.5,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Panda Express,2026-05-08,13,2026-05-07 23:59:59,28.214285714285715,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Panda Express,2026-05-11,10,2026-05-10 23:59:59,4.0,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Panda Express,2026-05-11,11,2026-05-10 23:59:59,67.0,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Panda Express,2026-05-11,12,2026-05-10 23:59:59,84.71428571428571,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Panda Express,2026-05-11,13,2026-05-10 23:59:59,63.92857142857143,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Panda Express,2026-05-11,14,2026-05-10 23:59:59,36.42857142857143,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Panda Express,2026-05-11,15,2026-05-10 23:59:59,32.07142857142857,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Panda Express,2026-05-12,11,2026-05-11 23:59:59,57.53333333333333,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Panda Express,2026-05-12,12,2026-05-11 23:59:59,92.2,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Panda Express,2026-05-12,13,2026-05-11 23:59:59,44.733333333333334,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Panda Express,2026-05-12,14,2026-05-11 23:59:59,37.46666666666667,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Panda Express,2026-05-12,15,2026-05-11 23:59:59,30.133333333333333,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Panda Express,2026-05-13,11,2026-05-12 23:59:59,61.333333333333336,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Panda Express,2026-05-13,12,2026-05-12 23:59:59,78.13333333333334,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Panda Express,2026-05-13,13,2026-05-12 23:59:59,63.93333333333333,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Panda Express,2026-05-13,14,2026-05-12 23:59:59,38.266666666666666,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Panda Express,2026-05-13,15,2026-05-12 23:59:59,33.86666666666667,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Panda Express,2026-05-14,11,2026-05-13 23:59:59,48.733333333333334,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Panda Express,2026-05-14,12,2026-05-13 23:59:59,101.53333333333332,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Panda Express,2026-05-14,13,2026-05-13 23:59:59,50.4,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Panda Express,2026-05-14,14,2026-05-13 23:59:59,42.86666666666667,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Panda Express,2026-05-14,15,2026-05-13 23:59:59,24.6,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Residential Dining,2026-05-01,7,2026-04-30 23:59:59,1.3333333333333333,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Residential Dining,2026-05-01,8,2026-04-30 23:59:59,1.1666666666666667,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Residential Dining,2026-05-01,9,2026-04-30 23:59:59,1.875,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Residential Dining,2026-05-01,11,2026-04-30 23:59:59,6.75,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Residential Dining,2026-05-01,12,2026-04-30 23:59:59,9.857142857142858,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Residential Dining,2026-05-01,13,2026-04-30 23:59:59,3.8333333333333335,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Residential Dining,2026-05-01,18,2026-04-30 23:59:59,2.5,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Residential Dining,2026-05-02,18,2026-05-01 23:59:59,2.5,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Residential Dining,2026-05-03,12,2026-05-02 23:59:59,1.6666666666666667,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Residential Dining,2026-05-03,17,2026-05-02 23:59:59,2.75,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Residential Dining,2026-05-04,7,2026-05-03 23:59:59,1.6666666666666667,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Residential Dining,2026-05-04,8,2026-05-03 23:59:59,2.8,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Residential Dining,2026-05-04,9,2026-05-03 23:59:59,2.0,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Residential Dining,2026-05-04,10,2026-05-03 23:59:59,2.0,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Residential Dining,2026-05-04,11,2026-05-03 23:59:59,6.0,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Residential Dining,2026-05-04,12,2026-05-03 23:59:59,14.076923076923077,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Residential Dining,2026-05-04,17,2026-05-03 23:59:59,2.0,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Residential Dining,2026-05-04,18,2026-05-03 23:59:59,2.3,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Residential Dining,2026-05-05,8,2026-05-04 23:59:59,1.4285714285714286,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Residential Dining,2026-05-05,9,2026-05-04 23:59:59,1.5454545454545454,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Residential Dining,2026-05-05,10,2026-05-04 23:59:59,3.0833333333333335,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Residential Dining,2026-05-05,11,2026-05-04 23:59:59,8.466666666666667,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Residential Dining,2026-05-05,12,2026-05-04 23:59:59,3.5,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Residential Dining,2026-05-05,17,2026-05-04 23:59:59,2.923076923076923,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Residential Dining,2026-05-05,18,2026-05-04 23:59:59,1.75,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Residential Dining,2026-05-05,19,2026-05-04 23:59:59,1.0,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Residential Dining,2026-05-06,7,2026-05-05 23:59:59,1.8888888888888888,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Residential Dining,2026-05-06,8,2026-05-05 23:59:59,3.3076923076923075,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Residential Dining,2026-05-06,9,2026-05-05 23:59:59,1.6153846153846154,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Residential Dining,2026-05-06,10,2026-05-05 23:59:59,1.9090909090909092,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Residential Dining,2026-05-06,11,2026-05-05 23:59:59,11.142857142857142,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Residential Dining,2026-05-06,12,2026-05-05 23:59:59,15.866666666666667,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Residential Dining,2026-05-06,13,2026-05-05 23:59:59,5.538461538461538,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Residential Dining,2026-05-06,17,2026-05-05 23:59:59,2.4615384615384617,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Residential Dining,2026-05-06,18,2026-05-05 23:59:59,1.5,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Residential Dining,2026-05-07,7,2026-05-06 23:59:59,1.3333333333333333,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Residential Dining,2026-05-07,11,2026-05-06 23:59:59,8.142857142857142,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Residential Dining,2026-05-07,13,2026-05-06 23:59:59,1.4444444444444444,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Residential Dining,2026-05-07,17,2026-05-06 23:59:59,3.5,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Residential Dining,2026-05-07,18,2026-05-06 23:59:59,1.7,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Residential Dining,2026-05-08,7,2026-05-07 23:59:59,1.5714285714285714,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Residential Dining,2026-05-08,8,2026-05-07 23:59:59,1.1428571428571428,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Residential Dining,2026-05-08,9,2026-05-07 23:59:59,1.7777777777777777,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Residential Dining,2026-05-08,11,2026-05-07 23:59:59,6.615384615384615,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Residential Dining,2026-05-08,13,2026-05-07 23:59:59,3.6153846153846154,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Residential Dining,2026-05-08,16,2026-05-07 23:59:59,1.75,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Residential Dining,2026-05-08,17,2026-05-07 23:59:59,1.875,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Residential Dining,2026-05-08,21,2026-05-07 23:59:59,,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Residential Dining,2026-05-09,13,2026-05-08 23:59:59,1.3333333333333333,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Residential Dining,2026-05-10,12,2026-05-09 23:59:59,1.7142857142857142,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Residential Dining,2026-05-10,18,2026-05-09 23:59:59,2.0,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Residential Dining,2026-05-11,8,2026-05-10 23:59:59,2.727272727272727,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Residential Dining,2026-05-11,9,2026-05-10 23:59:59,1.9,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Residential Dining,2026-05-11,10,2026-05-10 23:59:59,2.0,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Residential Dining,2026-05-11,11,2026-05-10 23:59:59,5.928571428571429,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Residential Dining,2026-05-11,12,2026-05-10 23:59:59,13.857142857142858,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Residential Dining,2026-05-11,13,2026-05-10 23:59:59,3.363636363636364,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Residential Dining,2026-05-11,16,2026-05-10 23:59:59,1.6,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Residential Dining,2026-05-11,17,2026-05-10 23:59:59,2.0714285714285716,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Residential Dining,2026-05-11,18,2026-05-10 23:59:59,2.4545454545454546,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Residential Dining,2026-05-12,7,2026-05-11 23:59:59,1.5714285714285714,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Residential Dining,2026-05-12,8,2026-05-11 23:59:59,1.375,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Residential Dining,2026-05-12,9,2026-05-11 23:59:59,1.5,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Residential Dining,2026-05-12,10,2026-05-11 23:59:59,2.923076923076923,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Residential Dining,2026-05-12,11,2026-05-11 23:59:59,11.5,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Residential Dining,2026-05-12,15,2026-05-11 23:59:59,1.3333333333333333,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Residential Dining,2026-05-12,17,2026-05-11 23:59:59,2.857142857142857,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Residential Dining,2026-05-13,8,2026-05-12 23:59:59,3.142857142857143,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Residential Dining,2026-05-13,9,2026-05-12 23:59:59,1.5714285714285714,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Residential Dining,2026-05-13,10,2026-05-12 23:59:59,1.9166666666666667,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Residential Dining,2026-05-13,11,2026-05-12 23:59:59,13.866666666666667,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Residential Dining,2026-05-13,12,2026-05-12 23:59:59,15.625,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Residential Dining,2026-05-13,13,2026-05-12 23:59:59,5.428571428571429,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Residential Dining,2026-05-13,16,2026-05-12 23:59:59,1.75,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Residential Dining,2026-05-13,17,2026-05-12 23:59:59,2.642857142857143,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Residential Dining,2026-05-14,7,2026-05-13 23:59:59,1.2857142857142858,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Residential Dining,2026-05-14,8,2026-05-13 23:59:59,3.375,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Residential Dining,2026-05-14,9,2026-05-13 23:59:59,1.75,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Residential Dining,2026-05-14,10,2026-05-13 23:59:59,2.25,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Residential Dining,2026-05-14,11,2026-05-13 23:59:59,8.066666666666666,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Residential Dining,2026-05-14,12,2026-05-13 23:59:59,3.272727272727273,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Residential Dining,2026-05-14,13,2026-05-13 23:59:59,1.4,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Residential Dining,2026-05-14,17,2026-05-13 23:59:59,3.4,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Residential Dining,2026-05-14,18,2026-05-13 23:59:59,1.7272727272727273,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Residential Dining,2026-05-15,7,2026-05-14 23:59:59,1.5,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Residential Dining,2026-05-15,8,2026-05-14 23:59:59,1.25,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Residential Dining,2026-05-15,9,2026-05-14 23:59:59,2.2,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Residential Dining,2026-05-15,10,2026-05-14 23:59:59,1.25,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Residential Dining,2026-05-15,11,2026-05-14 23:59:59,6.357142857142857,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Residential Dining,2026-05-15,12,2026-05-14 23:59:59,9.4,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Residential Dining,2026-05-15,13,2026-05-14 23:59:59,3.5,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller
+Residential Dining,2026-05-15,17,2026-05-14 23:59:59,1.7777777777777777,Historical Average,Caller-supplied as-of features; availability/operating schedule must be validated by caller

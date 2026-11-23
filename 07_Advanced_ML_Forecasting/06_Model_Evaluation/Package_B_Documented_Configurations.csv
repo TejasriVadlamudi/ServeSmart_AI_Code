@@ -1,0 +1,13 @@
+ForecastLevel,Model,Parameters,ValidationWAPE
+Hourly,Random Forest,"{""max_depth"": 8, ""max_features"": 0.8, ""min_samples_leaf"": 2, ""n_estimators"": 200, ""n_jobs"": -1, ""random_state"": 42}",0.2628059225129376
+Hourly,Random Forest,"{""max_depth"": null, ""max_features"": 0.8, ""min_samples_leaf"": 2, ""n_estimators"": 300, ""n_jobs"": -1, ""random_state"": 42}",0.2634236504822876
+Hourly,XGBoost,"{""colsample_bytree"": 0.9, ""learning_rate"": 0.05, ""max_depth"": 4, ""n_estimators"": 200, ""n_jobs"": -1, ""objective"": ""reg:squarederror"", ""random_state"": 42, ""subsample"": 0.9}",0.2660753916534406
+Hourly,XGBoost,"{""colsample_bytree"": 0.9, ""learning_rate"": 0.05, ""max_depth"": 3, ""n_estimators"": 300, ""n_jobs"": -1, ""objective"": ""reg:squarederror"", ""random_state"": 42, ""subsample"": 0.9}",0.2634492698000085
+Hourly,LightGBM,"{""colsample_bytree"": 0.9, ""learning_rate"": 0.05, ""n_estimators"": 200, ""n_jobs"": -1, ""num_leaves"": 15, ""random_state"": 42, ""subsample"": 0.9, ""verbosity"": -1}",0.267222031745968
+Hourly,LightGBM,"{""colsample_bytree"": 0.9, ""learning_rate"": 0.03, ""n_estimators"": 300, ""n_jobs"": -1, ""num_leaves"": 31, ""random_state"": 42, ""subsample"": 0.9, ""verbosity"": -1}",0.268675832005649
+Daily,Random Forest,"{""max_depth"": 8, ""max_features"": 0.8, ""min_samples_leaf"": 2, ""n_estimators"": 200, ""n_jobs"": -1, ""random_state"": 42}",0.1759213474002793
+Daily,Random Forest,"{""max_depth"": null, ""max_features"": 0.8, ""min_samples_leaf"": 2, ""n_estimators"": 300, ""n_jobs"": -1, ""random_state"": 42}",0.1744644977791769
+Daily,XGBoost,"{""colsample_bytree"": 0.9, ""learning_rate"": 0.05, ""max_depth"": 4, ""n_estimators"": 200, ""n_jobs"": -1, ""objective"": ""reg:squarederror"", ""random_state"": 42, ""subsample"": 0.9}",0.2010658412652234
+Daily,XGBoost,"{""colsample_bytree"": 0.9, ""learning_rate"": 0.05, ""max_depth"": 3, ""n_estimators"": 300, ""n_jobs"": -1, ""objective"": ""reg:squarederror"", ""random_state"": 42, ""subsample"": 0.9}",0.2047984020405973
+Daily,LightGBM,"{""colsample_bytree"": 0.9, ""learning_rate"": 0.05, ""n_estimators"": 200, ""n_jobs"": -1, ""num_leaves"": 15, ""random_state"": 42, ""subsample"": 0.9, ""verbosity"": -1}",0.2287943503064332
+Daily,LightGBM,"{""colsample_bytree"": 0.9, ""learning_rate"": 0.03, ""n_estimators"": 300, ""n_jobs"": -1, ""num_leaves"": 31, ""random_state"": 42, ""subsample"": 0.9, ""verbosity"": -1}",0.223706685870501

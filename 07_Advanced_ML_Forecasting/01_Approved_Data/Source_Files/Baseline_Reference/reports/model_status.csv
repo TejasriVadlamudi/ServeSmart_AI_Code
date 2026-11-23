@@ -1,0 +1,15 @@
+ForecastLevel,Model,Status,Notes
+Hourly,Seasonal Naive,Ran,Historical inputs only; missing lag rows excluded.
+Hourly,Historical Same-Hour Average,Ran,Historical inputs only; missing lag rows excluded.
+Hourly,Ridge,Ran,Ran
+Hourly,Random Forest,Ran,Ran
+Hourly,XGBoost,Ran,Ran
+Hourly,LightGBM,Skipped,Skipped: No module named 'lightgbm'
+Hourly,SARIMA,Skipped,"Not fit hourly because source contains irregular, location-specific operating hours; daily SARIMA is provided."
+Daily,Seasonal Naive,Ran,Historical inputs only; missing lag rows excluded.
+Daily,Historical Same-Day-of-Week Average,Ran,Historical inputs only; missing lag rows excluded.
+Daily,Ridge,Ran,Ran
+Daily,Random Forest,Ran,Ran
+Daily,XGBoost,Ran,Ran
+Daily,LightGBM,Skipped,Skipped: No module named 'lightgbm'
+Daily,SARIMA,Ran,Ran

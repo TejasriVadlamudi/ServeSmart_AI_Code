@@ -1,0 +1,15 @@
+{
+  "Rows": 2032,
+  "Units": 63891.0,
+  "NetSales": 369586.75,
+  "SplitCounts": {
+    "Validation": 974,
+    "Train": 742,
+    "Test": 316
+  },
+  "NegativeHours": 1,
+  "ZeroHours": 2,
+  "MissingRawProfileHours": 208,
+  "SpringBreakRows": 24,
+  "InputPolicy": "User-designated final 73-column ML snapshot, reconciled to corrected ETL; original 71-column alternative checked, original files preserved."
+}

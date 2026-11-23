@@ -1,90 +1,54 @@
-# ServeSmart AI Forecasting Application
+# ServeSmart AI
 
-This repository contains the ServeSmart AI capstone application, corrected Phase 1 ETL deliverables, and the finalized Phase 2 forecasting experiment. Existing application files and older comparison outputs are preserved for reproducibility.
+ServeSmart is a Streamlit application for campus-dining demand visibility and directional operational planning. The repository keeps the corrected ETL pipeline, customer and manager portals, Tableau asset, and the consolidated forecasting research package together.
 
-## Final forecasting results
+## Current forecasting package
 
-The authoritative finalized Phase 2 run is stored in `07_Advanced_ML_Forecasting/FINAL_Advanced_ML_Outputs_20261122/`.
+The authoritative forecasting package is under `07_Advanced_ML_Forecasting/` and was integrated from `ServeSmart_Advanced_Forecasting_Ready_To_Submit.zip`.
 
-| Forecast level | Selected model | WAPE | Test rows |
+| Forecast level | Validation-selected model | May backtest WAPE | Common May rows |
 |---|---|---:|---:|
-| Hourly | Random Forest | 37.37% | 316 |
-| Daily | XGBoost | 22.54% | 43 |
+| Hourly | Historical Average | 61.70% | 280 |
+| Daily | Random Forest | 42.24% | 43 |
 
-These results use the common eligible test rows from the finalized run. The older comparison in `outputs/models/` is intentionally retained and labeled as an earlier app-layer experiment; it used a different comparison artifact and evaluation coverage, so its metrics should not be mixed with the finalized Phase 2 results.
+These are WAPE values for historical May backtests, not classification accuracy. The package documents that Seasonal Naive has lower May error for some comparisons, but the selected models remain locked by the pre-test validation procedure.
 
-## Project deliverables
+The Streamlit app reads the website-ready files in `data/forecasting/`:
 
-- `04_ETL_Pipeline/phase1_corrected_file/`: corrected Phase 1 ETL script and verification notes.
-- `07_Advanced_ML_Forecasting/preparation/`: reusable Phase 2 preparation scripts and requirements.
-- `07_Advanced_ML_Forecasting/validation/`: input-contract, predictor, data-quality, and dependency checks.
-- `07_Advanced_ML_Forecasting/FINAL_Advanced_ML_Outputs_20261122/`: finalized model metrics, predictions, manifests, and comparison workbook.
-- `docs/project_documentation/`: concise documentation of results, evaluation scope, and reproducibility.
+- `Approved_ML_Flat_File.csv` — approved historical feature and target rows.
+- `Hourly_Website_Backtest_Data.csv` — hourly Historical Average backtest predictions.
+- `Daily_Website_Backtest_Data.csv` — daily Random Forest backtest predictions.
+- `Overall_Model_Comparison.csv` — selected models and evaluation metrics.
+- `Model_Registry.json` — model and feature-set registry.
 
-## What is included
+The May files are historical benchmark data. For a future date with no scored row, the customer and manager portals use a clearly labeled rolling historical fallback based only on prior observations. Missing schedules, closures, and unavailable history still produce `Closed`, `No forecast`, or `Unavailable` rather than fabricated demand.
 
-- `src/forecasting_data.py`: approved-file loading, schema checks, chronological splits, and deployment-safe predictors.
-- `src/metrics.py`: MAE, RMSE, and WAPE calculations plus model comparison tables.
-- `src/train_models.py`: reusable Random Forest and optional XGBoost scaffold. It requires an approved ML flat file and never trains on the demo path.
-- `src/decision_support.py`: configurable preparation, inventory, and staffing signals. These are planning prompts, not exact purchasing or staffing orders.
-- `app.py`: Streamlit dashboard with Home, Customer Portal, Manager Portal, and Analytics views.
-- `outputs/baselines/approved/`: Sanjana/Thanishka's approved baseline outputs and verification files.
-- `outputs/models/model_comparison_common_test.csv`: common-row May comparison used to select the current baseline winner.
-- `data/queue_service_times.csv`: optional operational input with `Date`, `Hour`, `Station`, and `WaitMinutes` columns.
-- `data/campus_closures.csv`: optional future closure calendar with `Date` and `Reason` columns.
-- `assets/servesmart-hero.png`: landing-page illustration used by the Streamlit Home view.
-- `tests/test_core.py`: dependency-light smoke tests for the core logic.
+## Repository areas
+
+- `app.py` — Streamlit Home, Customer Portal, Manager Portal, and Analytics views.
+- `src/forecasting_data.py` — approved-file loading, schema checks, chronological splits, and deployment-safe predictors.
+- `src/decision_support.py` — directional food-preparation, inventory, and staffing prompts driven by `ForecastUnits` and the selected forecast source.
+- `04_ETL_Pipeline/phase1_corrected_file/` — corrected Phase 1 ETL source.
+- `07_Advanced_ML_Forecasting/` — consolidated forecasting code, selected models, predictions, evaluation, explainability, documentation, and limitations.
+- `data/forecasting/` — small app-facing forecasting handoff.
 
 ## Run locally
 
 ```bash
 python3 -m pip install -r requirements.txt
-python3 -m pytest -q
 streamlit run app.py
 ```
 
-The app uses `data/ServeSmart_ML_Flat_File_Updated.csv` and the approved baseline
-forecasts in `outputs/baselines/approved/all_hour_forecasts.csv` when those files
-are present. The current common-row comparison selects Seasonal Naive as the
-strongest model for the May test period.
-
-The Customer Portal now accepts a forecast date. For dates beyond the loaded
-file, it estimates each station/hour from the most recent four matching
-weekday/hour observations, falling back to recent same-hour history. Sundays,
-explicit campus-closed dates, and unsupported station hours show `Closed` or
-`No forecast` rather than fabricated demand. If `data/queue_service_times.csv`
-is populated, exact queue/service-time values are used; until then, wait values
-marked with `*` are directional demand estimates rather than measured queue
-times.
-
-The demo Manager Portal is intentionally search-first: it shows today's predicted
-sales by station and only displays historical item-level results after a manager
-asks a question. The Customer Portal shows today's estimated wait by station.
-
-## Train advanced models for comparison
+Run the automated checks with:
 
 ```bash
-python3 src/train_models.py \
-  --approved-ml-file /path/to/approved_ML_flat_file.csv \
-  --output-dir outputs/models
+pytest -q
 ```
 
-The training command expects at minimum `Location`, `Date`, `Hour`, and
-`Target_HourlyUnits`. It sorts by time and evaluates on a later test period.
-It intentionally excludes current-period sales/transaction fields from the
-default feature list to avoid leakage. XGBoost is optional; Random Forest is
-the required scaffold model. To compare the advanced outputs with the approved
-baselines on identical May test rows:
+The forecasting package's own reproducibility and verification instructions are in `07_Advanced_ML_Forecasting/README.md` and `07_Advanced_ML_Forecasting/OPEN_THIS_FIRST.txt`.
 
-```bash
-python3 src/compare_models.py \
-  --baseline-file outputs/baselines/approved/all_hour_forecasts.csv \
-  --advanced-file outputs/models/advanced_test_predictions.csv
-```
+## Scope and limitations
 
-## Important limitations
+The authoritative package records a strict “not yet ready for an unconditional all-nine-requirements-complete claim” verdict because timed enrollment sources, historical availability evidence, an outlet operating calendar, and Package B's omitted final runner remain documented blockers. Those limitations are preserved rather than hidden.
 
-- The current dashboard uses the approved baseline comparison; customer wait times remain directional estimates until queue and service-time data are available.
-- Recommendations use configurable thresholds and recent demand patterns; they do not claim exact staffing, purchasing, or inventory quantities.
-- Weather, event, and campus-context values must be known or forecastable at the time a real forecast is produced.
-- Model quality, calibration, and operational adoption still require review with the project team.
+Queue wait times remain directional unless the optional `data/queue_service_times.csv` feed is populated. Forecast values represent recorded POS units, not customers or attendance, and decision-support messages are planning prompts rather than exact purchasing or staffing orders.

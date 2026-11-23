@@ -1,0 +1,6 @@
+{
+  "Status": "PASS",
+  "BothOriginalPackageHashesUnchanged": true,
+  "OriginalDesignatedFlatFileUnchanged": true,
+  "ExistingBaselineTableauAndPresentationFolders": "No write operations were performed on them."
+}

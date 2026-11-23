@@ -1,0 +1,9 @@
+{
+  "Split": "Jan-Feb Train;Mar-Apr Validation;May historical benchmark",
+  "Selection": "Lowest common-validation MAE; RMSE tie-break. No May-driven parameter changes.",
+  "NewHistory": "Recent28/56 same-weekday means; pooled same-clock history; last prior comparable observation and its age; recent7/28-clock means; lag7-versus14 trend. All Date<forecastDate.",
+  "BorrowedPackageBSettings": "Config3 and4 are the two documented settings per RF/XGBoost/LightGBM. n_jobs constrained to2 and LightGBM deterministic execution. Original B runner missing and its unsafe features are not reproduced as approved forecasts.",
+  "Schedule": "Weekly ungated profile; conditional as-of snapshot, not actual attendance.",
+  "DailyReliabilityGate": "Without outlet operating calendar, retain dedicated recorded-day model; separately report validation aggregation comparison on common days.",
+  "TestCaveat": "May has prior project exposure; never call it prospectively untouched."
+}

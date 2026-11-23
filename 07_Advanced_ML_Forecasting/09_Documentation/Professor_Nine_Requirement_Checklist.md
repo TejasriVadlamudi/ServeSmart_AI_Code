@@ -1,0 +1,15 @@
+# Nine requirement groups
+
+These nine groups consolidate the supplied task sections; the mapping column identifies the source sections. They are not invented verbatim professor numbering.
+
+| No | RequirementGroup | Status | EvidenceAndLimit | UserInstructionMapping |
+| --- | --- | --- | --- | --- |
+| 1 | Official dataset / enrollment provenance | Partially satisfied | 2032 unique hourly rows,287 days,63891 units reconcile to ETL;588 section seat calculations and weekly profile alignment checked. Original class times and historical publication/as-of snapshots absent. | Requirements3,12.6 |
+| 2 | Predictor safety / Spring Break / cutoff | Partially satisfied | Explicit allowlist, strict prior-date histories, previous-day weather/events; break labels/proxies and IDs excluded. Enrollment snapshot and prior-day ingestion-time availability remain assumptions. | Requirements3,5,7,12.5–7 |
+| 3 | All seven forecasting approaches | Fully satisfied | Seven hourly and seven daily methods actually trained/evaluated;14 saved model/config reload checks; both B documented settings per tree family tested on safe features. | Requirements4,5 |
+| 4 | Hourly and daily forecasting / aggregation | Partially satisfied | Independent hourly/daily models;14-way aggregation-vs-direct validation comparison on64common recorded days. Full operating-day hour coverage cannot be verified without outlet calendar. | Requirement6 |
+| 5 | Chronological tuning and selection | Fully satisfied for historical benchmark | JanFeb fit,MarApr tune;selection locked before current May scoring. No May-driven tuning in this run. Prior May exposure explicitly disclosed; fresh prospective holdout still needed. | Requirement7 |
+| 6 | Overall / location / weekday / hour evaluation | Fully satisfied | 14 overall and623 grouped rows;shared280hourly/43daily May keys;counts,MAE,RMSE,WAPE,zero-denominator policy,error distributions independently checked. | Requirement8 |
+| 7 | Explainability and interpretation | Fully satisfied | Selected daily RF importance/SHAP;exact selected hourly baseline explanation;best advanced hourly LightGBM explained;association not causality. | Requirement9 |
+| 8 | A/B differences and reproducible borrowed settings | Partially satisfied | Same targets,matched B metrics independently recalculated;45B features audited;documented B settings rerun. Exact B end-to-end code unavailable:run_ml_models.py omitted from ZIP;original daily aggregation cannot be recovered exactly. | Requirements1,5,10 |
+| 9 | Runnable code / notebook / models / workbook / ZIP | Fully satisfied when final checks pass | New isolated environment;two complete runs compared;relative project paths,model reloads,inference checks,comparison workbook,andZIP integrity verified by accompanying evidence. | Requirements11,12 |

@@ -1,0 +1,11 @@
+{
+  "Status": "PARTIAL: existing timed evidence does not fully reconstruct the supplied ML profile under these two simple documented methods",
+  "Rows": 69,
+  "ClockClassRowsMatching": 11,
+  "ClockEnrollmentRowsMatching": 7,
+  "OverlapClassRowsMatching": 16,
+  "OverlapEnrollmentRowsMatching": 9,
+  "Source": "/Users/thanishkareddy/Desktop/ServeSmart_AI_FINAL_Dashboards/02_Data_Behind_Charts/Data_Behind_Dashboard4/Verified_Parsed_Building_Meetings.csv",
+  "SourceSHA256": "d149d007b4b25874459280c276816f757be79e42d8c29037e43a5e6ceb83b48a",
+  "Caution": "This is a reference reconstruction with recovered timed meetings, not proof the supplied profile is wrong. Different term-date,section,deduplication or interval rules may explain differences. Obtain exact generator and effective-date/as-of metadata. No new training features were substituted."
+}

@@ -1,0 +1,21 @@
+Check,Status,Details
+Sales-line row count,PASS,"65,885 fact rows vs 65,885 source rows"
+SalesLineKey unique,PASS,No duplicate source-line keys
+Dim_Location key unique,PASS,3 rows
+Fact foreign key LocationKey,PASS,No missing foreign keys
+Dim_Date key unique,PASS,151 rows
+Fact foreign key DateKey,PASS,No missing foreign keys
+Dim_Time key unique,PASS,15 rows
+Fact foreign key TimeKey,PASS,No missing foreign keys
+Dim_Item key unique,PASS,240 rows
+Fact foreign key ItemKey,PASS,No missing foreign keys
+Dim_Class_Context key unique,PASS,"1,104 rows"
+Fact foreign key ClassKey,PASS,No missing foreign keys
+Dim_Event key unique,PASS,"1,104 rows"
+Fact foreign key EventKey,PASS,No missing foreign keys
+Dim_Weather key unique,PASS,"1,104 rows"
+Fact foreign key WeatherKey,PASS,No missing foreign keys
+Hourly grain unique,PASS,One row per location/date/hour
+Item-daily grain unique,PASS,One row per location/date/item
+Authoritative POS units,PASS,"63,891 units"
+Authoritative net sales,PASS,"$369,586.75"

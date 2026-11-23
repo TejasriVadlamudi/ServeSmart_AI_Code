@@ -1,0 +1,91 @@
+ForecastLevel,SourceFeature,Audit
+Hourly,Hour,No identified timing issue from name alone; construction still needs verification
+Hourly,Month,No identified timing issue from name alone; construction still needs verification
+Hourly,IsWeekend,No identified timing issue from name alone; construction still needs verification
+Hourly,Lag1Day_SameHour,No identified timing issue from name alone; construction still needs verification
+Hourly,Lag7Day_SameHour,No identified timing issue from name alone; construction still needs verification
+Hourly,Lag14Day_SameHour,No identified timing issue from name alone; construction still needs verification
+Hourly,Lag1Day_Missing,No identified timing issue from name alone; construction still needs verification
+Hourly,Lag7Day_Missing,No identified timing issue from name alone; construction still needs verification
+Hourly,Lag14Day_Missing,No identified timing issue from name alone; construction still needs verification
+Hourly,HistoricalSameHour_Avg,No identified timing issue from name alone; construction still needs verification
+Hourly,HistoricalSameHour_Count,No identified timing issue from name alone; construction still needs verification
+Hourly,PrevDay_TotalUnits,No identified timing issue from name alone; construction still needs verification
+Hourly,Prev7Days_AvgDailyUnits,No identified timing issue from name alone; construction still needs verification
+Hourly,Prev7Days_ObservedDays,No identified timing issue from name alone; construction still needs verification
+Hourly,Prev28Days_AvgDailyUnits,No identified timing issue from name alone; construction still needs verification
+Hourly,Prev28Days_ObservedDays,No identified timing issue from name alone; construction still needs verification
+Hourly,FinalExamPeriod,No identified timing issue from name alone; construction still needs verification
+Hourly,RegularClassDay,Date-gated schedule/break/missing-zero proxy; use independently documented raw schedule profile instead
+Hourly,CampusClosed,No identified timing issue from name alone; construction still needs verification
+Hourly,Year,No identified timing issue from name alone; construction still needs verification
+Hourly,DayOfMonth,No identified timing issue from name alone; construction still needs verification
+Hourly,WeekOfYear,No identified timing issue from name alone; construction still needs verification
+Hourly,HolidayFlag,No identified timing issue from name alone; construction still needs verification
+Hourly,CampusClosedFlag,No identified timing issue from name alone; construction still needs verification
+Hourly,ClassKey,Exclude identifier: not a substantive predictor; may act as time/source proxy
+Hourly,HasClass,Date-gated schedule/break/missing-zero proxy; use independently documented raw schedule profile instead
+Hourly,ClassesActive,Date-gated schedule/break/missing-zero proxy; use independently documented raw schedule profile instead
+Hourly,EstimatedStudentsOnCampus,Date-gated schedule/break/missing-zero proxy; use independently documented raw schedule profile instead
+Hourly,ClassesStarting,Date-gated schedule/break/missing-zero proxy; use independently documented raw schedule profile instead
+Hourly,ClassesEnding,Date-gated schedule/break/missing-zero proxy; use independently documented raw schedule profile instead
+Hourly,EventKey,Exclude identifier: not a substantive predictor; may act as time/source proxy
+Hourly,HasEvent,Same-day event context requires publication/as-of verification; absent in supplied evidence
+Hourly,CampusEventCount,Same-day event context requires publication/as-of verification; absent in supplied evidence
+Hourly,EventOccurrenceCount,Same-day event context requires publication/as-of verification; absent in supplied evidence
+Hourly,EventFoodCount,Same-day event context requires publication/as-of verification; absent in supplied evidence
+Hourly,AllDayEventCount,Same-day event context requires publication/as-of verification; absent in supplied evidence
+Hourly,EventTypeCount,Same-day event context requires publication/as-of verification; absent in supplied evidence
+Hourly,WeatherKey,Exclude identifier: not a substantive predictor; may act as time/source proxy
+Hourly,TemperatureF,Realized forecast-day weather; no archived forecast-time weather feed in package
+Hourly,HumidityPct,Realized forecast-day weather; no archived forecast-time weather feed in package
+Hourly,PrecipitationIn,Realized forecast-day weather; no archived forecast-time weather feed in package
+Hourly,RainFlag,Realized forecast-day weather; no archived forecast-time weather feed in package
+Hourly,CloudCoverPct,Realized forecast-day weather; no archived forecast-time weather feed in package
+Hourly,WindSpeedKmh,Realized forecast-day weather; no archived forecast-time weather feed in package
+Hourly,ScheduledStudents_DailyPeak,Date-gated schedule/break/missing-zero proxy; use independently documented raw schedule profile instead
+Daily,Hour,No identified timing issue from name alone; construction still needs verification; daily aggregation rule not recoverable because final runner missing; observed-hour averaging may reveal target coverage
+Daily,Month,No identified timing issue from name alone; construction still needs verification
+Daily,IsWeekend,No identified timing issue from name alone; construction still needs verification
+Daily,Lag1Day_SameHour,No identified timing issue from name alone; construction still needs verification
+Daily,Lag7Day_SameHour,No identified timing issue from name alone; construction still needs verification
+Daily,Lag14Day_SameHour,No identified timing issue from name alone; construction still needs verification
+Daily,Lag1Day_Missing,No identified timing issue from name alone; construction still needs verification
+Daily,Lag7Day_Missing,No identified timing issue from name alone; construction still needs verification
+Daily,Lag14Day_Missing,No identified timing issue from name alone; construction still needs verification
+Daily,HistoricalSameHour_Avg,No identified timing issue from name alone; construction still needs verification
+Daily,HistoricalSameHour_Count,No identified timing issue from name alone; construction still needs verification
+Daily,PrevDay_TotalUnits,No identified timing issue from name alone; construction still needs verification
+Daily,Prev7Days_AvgDailyUnits,No identified timing issue from name alone; construction still needs verification
+Daily,Prev7Days_ObservedDays,No identified timing issue from name alone; construction still needs verification
+Daily,Prev28Days_AvgDailyUnits,No identified timing issue from name alone; construction still needs verification
+Daily,Prev28Days_ObservedDays,No identified timing issue from name alone; construction still needs verification
+Daily,FinalExamPeriod,No identified timing issue from name alone; construction still needs verification
+Daily,RegularClassDay,Date-gated schedule/break/missing-zero proxy; use independently documented raw schedule profile instead
+Daily,CampusClosed,No identified timing issue from name alone; construction still needs verification
+Daily,Year,No identified timing issue from name alone; construction still needs verification
+Daily,DayOfMonth,No identified timing issue from name alone; construction still needs verification
+Daily,WeekOfYear,No identified timing issue from name alone; construction still needs verification
+Daily,HolidayFlag,No identified timing issue from name alone; construction still needs verification
+Daily,CampusClosedFlag,No identified timing issue from name alone; construction still needs verification
+Daily,ClassKey,Exclude identifier: not a substantive predictor; may act as time/source proxy
+Daily,HasClass,Date-gated schedule/break/missing-zero proxy; use independently documented raw schedule profile instead
+Daily,ClassesActive,Date-gated schedule/break/missing-zero proxy; use independently documented raw schedule profile instead; daily aggregation rule not recoverable because final runner missing; observed-hour averaging may reveal target coverage
+Daily,EstimatedStudentsOnCampus,Date-gated schedule/break/missing-zero proxy; use independently documented raw schedule profile instead
+Daily,ClassesStarting,Date-gated schedule/break/missing-zero proxy; use independently documented raw schedule profile instead
+Daily,ClassesEnding,Date-gated schedule/break/missing-zero proxy; use independently documented raw schedule profile instead
+Daily,EventKey,Exclude identifier: not a substantive predictor; may act as time/source proxy
+Daily,HasEvent,Same-day event context requires publication/as-of verification; absent in supplied evidence
+Daily,CampusEventCount,Same-day event context requires publication/as-of verification; absent in supplied evidence
+Daily,EventOccurrenceCount,Same-day event context requires publication/as-of verification; absent in supplied evidence
+Daily,EventFoodCount,Same-day event context requires publication/as-of verification; absent in supplied evidence
+Daily,AllDayEventCount,Same-day event context requires publication/as-of verification; absent in supplied evidence
+Daily,EventTypeCount,Same-day event context requires publication/as-of verification; absent in supplied evidence
+Daily,WeatherKey,Exclude identifier: not a substantive predictor; may act as time/source proxy
+Daily,TemperatureF,Realized forecast-day weather; no archived forecast-time weather feed in package; daily aggregation rule not recoverable because final runner missing; observed-hour averaging may reveal target coverage
+Daily,HumidityPct,Realized forecast-day weather; no archived forecast-time weather feed in package
+Daily,PrecipitationIn,Realized forecast-day weather; no archived forecast-time weather feed in package
+Daily,RainFlag,Realized forecast-day weather; no archived forecast-time weather feed in package
+Daily,CloudCoverPct,Realized forecast-day weather; no archived forecast-time weather feed in package
+Daily,WindSpeedKmh,Realized forecast-day weather; no archived forecast-time weather feed in package
+Daily,ScheduledStudents_DailyPeak,Date-gated schedule/break/missing-zero proxy; use independently documented raw schedule profile instead

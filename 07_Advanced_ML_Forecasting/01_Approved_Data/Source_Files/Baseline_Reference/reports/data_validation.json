@@ -1,0 +1,18 @@
+{
+  "source_rows": 2032,
+  "source_columns": 73,
+  "date_min": "2026-01-11",
+  "date_max": "2026-05-28",
+  "test_rows": 316,
+  "locations": [
+    "Einstein's",
+    "Panda Express",
+    "Residential Dining"
+  ],
+  "student_feature_present": true,
+  "spring_break_excluded": true,
+  "weather_excluded": true,
+  "prophet_status": "Skipped: package unavailable",
+  "lightgbm_status": "Skipped: package unavailable",
+  "common_evaluation_note": "Each model uses its own eligible rows; the workbook also reports exact observation counts. Baseline rows with missing history are excluded."
+}

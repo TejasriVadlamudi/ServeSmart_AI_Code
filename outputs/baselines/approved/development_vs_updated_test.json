@@ -1,7 +1,0 @@
-{
-  "may_recorded_rows": 316,
-  "target_mismatches": 0,
-  "seasonal_naive_mismatches": 0,
-  "historical_hour_mean_mismatches": 0,
-  "interpretation": "May targets and both predeclared baseline predictions are unchanged. Split-label alignment changes validation coverage, not the May rolling-origin histories."
-}

@@ -1,9 +1,0 @@
-{
-  "source_rows": 2032,
-  "source_units": 63891,
-  "hourly_fit_rows": 2031,
-  "hourly_negative_excluded": 1,
-  "observed_zero": 2,
-  "advanced_models_attempted": false,
-  "note": "Advanced model execution blocked by missing optional dependencies; baselines executed."
-}

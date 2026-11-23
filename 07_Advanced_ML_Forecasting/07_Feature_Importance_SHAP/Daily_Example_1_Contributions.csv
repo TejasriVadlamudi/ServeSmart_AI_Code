@@ -1,0 +1,9 @@
+Feature,SHAPContribution,TransformedFeatureValue
+cat__Location_Residential Dining,74.83329809216274,0.0
+cat__Location_Einstein's,35.94608034114298,1.0
+num__WeeklyScheduledEnrollment,-21.91284293132973,-2.146029004587633
+num__Prev28DayMean,19.256234181697984,1.536244452549505
+num__WeeklyDailyEnrollmentPeak,-18.017611640613094,-2.146029004587633
+num__WeeklyClassesStarting,-17.28700643034411,-2.1510704422467657
+num__WeeklyActiveClasses,-14.936449037437475,-2.126490704906123
+num__Recent28WeekdayMean,-13.847720099039115,0.12252020592434104

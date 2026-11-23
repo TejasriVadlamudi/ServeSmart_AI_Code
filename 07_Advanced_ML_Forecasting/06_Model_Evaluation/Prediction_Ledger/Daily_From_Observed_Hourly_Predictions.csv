@@ -1,0 +1,302 @@
+Model,Location,Date,HourlyPredictionSum,PredictedObservedHours,Actual,RecordedHours,CompleteObservedHourSet
+Historical Average,Einstein's,2026-05-01,264.68398268398266,9,272,9,True
+Historical Average,Einstein's,2026-05-04,550.2384615384617,11,620,11,True
+Historical Average,Einstein's,2026-05-05,604.7142857142857,11,598,11,True
+Historical Average,Einstein's,2026-05-06,607.4857142857143,11,662,11,True
+Historical Average,Einstein's,2026-05-07,547.6857142857144,11,550,11,True
+Historical Average,Einstein's,2026-05-08,260.2974358974359,8,289,8,True
+Historical Average,Einstein's,2026-05-11,554.9363095238095,11,417,11,True
+Historical Average,Einstein's,2026-05-12,604.2666666666667,11,460,11,True
+Historical Average,Einstein's,2026-05-13,611.0124999999999,11,466,11,True
+Historical Average,Einstein's,2026-05-14,547.8833333333333,11,424,11,True
+Historical Average,Einstein's,2026-05-15,246.91666666666666,8,312,8,True
+Historical Average,Einstein's,2026-05-18,493.22132352941173,8,143,8,True
+Historical Average,Einstein's,2026-05-19,538.3125,8,120,8,True
+Historical Average,Einstein's,2026-05-20,542.6544117647059,8,131,8,True
+Historical Average,Einstein's,2026-05-21,518.0698529411765,9,98,9,True
+Historical Average,Einstein's,2026-05-26,546.7058823529412,9,113,9,True
+Historical Average,Einstein's,2026-05-27,558.9240196078431,9,154,9,True
+Historical Average,Einstein's,2026-05-28,494.38235294117646,9,146,9,True
+Historical Average,Panda Express,2026-05-01,106.76923076923077,3,106,3,True
+Historical Average,Panda Express,2026-05-04,281.7692307692308,5,315,5,True
+Historical Average,Panda Express,2026-05-05,266.73809523809524,6,235,6,True
+Historical Average,Panda Express,2026-05-06,275.49999999999994,6,305,6,True
+Historical Average,Panda Express,2026-05-07,270.42857142857144,6,251,6,True
+Historical Average,Panda Express,2026-05-08,110.28571428571428,4,113,4,True
+Historical Average,Panda Express,2026-05-11,288.14285714285717,6,207,6,True
+Historical Average,Panda Express,2026-05-12,262.0666666666667,5,181,5,True
+Historical Average,Panda Express,2026-05-13,275.53333333333336,5,175,5,True
+Historical Average,Panda Express,2026-05-14,268.1333333333333,5,167,5,True
+Historical Average,Residential Dining,2026-05-01,27.31547619047619,7,15,7,True
+Historical Average,Residential Dining,2026-05-02,2.5,1,1,1,True
+Historical Average,Residential Dining,2026-05-03,4.416666666666667,2,4,2,True
+Historical Average,Residential Dining,2026-05-04,32.843589743589746,8,29,8,True
+Historical Average,Residential Dining,2026-05-05,23.697102897102898,8,68,8,True
+Historical Average,Residential Dining,2026-05-06,45.23058053058053,9,81,9,True
+Historical Average,Residential Dining,2026-05-07,16.12063492063492,5,13,5,True
+Historical Average,Residential Dining,2026-05-08,18.34783272283272,7,17,8,False
+Historical Average,Residential Dining,2026-05-09,1.3333333333333333,1,4,1,True
+Historical Average,Residential Dining,2026-05-10,3.7142857142857144,2,6,2,True
+Historical Average,Residential Dining,2026-05-11,35.9025974025974,9,31,9,True
+Historical Average,Residential Dining,2026-05-12,23.059981684981686,7,19,7,True
+Historical Average,Residential Dining,2026-05-13,45.94404761904762,8,35,8,True
+Historical Average,Residential Dining,2026-05-14,26.527380952380952,9,33,9,True
+Historical Average,Residential Dining,2026-05-15,27.234920634920634,8,14,8,True
+LightGBM,Einstein's,2026-05-01,282.9572944403592,9,272,9,True
+LightGBM,Einstein's,2026-05-04,498.074261550895,11,620,11,True
+LightGBM,Einstein's,2026-05-05,578.5467972122069,11,598,11,True
+LightGBM,Einstein's,2026-05-06,573.64794167553,11,662,11,True
+LightGBM,Einstein's,2026-05-07,524.4965651749362,11,550,11,True
+LightGBM,Einstein's,2026-05-08,269.5213757391155,8,289,8,True
+LightGBM,Einstein's,2026-05-11,512.1965361808919,11,417,11,True
+LightGBM,Einstein's,2026-05-12,502.4790825781956,11,460,11,True
+LightGBM,Einstein's,2026-05-13,517.2911405982111,11,466,11,True
+LightGBM,Einstein's,2026-05-14,488.8516771999625,11,424,11,True
+LightGBM,Einstein's,2026-05-15,236.4617438871623,8,312,8,True
+LightGBM,Einstein's,2026-05-18,471.43988086747765,8,143,8,True
+LightGBM,Einstein's,2026-05-19,468.29874991006756,8,120,8,True
+LightGBM,Einstein's,2026-05-20,473.0381436588597,8,131,8,True
+LightGBM,Einstein's,2026-05-21,453.8562225789546,9,98,9,True
+LightGBM,Einstein's,2026-05-26,475.21975137147854,9,113,9,True
+LightGBM,Einstein's,2026-05-27,503.10377688610146,9,154,9,True
+LightGBM,Einstein's,2026-05-28,447.14806546032133,9,146,9,True
+LightGBM,Panda Express,2026-05-01,113.73901317783009,3,106,3,True
+LightGBM,Panda Express,2026-05-04,278.3118579061792,5,315,5,True
+LightGBM,Panda Express,2026-05-05,272.38597345897387,6,235,6,True
+LightGBM,Panda Express,2026-05-06,294.44635742059944,6,305,6,True
+LightGBM,Panda Express,2026-05-07,269.04053718611516,6,251,6,True
+LightGBM,Panda Express,2026-05-08,115.66025118156534,4,113,4,True
+LightGBM,Panda Express,2026-05-11,278.2930782819346,6,207,6,True
+LightGBM,Panda Express,2026-05-12,237.36323370769406,5,181,5,True
+LightGBM,Panda Express,2026-05-13,265.59818407874417,5,175,5,True
+LightGBM,Panda Express,2026-05-14,237.5095379194606,5,167,5,True
+LightGBM,Residential Dining,2026-05-01,23.160398786362794,7,15,7,True
+LightGBM,Residential Dining,2026-05-02,2.174357895423444,1,1,1,True
+LightGBM,Residential Dining,2026-05-03,7.017766485288403,2,4,2,True
+LightGBM,Residential Dining,2026-05-04,36.22205665361013,8,29,8,True
+LightGBM,Residential Dining,2026-05-05,28.5407803600419,8,68,8,True
+LightGBM,Residential Dining,2026-05-06,43.436041013994085,9,81,9,True
+LightGBM,Residential Dining,2026-05-07,17.802241479818367,5,13,5,True
+LightGBM,Residential Dining,2026-05-08,28.03778143973906,8,17,8,True
+LightGBM,Residential Dining,2026-05-09,2.1162959150953045,1,4,1,True
+LightGBM,Residential Dining,2026-05-10,6.985624816785614,2,6,2,True
+LightGBM,Residential Dining,2026-05-11,42.71327037589934,9,31,9,True
+LightGBM,Residential Dining,2026-05-12,25.180809068158144,7,19,7,True
+LightGBM,Residential Dining,2026-05-13,41.63871350245476,8,35,8,True
+LightGBM,Residential Dining,2026-05-14,30.670579339058808,9,33,9,True
+LightGBM,Residential Dining,2026-05-15,27.102859474485705,8,14,8,True
+Prophet,Einstein's,2026-05-01,235.24147188684864,9,272,9,True
+Prophet,Einstein's,2026-05-04,454.3130415684809,11,620,11,True
+Prophet,Einstein's,2026-05-05,556.4846088008763,11,598,11,True
+Prophet,Einstein's,2026-05-06,507.85844791998795,11,662,11,True
+Prophet,Einstein's,2026-05-07,478.96847402517386,11,550,11,True
+Prophet,Einstein's,2026-05-08,204.68726893449417,8,289,8,True
+Prophet,Einstein's,2026-05-11,451.7834567092723,11,417,11,True
+Prophet,Einstein's,2026-05-12,492.17312394527124,11,460,11,True
+Prophet,Einstein's,2026-05-13,485.6962036078153,11,466,11,True
+Prophet,Einstein's,2026-05-14,479.69310517202877,11,424,11,True
+Prophet,Einstein's,2026-05-15,208.27563490851094,8,312,8,True
+Prophet,Einstein's,2026-05-18,506.40891574710633,8,143,8,True
+Prophet,Einstein's,2026-05-19,456.56355527317913,8,120,8,True
+Prophet,Einstein's,2026-05-20,455.0151116975152,8,131,8,True
+Prophet,Einstein's,2026-05-21,485.1733602361065,9,98,9,True
+Prophet,Einstein's,2026-05-26,491.83063542391164,9,113,9,True
+Prophet,Einstein's,2026-05-27,397.3427259892016,9,154,9,True
+Prophet,Einstein's,2026-05-28,392.19034587829435,9,146,9,True
+Prophet,Panda Express,2026-05-01,121.43323803800575,3,106,3,True
+Prophet,Panda Express,2026-05-04,294.78688673047793,5,315,5,True
+Prophet,Panda Express,2026-05-05,301.41835175666154,6,235,6,True
+Prophet,Panda Express,2026-05-06,303.2903560688742,6,305,6,True
+Prophet,Panda Express,2026-05-07,305.77558640480385,6,251,6,True
+Prophet,Panda Express,2026-05-08,129.51661064769834,4,113,4,True
+Prophet,Panda Express,2026-05-11,311.25537978027205,6,207,6,True
+Prophet,Panda Express,2026-05-12,286.3224708387563,5,181,5,True
+Prophet,Panda Express,2026-05-13,289.3080774969618,5,175,5,True
+Prophet,Panda Express,2026-05-14,287.4794279612357,5,167,5,True
+Prophet,Residential Dining,2026-05-01,29.353962699170435,7,15,7,True
+Prophet,Residential Dining,2026-05-02,0.622995869729678,1,1,1,True
+Prophet,Residential Dining,2026-05-03,6.276306420561729,2,4,2,True
+Prophet,Residential Dining,2026-05-04,36.86277416372237,8,29,8,True
+Prophet,Residential Dining,2026-05-05,25.573182299294082,8,68,8,True
+Prophet,Residential Dining,2026-05-06,53.68525802134207,9,81,9,True
+Prophet,Residential Dining,2026-05-07,13.48038780836609,5,13,5,True
+Prophet,Residential Dining,2026-05-08,18.17155470228139,8,17,8,True
+Prophet,Residential Dining,2026-05-09,0.8845111026497339,1,4,1,True
+Prophet,Residential Dining,2026-05-10,6.109377062156683,2,6,2,True
+Prophet,Residential Dining,2026-05-11,37.437170868385124,9,31,9,True
+Prophet,Residential Dining,2026-05-12,17.962586103868347,7,19,7,True
+Prophet,Residential Dining,2026-05-13,48.08382246227434,8,35,8,True
+Prophet,Residential Dining,2026-05-14,26.126538132934108,9,33,9,True
+Prophet,Residential Dining,2026-05-15,28.58121689040381,8,14,8,True
+Random Forest,Einstein's,2026-05-01,293.93901890711226,9,272,9,True
+Random Forest,Einstein's,2026-05-04,542.7762918207036,11,620,11,True
+Random Forest,Einstein's,2026-05-05,635.4520037035851,11,598,11,True
+Random Forest,Einstein's,2026-05-06,592.4517225322289,11,662,11,True
+Random Forest,Einstein's,2026-05-07,550.4870853895443,11,550,11,True
+Random Forest,Einstein's,2026-05-08,284.6227244485968,8,289,8,True
+Random Forest,Einstein's,2026-05-11,536.6681992130842,11,417,11,True
+Random Forest,Einstein's,2026-05-12,585.8945287901892,11,460,11,True
+Random Forest,Einstein's,2026-05-13,566.619728446058,11,466,11,True
+Random Forest,Einstein's,2026-05-14,546.6985345242393,11,424,11,True
+Random Forest,Einstein's,2026-05-15,247.9344378023923,8,312,8,True
+Random Forest,Einstein's,2026-05-18,504.3117552202801,8,143,8,True
+Random Forest,Einstein's,2026-05-19,480.6823468955853,8,120,8,True
+Random Forest,Einstein's,2026-05-20,507.21475017875053,8,131,8,True
+Random Forest,Einstein's,2026-05-21,482.01475570405705,9,98,9,True
+Random Forest,Einstein's,2026-05-26,486.49924916057137,9,113,9,True
+Random Forest,Einstein's,2026-05-27,505.1621737857349,9,154,9,True
+Random Forest,Einstein's,2026-05-28,467.39504093146684,9,146,9,True
+Random Forest,Panda Express,2026-05-01,114.60001833704699,3,106,3,True
+Random Forest,Panda Express,2026-05-04,273.9928243263085,5,315,5,True
+Random Forest,Panda Express,2026-05-05,293.73175848578677,6,235,6,True
+Random Forest,Panda Express,2026-05-06,288.821741019851,6,305,6,True
+Random Forest,Panda Express,2026-05-07,288.76319484255885,6,251,6,True
+Random Forest,Panda Express,2026-05-08,117.09066246521512,4,113,4,True
+Random Forest,Panda Express,2026-05-11,283.06249879342096,6,207,6,True
+Random Forest,Panda Express,2026-05-12,258.0886171859782,5,181,5,True
+Random Forest,Panda Express,2026-05-13,280.987848596293,5,175,5,True
+Random Forest,Panda Express,2026-05-14,259.2227022772042,5,167,5,True
+Random Forest,Residential Dining,2026-05-01,24.159542087044084,7,15,7,True
+Random Forest,Residential Dining,2026-05-02,2.1593341017640406,1,1,1,True
+Random Forest,Residential Dining,2026-05-03,5.819056978347388,2,4,2,True
+Random Forest,Residential Dining,2026-05-04,33.06005464405287,8,29,8,True
+Random Forest,Residential Dining,2026-05-05,25.433957321037873,8,68,8,True
+Random Forest,Residential Dining,2026-05-06,42.99954680524239,9,81,9,True
+Random Forest,Residential Dining,2026-05-07,17.720858290888025,5,13,5,True
+Random Forest,Residential Dining,2026-05-08,20.03641409412493,8,17,8,True
+Random Forest,Residential Dining,2026-05-09,2.2109175464070696,1,4,1,True
+Random Forest,Residential Dining,2026-05-10,5.300201699767753,2,6,2,True
+Random Forest,Residential Dining,2026-05-11,35.76892465192137,9,31,9,True
+Random Forest,Residential Dining,2026-05-12,21.801147343027047,7,19,7,True
+Random Forest,Residential Dining,2026-05-13,39.08296346753395,8,35,8,True
+Random Forest,Residential Dining,2026-05-14,27.994341841547836,9,33,9,True
+Random Forest,Residential Dining,2026-05-15,26.436991783344997,8,14,8,True
+Ridge,Einstein's,2026-05-01,295.4964536893315,9,272,9,True
+Ridge,Einstein's,2026-05-04,480.07058517357996,11,620,11,True
+Ridge,Einstein's,2026-05-05,567.7152747346807,11,598,11,True
+Ridge,Einstein's,2026-05-06,552.0673480529496,11,662,11,True
+Ridge,Einstein's,2026-05-07,511.12408698140695,11,550,11,True
+Ridge,Einstein's,2026-05-08,282.0888391377033,8,289,8,True
+Ridge,Einstein's,2026-05-11,482.6380781758528,11,417,11,True
+Ridge,Einstein's,2026-05-12,525.9993857326529,11,460,11,True
+Ridge,Einstein's,2026-05-13,528.1363633076662,11,466,11,True
+Ridge,Einstein's,2026-05-14,502.5019958819581,11,424,11,True
+Ridge,Einstein's,2026-05-15,237.006253506653,8,312,8,True
+Ridge,Einstein's,2026-05-18,465.3217634278892,8,143,8,True
+Ridge,Einstein's,2026-05-19,463.4062527601643,8,120,8,True
+Ridge,Einstein's,2026-05-20,472.8259186397852,8,131,8,True
+Ridge,Einstein's,2026-05-21,472.14170155165306,9,98,9,True
+Ridge,Einstein's,2026-05-26,561.1202042498853,9,113,9,True
+Ridge,Einstein's,2026-05-27,538.0575262323093,9,154,9,True
+Ridge,Einstein's,2026-05-28,518.7991770826212,9,146,9,True
+Ridge,Panda Express,2026-05-01,117.9540855567721,3,106,3,True
+Ridge,Panda Express,2026-05-04,278.8695211300674,5,315,5,True
+Ridge,Panda Express,2026-05-05,272.6917703834202,6,235,6,True
+Ridge,Panda Express,2026-05-06,262.57049518539435,6,305,6,True
+Ridge,Panda Express,2026-05-07,259.0902323749555,6,251,6,True
+Ridge,Panda Express,2026-05-08,118.70551848468088,4,113,4,True
+Ridge,Panda Express,2026-05-11,287.8220434892385,6,207,6,True
+Ridge,Panda Express,2026-05-12,257.8816832806532,5,181,5,True
+Ridge,Panda Express,2026-05-13,254.57466599793673,5,175,5,True
+Ridge,Panda Express,2026-05-14,246.6158273261977,5,167,5,True
+Ridge,Residential Dining,2026-05-01,0.0,7,15,7,True
+Ridge,Residential Dining,2026-05-02,0.0,1,1,1,True
+Ridge,Residential Dining,2026-05-03,0.49134777483522996,2,4,2,True
+Ridge,Residential Dining,2026-05-04,33.835528347703175,8,29,8,True
+Ridge,Residential Dining,2026-05-05,23.320025990808087,8,68,8,True
+Ridge,Residential Dining,2026-05-06,37.58548527191542,9,81,9,True
+Ridge,Residential Dining,2026-05-07,16.772482619435504,5,13,5,True
+Ridge,Residential Dining,2026-05-08,1.9414836956870793,8,17,8,True
+Ridge,Residential Dining,2026-05-09,0.0,1,4,1,True
+Ridge,Residential Dining,2026-05-10,0.6392784083983472,2,6,2,True
+Ridge,Residential Dining,2026-05-11,43.129505652432314,9,31,9,True
+Ridge,Residential Dining,2026-05-12,26.394756935780542,7,19,7,True
+Ridge,Residential Dining,2026-05-13,34.722210548184584,8,35,8,True
+Ridge,Residential Dining,2026-05-14,16.18373960529904,9,33,9,True
+Ridge,Residential Dining,2026-05-15,0.0,8,14,8,True
+Seasonal Naive,Einstein's,2026-05-01,284.0,9,272,9,True
+Seasonal Naive,Einstein's,2026-05-04,583.0,11,620,11,True
+Seasonal Naive,Einstein's,2026-05-05,587.0,11,598,11,True
+Seasonal Naive,Einstein's,2026-05-06,579.0,11,662,11,True
+Seasonal Naive,Einstein's,2026-05-07,644.0,11,550,11,True
+Seasonal Naive,Einstein's,2026-05-08,264.0,8,289,8,True
+Seasonal Naive,Einstein's,2026-05-11,620.0,11,417,11,True
+Seasonal Naive,Einstein's,2026-05-12,598.0,11,460,11,True
+Seasonal Naive,Einstein's,2026-05-13,662.0,11,466,11,True
+Seasonal Naive,Einstein's,2026-05-14,550.0,11,424,11,True
+Seasonal Naive,Einstein's,2026-05-15,249.0,7,312,8,False
+Seasonal Naive,Einstein's,2026-05-18,342.0,8,143,8,True
+Seasonal Naive,Einstein's,2026-05-19,388.0,8,120,8,True
+Seasonal Naive,Einstein's,2026-05-20,350.0,8,131,8,True
+Seasonal Naive,Einstein's,2026-05-21,408.0,9,98,9,True
+Seasonal Naive,Einstein's,2026-05-26,120.0,8,113,9,False
+Seasonal Naive,Einstein's,2026-05-27,131.0,8,154,9,False
+Seasonal Naive,Einstein's,2026-05-28,98.0,9,146,9,True
+Seasonal Naive,Panda Express,2026-05-01,136.0,3,106,3,True
+Seasonal Naive,Panda Express,2026-05-04,293.0,5,315,5,True
+Seasonal Naive,Panda Express,2026-05-05,221.0,5,235,6,False
+Seasonal Naive,Panda Express,2026-05-06,293.0,5,305,6,False
+Seasonal Naive,Panda Express,2026-05-07,292.0,5,251,6,False
+Seasonal Naive,Panda Express,2026-05-08,106.0,3,113,4,False
+Seasonal Naive,Panda Express,2026-05-11,315.0,5,207,6,False
+Seasonal Naive,Panda Express,2026-05-12,234.0,5,181,5,True
+Seasonal Naive,Panda Express,2026-05-13,304.0,5,175,5,True
+Seasonal Naive,Panda Express,2026-05-14,250.0,5,167,5,True
+Seasonal Naive,Residential Dining,2026-05-01,7.0,2,15,7,False
+Seasonal Naive,Residential Dining,2026-05-02,,0,1,1,False
+Seasonal Naive,Residential Dining,2026-05-03,5.0,2,4,2,True
+Seasonal Naive,Residential Dining,2026-05-04,24.0,8,29,8,True
+Seasonal Naive,Residential Dining,2026-05-05,7.0,4,68,8,False
+Seasonal Naive,Residential Dining,2026-05-06,33.0,8,81,9,False
+Seasonal Naive,Residential Dining,2026-05-07,14.0,4,13,5,False
+Seasonal Naive,Residential Dining,2026-05-08,11.0,5,17,8,False
+Seasonal Naive,Residential Dining,2026-05-09,,0,4,1,False
+Seasonal Naive,Residential Dining,2026-05-10,2.0,1,6,2,False
+Seasonal Naive,Residential Dining,2026-05-11,28.0,7,31,9,False
+Seasonal Naive,Residential Dining,2026-05-12,62.0,5,19,7,False
+Seasonal Naive,Residential Dining,2026-05-13,77.0,7,35,8,False
+Seasonal Naive,Residential Dining,2026-05-14,13.0,5,33,9,False
+Seasonal Naive,Residential Dining,2026-05-15,15.0,6,14,8,False
+XGBoost,Einstein's,2026-05-01,304.57104682922363,9,272,9,True
+XGBoost,Einstein's,2026-05-04,539.2281522750854,11,620,11,True
+XGBoost,Einstein's,2026-05-05,622.5679864883423,11,598,11,True
+XGBoost,Einstein's,2026-05-06,590.1144104003906,11,662,11,True
+XGBoost,Einstein's,2026-05-07,568.7609224319458,11,550,11,True
+XGBoost,Einstein's,2026-05-08,276.5097484588623,8,289,8,True
+XGBoost,Einstein's,2026-05-11,547.5188703536987,11,417,11,True
+XGBoost,Einstein's,2026-05-12,531.8866820335388,11,460,11,True
+XGBoost,Einstein's,2026-05-13,564.8679428100586,11,466,11,True
+XGBoost,Einstein's,2026-05-14,517.0268115997314,11,424,11,True
+XGBoost,Einstein's,2026-05-15,227.85434293746948,8,312,8,True
+XGBoost,Einstein's,2026-05-18,490.3938522338867,8,143,8,True
+XGBoost,Einstein's,2026-05-19,461.6449661254883,8,120,8,True
+XGBoost,Einstein's,2026-05-20,468.5785598754883,8,131,8,True
+XGBoost,Einstein's,2026-05-21,452.99680519104004,9,98,9,True
+XGBoost,Einstein's,2026-05-26,475.4347286224365,9,113,9,True
+XGBoost,Einstein's,2026-05-27,491.9384174346924,9,154,9,True
+XGBoost,Einstein's,2026-05-28,450.7882556915283,9,146,9,True
+XGBoost,Panda Express,2026-05-01,120.80066680908203,3,106,3,True
+XGBoost,Panda Express,2026-05-04,282.56906509399414,5,315,5,True
+XGBoost,Panda Express,2026-05-05,275.77098989486694,6,235,6,True
+XGBoost,Panda Express,2026-05-06,285.28537607192993,6,305,6,True
+XGBoost,Panda Express,2026-05-07,267.60671973228455,6,251,6,True
+XGBoost,Panda Express,2026-05-08,112.22489619255066,4,113,4,True
+XGBoost,Panda Express,2026-05-11,286.0226573944092,6,207,6,True
+XGBoost,Panda Express,2026-05-12,237.15067863464355,5,181,5,True
+XGBoost,Panda Express,2026-05-13,273.0937042236328,5,175,5,True
+XGBoost,Panda Express,2026-05-14,238.69789505004883,5,167,5,True
+XGBoost,Residential Dining,2026-05-01,23.265430092811584,7,15,7,True
+XGBoost,Residential Dining,2026-05-02,2.2884607315063477,1,1,1,True
+XGBoost,Residential Dining,2026-05-03,7.514237880706787,2,4,2,True
+XGBoost,Residential Dining,2026-05-04,36.62053692340851,8,29,8,True
+XGBoost,Residential Dining,2026-05-05,28.10595738887787,8,68,8,True
+XGBoost,Residential Dining,2026-05-06,39.391430735588074,9,81,9,True
+XGBoost,Residential Dining,2026-05-07,17.02873921394348,5,13,5,True
+XGBoost,Residential Dining,2026-05-08,21.378716826438904,8,17,8,True
+XGBoost,Residential Dining,2026-05-09,1.8889211416244507,1,4,1,True
+XGBoost,Residential Dining,2026-05-10,7.983501672744751,2,6,2,True
+XGBoost,Residential Dining,2026-05-11,41.67705678939819,9,31,9,True
+XGBoost,Residential Dining,2026-05-12,20.43250060081482,7,19,7,True
+XGBoost,Residential Dining,2026-05-13,47.46332406997681,8,35,8,True
+XGBoost,Residential Dining,2026-05-14,29.806994199752808,9,33,9,True
+XGBoost,Residential Dining,2026-05-15,26.723294019699097,8,14,8,True

@@ -1,0 +1,288 @@
+Location,Date,Target_DailyUnits,RecordedHours,DataSplit,ForecastCutoffDate,Weekday,RegularClassDay,CampusClosed,ScheduledStudents_DailyPeak
+Einstein's,2026-01-19,1,1,Train,2026-01-18 00:00:00,Monday,0,1,0
+Einstein's,2026-01-20,529,11,Train,2026-01-19 00:00:00,Tuesday,1,0,2102
+Einstein's,2026-01-21,609,11,Train,2026-01-20 00:00:00,Wednesday,1,0,2590
+Einstein's,2026-01-22,533,11,Train,2026-01-21 00:00:00,Thursday,1,0,2085
+Einstein's,2026-01-23,263,9,Train,2026-01-22 00:00:00,Friday,1,0,398
+Einstein's,2026-01-26,646,11,Train,2026-01-25 00:00:00,Monday,1,0,2104
+Einstein's,2026-01-27,625,11,Train,2026-01-26 00:00:00,Tuesday,1,0,2102
+Einstein's,2026-01-28,697,11,Train,2026-01-27 00:00:00,Wednesday,1,0,2590
+Einstein's,2026-01-29,540,11,Train,2026-01-28 00:00:00,Thursday,1,0,2085
+Einstein's,2026-01-30,279,9,Train,2026-01-29 00:00:00,Friday,1,0,398
+Einstein's,2026-02-02,573,11,Train,2026-02-01 00:00:00,Monday,1,0,2104
+Einstein's,2026-02-03,570,11,Train,2026-02-02 00:00:00,Tuesday,1,0,2102
+Einstein's,2026-02-04,615,11,Train,2026-02-03 00:00:00,Wednesday,1,0,2590
+Einstein's,2026-02-05,595,11,Train,2026-02-04 00:00:00,Thursday,1,0,2085
+Einstein's,2026-02-06,211,9,Train,2026-02-05 00:00:00,Friday,1,0,398
+Einstein's,2026-02-09,622,11,Train,2026-02-08 00:00:00,Monday,1,0,2104
+Einstein's,2026-02-10,617,11,Train,2026-02-09 00:00:00,Tuesday,1,0,2102
+Einstein's,2026-02-11,646,11,Train,2026-02-10 00:00:00,Wednesday,1,0,2590
+Einstein's,2026-02-12,588,11,Train,2026-02-11 00:00:00,Thursday,1,0,2085
+Einstein's,2026-02-13,313,9,Train,2026-02-12 00:00:00,Friday,1,0,398
+Einstein's,2026-02-16,485,11,Train,2026-02-15 00:00:00,Monday,1,0,2104
+Einstein's,2026-02-17,526,11,Train,2026-02-16 00:00:00,Tuesday,1,0,2102
+Einstein's,2026-02-18,550,11,Train,2026-02-17 00:00:00,Wednesday,1,0,2590
+Einstein's,2026-02-19,535,11,Train,2026-02-18 00:00:00,Thursday,1,0,2085
+Einstein's,2026-02-20,300,9,Train,2026-02-19 00:00:00,Friday,1,0,398
+Einstein's,2026-02-23,531,11,Train,2026-02-22 00:00:00,Monday,1,0,2104
+Einstein's,2026-02-24,617,11,Train,2026-02-23 00:00:00,Tuesday,1,0,2102
+Einstein's,2026-02-25,684,11,Train,2026-02-24 00:00:00,Wednesday,1,0,2590
+Einstein's,2026-02-26,497,11,Train,2026-02-25 00:00:00,Thursday,1,0,2085
+Einstein's,2026-02-27,215,9,Train,2026-02-26 00:00:00,Friday,1,0,398
+Einstein's,2026-03-02,577,11,Validation,2026-03-01 00:00:00,Monday,1,0,2104
+Einstein's,2026-03-03,621,11,Validation,2026-03-02 00:00:00,Tuesday,1,0,2102
+Einstein's,2026-03-04,636,11,Validation,2026-03-03 00:00:00,Wednesday,1,0,2590
+Einstein's,2026-03-05,510,11,Validation,2026-03-04 00:00:00,Thursday,1,0,2085
+Einstein's,2026-03-06,240,9,Validation,2026-03-05 00:00:00,Friday,1,0,398
+Einstein's,2026-03-09,554,11,Validation,2026-03-08 00:00:00,Monday,1,0,2104
+Einstein's,2026-03-10,704,11,Validation,2026-03-09 00:00:00,Tuesday,1,0,2102
+Einstein's,2026-03-11,613,11,Validation,2026-03-10 00:00:00,Wednesday,1,0,2590
+Einstein's,2026-03-12,594,11,Validation,2026-03-11 00:00:00,Thursday,1,0,2085
+Einstein's,2026-03-13,326,8,Validation,2026-03-12 00:00:00,Friday,1,0,398
+Einstein's,2026-03-16,609,11,Validation,2026-03-15 00:00:00,Monday,1,0,2104
+Einstein's,2026-03-17,542,11,Validation,2026-03-16 00:00:00,Tuesday,1,0,2102
+Einstein's,2026-03-18,602,11,Validation,2026-03-17 00:00:00,Wednesday,1,0,2590
+Einstein's,2026-03-19,510,11,Validation,2026-03-18 00:00:00,Thursday,1,0,2085
+Einstein's,2026-03-20,277,9,Validation,2026-03-19 00:00:00,Friday,1,0,398
+Einstein's,2026-03-23,610,11,Validation,2026-03-22 00:00:00,Monday,1,0,2104
+Einstein's,2026-03-24,652,11,Validation,2026-03-23 00:00:00,Tuesday,1,0,2102
+Einstein's,2026-03-25,663,11,Validation,2026-03-24 00:00:00,Wednesday,1,0,2590
+Einstein's,2026-03-26,640,11,Validation,2026-03-25 00:00:00,Thursday,1,0,2085
+Einstein's,2026-03-27,208,7,Validation,2026-03-26 00:00:00,Friday,1,0,398
+Einstein's,2026-03-30,215,6,Validation,2026-03-29 00:00:00,Monday,0,0,0
+Einstein's,2026-04-01,208,6,Validation,2026-03-31 00:00:00,Wednesday,0,0,0
+Einstein's,2026-04-02,241,6,Validation,2026-04-01 00:00:00,Thursday,0,0,0
+Einstein's,2026-04-03,229,6,Validation,2026-04-02 00:00:00,Friday,0,0,0
+Einstein's,2026-04-06,556,11,Validation,2026-04-05 00:00:00,Monday,1,0,2104
+Einstein's,2026-04-07,598,11,Validation,2026-04-06 00:00:00,Tuesday,1,0,2102
+Einstein's,2026-04-08,686,11,Validation,2026-04-07 00:00:00,Wednesday,1,0,2590
+Einstein's,2026-04-09,612,11,Validation,2026-04-08 00:00:00,Thursday,1,0,2085
+Einstein's,2026-04-10,198,9,Validation,2026-04-09 00:00:00,Friday,1,0,398
+Einstein's,2026-04-13,554,11,Validation,2026-04-12 00:00:00,Monday,1,0,2104
+Einstein's,2026-04-14,574,11,Validation,2026-04-13 00:00:00,Tuesday,1,0,2102
+Einstein's,2026-04-15,615,11,Validation,2026-04-14 00:00:00,Wednesday,1,0,2590
+Einstein's,2026-04-16,581,11,Validation,2026-04-15 00:00:00,Thursday,1,0,2085
+Einstein's,2026-04-17,278,9,Validation,2026-04-16 00:00:00,Friday,1,0,398
+Einstein's,2026-04-20,534,11,Validation,2026-04-19 00:00:00,Monday,1,0,2104
+Einstein's,2026-04-21,704,11,Validation,2026-04-20 00:00:00,Tuesday,1,0,2102
+Einstein's,2026-04-22,564,11,Validation,2026-04-21 00:00:00,Wednesday,1,0,2590
+Einstein's,2026-04-23,451,11,Validation,2026-04-22 00:00:00,Thursday,1,0,2085
+Einstein's,2026-04-24,287,10,Validation,2026-04-23 00:00:00,Friday,1,0,398
+Einstein's,2026-04-27,583,11,Validation,2026-04-26 00:00:00,Monday,1,0,2104
+Einstein's,2026-04-28,587,11,Validation,2026-04-27 00:00:00,Tuesday,1,0,2102
+Einstein's,2026-04-29,579,11,Validation,2026-04-28 00:00:00,Wednesday,1,0,2590
+Einstein's,2026-04-30,644,11,Validation,2026-04-29 00:00:00,Thursday,1,0,2085
+Einstein's,2026-05-01,272,9,Test,2026-04-30 00:00:00,Friday,1,0,398
+Einstein's,2026-05-04,620,11,Test,2026-05-03 00:00:00,Monday,1,0,2104
+Einstein's,2026-05-05,598,11,Test,2026-05-04 00:00:00,Tuesday,1,0,2102
+Einstein's,2026-05-06,662,11,Test,2026-05-05 00:00:00,Wednesday,1,0,2590
+Einstein's,2026-05-07,550,11,Test,2026-05-06 00:00:00,Thursday,1,0,2085
+Einstein's,2026-05-08,289,8,Test,2026-05-07 00:00:00,Friday,1,0,398
+Einstein's,2026-05-11,417,11,Test,2026-05-10 00:00:00,Monday,0,0,0
+Einstein's,2026-05-12,460,11,Test,2026-05-11 00:00:00,Tuesday,0,0,0
+Einstein's,2026-05-13,466,11,Test,2026-05-12 00:00:00,Wednesday,0,0,0
+Einstein's,2026-05-14,424,11,Test,2026-05-13 00:00:00,Thursday,0,0,0
+Einstein's,2026-05-15,312,8,Test,2026-05-14 00:00:00,Friday,0,0,0
+Einstein's,2026-05-18,143,8,Test,2026-05-17 00:00:00,Monday,0,0,0
+Einstein's,2026-05-19,120,8,Test,2026-05-18 00:00:00,Tuesday,0,0,0
+Einstein's,2026-05-20,131,8,Test,2026-05-19 00:00:00,Wednesday,0,0,0
+Einstein's,2026-05-21,98,9,Test,2026-05-20 00:00:00,Thursday,0,0,0
+Einstein's,2026-05-26,113,9,Test,2026-05-25 00:00:00,Tuesday,0,0,0
+Einstein's,2026-05-27,154,9,Test,2026-05-26 00:00:00,Wednesday,0,0,0
+Einstein's,2026-05-28,146,9,Test,2026-05-27 00:00:00,Thursday,0,0,0
+Panda Express,2026-01-19,1,1,Train,2026-01-18 00:00:00,Monday,0,1,0
+Panda Express,2026-01-20,259,5,Train,2026-01-19 00:00:00,Tuesday,1,0,2102
+Panda Express,2026-01-21,302,5,Train,2026-01-20 00:00:00,Wednesday,1,0,2590
+Panda Express,2026-01-22,255,6,Train,2026-01-21 00:00:00,Thursday,1,0,2085
+Panda Express,2026-01-23,66,3,Train,2026-01-22 00:00:00,Friday,1,0,398
+Panda Express,2026-01-26,346,5,Train,2026-01-25 00:00:00,Monday,1,0,2104
+Panda Express,2026-01-27,303,6,Train,2026-01-26 00:00:00,Tuesday,1,0,2102
+Panda Express,2026-01-28,267,6,Train,2026-01-27 00:00:00,Wednesday,1,0,2590
+Panda Express,2026-01-29,269,6,Train,2026-01-28 00:00:00,Thursday,1,0,2085
+Panda Express,2026-01-30,85,4,Train,2026-01-29 00:00:00,Friday,1,0,398
+Panda Express,2026-02-02,296,6,Train,2026-02-01 00:00:00,Monday,1,0,2104
+Panda Express,2026-02-03,287,6,Train,2026-02-02 00:00:00,Tuesday,1,0,2102
+Panda Express,2026-02-04,251,5,Train,2026-02-03 00:00:00,Wednesday,1,0,2590
+Panda Express,2026-02-05,243,6,Train,2026-02-04 00:00:00,Thursday,1,0,2085
+Panda Express,2026-02-06,80,4,Train,2026-02-05 00:00:00,Friday,1,0,398
+Panda Express,2026-02-09,266,6,Train,2026-02-08 00:00:00,Monday,1,0,2104
+Panda Express,2026-02-10,245,6,Train,2026-02-09 00:00:00,Tuesday,1,0,2102
+Panda Express,2026-02-11,249,7,Train,2026-02-10 00:00:00,Wednesday,1,0,2590
+Panda Express,2026-02-12,243,7,Train,2026-02-11 00:00:00,Thursday,1,0,2085
+Panda Express,2026-02-13,64,4,Train,2026-02-12 00:00:00,Friday,1,0,398
+Panda Express,2026-02-16,217,6,Train,2026-02-15 00:00:00,Monday,1,0,2104
+Panda Express,2026-02-17,247,5,Train,2026-02-16 00:00:00,Tuesday,1,0,2102
+Panda Express,2026-02-18,241,5,Train,2026-02-17 00:00:00,Wednesday,1,0,2590
+Panda Express,2026-02-19,284,6,Train,2026-02-18 00:00:00,Thursday,1,0,2085
+Panda Express,2026-02-20,140,4,Train,2026-02-19 00:00:00,Friday,1,0,398
+Panda Express,2026-02-23,297,5,Train,2026-02-22 00:00:00,Monday,1,0,2104
+Panda Express,2026-02-24,213,5,Train,2026-02-23 00:00:00,Tuesday,1,0,2102
+Panda Express,2026-02-25,242,5,Train,2026-02-24 00:00:00,Wednesday,1,0,2590
+Panda Express,2026-02-26,259,5,Train,2026-02-25 00:00:00,Thursday,1,0,2085
+Panda Express,2026-02-27,153,3,Train,2026-02-26 00:00:00,Friday,1,0,398
+Panda Express,2026-03-02,322,5,Validation,2026-03-01 00:00:00,Monday,1,0,2104
+Panda Express,2026-03-03,287,5,Validation,2026-03-02 00:00:00,Tuesday,1,0,2102
+Panda Express,2026-03-04,293,5,Validation,2026-03-03 00:00:00,Wednesday,1,0,2590
+Panda Express,2026-03-05,263,5,Validation,2026-03-04 00:00:00,Thursday,1,0,2085
+Panda Express,2026-03-06,96,5,Validation,2026-03-05 00:00:00,Friday,1,0,398
+Panda Express,2026-03-09,262,6,Validation,2026-03-08 00:00:00,Monday,1,0,2104
+Panda Express,2026-03-10,244,6,Validation,2026-03-09 00:00:00,Tuesday,1,0,2102
+Panda Express,2026-03-11,261,6,Validation,2026-03-10 00:00:00,Wednesday,1,0,2590
+Panda Express,2026-03-12,324,5,Validation,2026-03-11 00:00:00,Thursday,1,0,2085
+Panda Express,2026-03-13,87,4,Validation,2026-03-12 00:00:00,Friday,1,0,398
+Panda Express,2026-03-16,323,6,Validation,2026-03-15 00:00:00,Monday,1,0,2104
+Panda Express,2026-03-17,329,5,Validation,2026-03-16 00:00:00,Tuesday,1,0,2102
+Panda Express,2026-03-18,238,6,Validation,2026-03-17 00:00:00,Wednesday,1,0,2590
+Panda Express,2026-03-19,242,5,Validation,2026-03-18 00:00:00,Thursday,1,0,2085
+Panda Express,2026-03-20,205,4,Validation,2026-03-19 00:00:00,Friday,1,0,398
+Panda Express,2026-03-23,273,6,Validation,2026-03-22 00:00:00,Monday,1,0,2104
+Panda Express,2026-03-24,363,5,Validation,2026-03-23 00:00:00,Tuesday,1,0,2102
+Panda Express,2026-03-25,298,5,Validation,2026-03-24 00:00:00,Wednesday,1,0,2590
+Panda Express,2026-03-26,382,5,Validation,2026-03-25 00:00:00,Thursday,1,0,2085
+Panda Express,2026-03-27,77,4,Validation,2026-03-26 00:00:00,Friday,1,0,398
+Panda Express,2026-04-06,256,5,Validation,2026-04-05 00:00:00,Monday,1,0,2104
+Panda Express,2026-04-07,248,5,Validation,2026-04-06 00:00:00,Tuesday,1,0,2102
+Panda Express,2026-04-08,300,7,Validation,2026-04-07 00:00:00,Wednesday,1,0,2590
+Panda Express,2026-04-09,257,5,Validation,2026-04-08 00:00:00,Thursday,1,0,2085
+Panda Express,2026-04-10,115,5,Validation,2026-04-09 00:00:00,Friday,1,0,398
+Panda Express,2026-04-13,262,5,Validation,2026-04-12 00:00:00,Monday,1,0,2104
+Panda Express,2026-04-14,233,5,Validation,2026-04-13 00:00:00,Tuesday,1,0,2102
+Panda Express,2026-04-15,266,5,Validation,2026-04-14 00:00:00,Wednesday,1,0,2590
+Panda Express,2026-04-16,249,7,Validation,2026-04-15 00:00:00,Thursday,1,0,2085
+Panda Express,2026-04-17,131,5,Validation,2026-04-16 00:00:00,Friday,1,0,398
+Panda Express,2026-04-20,262,5,Validation,2026-04-19 00:00:00,Monday,1,0,2104
+Panda Express,2026-04-21,229,5,Validation,2026-04-20 00:00:00,Tuesday,1,0,2102
+Panda Express,2026-04-22,346,6,Validation,2026-04-21 00:00:00,Wednesday,1,0,2590
+Panda Express,2026-04-23,233,5,Validation,2026-04-22 00:00:00,Thursday,1,0,2085
+Panda Express,2026-04-24,153,5,Validation,2026-04-23 00:00:00,Friday,1,0,398
+Panda Express,2026-04-27,294,6,Validation,2026-04-26 00:00:00,Monday,1,0,2104
+Panda Express,2026-04-28,221,5,Validation,2026-04-27 00:00:00,Tuesday,1,0,2102
+Panda Express,2026-04-29,293,5,Validation,2026-04-28 00:00:00,Wednesday,1,0,2590
+Panda Express,2026-04-30,292,5,Validation,2026-04-29 00:00:00,Thursday,1,0,2085
+Panda Express,2026-05-01,106,3,Test,2026-04-30 00:00:00,Friday,1,0,398
+Panda Express,2026-05-04,315,5,Test,2026-05-03 00:00:00,Monday,1,0,2104
+Panda Express,2026-05-05,235,6,Test,2026-05-04 00:00:00,Tuesday,1,0,2102
+Panda Express,2026-05-06,305,6,Test,2026-05-05 00:00:00,Wednesday,1,0,2590
+Panda Express,2026-05-07,251,6,Test,2026-05-06 00:00:00,Thursday,1,0,2085
+Panda Express,2026-05-08,113,4,Test,2026-05-07 00:00:00,Friday,1,0,398
+Panda Express,2026-05-11,207,6,Test,2026-05-10 00:00:00,Monday,0,0,0
+Panda Express,2026-05-12,181,5,Test,2026-05-11 00:00:00,Tuesday,0,0,0
+Panda Express,2026-05-13,175,5,Test,2026-05-12 00:00:00,Wednesday,0,0,0
+Panda Express,2026-05-14,167,5,Test,2026-05-13 00:00:00,Thursday,0,0,0
+Residential Dining,2026-01-11,1,1,Train,2026-01-10 00:00:00,Sunday,0,0,0
+Residential Dining,2026-01-13,2,1,Train,2026-01-12 00:00:00,Tuesday,0,0,0
+Residential Dining,2026-01-14,3,1,Train,2026-01-13 00:00:00,Wednesday,0,0,0
+Residential Dining,2026-01-15,3,1,Train,2026-01-14 00:00:00,Thursday,0,0,0
+Residential Dining,2026-01-16,2,2,Train,2026-01-15 00:00:00,Friday,0,0,0
+Residential Dining,2026-01-17,10,6,Train,2026-01-16 00:00:00,Saturday,0,0,0
+Residential Dining,2026-01-18,1,1,Train,2026-01-17 00:00:00,Sunday,0,0,0
+Residential Dining,2026-01-19,6,2,Train,2026-01-18 00:00:00,Monday,0,1,0
+Residential Dining,2026-01-20,28,10,Train,2026-01-19 00:00:00,Tuesday,1,0,2102
+Residential Dining,2026-01-21,49,10,Train,2026-01-20 00:00:00,Wednesday,1,0,2590
+Residential Dining,2026-01-22,33,10,Train,2026-01-21 00:00:00,Thursday,1,0,2085
+Residential Dining,2026-01-23,25,7,Train,2026-01-22 00:00:00,Friday,1,0,398
+Residential Dining,2026-01-24,4,3,Train,2026-01-23 00:00:00,Saturday,0,0,0
+Residential Dining,2026-01-25,7,4,Train,2026-01-24 00:00:00,Sunday,0,0,0
+Residential Dining,2026-01-26,38,10,Train,2026-01-25 00:00:00,Monday,1,0,2104
+Residential Dining,2026-01-27,21,8,Train,2026-01-26 00:00:00,Tuesday,1,0,2102
+Residential Dining,2026-01-28,33,9,Train,2026-01-27 00:00:00,Wednesday,1,0,2590
+Residential Dining,2026-01-29,24,7,Train,2026-01-28 00:00:00,Thursday,1,0,2085
+Residential Dining,2026-01-30,24,9,Train,2026-01-29 00:00:00,Friday,1,0,398
+Residential Dining,2026-01-31,11,3,Train,2026-01-30 00:00:00,Saturday,0,0,0
+Residential Dining,2026-02-01,26,7,Train,2026-01-31 00:00:00,Sunday,0,0,0
+Residential Dining,2026-02-02,32,7,Train,2026-02-01 00:00:00,Monday,1,0,2104
+Residential Dining,2026-02-03,19,9,Train,2026-02-02 00:00:00,Tuesday,1,0,2102
+Residential Dining,2026-02-04,65,7,Train,2026-02-03 00:00:00,Wednesday,1,0,2590
+Residential Dining,2026-02-05,34,9,Train,2026-02-04 00:00:00,Thursday,1,0,2085
+Residential Dining,2026-02-06,27,8,Train,2026-02-05 00:00:00,Friday,1,0,398
+Residential Dining,2026-02-07,4,3,Train,2026-02-06 00:00:00,Saturday,0,0,0
+Residential Dining,2026-02-08,4,3,Train,2026-02-07 00:00:00,Sunday,0,0,0
+Residential Dining,2026-02-09,21,6,Train,2026-02-08 00:00:00,Monday,1,0,2104
+Residential Dining,2026-02-10,38,9,Train,2026-02-09 00:00:00,Tuesday,1,0,2102
+Residential Dining,2026-02-11,31,9,Train,2026-02-10 00:00:00,Wednesday,1,0,2590
+Residential Dining,2026-02-12,25,8,Train,2026-02-11 00:00:00,Thursday,1,0,2085
+Residential Dining,2026-02-13,92,7,Train,2026-02-12 00:00:00,Friday,1,0,398
+Residential Dining,2026-02-14,3,2,Train,2026-02-13 00:00:00,Saturday,0,0,0
+Residential Dining,2026-02-15,3,1,Train,2026-02-14 00:00:00,Sunday,0,0,0
+Residential Dining,2026-02-16,22,9,Train,2026-02-15 00:00:00,Monday,1,0,2104
+Residential Dining,2026-02-17,28,7,Train,2026-02-16 00:00:00,Tuesday,1,0,2102
+Residential Dining,2026-02-18,31,9,Train,2026-02-17 00:00:00,Wednesday,1,0,2590
+Residential Dining,2026-02-19,16,7,Train,2026-02-18 00:00:00,Thursday,1,0,2085
+Residential Dining,2026-02-20,11,6,Train,2026-02-19 00:00:00,Friday,1,0,398
+Residential Dining,2026-02-21,2,2,Train,2026-02-20 00:00:00,Saturday,0,0,0
+Residential Dining,2026-02-22,6,3,Train,2026-02-21 00:00:00,Sunday,0,0,0
+Residential Dining,2026-02-23,33,6,Train,2026-02-22 00:00:00,Monday,1,0,2104
+Residential Dining,2026-02-24,17,9,Train,2026-02-23 00:00:00,Tuesday,1,0,2102
+Residential Dining,2026-02-25,26,7,Train,2026-02-24 00:00:00,Wednesday,1,0,2590
+Residential Dining,2026-02-26,15,7,Train,2026-02-25 00:00:00,Thursday,1,0,2085
+Residential Dining,2026-02-27,32,7,Train,2026-02-26 00:00:00,Friday,1,0,398
+Residential Dining,2026-02-28,9,2,Train,2026-02-27 00:00:00,Saturday,0,0,0
+Residential Dining,2026-03-01,1,1,Validation,2026-02-28 00:00:00,Sunday,0,0,0
+Residential Dining,2026-03-02,30,7,Validation,2026-03-01 00:00:00,Monday,1,0,2104
+Residential Dining,2026-03-03,34,8,Validation,2026-03-02 00:00:00,Tuesday,1,0,2102
+Residential Dining,2026-03-04,61,9,Validation,2026-03-03 00:00:00,Wednesday,1,0,2590
+Residential Dining,2026-03-05,21,8,Validation,2026-03-04 00:00:00,Thursday,1,0,2085
+Residential Dining,2026-03-06,28,6,Validation,2026-03-05 00:00:00,Friday,1,0,398
+Residential Dining,2026-03-07,5,3,Validation,2026-03-06 00:00:00,Saturday,0,0,0
+Residential Dining,2026-03-08,8,5,Validation,2026-03-07 00:00:00,Sunday,0,0,0
+Residential Dining,2026-03-09,28,9,Validation,2026-03-08 00:00:00,Monday,1,0,2104
+Residential Dining,2026-03-10,20,9,Validation,2026-03-09 00:00:00,Tuesday,1,0,2102
+Residential Dining,2026-03-11,88,10,Validation,2026-03-10 00:00:00,Wednesday,1,0,2590
+Residential Dining,2026-03-12,15,9,Validation,2026-03-11 00:00:00,Thursday,1,0,2085
+Residential Dining,2026-03-13,22,6,Validation,2026-03-12 00:00:00,Friday,1,0,398
+Residential Dining,2026-03-14,6,3,Validation,2026-03-13 00:00:00,Saturday,0,0,0
+Residential Dining,2026-03-15,5,3,Validation,2026-03-14 00:00:00,Sunday,0,0,0
+Residential Dining,2026-03-16,42,9,Validation,2026-03-15 00:00:00,Monday,1,0,2104
+Residential Dining,2026-03-17,32,7,Validation,2026-03-16 00:00:00,Tuesday,1,0,2102
+Residential Dining,2026-03-18,37,9,Validation,2026-03-17 00:00:00,Wednesday,1,0,2590
+Residential Dining,2026-03-19,16,7,Validation,2026-03-18 00:00:00,Thursday,1,0,2085
+Residential Dining,2026-03-20,45,7,Validation,2026-03-19 00:00:00,Friday,1,0,398
+Residential Dining,2026-03-22,5,3,Validation,2026-03-21 00:00:00,Sunday,0,0,0
+Residential Dining,2026-03-23,71,7,Validation,2026-03-22 00:00:00,Monday,1,0,2104
+Residential Dining,2026-03-24,23,10,Validation,2026-03-23 00:00:00,Tuesday,1,0,2102
+Residential Dining,2026-03-25,35,9,Validation,2026-03-24 00:00:00,Wednesday,1,0,2590
+Residential Dining,2026-03-26,22,6,Validation,2026-03-25 00:00:00,Thursday,1,0,2085
+Residential Dining,2026-03-27,8,5,Validation,2026-03-26 00:00:00,Friday,1,0,398
+Residential Dining,2026-03-28,1,1,Validation,2026-03-27 00:00:00,Saturday,0,0,0
+Residential Dining,2026-03-29,4,3,Validation,2026-03-28 00:00:00,Sunday,0,0,0
+Residential Dining,2026-04-05,0,1,Validation,2026-04-04 00:00:00,Sunday,0,0,0
+Residential Dining,2026-04-06,34,9,Validation,2026-04-05 00:00:00,Monday,1,0,2104
+Residential Dining,2026-04-07,40,10,Validation,2026-04-06 00:00:00,Tuesday,1,0,2102
+Residential Dining,2026-04-08,67,8,Validation,2026-04-07 00:00:00,Wednesday,1,0,2590
+Residential Dining,2026-04-09,31,11,Validation,2026-04-08 00:00:00,Thursday,1,0,2085
+Residential Dining,2026-04-10,15,8,Validation,2026-04-09 00:00:00,Friday,1,0,398
+Residential Dining,2026-04-11,4,2,Validation,2026-04-10 00:00:00,Saturday,0,0,0
+Residential Dining,2026-04-12,5,2,Validation,2026-04-11 00:00:00,Sunday,0,0,0
+Residential Dining,2026-04-13,27,8,Validation,2026-04-12 00:00:00,Monday,1,0,2104
+Residential Dining,2026-04-14,11,6,Validation,2026-04-13 00:00:00,Tuesday,1,0,2102
+Residential Dining,2026-04-15,35,7,Validation,2026-04-14 00:00:00,Wednesday,1,0,2590
+Residential Dining,2026-04-16,21,5,Validation,2026-04-15 00:00:00,Thursday,1,0,2085
+Residential Dining,2026-04-17,14,8,Validation,2026-04-16 00:00:00,Friday,1,0,398
+Residential Dining,2026-04-18,1,1,Validation,2026-04-17 00:00:00,Saturday,0,0,0
+Residential Dining,2026-04-19,3,3,Validation,2026-04-18 00:00:00,Sunday,0,0,0
+Residential Dining,2026-04-20,25,6,Validation,2026-04-19 00:00:00,Monday,1,0,2104
+Residential Dining,2026-04-21,8,2,Validation,2026-04-20 00:00:00,Tuesday,1,0,2102
+Residential Dining,2026-04-22,31,7,Validation,2026-04-21 00:00:00,Wednesday,1,0,2590
+Residential Dining,2026-04-23,19,4,Validation,2026-04-22 00:00:00,Thursday,1,0,2085
+Residential Dining,2026-04-24,10,3,Validation,2026-04-23 00:00:00,Friday,1,0,398
+Residential Dining,2026-04-25,2,2,Validation,2026-04-24 00:00:00,Saturday,0,0,0
+Residential Dining,2026-04-26,14,6,Validation,2026-04-25 00:00:00,Sunday,0,0,0
+Residential Dining,2026-04-27,30,10,Validation,2026-04-26 00:00:00,Monday,1,0,2104
+Residential Dining,2026-04-28,14,7,Validation,2026-04-27 00:00:00,Tuesday,1,0,2102
+Residential Dining,2026-04-29,35,10,Validation,2026-04-28 00:00:00,Wednesday,1,0,2590
+Residential Dining,2026-04-30,28,8,Validation,2026-04-29 00:00:00,Thursday,1,0,2085
+Residential Dining,2026-05-01,15,7,Test,2026-04-30 00:00:00,Friday,1,0,398
+Residential Dining,2026-05-02,1,1,Test,2026-05-01 00:00:00,Saturday,0,0,0
+Residential Dining,2026-05-03,4,2,Test,2026-05-02 00:00:00,Sunday,0,0,0
+Residential Dining,2026-05-04,29,8,Test,2026-05-03 00:00:00,Monday,1,0,2104
+Residential Dining,2026-05-05,68,8,Test,2026-05-04 00:00:00,Tuesday,1,0,2102
+Residential Dining,2026-05-06,81,9,Test,2026-05-05 00:00:00,Wednesday,1,0,2590
+Residential Dining,2026-05-07,13,5,Test,2026-05-06 00:00:00,Thursday,1,0,2085
+Residential Dining,2026-05-08,17,8,Test,2026-05-07 00:00:00,Friday,1,0,398
+Residential Dining,2026-05-09,4,1,Test,2026-05-08 00:00:00,Saturday,0,0,0
+Residential Dining,2026-05-10,6,2,Test,2026-05-09 00:00:00,Sunday,0,0,0
+Residential Dining,2026-05-11,31,9,Test,2026-05-10 00:00:00,Monday,0,0,0
+Residential Dining,2026-05-12,19,7,Test,2026-05-11 00:00:00,Tuesday,0,0,0
+Residential Dining,2026-05-13,35,8,Test,2026-05-12 00:00:00,Wednesday,0,0,0
+Residential Dining,2026-05-14,33,9,Test,2026-05-13 00:00:00,Thursday,0,0,0
+Residential Dining,2026-05-15,14,8,Test,2026-05-14 00:00:00,Friday,0,0,0

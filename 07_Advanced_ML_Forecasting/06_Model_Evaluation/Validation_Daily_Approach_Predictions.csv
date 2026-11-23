@@ -1,0 +1,897 @@
+Model,Location,Date,Actual,Prediction,Approach,PredictedRecordedHours,ExpectedRecordedHours
+Seasonal Naive,Einstein's,2026-03-02,577,531.0,Dedicated_Daily,,
+Seasonal Naive,Einstein's,2026-03-03,621,617.0,Dedicated_Daily,,
+Seasonal Naive,Einstein's,2026-03-04,636,684.0,Dedicated_Daily,,
+Seasonal Naive,Einstein's,2026-03-05,510,497.0,Dedicated_Daily,,
+Seasonal Naive,Einstein's,2026-03-06,240,215.0,Dedicated_Daily,,
+Seasonal Naive,Einstein's,2026-03-09,554,577.0,Dedicated_Daily,,
+Seasonal Naive,Einstein's,2026-03-10,704,621.0,Dedicated_Daily,,
+Seasonal Naive,Einstein's,2026-03-11,613,636.0,Dedicated_Daily,,
+Seasonal Naive,Einstein's,2026-03-12,594,510.0,Dedicated_Daily,,
+Seasonal Naive,Einstein's,2026-03-13,326,240.0,Dedicated_Daily,,
+Seasonal Naive,Einstein's,2026-03-16,609,554.0,Dedicated_Daily,,
+Seasonal Naive,Einstein's,2026-03-17,542,704.0,Dedicated_Daily,,
+Seasonal Naive,Einstein's,2026-03-18,602,613.0,Dedicated_Daily,,
+Seasonal Naive,Einstein's,2026-03-19,510,594.0,Dedicated_Daily,,
+Seasonal Naive,Einstein's,2026-03-23,610,609.0,Dedicated_Daily,,
+Seasonal Naive,Einstein's,2026-03-24,652,542.0,Dedicated_Daily,,
+Seasonal Naive,Einstein's,2026-03-25,663,602.0,Dedicated_Daily,,
+Seasonal Naive,Einstein's,2026-03-26,640,510.0,Dedicated_Daily,,
+Seasonal Naive,Einstein's,2026-03-30,215,610.0,Dedicated_Daily,,
+Seasonal Naive,Einstein's,2026-04-01,208,663.0,Dedicated_Daily,,
+Seasonal Naive,Einstein's,2026-04-02,241,640.0,Dedicated_Daily,,
+Seasonal Naive,Einstein's,2026-04-03,229,208.0,Dedicated_Daily,,
+Seasonal Naive,Einstein's,2026-04-13,554,556.0,Dedicated_Daily,,
+Seasonal Naive,Einstein's,2026-04-14,574,598.0,Dedicated_Daily,,
+Seasonal Naive,Einstein's,2026-04-15,615,686.0,Dedicated_Daily,,
+Seasonal Naive,Einstein's,2026-04-16,581,612.0,Dedicated_Daily,,
+Seasonal Naive,Einstein's,2026-04-17,278,198.0,Dedicated_Daily,,
+Seasonal Naive,Einstein's,2026-04-20,534,554.0,Dedicated_Daily,,
+Seasonal Naive,Einstein's,2026-04-21,704,574.0,Dedicated_Daily,,
+Seasonal Naive,Einstein's,2026-04-22,564,615.0,Dedicated_Daily,,
+Seasonal Naive,Einstein's,2026-04-23,451,581.0,Dedicated_Daily,,
+Seasonal Naive,Einstein's,2026-04-27,583,534.0,Dedicated_Daily,,
+Seasonal Naive,Einstein's,2026-04-28,587,704.0,Dedicated_Daily,,
+Seasonal Naive,Einstein's,2026-04-29,579,564.0,Dedicated_Daily,,
+Seasonal Naive,Einstein's,2026-04-30,644,451.0,Dedicated_Daily,,
+Seasonal Naive,Panda Express,2026-03-02,322,297.0,Dedicated_Daily,,
+Seasonal Naive,Panda Express,2026-03-03,287,213.0,Dedicated_Daily,,
+Seasonal Naive,Panda Express,2026-03-04,293,242.0,Dedicated_Daily,,
+Seasonal Naive,Panda Express,2026-03-05,263,259.0,Dedicated_Daily,,
+Seasonal Naive,Panda Express,2026-03-12,324,263.0,Dedicated_Daily,,
+Seasonal Naive,Panda Express,2026-03-13,87,96.0,Dedicated_Daily,,
+Seasonal Naive,Panda Express,2026-03-16,323,262.0,Dedicated_Daily,,
+Seasonal Naive,Panda Express,2026-03-17,329,244.0,Dedicated_Daily,,
+Seasonal Naive,Panda Express,2026-03-18,238,261.0,Dedicated_Daily,,
+Seasonal Naive,Panda Express,2026-03-19,242,324.0,Dedicated_Daily,,
+Seasonal Naive,Panda Express,2026-03-20,205,87.0,Dedicated_Daily,,
+Seasonal Naive,Panda Express,2026-03-24,363,329.0,Dedicated_Daily,,
+Seasonal Naive,Panda Express,2026-03-25,298,238.0,Dedicated_Daily,,
+Seasonal Naive,Panda Express,2026-03-26,382,242.0,Dedicated_Daily,,
+Seasonal Naive,Panda Express,2026-04-13,262,256.0,Dedicated_Daily,,
+Seasonal Naive,Panda Express,2026-04-14,233,248.0,Dedicated_Daily,,
+Seasonal Naive,Panda Express,2026-04-15,266,300.0,Dedicated_Daily,,
+Seasonal Naive,Panda Express,2026-04-17,131,115.0,Dedicated_Daily,,
+Seasonal Naive,Panda Express,2026-04-20,262,262.0,Dedicated_Daily,,
+Seasonal Naive,Panda Express,2026-04-21,229,233.0,Dedicated_Daily,,
+Seasonal Naive,Panda Express,2026-04-23,233,249.0,Dedicated_Daily,,
+Seasonal Naive,Panda Express,2026-04-24,153,131.0,Dedicated_Daily,,
+Seasonal Naive,Panda Express,2026-04-28,221,229.0,Dedicated_Daily,,
+Seasonal Naive,Panda Express,2026-04-29,293,346.0,Dedicated_Daily,,
+Seasonal Naive,Panda Express,2026-04-30,292,233.0,Dedicated_Daily,,
+Seasonal Naive,Residential Dining,2026-03-06,28,32.0,Dedicated_Daily,,
+Seasonal Naive,Residential Dining,2026-04-15,35,67.0,Dedicated_Daily,,
+Seasonal Naive,Residential Dining,2026-04-16,21,31.0,Dedicated_Daily,,
+Seasonal Naive,Residential Dining,2026-04-24,10,14.0,Dedicated_Daily,,
+Historical Average,Einstein's,2026-03-02,577,476.3333333333333,Dedicated_Daily,,
+Historical Average,Einstein's,2026-03-03,621,580.6666666666666,Dedicated_Daily,,
+Historical Average,Einstein's,2026-03-04,636,633.5,Dedicated_Daily,,
+Historical Average,Einstein's,2026-03-05,510,548.0,Dedicated_Daily,,
+Historical Average,Einstein's,2026-03-06,240,263.5,Dedicated_Daily,,
+Historical Average,Einstein's,2026-03-09,554,490.7142857142857,Dedicated_Daily,,
+Historical Average,Einstein's,2026-03-10,704,586.4285714285714,Dedicated_Daily,,
+Historical Average,Einstein's,2026-03-11,613,633.8571428571429,Dedicated_Daily,,
+Historical Average,Einstein's,2026-03-12,594,542.5714285714286,Dedicated_Daily,,
+Historical Average,Einstein's,2026-03-13,326,260.14285714285717,Dedicated_Daily,,
+Historical Average,Einstein's,2026-03-16,609,498.625,Dedicated_Daily,,
+Historical Average,Einstein's,2026-03-17,542,601.125,Dedicated_Daily,,
+Historical Average,Einstein's,2026-03-18,602,631.25,Dedicated_Daily,,
+Historical Average,Einstein's,2026-03-19,510,549.0,Dedicated_Daily,,
+Historical Average,Einstein's,2026-03-23,610,510.8888888888889,Dedicated_Daily,,
+Historical Average,Einstein's,2026-03-24,652,594.5555555555555,Dedicated_Daily,,
+Historical Average,Einstein's,2026-03-25,663,628.0,Dedicated_Daily,,
+Historical Average,Einstein's,2026-03-26,640,544.6666666666666,Dedicated_Daily,,
+Historical Average,Einstein's,2026-03-30,215,520.8,Dedicated_Daily,,
+Historical Average,Einstein's,2026-04-01,208,631.5,Dedicated_Daily,,
+Historical Average,Einstein's,2026-04-02,241,554.2,Dedicated_Daily,,
+Historical Average,Einstein's,2026-04-03,229,263.2,Dedicated_Daily,,
+Historical Average,Einstein's,2026-04-13,554,498.25,Dedicated_Daily,,
+Historical Average,Einstein's,2026-04-14,574,600.0909090909091,Dedicated_Daily,,
+Historical Average,Einstein's,2026-04-15,615,600.75,Dedicated_Daily,,
+Historical Average,Einstein's,2026-04-16,581,532.9166666666666,Dedicated_Daily,,
+Historical Average,Einstein's,2026-04-17,278,254.91666666666663,Dedicated_Daily,,
+Historical Average,Einstein's,2026-04-20,534,502.53846153846155,Dedicated_Daily,,
+Historical Average,Einstein's,2026-04-21,704,597.9166666666666,Dedicated_Daily,,
+Historical Average,Einstein's,2026-04-22,564,601.8461538461538,Dedicated_Daily,,
+Historical Average,Einstein's,2026-04-23,451,536.6153846153846,Dedicated_Daily,,
+Historical Average,Einstein's,2026-04-27,583,504.7857142857143,Dedicated_Daily,,
+Historical Average,Einstein's,2026-04-28,587,606.0769230769231,Dedicated_Daily,,
+Historical Average,Einstein's,2026-04-29,579,599.1428571428571,Dedicated_Daily,,
+Historical Average,Einstein's,2026-04-30,644,530.5,Dedicated_Daily,,
+Historical Average,Panda Express,2026-03-02,322,237.16666666666663,Dedicated_Daily,,
+Historical Average,Panda Express,2026-03-03,287,259.0,Dedicated_Daily,,
+Historical Average,Panda Express,2026-03-04,293,258.6666666666667,Dedicated_Daily,,
+Historical Average,Panda Express,2026-03-05,263,258.8333333333333,Dedicated_Daily,,
+Historical Average,Panda Express,2026-03-12,324,259.42857142857144,Dedicated_Daily,,
+Historical Average,Panda Express,2026-03-13,87,97.71428571428572,Dedicated_Daily,,
+Historical Average,Panda Express,2026-03-16,323,250.875,Dedicated_Daily,,
+Historical Average,Panda Express,2026-03-17,329,260.625,Dedicated_Daily,,
+Historical Average,Panda Express,2026-03-18,238,263.25,Dedicated_Daily,,
+Historical Average,Panda Express,2026-03-19,242,267.5,Dedicated_Daily,,
+Historical Average,Panda Express,2026-03-20,205,96.375,Dedicated_Daily,,
+Historical Average,Panda Express,2026-03-24,363,268.22222222222223,Dedicated_Daily,,
+Historical Average,Panda Express,2026-03-25,298,260.44444444444446,Dedicated_Daily,,
+Historical Average,Panda Express,2026-03-26,382,264.6666666666667,Dedicated_Daily,,
+Historical Average,Panda Express,2026-04-13,262,259.90909090909093,Dedicated_Daily,,
+Historical Average,Panda Express,2026-04-14,233,275.0,Dedicated_Daily,,
+Historical Average,Panda Express,2026-04-15,266,267.45454545454544,Dedicated_Daily,,
+Historical Average,Panda Express,2026-04-17,131,106.1818181818182,Dedicated_Daily,,
+Historical Average,Panda Express,2026-04-20,262,260.0833333333333,Dedicated_Daily,,
+Historical Average,Panda Express,2026-04-21,229,271.5,Dedicated_Daily,,
+Historical Average,Panda Express,2026-04-23,233,272.5,Dedicated_Daily,,
+Historical Average,Panda Express,2026-04-24,153,108.25,Dedicated_Daily,,
+Historical Average,Panda Express,2026-04-28,221,268.2307692307692,Dedicated_Daily,,
+Historical Average,Panda Express,2026-04-29,293,273.38461538461536,Dedicated_Daily,,
+Historical Average,Panda Express,2026-04-30,292,269.46153846153845,Dedicated_Daily,,
+Historical Average,Residential Dining,2026-03-06,28,30.428571428571427,Dedicated_Daily,,
+Historical Average,Residential Dining,2026-04-15,35,43.833333333333336,Dedicated_Daily,,
+Historical Average,Residential Dining,2026-04-16,21,21.25,Dedicated_Daily,,
+Historical Average,Residential Dining,2026-04-24,10,26.53846153846154,Dedicated_Daily,,
+Ridge,Einstein's,2026-03-02,577,505.4196932577219,Dedicated_Daily,,
+Ridge,Einstein's,2026-03-03,621,531.3110919431192,Dedicated_Daily,,
+Ridge,Einstein's,2026-03-04,636,573.9374563123188,Dedicated_Daily,,
+Ridge,Einstein's,2026-03-05,510,518.3103209645707,Dedicated_Daily,,
+Ridge,Einstein's,2026-03-06,240,331.8288147091094,Dedicated_Daily,,
+Ridge,Einstein's,2026-03-09,554,510.9619363764616,Dedicated_Daily,,
+Ridge,Einstein's,2026-03-10,704,531.30360202716,Dedicated_Daily,,
+Ridge,Einstein's,2026-03-11,613,590.7747612637198,Dedicated_Daily,,
+Ridge,Einstein's,2026-03-12,594,510.61655226410545,Dedicated_Daily,,
+Ridge,Einstein's,2026-03-13,326,336.91122145098757,Dedicated_Daily,,
+Ridge,Einstein's,2026-03-16,609,517.6770566523712,Dedicated_Daily,,
+Ridge,Einstein's,2026-03-17,542,545.3155898095632,Dedicated_Daily,,
+Ridge,Einstein's,2026-03-18,602,543.5916371804069,Dedicated_Daily,,
+Ridge,Einstein's,2026-03-19,510,509.0871182157938,Dedicated_Daily,,
+Ridge,Einstein's,2026-03-23,610,518.1829205054175,Dedicated_Daily,,
+Ridge,Einstein's,2026-03-24,652,537.0314651132514,Dedicated_Daily,,
+Ridge,Einstein's,2026-03-25,663,563.9111027093954,Dedicated_Daily,,
+Ridge,Einstein's,2026-03-26,640,520.0505725984065,Dedicated_Daily,,
+Ridge,Einstein's,2026-03-30,215,523.7432615484342,Dedicated_Daily,,
+Ridge,Einstein's,2026-04-01,208,517.4917946198972,Dedicated_Daily,,
+Ridge,Einstein's,2026-04-02,241,418.6243741313469,Dedicated_Daily,,
+Ridge,Einstein's,2026-04-03,229,235.9098200887604,Dedicated_Daily,,
+Ridge,Einstein's,2026-04-13,554,472.4778306372367,Dedicated_Daily,,
+Ridge,Einstein's,2026-04-14,574,510.5033892462669,Dedicated_Daily,,
+Ridge,Einstein's,2026-04-15,615,521.8428187105435,Dedicated_Daily,,
+Ridge,Einstein's,2026-04-16,581,481.9580460646072,Dedicated_Daily,,
+Ridge,Einstein's,2026-04-17,278,308.77089612310357,Dedicated_Daily,,
+Ridge,Einstein's,2026-04-20,534,495.74509397278433,Dedicated_Daily,,
+Ridge,Einstein's,2026-04-21,704,502.6060049330865,Dedicated_Daily,,
+Ridge,Einstein's,2026-04-22,564,558.5242670882101,Dedicated_Daily,,
+Ridge,Einstein's,2026-04-23,451,491.6545400501613,Dedicated_Daily,,
+Ridge,Einstein's,2026-04-27,583,489.3612959342617,Dedicated_Daily,,
+Ridge,Einstein's,2026-04-28,587,532.8703638684881,Dedicated_Daily,,
+Ridge,Einstein's,2026-04-29,579,526.426397043215,Dedicated_Daily,,
+Ridge,Einstein's,2026-04-30,644,476.3521819778851,Dedicated_Daily,,
+Ridge,Panda Express,2026-03-02,322,303.2263994988881,Dedicated_Daily,,
+Ridge,Panda Express,2026-03-03,287,263.62397520198294,Dedicated_Daily,,
+Ridge,Panda Express,2026-03-04,293,280.7394849309711,Dedicated_Daily,,
+Ridge,Panda Express,2026-03-05,263,258.1054811444345,Dedicated_Daily,,
+Ridge,Panda Express,2026-03-12,324,244.3079741489084,Dedicated_Daily,,
+Ridge,Panda Express,2026-03-13,87,122.1679835316509,Dedicated_Daily,,
+Ridge,Panda Express,2026-03-16,323,294.45802897747205,Dedicated_Daily,,
+Ridge,Panda Express,2026-03-17,329,256.2779079170369,Dedicated_Daily,,
+Ridge,Panda Express,2026-03-18,238,278.63242554227037,Dedicated_Daily,,
+Ridge,Panda Express,2026-03-19,242,244.41521017556323,Dedicated_Daily,,
+Ridge,Panda Express,2026-03-20,205,105.38420391383134,Dedicated_Daily,,
+Ridge,Panda Express,2026-03-24,363,261.72590949688043,Dedicated_Daily,,
+Ridge,Panda Express,2026-03-25,298,284.42150817349443,Dedicated_Daily,,
+Ridge,Panda Express,2026-03-26,382,256.65633654588606,Dedicated_Daily,,
+Ridge,Panda Express,2026-04-13,262,306.82016121412465,Dedicated_Daily,,
+Ridge,Panda Express,2026-04-14,233,271.49336814263324,Dedicated_Daily,,
+Ridge,Panda Express,2026-04-15,266,282.5122507198606,Dedicated_Daily,,
+Ridge,Panda Express,2026-04-17,131,125.26332222038836,Dedicated_Daily,,
+Ridge,Panda Express,2026-04-20,262,298.0995136634066,Dedicated_Daily,,
+Ridge,Panda Express,2026-04-21,229,245.27423580237817,Dedicated_Daily,,
+Ridge,Panda Express,2026-04-23,233,259.96178071331406,Dedicated_Daily,,
+Ridge,Panda Express,2026-04-24,153,110.05781636102114,Dedicated_Daily,,
+Ridge,Panda Express,2026-04-28,221,258.96332483714684,Dedicated_Daily,,
+Ridge,Panda Express,2026-04-29,293,272.84769447152723,Dedicated_Daily,,
+Ridge,Panda Express,2026-04-30,292,239.04558242194528,Dedicated_Daily,,
+Ridge,Residential Dining,2026-03-06,28,0.0,Dedicated_Daily,,
+Ridge,Residential Dining,2026-04-15,35,78.38898786008116,Dedicated_Daily,,
+Ridge,Residential Dining,2026-04-16,21,43.649579976898565,Dedicated_Daily,,
+Ridge,Residential Dining,2026-04-24,10,0.0,Dedicated_Daily,,
+Random Forest,Einstein's,2026-03-02,577,565.5062125220459,Dedicated_Daily,,
+Random Forest,Einstein's,2026-03-03,621,557.1120679012348,Dedicated_Daily,,
+Random Forest,Einstein's,2026-03-04,636,586.6442085537919,Dedicated_Daily,,
+Random Forest,Einstein's,2026-03-05,510,549.2344554673723,Dedicated_Daily,,
+Random Forest,Einstein's,2026-03-06,240,274.6267482363316,Dedicated_Daily,,
+Random Forest,Einstein's,2026-03-09,554,548.965044091711,Dedicated_Daily,,
+Random Forest,Einstein's,2026-03-10,704,563.9892239858907,Dedicated_Daily,,
+Random Forest,Einstein's,2026-03-11,613,599.0603791887125,Dedicated_Daily,,
+Random Forest,Einstein's,2026-03-12,594,542.4187808641976,Dedicated_Daily,,
+Random Forest,Einstein's,2026-03-13,326,279.78937169312167,Dedicated_Daily,,
+Random Forest,Einstein's,2026-03-16,609,535.7547574955911,Dedicated_Daily,,
+Random Forest,Einstein's,2026-03-17,542,564.4196582892419,Dedicated_Daily,,
+Random Forest,Einstein's,2026-03-18,602,590.2780114638449,Dedicated_Daily,,
+Random Forest,Einstein's,2026-03-19,510,534.0868011463847,Dedicated_Daily,,
+Random Forest,Einstein's,2026-03-23,610,551.3636529982364,Dedicated_Daily,,
+Random Forest,Einstein's,2026-03-24,652,584.1060670194003,Dedicated_Daily,,
+Random Forest,Einstein's,2026-03-25,663,580.1924691358025,Dedicated_Daily,,
+Random Forest,Einstein's,2026-03-26,640,534.7817019400355,Dedicated_Daily,,
+Random Forest,Einstein's,2026-03-30,215,536.2816291887127,Dedicated_Daily,,
+Random Forest,Einstein's,2026-04-01,208,583.764929453263,Dedicated_Daily,,
+Random Forest,Einstein's,2026-04-02,241,548.4869135802471,Dedicated_Daily,,
+Random Forest,Einstein's,2026-04-03,229,236.94720238095243,Dedicated_Daily,,
+Random Forest,Einstein's,2026-04-13,554,571.9585052910056,Dedicated_Daily,,
+Random Forest,Einstein's,2026-04-14,574,599.6202182539683,Dedicated_Daily,,
+Random Forest,Einstein's,2026-04-15,615,592.2725595238096,Dedicated_Daily,,
+Random Forest,Einstein's,2026-04-16,581,569.161245590829,Dedicated_Daily,,
+Random Forest,Einstein's,2026-04-17,278,281.2952535273369,Dedicated_Daily,,
+Random Forest,Einstein's,2026-04-20,534,580.5936992945326,Dedicated_Daily,,
+Random Forest,Einstein's,2026-04-21,704,604.1542217813052,Dedicated_Daily,,
+Random Forest,Einstein's,2026-04-22,564,613.0483928571427,Dedicated_Daily,,
+Random Forest,Einstein's,2026-04-23,451,552.0127865961202,Dedicated_Daily,,
+Random Forest,Einstein's,2026-04-27,583,586.3196781305115,Dedicated_Daily,,
+Random Forest,Einstein's,2026-04-28,587,592.9565498236333,Dedicated_Daily,,
+Random Forest,Einstein's,2026-04-29,579,605.0952579365078,Dedicated_Daily,,
+Random Forest,Einstein's,2026-04-30,644,557.04737654321,Dedicated_Daily,,
+Random Forest,Panda Express,2026-03-02,322,259.6038293650793,Dedicated_Daily,,
+Random Forest,Panda Express,2026-03-03,287,246.4879034391535,Dedicated_Daily,,
+Random Forest,Panda Express,2026-03-04,293,262.3840828924163,Dedicated_Daily,,
+Random Forest,Panda Express,2026-03-05,263,290.0217526455027,Dedicated_Daily,,
+Random Forest,Panda Express,2026-03-12,324,247.6554188712523,Dedicated_Daily,,
+Random Forest,Panda Express,2026-03-13,87,137.6334060846561,Dedicated_Daily,,
+Random Forest,Panda Express,2026-03-16,323,250.6276322751324,Dedicated_Daily,,
+Random Forest,Panda Express,2026-03-17,329,255.2109325396827,Dedicated_Daily,,
+Random Forest,Panda Express,2026-03-18,238,306.7092394179896,Dedicated_Daily,,
+Random Forest,Panda Express,2026-03-19,242,298.9250661375664,Dedicated_Daily,,
+Random Forest,Panda Express,2026-03-20,205,132.37863095238097,Dedicated_Daily,,
+Random Forest,Panda Express,2026-03-24,363,267.24266534391546,Dedicated_Daily,,
+Random Forest,Panda Express,2026-03-25,298,339.72905423280434,Dedicated_Daily,,
+Random Forest,Panda Express,2026-03-26,382,326.3268915343916,Dedicated_Daily,,
+Random Forest,Panda Express,2026-04-13,262,286.65010802469146,Dedicated_Daily,,
+Random Forest,Panda Express,2026-04-14,233,300.3801477072311,Dedicated_Daily,,
+Random Forest,Panda Express,2026-04-15,266,290.29594797178146,Dedicated_Daily,,
+Random Forest,Panda Express,2026-04-17,131,139.86847222222227,Dedicated_Daily,,
+Random Forest,Panda Express,2026-04-20,262,248.8759479717814,Dedicated_Daily,,
+Random Forest,Panda Express,2026-04-21,229,252.1874272486774,Dedicated_Daily,,
+Random Forest,Panda Express,2026-04-23,233,256.24961199294546,Dedicated_Daily,,
+Random Forest,Panda Express,2026-04-24,153,118.50740079365085,Dedicated_Daily,,
+Random Forest,Panda Express,2026-04-28,221,260.771794532628,Dedicated_Daily,,
+Random Forest,Panda Express,2026-04-29,293,261.08431216931234,Dedicated_Daily,,
+Random Forest,Panda Express,2026-04-30,292,248.01569444444456,Dedicated_Daily,,
+Random Forest,Residential Dining,2026-03-06,28,32.407347883597886,Dedicated_Daily,,
+Random Forest,Residential Dining,2026-04-15,35,28.76960317460317,Dedicated_Daily,,
+Random Forest,Residential Dining,2026-04-16,21,25.4139880952381,Dedicated_Daily,,
+Random Forest,Residential Dining,2026-04-24,10,33.63143298059966,Dedicated_Daily,,
+XGBoost,Einstein's,2026-03-02,577,548.021484375,Dedicated_Daily,,
+XGBoost,Einstein's,2026-03-03,621,578.2003784179688,Dedicated_Daily,,
+XGBoost,Einstein's,2026-03-04,636,585.22607421875,Dedicated_Daily,,
+XGBoost,Einstein's,2026-03-05,510,539.2680053710938,Dedicated_Daily,,
+XGBoost,Einstein's,2026-03-06,240,256.87664794921875,Dedicated_Daily,,
+XGBoost,Einstein's,2026-03-09,554,545.0900268554688,Dedicated_Daily,,
+XGBoost,Einstein's,2026-03-10,704,578.2003784179688,Dedicated_Daily,,
+XGBoost,Einstein's,2026-03-11,613,592.8857421875,Dedicated_Daily,,
+XGBoost,Einstein's,2026-03-12,594,533.2146606445312,Dedicated_Daily,,
+XGBoost,Einstein's,2026-03-13,326,258.763916015625,Dedicated_Daily,,
+XGBoost,Einstein's,2026-03-16,609,548.1155395507812,Dedicated_Daily,,
+XGBoost,Einstein's,2026-03-17,542,572.04541015625,Dedicated_Daily,,
+XGBoost,Einstein's,2026-03-18,602,583.0296630859375,Dedicated_Daily,,
+XGBoost,Einstein's,2026-03-19,510,539.7275390625,Dedicated_Daily,,
+XGBoost,Einstein's,2026-03-23,610,550.6064453125,Dedicated_Daily,,
+XGBoost,Einstein's,2026-03-24,652,584.2504272460938,Dedicated_Daily,,
+XGBoost,Einstein's,2026-03-25,663,587.8115234375,Dedicated_Daily,,
+XGBoost,Einstein's,2026-03-26,640,541.72509765625,Dedicated_Daily,,
+XGBoost,Einstein's,2026-03-30,215,537.2940063476562,Dedicated_Daily,,
+XGBoost,Einstein's,2026-04-01,208,525.1444702148438,Dedicated_Daily,,
+XGBoost,Einstein's,2026-04-02,241,524.86572265625,Dedicated_Daily,,
+XGBoost,Einstein's,2026-04-03,229,213.97950744628903,Dedicated_Daily,,
+XGBoost,Einstein's,2026-04-13,554,550.2964477539062,Dedicated_Daily,,
+XGBoost,Einstein's,2026-04-14,574,591.4432983398438,Dedicated_Daily,,
+XGBoost,Einstein's,2026-04-15,615,590.913818359375,Dedicated_Daily,,
+XGBoost,Einstein's,2026-04-16,581,554.6510009765625,Dedicated_Daily,,
+XGBoost,Einstein's,2026-04-17,278,266.9190673828125,Dedicated_Daily,,
+XGBoost,Einstein's,2026-04-20,534,561.1179809570312,Dedicated_Daily,,
+XGBoost,Einstein's,2026-04-21,704,586.7716674804688,Dedicated_Daily,,
+XGBoost,Einstein's,2026-04-22,564,608.39794921875,Dedicated_Daily,,
+XGBoost,Einstein's,2026-04-23,451,555.7642211914062,Dedicated_Daily,,
+XGBoost,Einstein's,2026-04-27,583,560.0936279296875,Dedicated_Daily,,
+XGBoost,Einstein's,2026-04-28,587,584.1862182617188,Dedicated_Daily,,
+XGBoost,Einstein's,2026-04-29,579,601.1590576171875,Dedicated_Daily,,
+XGBoost,Einstein's,2026-04-30,644,543.7061767578125,Dedicated_Daily,,
+XGBoost,Panda Express,2026-03-02,322,241.32635498046875,Dedicated_Daily,,
+XGBoost,Panda Express,2026-03-03,287,242.57742309570312,Dedicated_Daily,,
+XGBoost,Panda Express,2026-03-04,293,263.5614013671875,Dedicated_Daily,,
+XGBoost,Panda Express,2026-03-05,263,290.1735534667969,Dedicated_Daily,,
+XGBoost,Panda Express,2026-03-12,324,287.993408203125,Dedicated_Daily,,
+XGBoost,Panda Express,2026-03-13,87,161.55319213867188,Dedicated_Daily,,
+XGBoost,Panda Express,2026-03-16,323,298.1071472167969,Dedicated_Daily,,
+XGBoost,Panda Express,2026-03-17,329,313.2374267578125,Dedicated_Daily,,
+XGBoost,Panda Express,2026-03-18,238,357.7313232421875,Dedicated_Daily,,
+XGBoost,Panda Express,2026-03-19,242,332.2917175292969,Dedicated_Daily,,
+XGBoost,Panda Express,2026-03-20,205,153.96286010742188,Dedicated_Daily,,
+XGBoost,Panda Express,2026-03-24,363,348.3347473144531,Dedicated_Daily,,
+XGBoost,Panda Express,2026-03-25,298,357.7313232421875,Dedicated_Daily,,
+XGBoost,Panda Express,2026-03-26,382,471.41607666015625,Dedicated_Daily,,
+XGBoost,Panda Express,2026-04-13,262,296.20672607421875,Dedicated_Daily,,
+XGBoost,Panda Express,2026-04-14,233,292.67120361328125,Dedicated_Daily,,
+XGBoost,Panda Express,2026-04-15,266,286.5159606933594,Dedicated_Daily,,
+XGBoost,Panda Express,2026-04-17,131,153.59640502929688,Dedicated_Daily,,
+XGBoost,Panda Express,2026-04-20,262,294.98309326171875,Dedicated_Daily,,
+XGBoost,Panda Express,2026-04-21,229,292.67120361328125,Dedicated_Daily,,
+XGBoost,Panda Express,2026-04-23,233,290.6892395019531,Dedicated_Daily,,
+XGBoost,Panda Express,2026-04-24,153,140.52183532714844,Dedicated_Daily,,
+XGBoost,Panda Express,2026-04-28,221,308.39984130859375,Dedicated_Daily,,
+XGBoost,Panda Express,2026-04-29,293,305.3312683105469,Dedicated_Daily,,
+XGBoost,Panda Express,2026-04-30,292,290.1351623535156,Dedicated_Daily,,
+XGBoost,Residential Dining,2026-03-06,28,26.670541763305664,Dedicated_Daily,,
+XGBoost,Residential Dining,2026-04-15,35,31.469335556030273,Dedicated_Daily,,
+XGBoost,Residential Dining,2026-04-16,21,24.982654571533203,Dedicated_Daily,,
+XGBoost,Residential Dining,2026-04-24,10,25.91256523132324,Dedicated_Daily,,
+LightGBM,Einstein's,2026-03-02,577,554.9333133463191,Dedicated_Daily,,
+LightGBM,Einstein's,2026-03-03,621,577.7731781117097,Dedicated_Daily,,
+LightGBM,Einstein's,2026-03-04,636,625.6106999567514,Dedicated_Daily,,
+LightGBM,Einstein's,2026-03-05,510,549.0612493184012,Dedicated_Daily,,
+LightGBM,Einstein's,2026-03-06,240,294.6199209330406,Dedicated_Daily,,
+LightGBM,Einstein's,2026-03-09,554,554.9333133463191,Dedicated_Daily,,
+LightGBM,Einstein's,2026-03-10,704,569.8205860274222,Dedicated_Daily,,
+LightGBM,Einstein's,2026-03-11,613,611.7704190497586,Dedicated_Daily,,
+LightGBM,Einstein's,2026-03-12,594,534.3946078046837,Dedicated_Daily,,
+LightGBM,Einstein's,2026-03-13,326,288.3984528726861,Dedicated_Daily,,
+LightGBM,Einstein's,2026-03-16,609,540.9842930706234,Dedicated_Daily,,
+LightGBM,Einstein's,2026-03-17,542,611.7704190497586,Dedicated_Daily,,
+LightGBM,Einstein's,2026-03-18,602,561.2011920603242,Dedicated_Daily,,
+LightGBM,Einstein's,2026-03-19,510,480.9122633398228,Dedicated_Daily,,
+LightGBM,Einstein's,2026-03-23,610,550.6427441572812,Dedicated_Daily,,
+LightGBM,Einstein's,2026-03-24,652,624.1292910990085,Dedicated_Daily,,
+LightGBM,Einstein's,2026-03-25,663,611.7704190497586,Dedicated_Daily,,
+LightGBM,Einstein's,2026-03-26,640,532.4185609161684,Dedicated_Daily,,
+LightGBM,Einstein's,2026-03-30,215,538.0086307406785,Dedicated_Daily,,
+LightGBM,Einstein's,2026-04-01,208,548.4934424340611,Dedicated_Daily,,
+LightGBM,Einstein's,2026-04-02,241,499.13997732519925,Dedicated_Daily,,
+LightGBM,Einstein's,2026-04-03,229,305.6324559143515,Dedicated_Daily,,
+LightGBM,Einstein's,2026-04-13,554,560.4288012493801,Dedicated_Daily,,
+LightGBM,Einstein's,2026-04-14,574,575.7704432377528,Dedicated_Daily,,
+LightGBM,Einstein's,2026-04-15,615,580.9913301776476,Dedicated_Daily,,
+LightGBM,Einstein's,2026-04-16,581,563.2414546284585,Dedicated_Daily,,
+LightGBM,Einstein's,2026-04-17,278,325.32590436217436,Dedicated_Daily,,
+LightGBM,Einstein's,2026-04-20,534,562.4180570342521,Dedicated_Daily,,
+LightGBM,Einstein's,2026-04-21,704,591.254349991051,Dedicated_Daily,,
+LightGBM,Einstein's,2026-04-22,564,628.9152488436181,Dedicated_Daily,,
+LightGBM,Einstein's,2026-04-23,451,499.54361980821153,Dedicated_Daily,,
+LightGBM,Einstein's,2026-04-27,583,572.0765081209099,Dedicated_Daily,,
+LightGBM,Einstein's,2026-04-28,587,591.254349991051,Dedicated_Daily,,
+LightGBM,Einstein's,2026-04-29,579,594.4991900424304,Dedicated_Daily,,
+LightGBM,Einstein's,2026-04-30,644,511.9024918574613,Dedicated_Daily,,
+LightGBM,Panda Express,2026-03-02,322,271.1918116852641,Dedicated_Daily,,
+LightGBM,Panda Express,2026-03-03,287,260.8780285696544,Dedicated_Daily,,
+LightGBM,Panda Express,2026-03-04,293,277.2066987744735,Dedicated_Daily,,
+LightGBM,Panda Express,2026-03-05,263,258.6505498598356,Dedicated_Daily,,
+LightGBM,Panda Express,2026-03-12,324,251.14405860016296,Dedicated_Daily,,
+LightGBM,Panda Express,2026-03-13,87,97.39232540867408,Dedicated_Daily,,
+LightGBM,Panda Express,2026-03-16,323,254.3204882252831,Dedicated_Daily,,
+LightGBM,Panda Express,2026-03-17,329,252.5409807236939,Dedicated_Daily,,
+LightGBM,Panda Express,2026-03-18,238,259.1546663699258,Dedicated_Daily,,
+LightGBM,Panda Express,2026-03-19,242,248.1236465296215,Dedicated_Daily,,
+LightGBM,Panda Express,2026-03-20,205,91.22254973868974,Dedicated_Daily,,
+LightGBM,Panda Express,2026-03-24,363,263.88288676616406,Dedicated_Daily,,
+LightGBM,Panda Express,2026-03-25,298,423.0874867184237,Dedicated_Daily,,
+LightGBM,Panda Express,2026-03-26,382,332.76776485832204,Dedicated_Daily,,
+LightGBM,Panda Express,2026-04-13,262,406.16018817373174,Dedicated_Daily,,
+LightGBM,Panda Express,2026-04-14,233,407.1337989636222,Dedicated_Daily,,
+LightGBM,Panda Express,2026-04-15,266,405.74102598153667,Dedicated_Daily,,
+LightGBM,Panda Express,2026-04-17,131,222.20228394304135,Dedicated_Daily,,
+LightGBM,Panda Express,2026-04-20,262,279.96408481074525,Dedicated_Daily,,
+LightGBM,Panda Express,2026-04-21,229,261.21212743691063,Dedicated_Daily,,
+LightGBM,Panda Express,2026-04-23,233,244.55530739546677,Dedicated_Daily,,
+LightGBM,Panda Express,2026-04-24,153,94.06941189762804,Dedicated_Daily,,
+LightGBM,Panda Express,2026-04-28,221,253.11744727844905,Dedicated_Daily,,
+LightGBM,Panda Express,2026-04-29,293,251.7648638293568,Dedicated_Daily,,
+LightGBM,Panda Express,2026-04-30,292,235.52917787286717,Dedicated_Daily,,
+LightGBM,Residential Dining,2026-03-06,28,23.56306569304,Dedicated_Daily,,
+LightGBM,Residential Dining,2026-04-15,35,31.338810302306264,Dedicated_Daily,,
+LightGBM,Residential Dining,2026-04-16,21,26.22861908718435,Dedicated_Daily,,
+LightGBM,Residential Dining,2026-04-24,10,17.533893798106266,Dedicated_Daily,,
+Prophet,Einstein's,2026-03-02,577,509.8624976521847,Dedicated_Daily,,
+Prophet,Einstein's,2026-03-03,621,536.0647662953626,Dedicated_Daily,,
+Prophet,Einstein's,2026-03-04,636,578.0298128546436,Dedicated_Daily,,
+Prophet,Einstein's,2026-03-05,510,527.455093209494,Dedicated_Daily,,
+Prophet,Einstein's,2026-03-06,240,246.44891257856528,Dedicated_Daily,,
+Prophet,Einstein's,2026-03-09,554,479.12383478687696,Dedicated_Daily,,
+Prophet,Einstein's,2026-03-10,704,548.5864718134974,Dedicated_Daily,,
+Prophet,Einstein's,2026-03-11,613,617.9999399575435,Dedicated_Daily,,
+Prophet,Einstein's,2026-03-12,594,490.85425193986623,Dedicated_Daily,,
+Prophet,Einstein's,2026-03-13,326,200.25498723046235,Dedicated_Daily,,
+Prophet,Einstein's,2026-03-16,609,404.637119236835,Dedicated_Daily,,
+Prophet,Einstein's,2026-03-17,542,481.0331359449111,Dedicated_Daily,,
+Prophet,Einstein's,2026-03-18,602,553.0141470432998,Dedicated_Daily,,
+Prophet,Einstein's,2026-03-19,510,446.6752971981929,Dedicated_Daily,,
+Prophet,Einstein's,2026-03-23,610,427.7651298182424,Dedicated_Daily,,
+Prophet,Einstein's,2026-03-24,652,557.2269267203405,Dedicated_Daily,,
+Prophet,Einstein's,2026-03-25,663,555.3119298729722,Dedicated_Daily,,
+Prophet,Einstein's,2026-03-26,640,473.1794646118287,Dedicated_Daily,,
+Prophet,Einstein's,2026-03-30,215,417.9884480140052,Dedicated_Daily,,
+Prophet,Einstein's,2026-04-01,208,773.002366405127,Dedicated_Daily,,
+Prophet,Einstein's,2026-04-02,241,474.792711081983,Dedicated_Daily,,
+Prophet,Einstein's,2026-04-03,229,339.58064555362404,Dedicated_Daily,,
+Prophet,Einstein's,2026-04-13,554,378.62740515705775,Dedicated_Daily,,
+Prophet,Einstein's,2026-04-14,574,524.8377124459531,Dedicated_Daily,,
+Prophet,Einstein's,2026-04-15,615,438.9475050072934,Dedicated_Daily,,
+Prophet,Einstein's,2026-04-16,581,386.84526246686426,Dedicated_Daily,,
+Prophet,Einstein's,2026-04-17,278,199.53736867103635,Dedicated_Daily,,
+Prophet,Einstein's,2026-04-20,534,417.59986799558646,Dedicated_Daily,,
+Prophet,Einstein's,2026-04-21,704,518.4022343104402,Dedicated_Daily,,
+Prophet,Einstein's,2026-04-22,564,572.7701219615802,Dedicated_Daily,,
+Prophet,Einstein's,2026-04-23,451,452.9065410639169,Dedicated_Daily,,
+Prophet,Einstein's,2026-04-27,583,425.3544225756817,Dedicated_Daily,,
+Prophet,Einstein's,2026-04-28,587,473.25500541323265,Dedicated_Daily,,
+Prophet,Einstein's,2026-04-29,579,550.9547372106332,Dedicated_Daily,,
+Prophet,Einstein's,2026-04-30,644,440.421703536956,Dedicated_Daily,,
+Prophet,Panda Express,2026-03-02,322,373.29426817743814,Dedicated_Daily,,
+Prophet,Panda Express,2026-03-03,287,281.7094408269599,Dedicated_Daily,,
+Prophet,Panda Express,2026-03-04,293,274.76696573790093,Dedicated_Daily,,
+Prophet,Panda Express,2026-03-05,263,269.66793033412455,Dedicated_Daily,,
+Prophet,Panda Express,2026-03-12,324,364.2288225969188,Dedicated_Daily,,
+Prophet,Panda Express,2026-03-13,87,217.1495408364874,Dedicated_Daily,,
+Prophet,Panda Express,2026-03-16,323,330.2877158479999,Dedicated_Daily,,
+Prophet,Panda Express,2026-03-17,329,368.4440497660454,Dedicated_Daily,,
+Prophet,Panda Express,2026-03-18,238,365.5293329719133,Dedicated_Daily,,
+Prophet,Panda Express,2026-03-19,242,358.26158745583797,Dedicated_Daily,,
+Prophet,Panda Express,2026-03-20,205,190.84695226924416,Dedicated_Daily,,
+Prophet,Panda Express,2026-03-24,363,408.8748352883691,Dedicated_Daily,,
+Prophet,Panda Express,2026-03-25,298,406.2594701274395,Dedicated_Daily,,
+Prophet,Panda Express,2026-03-26,382,351.80016403881217,Dedicated_Daily,,
+Prophet,Panda Express,2026-04-13,262,556.5550377287378,Dedicated_Daily,,
+Prophet,Panda Express,2026-04-14,233,561.8727699348893,Dedicated_Daily,,
+Prophet,Panda Express,2026-04-15,266,631.8673728827752,Dedicated_Daily,,
+Prophet,Panda Express,2026-04-17,131,442.3283562738405,Dedicated_Daily,,
+Prophet,Panda Express,2026-04-20,262,632.1586818119838,Dedicated_Daily,,
+Prophet,Panda Express,2026-04-21,229,608.9206155524506,Dedicated_Daily,,
+Prophet,Panda Express,2026-04-23,233,633.487951463379,Dedicated_Daily,,
+Prophet,Panda Express,2026-04-24,153,465.942988921281,Dedicated_Daily,,
+Prophet,Panda Express,2026-04-28,221,600.2762302187332,Dedicated_Daily,,
+Prophet,Panda Express,2026-04-29,293,651.1835724662649,Dedicated_Daily,,
+Prophet,Panda Express,2026-04-30,292,607.5739311688668,Dedicated_Daily,,
+Prophet,Residential Dining,2026-03-06,28,0.0,Dedicated_Daily,,
+Prophet,Residential Dining,2026-04-15,35,0.0,Dedicated_Daily,,
+Prophet,Residential Dining,2026-04-16,21,0.0,Dedicated_Daily,,
+Prophet,Residential Dining,2026-04-24,10,0.0,Dedicated_Daily,,
+Historical Average,Einstein's,2026-03-02,577,557.5,Sum_Recorded_Hourly,11.0,11.0
+Historical Average,Einstein's,2026-03-03,621,580.6666666666665,Sum_Recorded_Hourly,11.0,11.0
+Historical Average,Einstein's,2026-03-04,636,633.4999999999999,Sum_Recorded_Hourly,11.0,11.0
+Historical Average,Einstein's,2026-03-05,510,548.0,Sum_Recorded_Hourly,11.0,11.0
+Historical Average,Einstein's,2026-03-06,240,263.5,Sum_Recorded_Hourly,9.0,9.0
+Historical Average,Einstein's,2026-03-09,554,560.1666666666666,Sum_Recorded_Hourly,11.0,11.0
+Historical Average,Einstein's,2026-03-10,704,586.4285714285714,Sum_Recorded_Hourly,11.0,11.0
+Historical Average,Einstein's,2026-03-11,613,633.8571428571428,Sum_Recorded_Hourly,11.0,11.0
+Historical Average,Einstein's,2026-03-12,594,542.5714285714286,Sum_Recorded_Hourly,11.0,11.0
+Historical Average,Einstein's,2026-03-13,326,256.0,Sum_Recorded_Hourly,8.0,8.0
+Historical Average,Einstein's,2026-03-16,609,559.0535714285713,Sum_Recorded_Hourly,11.0,11.0
+Historical Average,Einstein's,2026-03-17,542,601.125,Sum_Recorded_Hourly,11.0,11.0
+Historical Average,Einstein's,2026-03-18,602,631.25,Sum_Recorded_Hourly,11.0,11.0
+Historical Average,Einstein's,2026-03-19,510,549.0,Sum_Recorded_Hourly,11.0,11.0
+Historical Average,Einstein's,2026-03-23,610,564.7916666666667,Sum_Recorded_Hourly,11.0,11.0
+Historical Average,Einstein's,2026-03-24,652,594.5555555555555,Sum_Recorded_Hourly,11.0,11.0
+Historical Average,Einstein's,2026-03-25,663,628.0,Sum_Recorded_Hourly,11.0,11.0
+Historical Average,Einstein's,2026-03-26,640,544.6666666666667,Sum_Recorded_Hourly,11.0,11.0
+Historical Average,Einstein's,2026-03-30,215,434.5666666666667,Sum_Recorded_Hourly,6.0,6.0
+Historical Average,Einstein's,2026-04-01,208,494.19999999999993,Sum_Recorded_Hourly,6.0,6.0
+Historical Average,Einstein's,2026-04-02,241,418.19999999999993,Sum_Recorded_Hourly,6.0,6.0
+Historical Average,Einstein's,2026-04-03,229,228.0,Sum_Recorded_Hourly,6.0,6.0
+Historical Average,Einstein's,2026-04-13,554,548.9575757575758,Sum_Recorded_Hourly,11.0,11.0
+Historical Average,Einstein's,2026-04-14,574,600.0909090909091,Sum_Recorded_Hourly,11.0,11.0
+Historical Average,Einstein's,2026-04-15,615,612.4242424242425,Sum_Recorded_Hourly,11.0,11.0
+Historical Average,Einstein's,2026-04-16,581,544.6439393939394,Sum_Recorded_Hourly,11.0,11.0
+Historical Average,Einstein's,2026-04-17,278,261.31666666666666,Sum_Recorded_Hourly,9.0,9.0
+Historical Average,Einstein's,2026-04-20,534,549.2121212121211,Sum_Recorded_Hourly,11.0,11.0
+Historical Average,Einstein's,2026-04-21,704,597.9166666666667,Sum_Recorded_Hourly,11.0,11.0
+Historical Average,Einstein's,2026-04-22,564,612.6987179487179,Sum_Recorded_Hourly,11.0,11.0
+Historical Average,Einstein's,2026-04-23,451,547.4423076923077,Sum_Recorded_Hourly,11.0,11.0
+Historical Average,Einstein's,2026-04-27,583,547.8626373626373,Sum_Recorded_Hourly,11.0,11.0
+Historical Average,Einstein's,2026-04-28,587,606.0769230769231,Sum_Recorded_Hourly,11.0,11.0
+Historical Average,Einstein's,2026-04-29,579,609.3406593406593,Sum_Recorded_Hourly,11.0,11.0
+Historical Average,Einstein's,2026-04-30,644,540.489010989011,Sum_Recorded_Hourly,11.0,11.0
+Historical Average,Panda Express,2026-03-02,322,283.4,Sum_Recorded_Hourly,5.0,5.0
+Historical Average,Panda Express,2026-03-03,287,257.3333333333333,Sum_Recorded_Hourly,5.0,5.0
+Historical Average,Panda Express,2026-03-04,293,257.3333333333333,Sum_Recorded_Hourly,5.0,5.0
+Historical Average,Panda Express,2026-03-05,263,255.33333333333337,Sum_Recorded_Hourly,5.0,5.0
+Historical Average,Panda Express,2026-03-12,324,256.42857142857144,Sum_Recorded_Hourly,5.0,5.0
+Historical Average,Panda Express,2026-03-13,87,97.9047619047619,Sum_Recorded_Hourly,4.0,4.0
+Historical Average,Panda Express,2026-03-16,323,287.3214285714286,Sum_Recorded_Hourly,6.0,6.0
+Historical Average,Panda Express,2026-03-17,329,259.25,Sum_Recorded_Hourly,5.0,5.0
+Historical Average,Panda Express,2026-03-18,238,264.625,Sum_Recorded_Hourly,6.0,6.0
+Historical Average,Panda Express,2026-03-19,242,264.875,Sum_Recorded_Hourly,5.0,5.0
+Historical Average,Panda Express,2026-03-20,205,96.875,Sum_Recorded_Hourly,4.0,4.0
+Historical Average,Panda Express,2026-03-24,363,267.0,Sum_Recorded_Hourly,5.0,5.0
+Historical Average,Panda Express,2026-03-25,298,259.3333333333333,Sum_Recorded_Hourly,5.0,5.0
+Historical Average,Panda Express,2026-03-26,382,262.3333333333333,Sum_Recorded_Hourly,5.0,5.0
+Historical Average,Panda Express,2026-04-13,262,284.59999999999997,Sum_Recorded_Hourly,5.0,5.0
+Historical Average,Panda Express,2026-04-14,233,274.0,Sum_Recorded_Hourly,5.0,5.0
+Historical Average,Panda Express,2026-04-15,266,266.1818181818182,Sum_Recorded_Hourly,5.0,5.0
+Historical Average,Panda Express,2026-04-17,131,108.93030303030305,Sum_Recorded_Hourly,5.0,5.0
+Historical Average,Panda Express,2026-04-20,262,282.5454545454545,Sum_Recorded_Hourly,5.0,5.0
+Historical Average,Panda Express,2026-04-21,229,270.5833333333333,Sum_Recorded_Hourly,5.0,5.0
+Historical Average,Panda Express,2026-04-23,233,270.5833333333333,Sum_Recorded_Hourly,5.0,5.0
+Historical Average,Panda Express,2026-04-24,153,111.4047619047619,Sum_Recorded_Hourly,5.0,5.0
+Historical Average,Panda Express,2026-04-28,221,267.3846153846154,Sum_Recorded_Hourly,5.0,5.0
+Historical Average,Panda Express,2026-04-29,293,272.0,Sum_Recorded_Hourly,5.0,5.0
+Historical Average,Panda Express,2026-04-30,292,267.6923076923077,Sum_Recorded_Hourly,5.0,5.0
+Historical Average,Residential Dining,2026-03-06,28,32.17857142857143,Sum_Recorded_Hourly,6.0,6.0
+Historical Average,Residential Dining,2026-04-15,35,44.18737373737373,Sum_Recorded_Hourly,7.0,7.0
+Historical Average,Residential Dining,2026-04-16,21,17.33560606060606,Sum_Recorded_Hourly,5.0,5.0
+Historical Average,Residential Dining,2026-04-24,10,15.903096903096902,Sum_Recorded_Hourly,3.0,3.0
+LightGBM,Einstein's,2026-03-02,577,550.6699805328436,Sum_Recorded_Hourly,11.0,11.0
+LightGBM,Einstein's,2026-03-03,621,548.2694496617048,Sum_Recorded_Hourly,11.0,11.0
+LightGBM,Einstein's,2026-03-04,636,625.4839789699574,Sum_Recorded_Hourly,11.0,11.0
+LightGBM,Einstein's,2026-03-05,510,537.1486566613721,Sum_Recorded_Hourly,11.0,11.0
+LightGBM,Einstein's,2026-03-06,240,268.50877340328714,Sum_Recorded_Hourly,9.0,9.0
+LightGBM,Einstein's,2026-03-09,554,554.1726595703435,Sum_Recorded_Hourly,11.0,11.0
+LightGBM,Einstein's,2026-03-10,704,565.7023404152741,Sum_Recorded_Hourly,11.0,11.0
+LightGBM,Einstein's,2026-03-11,613,631.0321280236905,Sum_Recorded_Hourly,11.0,11.0
+LightGBM,Einstein's,2026-03-12,594,555.4105692506754,Sum_Recorded_Hourly,11.0,11.0
+LightGBM,Einstein's,2026-03-13,326,270.5041970884768,Sum_Recorded_Hourly,8.0,8.0
+LightGBM,Einstein's,2026-03-16,609,559.7483593231564,Sum_Recorded_Hourly,11.0,11.0
+LightGBM,Einstein's,2026-03-17,542,555.924627294361,Sum_Recorded_Hourly,11.0,11.0
+LightGBM,Einstein's,2026-03-18,602,617.2118321969133,Sum_Recorded_Hourly,11.0,11.0
+LightGBM,Einstein's,2026-03-19,510,515.7206961510118,Sum_Recorded_Hourly,11.0,11.0
+LightGBM,Einstein's,2026-03-23,610,554.7029456963868,Sum_Recorded_Hourly,11.0,11.0
+LightGBM,Einstein's,2026-03-24,652,586.8940106615207,Sum_Recorded_Hourly,11.0,11.0
+LightGBM,Einstein's,2026-03-25,663,621.4107213830866,Sum_Recorded_Hourly,11.0,11.0
+LightGBM,Einstein's,2026-03-26,640,530.5955180987005,Sum_Recorded_Hourly,11.0,11.0
+LightGBM,Einstein's,2026-03-30,215,428.42671894868147,Sum_Recorded_Hourly,6.0,6.0
+LightGBM,Einstein's,2026-04-01,208,429.17026054888515,Sum_Recorded_Hourly,6.0,6.0
+LightGBM,Einstein's,2026-04-02,241,376.25279234853565,Sum_Recorded_Hourly,6.0,6.0
+LightGBM,Einstein's,2026-04-03,229,214.58200965323525,Sum_Recorded_Hourly,6.0,6.0
+LightGBM,Einstein's,2026-04-13,554,539.8065653332842,Sum_Recorded_Hourly,11.0,11.0
+LightGBM,Einstein's,2026-04-14,574,565.6607622076165,Sum_Recorded_Hourly,11.0,11.0
+LightGBM,Einstein's,2026-04-15,615,592.5370876297042,Sum_Recorded_Hourly,11.0,11.0
+LightGBM,Einstein's,2026-04-16,581,539.0519683550339,Sum_Recorded_Hourly,11.0,11.0
+LightGBM,Einstein's,2026-04-17,278,294.3455723201312,Sum_Recorded_Hourly,9.0,9.0
+LightGBM,Einstein's,2026-04-20,534,560.2792668593597,Sum_Recorded_Hourly,11.0,11.0
+LightGBM,Einstein's,2026-04-21,704,568.4317490969614,Sum_Recorded_Hourly,11.0,11.0
+LightGBM,Einstein's,2026-04-22,564,638.4129956916823,Sum_Recorded_Hourly,11.0,11.0
+LightGBM,Einstein's,2026-04-23,451,549.3606149097218,Sum_Recorded_Hourly,11.0,11.0
+LightGBM,Einstein's,2026-04-27,583,554.8149504695443,Sum_Recorded_Hourly,11.0,11.0
+LightGBM,Einstein's,2026-04-28,587,566.8810787338465,Sum_Recorded_Hourly,11.0,11.0
+LightGBM,Einstein's,2026-04-29,579,607.3095919166132,Sum_Recorded_Hourly,11.0,11.0
+LightGBM,Einstein's,2026-04-30,644,533.8439247219227,Sum_Recorded_Hourly,11.0,11.0
+LightGBM,Panda Express,2026-03-02,322,268.1812444099945,Sum_Recorded_Hourly,5.0,5.0
+LightGBM,Panda Express,2026-03-03,287,244.8550702396292,Sum_Recorded_Hourly,5.0,5.0
+LightGBM,Panda Express,2026-03-04,293,263.13799849112524,Sum_Recorded_Hourly,5.0,5.0
+LightGBM,Panda Express,2026-03-05,263,249.7644363287182,Sum_Recorded_Hourly,5.0,5.0
+LightGBM,Panda Express,2026-03-12,324,234.0652095334709,Sum_Recorded_Hourly,5.0,5.0
+LightGBM,Panda Express,2026-03-13,87,132.05819644817555,Sum_Recorded_Hourly,4.0,4.0
+LightGBM,Panda Express,2026-03-16,323,275.9566143849157,Sum_Recorded_Hourly,6.0,6.0
+LightGBM,Panda Express,2026-03-17,329,251.3486407626491,Sum_Recorded_Hourly,5.0,5.0
+LightGBM,Panda Express,2026-03-18,238,280.0929352588154,Sum_Recorded_Hourly,6.0,6.0
+LightGBM,Panda Express,2026-03-19,242,244.57945976917392,Sum_Recorded_Hourly,5.0,5.0
+LightGBM,Panda Express,2026-03-20,205,123.39808165957137,Sum_Recorded_Hourly,4.0,4.0
+LightGBM,Panda Express,2026-03-24,363,248.75693661140218,Sum_Recorded_Hourly,5.0,5.0
+LightGBM,Panda Express,2026-03-25,298,272.0918216226312,Sum_Recorded_Hourly,5.0,5.0
+LightGBM,Panda Express,2026-03-26,382,242.8633691962115,Sum_Recorded_Hourly,5.0,5.0
+LightGBM,Panda Express,2026-04-13,262,276.21453452926715,Sum_Recorded_Hourly,5.0,5.0
+LightGBM,Panda Express,2026-04-14,233,265.17165362809544,Sum_Recorded_Hourly,5.0,5.0
+LightGBM,Panda Express,2026-04-15,266,277.2129750354552,Sum_Recorded_Hourly,5.0,5.0
+LightGBM,Panda Express,2026-04-17,131,124.43887832709117,Sum_Recorded_Hourly,5.0,5.0
+LightGBM,Panda Express,2026-04-20,262,270.37690961640783,Sum_Recorded_Hourly,5.0,5.0
+LightGBM,Panda Express,2026-04-21,229,249.97543630161454,Sum_Recorded_Hourly,5.0,5.0
+LightGBM,Panda Express,2026-04-23,233,242.65316469598397,Sum_Recorded_Hourly,5.0,5.0
+LightGBM,Panda Express,2026-04-24,153,128.2079949791824,Sum_Recorded_Hourly,5.0,5.0
+LightGBM,Panda Express,2026-04-28,221,254.11593808178134,Sum_Recorded_Hourly,5.0,5.0
+LightGBM,Panda Express,2026-04-29,293,272.5108074616909,Sum_Recorded_Hourly,5.0,5.0
+LightGBM,Panda Express,2026-04-30,292,244.21068364805595,Sum_Recorded_Hourly,5.0,5.0
+LightGBM,Residential Dining,2026-03-06,28,22.8304009418069,Sum_Recorded_Hourly,6.0,6.0
+LightGBM,Residential Dining,2026-04-15,35,35.0307296554952,Sum_Recorded_Hourly,7.0,7.0
+LightGBM,Residential Dining,2026-04-16,21,21.388912106125723,Sum_Recorded_Hourly,5.0,5.0
+LightGBM,Residential Dining,2026-04-24,10,11.022042837669987,Sum_Recorded_Hourly,3.0,3.0
+Prophet,Einstein's,2026-03-02,577,531.9674327294323,Sum_Recorded_Hourly,11.0,11.0
+Prophet,Einstein's,2026-03-03,621,577.2619031373906,Sum_Recorded_Hourly,11.0,11.0
+Prophet,Einstein's,2026-03-04,636,619.74101577282,Sum_Recorded_Hourly,11.0,11.0
+Prophet,Einstein's,2026-03-05,510,581.9628773864026,Sum_Recorded_Hourly,11.0,11.0
+Prophet,Einstein's,2026-03-06,240,284.5257236094609,Sum_Recorded_Hourly,9.0,9.0
+Prophet,Einstein's,2026-03-09,554,520.016250215427,Sum_Recorded_Hourly,11.0,11.0
+Prophet,Einstein's,2026-03-10,704,585.1956801112044,Sum_Recorded_Hourly,11.0,11.0
+Prophet,Einstein's,2026-03-11,613,685.6668197825832,Sum_Recorded_Hourly,11.0,11.0
+Prophet,Einstein's,2026-03-12,594,542.466173567549,Sum_Recorded_Hourly,11.0,11.0
+Prophet,Einstein's,2026-03-13,326,265.3639268458904,Sum_Recorded_Hourly,8.0,8.0
+Prophet,Einstein's,2026-03-16,609,501.3910630050213,Sum_Recorded_Hourly,11.0,11.0
+Prophet,Einstein's,2026-03-17,542,548.7320109156566,Sum_Recorded_Hourly,11.0,11.0
+Prophet,Einstein's,2026-03-18,602,597.9731198949153,Sum_Recorded_Hourly,11.0,11.0
+Prophet,Einstein's,2026-03-19,510,504.4284085653283,Sum_Recorded_Hourly,11.0,11.0
+Prophet,Einstein's,2026-03-23,610,508.30432003306896,Sum_Recorded_Hourly,11.0,11.0
+Prophet,Einstein's,2026-03-24,652,633.9518190761896,Sum_Recorded_Hourly,11.0,11.0
+Prophet,Einstein's,2026-03-25,663,633.0592475570925,Sum_Recorded_Hourly,11.0,11.0
+Prophet,Einstein's,2026-03-26,640,553.759439314841,Sum_Recorded_Hourly,11.0,11.0
+Prophet,Einstein's,2026-03-30,215,395.9613570283219,Sum_Recorded_Hourly,6.0,6.0
+Prophet,Einstein's,2026-04-01,208,493.7049177328654,Sum_Recorded_Hourly,6.0,6.0
+Prophet,Einstein's,2026-04-02,241,330.2438447654851,Sum_Recorded_Hourly,6.0,6.0
+Prophet,Einstein's,2026-04-03,229,241.6013241546484,Sum_Recorded_Hourly,6.0,6.0
+Prophet,Einstein's,2026-04-13,554,527.0382854613923,Sum_Recorded_Hourly,11.0,11.0
+Prophet,Einstein's,2026-04-14,574,662.3958911963175,Sum_Recorded_Hourly,11.0,11.0
+Prophet,Einstein's,2026-04-15,615,602.9710385263619,Sum_Recorded_Hourly,11.0,11.0
+Prophet,Einstein's,2026-04-16,581,571.897230871077,Sum_Recorded_Hourly,11.0,11.0
+Prophet,Einstein's,2026-04-17,278,324.1889077037028,Sum_Recorded_Hourly,9.0,9.0
+Prophet,Einstein's,2026-04-20,534,573.7802643904882,Sum_Recorded_Hourly,11.0,11.0
+Prophet,Einstein's,2026-04-21,704,651.8158206981147,Sum_Recorded_Hourly,11.0,11.0
+Prophet,Einstein's,2026-04-22,564,724.9674679287328,Sum_Recorded_Hourly,11.0,11.0
+Prophet,Einstein's,2026-04-23,451,582.959939503315,Sum_Recorded_Hourly,11.0,11.0
+Prophet,Einstein's,2026-04-27,583,577.6571189888342,Sum_Recorded_Hourly,11.0,11.0
+Prophet,Einstein's,2026-04-28,587,623.4734664359706,Sum_Recorded_Hourly,11.0,11.0
+Prophet,Einstein's,2026-04-29,579,681.8239566487234,Sum_Recorded_Hourly,11.0,11.0
+Prophet,Einstein's,2026-04-30,644,598.5226173305839,Sum_Recorded_Hourly,11.0,11.0
+Prophet,Panda Express,2026-03-02,322,310.24413171819754,Sum_Recorded_Hourly,5.0,5.0
+Prophet,Panda Express,2026-03-03,287,289.1248256787014,Sum_Recorded_Hourly,5.0,5.0
+Prophet,Panda Express,2026-03-04,293,284.1480334270503,Sum_Recorded_Hourly,5.0,5.0
+Prophet,Panda Express,2026-03-05,263,287.04710566102085,Sum_Recorded_Hourly,5.0,5.0
+Prophet,Panda Express,2026-03-12,324,310.8924790736355,Sum_Recorded_Hourly,5.0,5.0
+Prophet,Panda Express,2026-03-13,87,157.28110951496947,Sum_Recorded_Hourly,4.0,4.0
+Prophet,Panda Express,2026-03-16,323,358.052737615916,Sum_Recorded_Hourly,6.0,6.0
+Prophet,Panda Express,2026-03-17,329,331.03074151361943,Sum_Recorded_Hourly,5.0,5.0
+Prophet,Panda Express,2026-03-18,238,341.0136341593719,Sum_Recorded_Hourly,6.0,6.0
+Prophet,Panda Express,2026-03-19,242,318.517735496734,Sum_Recorded_Hourly,5.0,5.0
+Prophet,Panda Express,2026-03-20,205,160.0340292773537,Sum_Recorded_Hourly,4.0,4.0
+Prophet,Panda Express,2026-03-24,363,349.59871142743884,Sum_Recorded_Hourly,5.0,5.0
+Prophet,Panda Express,2026-03-25,298,362.5885978990556,Sum_Recorded_Hourly,5.0,5.0
+Prophet,Panda Express,2026-03-26,382,339.5148192234058,Sum_Recorded_Hourly,5.0,5.0
+Prophet,Panda Express,2026-04-13,262,445.6084812613947,Sum_Recorded_Hourly,5.0,5.0
+Prophet,Panda Express,2026-04-14,233,426.9070926284335,Sum_Recorded_Hourly,5.0,5.0
+Prophet,Panda Express,2026-04-15,266,425.9931036077728,Sum_Recorded_Hourly,5.0,5.0
+Prophet,Panda Express,2026-04-17,131,272.9884801814639,Sum_Recorded_Hourly,5.0,5.0
+Prophet,Panda Express,2026-04-20,262,476.52054197362327,Sum_Recorded_Hourly,5.0,5.0
+Prophet,Panda Express,2026-04-21,229,453.0639815490028,Sum_Recorded_Hourly,5.0,5.0
+Prophet,Panda Express,2026-04-23,233,493.5979050195798,Sum_Recorded_Hourly,5.0,5.0
+Prophet,Panda Express,2026-04-24,153,321.1878478753195,Sum_Recorded_Hourly,5.0,5.0
+Prophet,Panda Express,2026-04-28,221,472.0400947927575,Sum_Recorded_Hourly,5.0,5.0
+Prophet,Panda Express,2026-04-29,293,466.4722411696007,Sum_Recorded_Hourly,5.0,5.0
+Prophet,Panda Express,2026-04-30,292,481.00693392982294,Sum_Recorded_Hourly,5.0,5.0
+Prophet,Residential Dining,2026-03-06,28,17.3772339138605,Sum_Recorded_Hourly,6.0,6.0
+Prophet,Residential Dining,2026-04-15,35,34.540841774163646,Sum_Recorded_Hourly,7.0,7.0
+Prophet,Residential Dining,2026-04-16,21,6.55691549967548,Sum_Recorded_Hourly,5.0,5.0
+Prophet,Residential Dining,2026-04-24,10,29.655227605382592,Sum_Recorded_Hourly,3.0,3.0
+Random Forest,Einstein's,2026-03-02,577,551.3349316671989,Sum_Recorded_Hourly,11.0,11.0
+Random Forest,Einstein's,2026-03-03,621,543.8431229844588,Sum_Recorded_Hourly,11.0,11.0
+Random Forest,Einstein's,2026-03-04,636,607.9325476972754,Sum_Recorded_Hourly,11.0,11.0
+Random Forest,Einstein's,2026-03-05,510,547.0196039026434,Sum_Recorded_Hourly,11.0,11.0
+Random Forest,Einstein's,2026-03-06,240,268.18442191889125,Sum_Recorded_Hourly,9.0,9.0
+Random Forest,Einstein's,2026-03-09,554,547.3107417650544,Sum_Recorded_Hourly,11.0,11.0
+Random Forest,Einstein's,2026-03-10,704,553.3421388895678,Sum_Recorded_Hourly,11.0,11.0
+Random Forest,Einstein's,2026-03-11,613,621.0407592761461,Sum_Recorded_Hourly,11.0,11.0
+Random Forest,Einstein's,2026-03-12,594,551.2424399379408,Sum_Recorded_Hourly,11.0,11.0
+Random Forest,Einstein's,2026-03-13,326,295.5059627419558,Sum_Recorded_Hourly,8.0,8.0
+Random Forest,Einstein's,2026-03-16,609,553.8296836871006,Sum_Recorded_Hourly,11.0,11.0
+Random Forest,Einstein's,2026-03-17,542,549.4044877005376,Sum_Recorded_Hourly,11.0,11.0
+Random Forest,Einstein's,2026-03-18,602,597.4957894093808,Sum_Recorded_Hourly,11.0,11.0
+Random Forest,Einstein's,2026-03-19,510,544.863403486129,Sum_Recorded_Hourly,11.0,11.0
+Random Forest,Einstein's,2026-03-23,610,543.7197471559092,Sum_Recorded_Hourly,11.0,11.0
+Random Forest,Einstein's,2026-03-24,652,581.7537764802015,Sum_Recorded_Hourly,11.0,11.0
+Random Forest,Einstein's,2026-03-25,663,608.3001481029933,Sum_Recorded_Hourly,11.0,11.0
+Random Forest,Einstein's,2026-03-26,640,531.1204712632118,Sum_Recorded_Hourly,11.0,11.0
+Random Forest,Einstein's,2026-03-30,215,430.84305299242124,Sum_Recorded_Hourly,6.0,6.0
+Random Forest,Einstein's,2026-04-01,208,430.4930900270145,Sum_Recorded_Hourly,6.0,6.0
+Random Forest,Einstein's,2026-04-02,241,388.86753549215575,Sum_Recorded_Hourly,6.0,6.0
+Random Forest,Einstein's,2026-04-03,229,204.27351714803672,Sum_Recorded_Hourly,6.0,6.0
+Random Forest,Einstein's,2026-04-13,554,539.1493988174549,Sum_Recorded_Hourly,11.0,11.0
+Random Forest,Einstein's,2026-04-14,574,556.1358448223805,Sum_Recorded_Hourly,11.0,11.0
+Random Forest,Einstein's,2026-04-15,615,582.7149277084272,Sum_Recorded_Hourly,11.0,11.0
+Random Forest,Einstein's,2026-04-16,581,542.6566951424462,Sum_Recorded_Hourly,11.0,11.0
+Random Forest,Einstein's,2026-04-17,278,287.4478988207992,Sum_Recorded_Hourly,9.0,9.0
+Random Forest,Einstein's,2026-04-20,534,552.679674175171,Sum_Recorded_Hourly,11.0,11.0
+Random Forest,Einstein's,2026-04-21,704,566.7260219129146,Sum_Recorded_Hourly,11.0,11.0
+Random Forest,Einstein's,2026-04-22,564,643.4832123301865,Sum_Recorded_Hourly,11.0,11.0
+Random Forest,Einstein's,2026-04-23,451,569.6796820992303,Sum_Recorded_Hourly,11.0,11.0
+Random Forest,Einstein's,2026-04-27,583,538.4960565727824,Sum_Recorded_Hourly,11.0,11.0
+Random Forest,Einstein's,2026-04-28,587,583.0941238574673,Sum_Recorded_Hourly,11.0,11.0
+Random Forest,Einstein's,2026-04-29,579,588.5853349159436,Sum_Recorded_Hourly,11.0,11.0
+Random Forest,Einstein's,2026-04-30,644,530.808654875474,Sum_Recorded_Hourly,11.0,11.0
+Random Forest,Panda Express,2026-03-02,322,273.1965835812715,Sum_Recorded_Hourly,5.0,5.0
+Random Forest,Panda Express,2026-03-03,287,261.972646857604,Sum_Recorded_Hourly,5.0,5.0
+Random Forest,Panda Express,2026-03-04,293,270.5821384317403,Sum_Recorded_Hourly,5.0,5.0
+Random Forest,Panda Express,2026-03-05,263,253.71333564681782,Sum_Recorded_Hourly,5.0,5.0
+Random Forest,Panda Express,2026-03-12,324,244.13765930147454,Sum_Recorded_Hourly,5.0,5.0
+Random Forest,Panda Express,2026-03-13,87,130.71772680736572,Sum_Recorded_Hourly,4.0,4.0
+Random Forest,Panda Express,2026-03-16,323,285.83489509257043,Sum_Recorded_Hourly,6.0,6.0
+Random Forest,Panda Express,2026-03-17,329,269.69448360282723,Sum_Recorded_Hourly,5.0,5.0
+Random Forest,Panda Express,2026-03-18,238,287.6857776727121,Sum_Recorded_Hourly,6.0,6.0
+Random Forest,Panda Express,2026-03-19,242,266.29803807287755,Sum_Recorded_Hourly,5.0,5.0
+Random Forest,Panda Express,2026-03-20,205,121.33936659033611,Sum_Recorded_Hourly,4.0,4.0
+Random Forest,Panda Express,2026-03-24,363,262.31423379492054,Sum_Recorded_Hourly,5.0,5.0
+Random Forest,Panda Express,2026-03-25,298,281.5143739579899,Sum_Recorded_Hourly,5.0,5.0
+Random Forest,Panda Express,2026-03-26,382,255.60314481465412,Sum_Recorded_Hourly,5.0,5.0
+Random Forest,Panda Express,2026-04-13,262,287.29748014661334,Sum_Recorded_Hourly,5.0,5.0
+Random Forest,Panda Express,2026-04-14,233,279.081297473041,Sum_Recorded_Hourly,5.0,5.0
+Random Forest,Panda Express,2026-04-15,266,286.9030400502908,Sum_Recorded_Hourly,5.0,5.0
+Random Forest,Panda Express,2026-04-17,131,128.61040810577657,Sum_Recorded_Hourly,5.0,5.0
+Random Forest,Panda Express,2026-04-20,262,278.5938861186268,Sum_Recorded_Hourly,5.0,5.0
+Random Forest,Panda Express,2026-04-21,229,263.7981397368383,Sum_Recorded_Hourly,5.0,5.0
+Random Forest,Panda Express,2026-04-23,233,266.8759193446032,Sum_Recorded_Hourly,5.0,5.0
+Random Forest,Panda Express,2026-04-24,153,122.0930487428769,Sum_Recorded_Hourly,5.0,5.0
+Random Forest,Panda Express,2026-04-28,221,267.4616223192355,Sum_Recorded_Hourly,5.0,5.0
+Random Forest,Panda Express,2026-04-29,293,278.4803492211894,Sum_Recorded_Hourly,5.0,5.0
+Random Forest,Panda Express,2026-04-30,292,254.34845778133786,Sum_Recorded_Hourly,5.0,5.0
+Random Forest,Residential Dining,2026-03-06,28,33.32641579926171,Sum_Recorded_Hourly,6.0,6.0
+Random Forest,Residential Dining,2026-04-15,35,41.072610161489905,Sum_Recorded_Hourly,7.0,7.0
+Random Forest,Residential Dining,2026-04-16,21,19.2889460403329,Sum_Recorded_Hourly,5.0,5.0
+Random Forest,Residential Dining,2026-04-24,10,14.420533161833848,Sum_Recorded_Hourly,3.0,3.0
+Ridge,Einstein's,2026-03-02,577,524.7150954194863,Sum_Recorded_Hourly,11.0,11.0
+Ridge,Einstein's,2026-03-03,621,531.6962368089385,Sum_Recorded_Hourly,11.0,11.0
+Ridge,Einstein's,2026-03-04,636,546.0580455117149,Sum_Recorded_Hourly,11.0,11.0
+Ridge,Einstein's,2026-03-05,510,529.0670012209238,Sum_Recorded_Hourly,11.0,11.0
+Ridge,Einstein's,2026-03-06,240,304.25327173352144,Sum_Recorded_Hourly,9.0,9.0
+Ridge,Einstein's,2026-03-09,554,527.5198981623244,Sum_Recorded_Hourly,11.0,11.0
+Ridge,Einstein's,2026-03-10,704,546.9922644542011,Sum_Recorded_Hourly,11.0,11.0
+Ridge,Einstein's,2026-03-11,613,585.1932772737007,Sum_Recorded_Hourly,11.0,11.0
+Ridge,Einstein's,2026-03-12,594,514.3415124607044,Sum_Recorded_Hourly,11.0,11.0
+Ridge,Einstein's,2026-03-13,326,295.34827209933275,Sum_Recorded_Hourly,8.0,8.0
+Ridge,Einstein's,2026-03-16,609,528.2854975716555,Sum_Recorded_Hourly,11.0,11.0
+Ridge,Einstein's,2026-03-17,542,534.7929284116365,Sum_Recorded_Hourly,11.0,11.0
+Ridge,Einstein's,2026-03-18,602,557.2449483745055,Sum_Recorded_Hourly,11.0,11.0
+Ridge,Einstein's,2026-03-19,510,502.7501268883052,Sum_Recorded_Hourly,11.0,11.0
+Ridge,Einstein's,2026-03-23,610,539.3271827207022,Sum_Recorded_Hourly,11.0,11.0
+Ridge,Einstein's,2026-03-24,652,586.3704995272373,Sum_Recorded_Hourly,11.0,11.0
+Ridge,Einstein's,2026-03-25,663,571.3793863837203,Sum_Recorded_Hourly,11.0,11.0
+Ridge,Einstein's,2026-03-26,640,531.3074211818703,Sum_Recorded_Hourly,11.0,11.0
+Ridge,Einstein's,2026-03-30,215,427.29444430298486,Sum_Recorded_Hourly,6.0,6.0
+Ridge,Einstein's,2026-04-01,208,482.8645660392549,Sum_Recorded_Hourly,6.0,6.0
+Ridge,Einstein's,2026-04-02,241,398.34787073226425,Sum_Recorded_Hourly,6.0,6.0
+Ridge,Einstein's,2026-04-03,229,305.2095473655427,Sum_Recorded_Hourly,6.0,6.0
+Ridge,Einstein's,2026-04-13,554,518.1272155295671,Sum_Recorded_Hourly,11.0,11.0
+Ridge,Einstein's,2026-04-14,574,581.9254051279204,Sum_Recorded_Hourly,11.0,11.0
+Ridge,Einstein's,2026-04-15,615,531.9425475330854,Sum_Recorded_Hourly,11.0,11.0
+Ridge,Einstein's,2026-04-16,581,519.9973149817505,Sum_Recorded_Hourly,11.0,11.0
+Ridge,Einstein's,2026-04-17,278,318.35334332356433,Sum_Recorded_Hourly,9.0,9.0
+Ridge,Einstein's,2026-04-20,534,549.8588551362201,Sum_Recorded_Hourly,11.0,11.0
+Ridge,Einstein's,2026-04-21,704,574.4810040276438,Sum_Recorded_Hourly,11.0,11.0
+Ridge,Einstein's,2026-04-22,564,592.1142726389584,Sum_Recorded_Hourly,11.0,11.0
+Ridge,Einstein's,2026-04-23,451,535.3308583508698,Sum_Recorded_Hourly,11.0,11.0
+Ridge,Einstein's,2026-04-27,583,557.2145276588058,Sum_Recorded_Hourly,11.0,11.0
+Ridge,Einstein's,2026-04-28,587,561.5740638919353,Sum_Recorded_Hourly,11.0,11.0
+Ridge,Einstein's,2026-04-29,579,578.9597565891634,Sum_Recorded_Hourly,11.0,11.0
+Ridge,Einstein's,2026-04-30,644,540.2293867634004,Sum_Recorded_Hourly,11.0,11.0
+Ridge,Panda Express,2026-03-02,322,274.6737690238406,Sum_Recorded_Hourly,5.0,5.0
+Ridge,Panda Express,2026-03-03,287,250.67141965896337,Sum_Recorded_Hourly,5.0,5.0
+Ridge,Panda Express,2026-03-04,293,244.60084449032297,Sum_Recorded_Hourly,5.0,5.0
+Ridge,Panda Express,2026-03-05,263,242.2416108905414,Sum_Recorded_Hourly,5.0,5.0
+Ridge,Panda Express,2026-03-12,324,235.87217061866872,Sum_Recorded_Hourly,5.0,5.0
+Ridge,Panda Express,2026-03-13,87,130.71509938896287,Sum_Recorded_Hourly,4.0,4.0
+Ridge,Panda Express,2026-03-16,323,292.6178715731441,Sum_Recorded_Hourly,6.0,6.0
+Ridge,Panda Express,2026-03-17,329,252.9270943010868,Sum_Recorded_Hourly,5.0,5.0
+Ridge,Panda Express,2026-03-18,238,252.4526868935935,Sum_Recorded_Hourly,6.0,6.0
+Ridge,Panda Express,2026-03-19,242,233.86962136299675,Sum_Recorded_Hourly,5.0,5.0
+Ridge,Panda Express,2026-03-20,205,124.49363417925937,Sum_Recorded_Hourly,4.0,4.0
+Ridge,Panda Express,2026-03-24,363,241.3914270794093,Sum_Recorded_Hourly,5.0,5.0
+Ridge,Panda Express,2026-03-25,298,251.08313554644738,Sum_Recorded_Hourly,5.0,5.0
+Ridge,Panda Express,2026-03-26,382,253.99653549067602,Sum_Recorded_Hourly,5.0,5.0
+Ridge,Panda Express,2026-04-13,262,285.3223920424502,Sum_Recorded_Hourly,5.0,5.0
+Ridge,Panda Express,2026-04-14,233,256.7908004857902,Sum_Recorded_Hourly,5.0,5.0
+Ridge,Panda Express,2026-04-15,266,252.63191341914268,Sum_Recorded_Hourly,5.0,5.0
+Ridge,Panda Express,2026-04-17,131,128.5851592743217,Sum_Recorded_Hourly,5.0,5.0
+Ridge,Panda Express,2026-04-20,262,279.4666583641415,Sum_Recorded_Hourly,5.0,5.0
+Ridge,Panda Express,2026-04-21,229,250.13039765282736,Sum_Recorded_Hourly,5.0,5.0
+Ridge,Panda Express,2026-04-23,233,247.95421666214787,Sum_Recorded_Hourly,5.0,5.0
+Ridge,Panda Express,2026-04-24,153,128.7256588638612,Sum_Recorded_Hourly,5.0,5.0
+Ridge,Panda Express,2026-04-28,221,247.80776488375622,Sum_Recorded_Hourly,5.0,5.0
+Ridge,Panda Express,2026-04-29,293,243.32649359472993,Sum_Recorded_Hourly,5.0,5.0
+Ridge,Panda Express,2026-04-30,292,242.11740366493876,Sum_Recorded_Hourly,5.0,5.0
+Ridge,Residential Dining,2026-03-06,28,2.107669524403228,Sum_Recorded_Hourly,6.0,6.0
+Ridge,Residential Dining,2026-04-15,35,40.60106735756069,Sum_Recorded_Hourly,7.0,7.0
+Ridge,Residential Dining,2026-04-16,21,13.087970744037293,Sum_Recorded_Hourly,5.0,5.0
+Ridge,Residential Dining,2026-04-24,10,0.0,Sum_Recorded_Hourly,3.0,3.0
+Seasonal Naive,Einstein's,2026-03-02,577,531.0,Sum_Recorded_Hourly,11.0,11.0
+Seasonal Naive,Einstein's,2026-03-03,621,617.0,Sum_Recorded_Hourly,11.0,11.0
+Seasonal Naive,Einstein's,2026-03-04,636,684.0,Sum_Recorded_Hourly,11.0,11.0
+Seasonal Naive,Einstein's,2026-03-05,510,497.0,Sum_Recorded_Hourly,11.0,11.0
+Seasonal Naive,Einstein's,2026-03-06,240,215.0,Sum_Recorded_Hourly,9.0,9.0
+Seasonal Naive,Einstein's,2026-03-09,554,577.0,Sum_Recorded_Hourly,11.0,11.0
+Seasonal Naive,Einstein's,2026-03-10,704,621.0,Sum_Recorded_Hourly,11.0,11.0
+Seasonal Naive,Einstein's,2026-03-11,613,636.0,Sum_Recorded_Hourly,11.0,11.0
+Seasonal Naive,Einstein's,2026-03-12,594,510.0,Sum_Recorded_Hourly,11.0,11.0
+Seasonal Naive,Einstein's,2026-03-13,326,238.0,Sum_Recorded_Hourly,8.0,8.0
+Seasonal Naive,Einstein's,2026-03-16,609,554.0,Sum_Recorded_Hourly,11.0,11.0
+Seasonal Naive,Einstein's,2026-03-17,542,704.0,Sum_Recorded_Hourly,11.0,11.0
+Seasonal Naive,Einstein's,2026-03-18,602,613.0,Sum_Recorded_Hourly,11.0,11.0
+Seasonal Naive,Einstein's,2026-03-19,510,594.0,Sum_Recorded_Hourly,11.0,11.0
+Seasonal Naive,Einstein's,2026-03-23,610,609.0,Sum_Recorded_Hourly,11.0,11.0
+Seasonal Naive,Einstein's,2026-03-24,652,542.0,Sum_Recorded_Hourly,11.0,11.0
+Seasonal Naive,Einstein's,2026-03-25,663,602.0,Sum_Recorded_Hourly,11.0,11.0
+Seasonal Naive,Einstein's,2026-03-26,640,510.0,Sum_Recorded_Hourly,11.0,11.0
+Seasonal Naive,Einstein's,2026-03-30,215,442.0,Sum_Recorded_Hourly,6.0,6.0
+Seasonal Naive,Einstein's,2026-04-01,208,503.0,Sum_Recorded_Hourly,6.0,6.0
+Seasonal Naive,Einstein's,2026-04-02,241,497.0,Sum_Recorded_Hourly,6.0,6.0
+Seasonal Naive,Einstein's,2026-04-03,229,207.0,Sum_Recorded_Hourly,6.0,6.0
+Seasonal Naive,Einstein's,2026-04-13,554,556.0,Sum_Recorded_Hourly,11.0,11.0
+Seasonal Naive,Einstein's,2026-04-14,574,598.0,Sum_Recorded_Hourly,11.0,11.0
+Seasonal Naive,Einstein's,2026-04-15,615,686.0,Sum_Recorded_Hourly,11.0,11.0
+Seasonal Naive,Einstein's,2026-04-16,581,612.0,Sum_Recorded_Hourly,11.0,11.0
+Seasonal Naive,Einstein's,2026-04-17,278,198.0,Sum_Recorded_Hourly,9.0,9.0
+Seasonal Naive,Einstein's,2026-04-20,534,554.0,Sum_Recorded_Hourly,11.0,11.0
+Seasonal Naive,Einstein's,2026-04-21,704,574.0,Sum_Recorded_Hourly,11.0,11.0
+Seasonal Naive,Einstein's,2026-04-22,564,615.0,Sum_Recorded_Hourly,11.0,11.0
+Seasonal Naive,Einstein's,2026-04-23,451,581.0,Sum_Recorded_Hourly,11.0,11.0
+Seasonal Naive,Einstein's,2026-04-27,583,534.0,Sum_Recorded_Hourly,11.0,11.0
+Seasonal Naive,Einstein's,2026-04-28,587,704.0,Sum_Recorded_Hourly,11.0,11.0
+Seasonal Naive,Einstein's,2026-04-29,579,564.0,Sum_Recorded_Hourly,11.0,11.0
+Seasonal Naive,Einstein's,2026-04-30,644,451.0,Sum_Recorded_Hourly,11.0,11.0
+Seasonal Naive,Panda Express,2026-03-02,322,297.0,Sum_Recorded_Hourly,5.0,5.0
+Seasonal Naive,Panda Express,2026-03-03,287,213.0,Sum_Recorded_Hourly,5.0,5.0
+Seasonal Naive,Panda Express,2026-03-04,293,242.0,Sum_Recorded_Hourly,5.0,5.0
+Seasonal Naive,Panda Express,2026-03-05,263,259.0,Sum_Recorded_Hourly,5.0,5.0
+Seasonal Naive,Panda Express,2026-03-12,324,263.0,Sum_Recorded_Hourly,5.0,5.0
+Seasonal Naive,Panda Express,2026-03-13,87,95.0,Sum_Recorded_Hourly,4.0,4.0
+Seasonal Naive,Panda Express,2026-03-16,323,262.0,Sum_Recorded_Hourly,6.0,6.0
+Seasonal Naive,Panda Express,2026-03-17,329,243.0,Sum_Recorded_Hourly,5.0,5.0
+Seasonal Naive,Panda Express,2026-03-18,238,261.0,Sum_Recorded_Hourly,6.0,6.0
+Seasonal Naive,Panda Express,2026-03-19,242,324.0,Sum_Recorded_Hourly,5.0,5.0
+Seasonal Naive,Panda Express,2026-03-20,205,87.0,Sum_Recorded_Hourly,4.0,4.0
+Seasonal Naive,Panda Express,2026-03-24,363,329.0,Sum_Recorded_Hourly,5.0,5.0
+Seasonal Naive,Panda Express,2026-03-25,298,237.0,Sum_Recorded_Hourly,5.0,5.0
+Seasonal Naive,Panda Express,2026-03-26,382,242.0,Sum_Recorded_Hourly,5.0,5.0
+Seasonal Naive,Panda Express,2026-04-13,262,256.0,Sum_Recorded_Hourly,5.0,5.0
+Seasonal Naive,Panda Express,2026-04-14,233,248.0,Sum_Recorded_Hourly,5.0,5.0
+Seasonal Naive,Panda Express,2026-04-15,266,296.0,Sum_Recorded_Hourly,5.0,5.0
+Seasonal Naive,Panda Express,2026-04-17,131,115.0,Sum_Recorded_Hourly,5.0,5.0
+Seasonal Naive,Panda Express,2026-04-20,262,262.0,Sum_Recorded_Hourly,5.0,5.0
+Seasonal Naive,Panda Express,2026-04-21,229,233.0,Sum_Recorded_Hourly,5.0,5.0
+Seasonal Naive,Panda Express,2026-04-23,233,247.0,Sum_Recorded_Hourly,5.0,5.0
+Seasonal Naive,Panda Express,2026-04-24,153,131.0,Sum_Recorded_Hourly,5.0,5.0
+Seasonal Naive,Panda Express,2026-04-28,221,229.0,Sum_Recorded_Hourly,5.0,5.0
+Seasonal Naive,Panda Express,2026-04-29,293,342.0,Sum_Recorded_Hourly,5.0,5.0
+Seasonal Naive,Panda Express,2026-04-30,292,233.0,Sum_Recorded_Hourly,5.0,5.0
+Seasonal Naive,Residential Dining,2026-03-06,28,29.0,Sum_Recorded_Hourly,6.0,6.0
+Seasonal Naive,Residential Dining,2026-04-15,35,63.0,Sum_Recorded_Hourly,7.0,7.0
+Seasonal Naive,Residential Dining,2026-04-16,21,19.0,Sum_Recorded_Hourly,5.0,5.0
+Seasonal Naive,Residential Dining,2026-04-24,10,9.0,Sum_Recorded_Hourly,3.0,3.0
+XGBoost,Einstein's,2026-03-02,577,560.4563398361206,Sum_Recorded_Hourly,11.0,11.0
+XGBoost,Einstein's,2026-03-03,621,539.2328863143921,Sum_Recorded_Hourly,11.0,11.0
+XGBoost,Einstein's,2026-03-04,636,614.6738586425781,Sum_Recorded_Hourly,11.0,11.0
+XGBoost,Einstein's,2026-03-05,510,542.7354784011841,Sum_Recorded_Hourly,11.0,11.0
+XGBoost,Einstein's,2026-03-06,240,268.20089769363403,Sum_Recorded_Hourly,9.0,9.0
+XGBoost,Einstein's,2026-03-09,554,567.6153116226196,Sum_Recorded_Hourly,11.0,11.0
+XGBoost,Einstein's,2026-03-10,704,561.5656337738037,Sum_Recorded_Hourly,11.0,11.0
+XGBoost,Einstein's,2026-03-11,613,627.9158372879028,Sum_Recorded_Hourly,11.0,11.0
+XGBoost,Einstein's,2026-03-12,594,549.7101612091064,Sum_Recorded_Hourly,11.0,11.0
+XGBoost,Einstein's,2026-03-13,326,272.7507572174072,Sum_Recorded_Hourly,8.0,8.0
+XGBoost,Einstein's,2026-03-16,609,563.888575553894,Sum_Recorded_Hourly,11.0,11.0
+XGBoost,Einstein's,2026-03-17,542,539.5885381698608,Sum_Recorded_Hourly,11.0,11.0
+XGBoost,Einstein's,2026-03-18,602,607.9112429618835,Sum_Recorded_Hourly,11.0,11.0
+XGBoost,Einstein's,2026-03-19,510,492.2757911682129,Sum_Recorded_Hourly,11.0,11.0
+XGBoost,Einstein's,2026-03-23,610,552.4450960159302,Sum_Recorded_Hourly,11.0,11.0
+XGBoost,Einstein's,2026-03-24,652,595.1651496887207,Sum_Recorded_Hourly,11.0,11.0
+XGBoost,Einstein's,2026-03-25,663,621.9960165023804,Sum_Recorded_Hourly,11.0,11.0
+XGBoost,Einstein's,2026-03-26,640,537.0670318603516,Sum_Recorded_Hourly,11.0,11.0
+XGBoost,Einstein's,2026-03-30,215,434.1290874481201,Sum_Recorded_Hourly,6.0,6.0
+XGBoost,Einstein's,2026-04-01,208,411.2528076171875,Sum_Recorded_Hourly,6.0,6.0
+XGBoost,Einstein's,2026-04-02,241,370.35794830322266,Sum_Recorded_Hourly,6.0,6.0
+XGBoost,Einstein's,2026-04-03,229,204.7886848449707,Sum_Recorded_Hourly,6.0,6.0
+XGBoost,Einstein's,2026-04-13,554,515.599000453949,Sum_Recorded_Hourly,11.0,11.0
+XGBoost,Einstein's,2026-04-14,574,550.3701839447021,Sum_Recorded_Hourly,11.0,11.0
+XGBoost,Einstein's,2026-04-15,615,576.7298049926758,Sum_Recorded_Hourly,11.0,11.0
+XGBoost,Einstein's,2026-04-16,581,529.4951114654541,Sum_Recorded_Hourly,11.0,11.0
+XGBoost,Einstein's,2026-04-17,278,301.42004108428955,Sum_Recorded_Hourly,9.0,9.0
+XGBoost,Einstein's,2026-04-20,534,571.1447486877441,Sum_Recorded_Hourly,11.0,11.0
+XGBoost,Einstein's,2026-04-21,704,556.5064334869385,Sum_Recorded_Hourly,11.0,11.0
+XGBoost,Einstein's,2026-04-22,564,618.9427947998047,Sum_Recorded_Hourly,11.0,11.0
+XGBoost,Einstein's,2026-04-23,451,545.2783584594727,Sum_Recorded_Hourly,11.0,11.0
+XGBoost,Einstein's,2026-04-27,583,556.0075559616089,Sum_Recorded_Hourly,11.0,11.0
+XGBoost,Einstein's,2026-04-28,587,554.7051305770874,Sum_Recorded_Hourly,11.0,11.0
+XGBoost,Einstein's,2026-04-29,579,609.8064165115356,Sum_Recorded_Hourly,11.0,11.0
+XGBoost,Einstein's,2026-04-30,644,524.5003576278687,Sum_Recorded_Hourly,11.0,11.0
+XGBoost,Panda Express,2026-03-02,322,272.9995594024658,Sum_Recorded_Hourly,5.0,5.0
+XGBoost,Panda Express,2026-03-03,287,255.4971046447754,Sum_Recorded_Hourly,5.0,5.0
+XGBoost,Panda Express,2026-03-04,293,262.7766056060791,Sum_Recorded_Hourly,5.0,5.0
+XGBoost,Panda Express,2026-03-05,263,249.65566444396973,Sum_Recorded_Hourly,5.0,5.0
+XGBoost,Panda Express,2026-03-12,324,237.13300323486328,Sum_Recorded_Hourly,5.0,5.0
+XGBoost,Panda Express,2026-03-13,87,132.79691886901855,Sum_Recorded_Hourly,4.0,4.0
+XGBoost,Panda Express,2026-03-16,323,278.426700592041,Sum_Recorded_Hourly,6.0,6.0
+XGBoost,Panda Express,2026-03-17,329,253.44175720214844,Sum_Recorded_Hourly,5.0,5.0
+XGBoost,Panda Express,2026-03-18,238,281.00106954574585,Sum_Recorded_Hourly,6.0,6.0
+XGBoost,Panda Express,2026-03-19,242,252.46838760375977,Sum_Recorded_Hourly,5.0,5.0
+XGBoost,Panda Express,2026-03-20,205,119.20389747619629,Sum_Recorded_Hourly,4.0,4.0
+XGBoost,Panda Express,2026-03-24,363,250.7948989868164,Sum_Recorded_Hourly,5.0,5.0
+XGBoost,Panda Express,2026-03-25,298,273.78441619873047,Sum_Recorded_Hourly,5.0,5.0
+XGBoost,Panda Express,2026-03-26,382,240.90385055541992,Sum_Recorded_Hourly,5.0,5.0
+XGBoost,Panda Express,2026-04-13,262,267.18599700927734,Sum_Recorded_Hourly,5.0,5.0
+XGBoost,Panda Express,2026-04-14,233,261.615514755249,Sum_Recorded_Hourly,5.0,5.0
+XGBoost,Panda Express,2026-04-15,266,279.25078773498535,Sum_Recorded_Hourly,5.0,5.0
+XGBoost,Panda Express,2026-04-17,131,125.55328702926636,Sum_Recorded_Hourly,5.0,5.0
+XGBoost,Panda Express,2026-04-20,262,277.396541595459,Sum_Recorded_Hourly,5.0,5.0
+XGBoost,Panda Express,2026-04-21,229,240.71033096313477,Sum_Recorded_Hourly,5.0,5.0
+XGBoost,Panda Express,2026-04-23,233,246.1873550415039,Sum_Recorded_Hourly,5.0,5.0
+XGBoost,Panda Express,2026-04-24,153,119.49218034744263,Sum_Recorded_Hourly,5.0,5.0
+XGBoost,Panda Express,2026-04-28,221,254.44416427612305,Sum_Recorded_Hourly,5.0,5.0
+XGBoost,Panda Express,2026-04-29,293,274.37394523620605,Sum_Recorded_Hourly,5.0,5.0
+XGBoost,Panda Express,2026-04-30,292,245.8680362701416,Sum_Recorded_Hourly,5.0,5.0
+XGBoost,Residential Dining,2026-03-06,28,29.82037925720215,Sum_Recorded_Hourly,6.0,6.0
+XGBoost,Residential Dining,2026-04-15,35,37.10998797416687,Sum_Recorded_Hourly,7.0,7.0
+XGBoost,Residential Dining,2026-04-16,21,19.13864517211914,Sum_Recorded_Hourly,5.0,5.0
+XGBoost,Residential Dining,2026-04-24,10,13.03153109550476,Sum_Recorded_Hourly,3.0,3.0

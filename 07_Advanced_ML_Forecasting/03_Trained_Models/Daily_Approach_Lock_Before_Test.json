@@ -1,0 +1,6 @@
+{
+  "OfficialApproach": "Dedicated_Daily",
+  "SelectionPolicy": "Compare common validation MAE, but require known future hour-set coverage before using hourly sums as an operational daily forecast. Opening-hour calendar unavailable; retain dedicated recorded-day model. No test score changes this reliability gate.",
+  "CommonValidationDays": 64,
+  "FullOperatingHourCoverageVerified": false
+}

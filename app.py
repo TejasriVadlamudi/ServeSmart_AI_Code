@@ -14,13 +14,11 @@ sys.path.insert(0, str(ROOT / "src"))
 from decision_support import build_recommendations  # noqa: E402
 from forecasting_data import load_ml_flat_file  # noqa: E402
 
-APPROVED_ML_FILE = ROOT / "data" / "ServeSmart_ML_Flat_File_Updated.csv"
-FINAL_HOURLY_ML_FILE = ROOT / "data" / "updated_handoff" / "ServeSmart_Final_Hourly_ML.csv"
-FINAL_HOURLY_PREDICTIONS_FILE = ROOT / "data" / "updated_handoff" / "dashboard" / "ServeSmart_Hourly_May_Predictions.csv"
-FINAL_DAILY_PREDICTIONS_FILE = ROOT / "data" / "updated_handoff" / "dashboard" / "ServeSmart_Daily_May_Predictions.csv"
-FINAL_MODEL_SUMMARY_FILE = ROOT / "data" / "updated_handoff" / "evaluation" / "Final_Model_Summary.csv"
-BASELINE_FORECAST_FILE = ROOT / "outputs" / "baselines" / "approved" / "all_hour_forecasts.csv"
-BASELINE_COMPARISON_FILE = ROOT / "outputs" / "models" / "model_comparison_common_test.csv"
+FORECASTING_DATA_DIR = ROOT / "data" / "forecasting"
+APPROVED_ML_FILE = FORECASTING_DATA_DIR / "Approved_ML_Flat_File.csv"
+HOURLY_BACKTEST_FILE = FORECASTING_DATA_DIR / "Hourly_Website_Backtest_Data.csv"
+DAILY_BACKTEST_FILE = FORECASTING_DATA_DIR / "Daily_Website_Backtest_Data.csv"
+FORECAST_METRICS_FILE = FORECASTING_DATA_DIR / "Overall_Model_Comparison.csv"
 QUEUE_FILE = ROOT / "data" / "queue_service_times.csv"
 CLOSURE_FILE = ROOT / "data" / "campus_closures.csv"
 OPERATING_HOURS_FILE = ROOT / "data" / "operating_hours.csv"
@@ -46,28 +44,20 @@ SUGGESTED_MANAGER_QUESTIONS = [
 
 
 def load_demo_data() -> pd.DataFrame:
-    source_file = FINAL_HOURLY_ML_FILE if FINAL_HOURLY_ML_FILE.exists() else APPROVED_ML_FILE
+    source_file = APPROVED_ML_FILE
     if source_file.exists():
         frame = load_ml_flat_file(source_file)
-        # The updated handoff contains historical inputs, while its dashboard
-        # file contains the selected model's out-of-sample predictions. Keep
-        # those predictions separate from recorded actual demand.
         frame["ForecastUnits"] = pd.NA
+        frame["ForecastSource"] = "Historical Average"
         frame["Date"] = pd.to_datetime(frame["Date"])
         frame["Station"] = frame["Location"].map(STATION_NAMES).fillna(frame["Location"])
-        if FINAL_HOURLY_PREDICTIONS_FILE.exists():
-            predictions = pd.read_csv(FINAL_HOURLY_PREDICTIONS_FILE, low_memory=False)
+        if HOURLY_BACKTEST_FILE.exists():
+            predictions = pd.read_csv(HOURLY_BACKTEST_FILE, low_memory=False)
             predictions["Date"] = pd.to_datetime(predictions["Date"], errors="coerce")
-            predictions["Predicted"] = pd.to_numeric(predictions["Predicted"], errors="coerce")
-            predictions = predictions[["Location", "Date", "Hour", "Predicted"]].rename(columns={"Predicted": "ForecastUnits"})
+            predictions["Hour"] = pd.to_numeric(predictions["Hour"], errors="coerce")
+            predictions["Prediction"] = pd.to_numeric(predictions["Prediction"], errors="coerce")
+            predictions = predictions[["Location", "Date", "Hour", "Prediction"]].rename(columns={"Prediction": "ForecastUnits"})
             frame = frame.drop(columns=["ForecastUnits"]).merge(predictions, on=["Location", "Date", "Hour"], how="left")
-        if BASELINE_FORECAST_FILE.exists():
-            baseline = pd.read_csv(BASELINE_FORECAST_FILE, low_memory=False)
-            baseline = baseline.rename(columns={"location": "Location", "date": "Date", "hour": "Hour"})
-            baseline["Date"] = pd.to_datetime(baseline["Date"])
-            baseline = baseline[["Location", "Date", "Hour", "seasonal_naive", "historical_hour_mean"]]
-            frame = frame.merge(baseline, on=["Location", "Date", "Hour"], how="left")
-            frame["ForecastUnits"] = frame["ForecastUnits"].fillna(frame["seasonal_naive"]).fillna(frame["historical_hour_mean"])
         return frame
     dates = pd.date_range("2026-01-01", periods=14, freq="D")
     rows = []
@@ -78,6 +68,25 @@ def load_demo_data() -> pd.DataFrame:
                 demand = max(4, base + ((hour - 12) ** 2 // 4) * -1 + (date.dayofweek % 3) * 2)
                 rows.append({"Location": location, "Station": STATION_NAMES[location], "Date": date, "Hour": hour, "Target_HourlyUnits": demand, "ForecastUnits": demand})
     return pd.DataFrame(rows)
+
+
+def load_daily_forecasts() -> pd.DataFrame:
+    """Load the authoritative daily Random Forest website backtest."""
+    if not DAILY_BACKTEST_FILE.exists():
+        return pd.DataFrame(columns=["Location", "Date", "Prediction", "Model"])
+    daily = pd.read_csv(DAILY_BACKTEST_FILE, low_memory=False)
+    daily["Date"] = pd.to_datetime(daily["Date"], errors="coerce")
+    daily["Prediction"] = pd.to_numeric(daily["Prediction"], errors="coerce")
+    return daily.dropna(subset=["Location", "Date", "Prediction"])
+
+
+def load_forecast_metrics() -> pd.DataFrame:
+    """Load selected-model metrics from the authoritative comparison."""
+    if not FORECAST_METRICS_FILE.exists():
+        return pd.DataFrame(columns=["ForecastLevel", "Model", "WAPE", "SelectedByValidation"])
+    metrics = pd.read_csv(FORECAST_METRICS_FILE, low_memory=False)
+    metrics["WAPE"] = pd.to_numeric(metrics["WAPE"], errors="coerce")
+    return metrics[metrics["SelectedByValidation"].astype(str).str.lower().eq("true")]
 
 
 def load_item_sales() -> pd.DataFrame:
@@ -181,11 +190,11 @@ def station_operating_status(data: pd.DataFrame, station: str, forecast_date: pd
 
 
 def forecast_for_date(data: pd.DataFrame, forecast_date: pd.Timestamp) -> tuple[pd.DataFrame, str]:
-    """Use recorded baseline values when available, otherwise forecast by recent weekday/hour history."""
+    """Use Historical Average backtests, then a clearly labeled rolling fallback."""
     exact = data[data["Date"].dt.normalize().eq(forecast_date.normalize())]
     exact = exact.dropna(subset=["ForecastUnits"])
     if not exact.empty:
-        return exact[["Station", "Hour", "ForecastUnits"]].copy(), "approved baseline output"
+        return exact[["Station", "Hour", "ForecastUnits"]].copy(), "Historical Average backtest"
 
     rows = []
     weekday = forecast_date.dayofweek
@@ -200,7 +209,7 @@ def forecast_for_date(data: pd.DataFrame, forecast_date: pd.Timestamp) -> tuple[
             if history.empty:
                 continue
             rows.append({"Station": station, "Hour": hour, "ForecastUnits": float(history.mean())})
-    return pd.DataFrame(rows), "recent same-weekday/hour history"
+    return pd.DataFrame(rows), "Historical Average rolling fallback"
 
 
 def queue_wait_minutes(queue: pd.DataFrame, station: str, forecast_date: pd.Timestamp, service_hour: int) -> int | None:
@@ -437,7 +446,7 @@ def customer_portal(st, data: pd.DataFrame, queue: pd.DataFrame, closures: pd.Da
         st.markdown(f"### Current Estimated Wait Time · {time_input.strftime('%I:%M %p').lstrip('0')}")
         st.caption(
             f"Showing estimates for {forecast_date.strftime('%B %-d, %Y')} at the selected hour. "
-            f"Updated {datetime.now(LOCAL_TZ).strftime('%I:%M %p').lstrip('0')}"
+            f"Source: {forecast_source}. Updated {datetime.now(LOCAL_TZ).strftime('%I:%M %p').lstrip('0')}"
         )
         station_images = {
             "Dining Commons": DINING_COMMONS_IMAGE,
@@ -561,14 +570,27 @@ def manager_portal(st, data: pd.DataFrame, sales: pd.DataFrame, closures: pd.Dat
                     st.bar_chart(summary.head(10).set_index("Item")["Units_Sold"])
 
 
-def analytics_portal(st, data: pd.DataFrame, sales: pd.DataFrame) -> None:
+def analytics_portal(st, data: pd.DataFrame, sales: pd.DataFrame, daily: pd.DataFrame, metrics: pd.DataFrame) -> None:
     st.header("Analytics")
-    st.caption("Use these charts to understand demand patterns and item performance.")
+    st.caption("Use these charts to understand demand patterns and item performance. Historical backtest metrics are shown for transparency.")
+    metric_columns = st.columns(2)
+    for column, level in zip(metric_columns, ["Hourly", "Daily"]):
+        selected = metrics[metrics["ForecastLevel"].eq(level)]
+        if selected.empty:
+            column.metric(f"{level} model", "Unavailable")
+        else:
+            row = selected.iloc[0]
+            column.metric(f"{level} WAPE", f"{float(row['WAPE']):.2f}%")
+            column.caption(f"Selected model: {row['Model']}")
     c1, c2 = st.columns(2)
     c1.subheader("Demand by hour")
     c1.bar_chart(data.groupby("Hour")["ForecastUnits"].mean())
     c2.subheader("Demand by location")
     c2.bar_chart(data.groupby("Location")["ForecastUnits"].mean())
+    if not daily.empty:
+        st.subheader("Daily Random Forest backtest")
+        daily_chart = daily.groupby("Date", as_index=True)["Prediction"].sum().rename("Predicted units")
+        st.bar_chart(daily_chart)
     if not sales.empty:
         st.subheader("Top-selling items")
         top_items = sales.groupby("Item", as_index=False)["Quantity"].sum().sort_values("Quantity", ascending=False).head(15)
@@ -631,6 +653,8 @@ def main() -> None:
         unsafe_allow_html=True,
     )
     data = load_demo_data()
+    daily_forecasts = load_daily_forecasts()
+    forecast_metrics = load_forecast_metrics()
     sales = load_item_sales()
     queue = load_queue_service_times()
     closures = load_closure_calendar()
@@ -643,11 +667,8 @@ def main() -> None:
         manager_portal(st, data, sales, closures, operating_hours)
     else:
         st.title("ServeSmart")
-        if BASELINE_COMPARISON_FILE.exists():
-            st.info("BASELINE MODE: Seasonal Naive is the current selected comparison winner.")
-        else:
-            st.warning("MODEL PREVIEW MODE: forecast values remain preview estimates until the refreshed baseline comparison selects the final model.")
-        analytics_portal(st, data, sales)
+        st.info("FINAL FORECASTING MODE: hourly Historical Average and daily Random Forest are the validation-selected models. May values are historical backtests; future dates use the documented rolling fallback when no scored row exists.")
+        analytics_portal(st, data, sales, daily_forecasts, forecast_metrics)
 
 
 if __name__ == "__main__":

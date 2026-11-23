@@ -1,0 +1,241 @@
+ItemKey,Location,ItemNumber,Item
+1,Einstein's,20230124,CRV
+2,Einstein's,20230125,20oz Soda
+3,Einstein's,20230126,Sprite
+4,Einstein's,20230127,Coke
+5,Einstein's,20230129,Coke Zero
+6,Einstein's,20230130,Sprite Zero
+7,Einstein's,20230131,Sprite Lymonade
+8,Einstein's,20230132,Minute Maid Blue Raspberry
+9,Einstein's,20230133,Minute Maid Lemonade
+10,Einstein's,20230134,Diet Coke
+11,Einstein's,20230135,16oz Monster
+12,Einstein's,20230136,Monster Zero
+13,Einstein's,20230137,Monster Energy
+14,Einstein's,20230138,23oz Peace Tea
+15,Einstein's,20230139,Peace Tea Caddy Shack
+16,Einstein's,20230140,Peace Tea Sno-Berry
+17,Einstein's,20230141,Peace Tea Razzleberry
+18,Einstein's,20230142,Peace Tea Just Peachy
+19,Einstein's,20230143,16oz Dasani
+20,Einstein's,20230144,Dasani
+21,Einstein's,20230145,18oz Smart Water
+22,Einstein's,20230146,Smart Water
+23,Einstein's,20230147,12oz Minute Maid Juice
+24,Einstein's,20230148,Minute Maid Orange Juice
+25,Einstein's,20230149,20oz Powerade
+26,Einstein's,20230150,Powerade Fruit Punch
+27,Einstein's,20230151,Powerade Mountain Berry Blast
+28,Einstein's,20230152,16oz Minute Maid Agua Fresca
+29,Einstein's,20230153,Agua Fresca Strawberry
+30,Einstein's,20230155,Agua Fresca Mango
+31,Einstein's,20230157,11.5 oz Simply Juice
+32,Einstein's,20230158,11.5oz Simply Orange
+33,Einstein's,20230159,11.5 oz Simply Apple
+34,Einstein's,20230160,11.5 oz Simply Cranberry
+35,Einstein's,20230161,Minute Maid Pink Lemonade
+36,Einstein's,20230162,Minute Maid Apple Juice
+37,Einstein's,20230163,20 OZ Minute Maid
+38,Einstein's,20230164,Dunkin Iced Coffee French vani
+39,Einstein's,20230165,Dunkin Iced Coffee Mocha
+40,Einstein's,20230166,Dunkin Iced Coffee Original
+41,Einstein's,20230167,13.7 oz Dunkin
+42,Einstein's,20230168,Core Power 26 Chocolate
+43,Einstein's,20230169,Core Power 26 Vanilla
+44,Einstein's,20230170,Fairlife Regular Milk
+45,Einstein's,20230171,Vitaminwater Xxxacai-B-Po ZroS
+46,Einstein's,20230172,Vitaminwater Tropical Citrus
+47,Einstein's,20230173,14 oz Core Power
+48,Einstein's,20230174,14 oz Fairlife
+49,Einstein's,20230175,20 oz Vitaminwater
+50,Einstein's,20230176,Fanta orange
+51,Einstein's,20230177,Caesar Salad
+52,Einstein's,20230178,Greek Chicken Salad
+53,Einstein's,20230179,16oz lemonade
+54,Einstein's,20230180,24oz Lemonade
+55,Einstein's,20230208,Greek Salad
+56,Einstein's,20230210,Gold peak 16.9oz
+57,Einstein's,20230211,gold peal sweet tea
+58,Einstein's,20230212,gold peak zero sugar
+59,Einstein's,20230213,chicken & bacon caesar wrap
+60,Einstein's,20230214,california turkey wrap
+61,Einstein's,20230216,Strawberry and Crème Strudel
+62,Einstein's,20230217,Cinammon Roll
+63,Einstein's,20230218,Mini Heavenly Chocolate Chip C
+64,Einstein's,20230220,ham and swiss 2egg
+65,Einstein's,20230222,Core Power 14oz
+66,Einstein's,20230223,Core Power 42 Elite Chocolate
+67,Einstein's,20230225,1.5 Garden Salsa Whol Grain
+68,Einstein's,20230232,free coffee
+69,Einstein's,20230233,Iced Tea - Medium
+70,Einstein's,20230234,Iced Tea - Large
+71,Einstein's,20230235,Topo-Chico Bottle
+72,Einstein's,20230236,Texas Brisket 1 Egg
+73,Einstein's,20230237,Texas Brisket 2 Egg
+74,Einstein's,20230242,Ms Vick Kettle Chips
+75,Einstein's,20230243,Chicken Club Salad
+76,Einstein's,20230244,Bros Bay Breeze
+77,Einstein's,20230245,Passion Fruit Sunrise
+78,Einstein's,20230246,Dragon Fruit Lemon Drop
+79,Einstein's,20230247,Energy Spritz
+80,Einstein's,20230248,Egg Sugar Cookie
+81,Einstein's,20230249,Fruity Cereal Pop
+82,Einstein's,20230250,Cinnamon Chip Muffin
+83,Einstein's,20230252,Costa Iced Coffee
+84,Einstein's,20230253,Topo Chico Can
+85,Einstein's,20230254,Bagel/Shmear/Mocktail Combo
+86,Einstein's,20230255,Shamrock Milk
+87,Einstein's,20230258,Twice Baked hashbrown
+88,Einstein's,20230259,Hash Brown Combo
+89,Einstein's,20230260,Miscellaneous
+90,Einstein's,20230265,BAREBELLS 1.94OZ COOKIES
+91,Einstein's,20230267,SKITTLES SOUR PEG BAG
+92,Einstein's,20230269,SOUR PUNCH BITES STRAWBERRY
+93,Einstein's,20230271,POCKY STICKS
+94,Einstein's,20230272,TROLLI SOUR BRITE ALL STAR MIX
+95,Einstein's,20230273,TROLLI SOR BRITE OCTOPUS
+96,Einstein's,8000,Classic Plain Bagel
+97,Einstein's,8001,Cinnamon Raisin
+98,Einstein's,8002,Cinnamon Sugar
+99,Einstein's,8003,Chocolate Chip
+100,Einstein's,8004,Asiago Cheese
+101,Einstein's,8005,Blueberry
+102,Einstein's,8006,Sesame
+103,Einstein's,8007,Everything
+104,Einstein's,8008,Honey Whole Wheat
+105,Einstein's,8009,Cheesy Hash Brown Gourmet Bage
+106,Einstein's,8010,Six Cheese Gourmet Bagel
+107,Einstein's,8011,Green Chili Gourmet Bagel
+108,Einstein's,8012,LTO Seasonal Bagel
+109,Einstein's,8017,Bagel w/ Cream Cheese Shmear
+110,Einstein's,8018,Bagel w/Butter
+111,Einstein's,8019,Bagel w/Preserves
+112,Einstein's,8020,Bagel w/Peanut Butter
+113,Einstein's,8021,Bagel w/Peanut Butter & Jelly
+114,Einstein's,8023,Avocado Toast
+115,Einstein's,8024,Muffin Blueberry
+116,Einstein's,8028,Choc. Chip Coffee muffin
+117,Einstein's,8030,Chocolate Chip Cookie
+118,Einstein's,8036,Bacon & Cheddar Egg
+119,Einstein's,8037,Bacon & Cheddar2
+120,Einstein's,8038,Turkey-Sausage & Cheddar Egg 1
+121,Einstein's,8039,Turkey-Sausage & Cheddar Egg 2
+122,Einstein's,8040,Ham & Swiss Egg 1 Egg
+123,Einstein's,8044,Cheddar Cheese 1 Egg
+124,Einstein's,8045,Cheddar Cheese 2 Egg
+125,Einstein's,8046,Farmhouse on Hash Brown 1 Egg
+126,Einstein's,8047,Farmhouse on Hash Brown 2 Egg
+127,Einstein's,8053,Nova Lox
+128,Einstein's,8055,Tasty Turkey
+129,Einstein's,8058,Spicy Chicken
+130,Einstein's,8059,Ham Or Turkey & Cheese Deli
+131,Einstein's,8060,Avocado Veg Out
+132,Einstein's,8061,Albacore Tuna Salad  (must car
+133,Einstein's,8063,Cheese Pizza Bagel
+134,Einstein's,8064,Peperoni Pizza Bagel
+135,Einstein's,8070,Fruit Salad 16 oz.
+136,Einstein's,8071,Fruit & Granola Yogurt Parfait
+137,Einstein's,8074,Berries & Cream
+138,Einstein's,8075,Veggies w/Hummus or Ranch
+139,Einstein's,8081,Chicken Caesar Chopped Salad
+140,Einstein's,8084,Add Avocado
+141,Einstein's,8085,Add Cheese (.5 oz)
+142,Einstein's,8086,Add Meat
+143,Einstein's,8087,Add Second Veggie
+144,Einstein's,8088,Add Cream Cheese
+145,Einstein's,8100,Coffee Refill
+146,Einstein's,8101,brewed coffee
+147,Einstein's,8102,Brewed Coffee Large
+148,Einstein's,8103,Hot Tea - Reg
+149,Einstein's,8104,Hot Tea Large
+150,Einstein's,8105,Iced Tea Med
+151,Einstein's,8106,Iced Tea Large
+152,Einstein's,8107,Add Shot
+153,Einstein's,8108,Add Syrup
+154,Einstein's,8110,Add Almond/Oat-Milk
+155,Einstein's,8111,Americano  Hot - Iced - Med
+156,Einstein's,8112,Americano Hot - Large
+157,Einstein's,8113,Americano Iced - Large
+158,Einstein's,8118,Latte - Hot - Med
+159,Einstein's,8119,Latte - Hot-  Large
+160,Einstein's,8120,Latte - Iced-Med
+161,Einstein's,8121,Latte - Iced -Large
+162,Einstein's,8122,Cappuccino -Hot - Med
+163,Einstein's,8123,Cappuccino - Hot - Large
+164,Einstein's,8124,Cappuccino - Iced - Med
+165,Einstein's,8125,Cappuccino -iced - Large
+166,Einstein's,8126,Chai Tea - Hot - Med
+167,Einstein's,8127,Chai Tea- Hot - Large
+168,Einstein's,8128,Chai Tea - Iced - Med
+169,Einstein's,8129,Chai Tea-  iced- Large
+170,Einstein's,8132,Hot Chocolate - Med
+171,Einstein's,8133,Hot Chocolate -  Large
+172,Einstein's,8134,Carmel Macchiato- Hot - Med
+173,Einstein's,8135,Carmel Macchiato - Hot - Large
+174,Einstein's,8136,Carmel Macchiato - Iced - Med
+175,Einstein's,8137,Carmel Macchiato - Iced - Larg
+176,Einstein's,8138,Mocha - Hot- latte- Med
+177,Einstein's,8139,Mocha - Hot-Latte-Large
+178,Einstein's,8140,Mocha Latte -Iced - Med
+179,Einstein's,8141,Mocha Latte - Iced - Large
+180,Einstein's,8142,Classic Cold Brew--Med
+181,Einstein's,8143,Classic Cold Brew--Larg
+182,Einstein's,8144,Flavored/Vanilla/Caramel/ choc
+183,Einstein's,8145,Cold Brew /Moc/Car/Va-L
+184,Einstein's,8152,Strawberry Banana Smoothie - M
+185,Einstein's,8153,Strawberry Banana Smoothie -La
+186,Einstein's,8156,Cold Brew Shake/Mo/Car/Va-M
+187,Einstein's,8157,Cold Brew Shake/Mo/Car/Va-L
+188,Einstein's,8160,Whole Fruit
+189,Einstein's,8161,Potato Chips
+190,Einstein's,8163,Plain Cream Cheese (Tub)
+191,Einstein's,8164,Plain Lite Cream Cheese (Tub)
+192,Einstein's,8165,Honey Almond Cream Cheese (Tub
+193,Einstein's,8167,Veggie Cream Cheese (Tub)
+194,Einstein's,8168,Strawberry Cream Cheese (Tub)
+195,Einstein's,8169,Onion & Chive Cream Cheese (Tu
+196,Einstein's,8171,Jalapeno Salsa Cream Cheese (B
+197,Einstein's,8173,Bagel Nosh Box
+198,Einstein's,8174,Sweets Nosh Box-Dozen
+199,Einstein's,8175,Sweets Nosh Box-1/2 Dozen
+200,Einstein's,8178,Lox and Bagels Dozen
+201,Einstein's,8181,Coffee to Go (Joe to Go)
+202,Einstein's,8185,Box Lunch - Roasted Turkey
+203,Einstein's,8197,Salad Sampler
+204,Einstein's,8198,Salad Group - Harvest Chicken
+205,Einstein's,8216,Orange juice
+206,Einstein's,8232,Big Breakfast Burrito
+207,Einstein's,8271,Pepperoni Chicken
+208,Einstein's,8326,Turkey Bacon Avocado
+209,Einstein's,8327,Bacon Avocado Tomato 1 Egg
+210,Einstein's,8328,Bacon Avocado Tomato 2 Egg
+211,Einstein's,8334,Bagel Chips
+212,Einstein's,8337,Add Egg/Egg White
+213,Einstein's,8340,$1 hopegiving donation
+214,Einstein's,8341,$3 hopegiving donation
+215,Einstein's,8346,Baker's Dozen
+216,Einstein's,8347,Half Dozen Box
+217,Einstein's,8356,Coke
+218,Einstein's,8363,Apple pie Pastry
+219,Einstein's,8364,Strawberry &Cream  strudel
+220,Einstein's,8366,Extra Syrup
+221,Einstein's,8369,Fruit
+222,Panda Express,13000,A LA CARTE BOXES SMALL
+223,Panda Express,13001,Medium Entree
+224,Panda Express,13002,Large Entree
+225,Panda Express,13006,SMALL UP
+226,Panda Express,13007,MEDIUM UP
+227,Panda Express,13008,LARGE UP
+228,Panda Express,13009,FAMILY FEAST
+229,Panda Express,13010,MED SIDE
+230,Panda Express,13011,LARGE SIDE
+231,Panda Express,13014,APPETIZER
+232,Panda Express,13016,FOUTAIN DRINKS SMALL
+233,Panda Express,13017,FOUTAIN DRINKS MED
+234,Panda Express,13018,FOUTAIN DRINKS LARGE
+235,Panda Express,13019,BOWL
+236,Panda Express,13020,PLATE
+237,Panda Express,13021,BIGGER PLATE
+238,Panda Express,20221210,Bag fee
+239,Panda Express,20240623,Buldak Hot Suace
+240,Residential Dining,1015554,

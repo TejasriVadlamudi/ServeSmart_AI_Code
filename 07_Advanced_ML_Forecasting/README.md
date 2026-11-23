@@ -1,21 +1,26 @@
-# 07 — Advanced ML Forecasting
+# ServeSmart Advanced Forecasting — new consolidated version
 
-Use the folders below by purpose. Do not mix their outputs.
+Read08_Results_and_Findings/Final_Findings.md andRemaining_Blockers.txt before submitting. **Strict verdict: Not Yet Ready for an unconditional all-nine-requirements-complete claim.** All runnable seven-model experiments,reporting and verification are complete;missing enrollment/as-of/operating-calendar evidence and the omittedPackageB finalrunner are explicitly documented. The research package can be reviewed with those limitations. No original package was modified.
 
-## Presentation / final result
+## Contents
+01_Approved_Data:designated data,source snapshots,audits and prepared features.
+02_Forecasting_Code:single pipeline,notebook,requirements,independent checks and inference utility.
+03_Trained_Models:14 saved per-level model/configfiles,selection locks and registry.
+04_Hourly_Predictions;05_Daily_Predictions:selected/all-model/validation historical outputs and website data.
+06_Model_Evaluation:official comparisonCSV/XLSX,623grouped metrics,PackageA/B/newcomparison,dailyapproaches and checkrecords. Prediction_Ledger retains common tables shared across levels.
+07_Feature_Importance_SHAP:current selected/best-advanced explanations.
+08_Results_and_Findings:findings,blockers,presentation explanation.
+09_Documentation:methods,ninegroupchecklist,sourcearchives,PackageBreference and logs.
+10_Final_Submission:complete ZIP and checksums.
 
-`FINAL_Advanced_ML_Outputs_20261122/`
+## Execute
+UsePython3.12,not theMac systemPython3.9.
+```
+python3.12 -m venv .venv
+.venv/bin/python -m pip install -r 02_Forecasting_Code/requirements.txt
+.venv/bin/python 02_Forecasting_Code/Forecasting_Pipeline.py --output-run My_Run
+.venv/bin/python 02_Forecasting_Code/Verify_Results.py --root 09_Reproduction_Runs/My_Run
+```
+The optional output-run folder is generated locally and excluded fromsubmission toavoid duplicate models. To verify supplied results without fitting,useVerify_Results.py. To regenerate feature stress checks and explanations,useVerify_Leakage_And_Explain.py. Compare_Source_Packages.py audits copiedA/B artifacts and explicitly marksB's stored scores as external history. Prepare_Final_Reports.py regenerates the report/workbookinputJSON. Build_Comparison_Workbook.mjs exports the workbook using@oai/artifact-tool;the Nodeauthoring dependency is separate from Pythontraining requirements. README in thatcodefolder explains this reporting-onlystep. Final packaging script regenerates inventory and theZIP.
 
-This is the newest executed advanced-ML run. Its `outputs/` contains the Random Forest, XGBoost, and LightGBM results for hourly and daily forecasting. Use its `model_metrics.csv`, `predictions_test.csv`, `validation_tuning.csv`, and `ServeSmart_Phase2_Final_ML_Comparison.xlsx` for the presentation.
-
-## Supporting preparation run
-
-`SUPPORT_Phase2_Preparation_20261122/`
-
-This contains the newer input contract, validation, predictor manifest, baseline preparation, reusable scripts, and dependency records. Its `run_summary.json` says the advanced models were not executed in that run because optional dependencies were unavailable. Do not use its baseline-only metrics as the final advanced-ML result.
-
-## Supporting notebook
-
-`SUPPORT_Notebooks/` contains the forecasting notebook used as supporting documentation.
-
-The earlier packaged advanced-ML folder was moved to `99_Original_Extracted_Archives/legacy_advanced_ml_packaged_20261122/` for reproducibility. It is not the canonical result.
+The guided notebook launches the same official CLI;it does not duplicate training logic. The evidence logs record the completeisolated-environment rerun and independent verification. Current selection:hourlyHistoricalAverage,dailyRF. Both are chosen byvalidation,even thoughSeasonalNaive winsMay. All metrics are error measurements,not classificationaccuracy.

@@ -1,5 +1,7 @@
-# Repository update scope
+# Repository forecasting update
 
-This update preserves the existing Streamlit application, validated app data, and older experiment outputs. It adds the corrected Phase 1 ETL source, finalized Phase 2 outputs, preparation scripts, validation artifacts, and documentation of the authoritative metrics.
+The obsolete app-layer baseline and prior Phase 2 forecasting artifacts were removed from the current tree and replaced with the consolidated Ready-to-Submit forecasting package. The pre-update commit remains in Git history, and the local tag `pre-authoritative-forecasting-update` points to it for recovery.
 
-No raw POS source workbooks, local virtual environments, Python caches, or notebook execution logs are included in this update.
+Unrelated Streamlit presentation, ETL, Tableau, assets, queue data, campus closures, and operating-hours files were preserved. The app now has one forecasting source of truth: `data/forecasting/`.
+
+The dashboard labels hourly Historical Average and daily Random Forest as the selected models, displays their WAPE metrics, loads their website backtests, and no longer references the removed Seasonal Naive fallback artifacts. Decision support accepts the selected forecast values and carries the forecast source into its planning output.

@@ -1,0 +1,20 @@
+{
+  "Seed": 42,
+  "Seconds": 32.70347337500425,
+  "Python": "3.12.14 (main, Aug 25 2026, 13:50:33) [Clang 22.1.3 ]",
+  "Packages": {
+    "numpy": "2.3.5",
+    "pandas": "2.2.3",
+    "scikit-learn": "1.9.1",
+    "xgboost": "3.4.1",
+    "lightgbm": "4.7.0",
+    "prophet": "1.5.0",
+    "joblib": "1.6.0",
+    "matplotlib": "3.11.2"
+  },
+  "InputSHA256": "302f9748bf79dc527c6dd364ff03d1e7a500b7cfbcfe0a1360445e4029af60b8",
+  "Split": "Train Jan-Feb2026, Validation Mar-Apr2026, Test May2026",
+  "TestSelectionPolicy": "Winners locked before May prediction generation; May has been used in earlier project development, so this is a historical benchmark, not a prospectively untouched dataset.",
+  "DailyTarget": "Recorded location-day net POS units; incomplete operating-hour coverage not equated to full-day demand",
+  "ScheduleAvailability": "Conditional; historical schedule snapshot timing unverified"
+}

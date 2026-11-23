@@ -1,0 +1,4 @@
+Level,Method,Status,Note
+Hourly,Exact historical contributors / baseline formula,Generated,"Selected model is a baseline; tree importance files, if present, describe the best validation-ranked advanced tree, not the selected baseline."
+Hourly,SHAP TreeExplainer,Generated,Additive raw tree output; public predictions additionally clipped at zero. Examples match the first three test records for the explained advanced tree; this tree is not the selected baseline.
+Daily,SHAP TreeExplainer,Generated,Additive raw tree output; public predictions additionally clipped at zero. Examples match the first three test records for the explained advanced tree; this tree is not the selected baseline.

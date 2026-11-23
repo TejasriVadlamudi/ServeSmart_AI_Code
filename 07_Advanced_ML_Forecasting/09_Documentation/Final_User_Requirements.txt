@@ -1,0 +1,282 @@
+# FINAL TASK — ServeSmart AI Advanced Forecasting: Submission-Ready Version
+
+I need you to complete and finalize the **Advanced Machine Learning Forecasting** component of my MSBA capstone project, ServeSmart AI, for submission to Professor Surendra Sarnikar.
+
+**This is a final development and verification task, not a planning exercise. Please inspect the actual files, execute the required experiments, fix errors, and produce a complete submission-ready package.**
+
+## 1. Files to use
+
+I have two forecasting packages:
+
+**Package A — My forecasting implementation**
+
+`ServeSmart_Advanced_Forecasting_Final.zip`
+
+This package includes seven forecasting approaches, including LightGBM and Prophet, detailed evaluation, SHAP analysis, and reproducibility documentation.
+
+**Package B — Tejasri's forecasting implementation**
+
+`07_Advanced_ML_Forecasting.zip`
+
+This package contains better-performing Random Forest, XGBoost, and LightGBM experiments, along with model-tuning results.
+
+Locate both packages in the workspace or ask me to attach them if unavailable.
+
+Use Package A as the starting framework, but inspect Package B's feature engineering, model configurations, and evaluation methodology.
+
+**Do not blindly copy Tejasri's lower error values into my results. Reproduce the experiments using the approved dataset and forecasting-safe features.**
+
+## 2. Protect all original files
+
+Create a completely new folder:
+
+`ServeSmart_Advanced_Forecasting_Ready_To_Submit`
+
+Copy all necessary files into the new working folder.
+
+Do not delete, overwrite, rename, or modify either original forecasting package or the existing ServeSmart AI project.
+
+Perform all corrections, model training, and output generation inside the new folder.
+
+## 3. Establish one official forecasting dataset
+
+Identify the latest approved ML flat file.
+
+Verify:
+
+- Unique Location + Date + Hour records.
+- Correct hourly and daily targets.
+- Consistent target totals.
+- Missing, negative, and zero-demand observations.
+- Student-enrollment feature provenance.
+- Weather and campus-event alignment.
+- Historical lag and rolling-average calculations.
+- Forecast-time availability of all predictors.
+
+Use a documented next-day forecasting cutoff.
+
+Exclude Spring Break indicators and direct proxies from model predictors, as requested by the professor.
+
+Also exclude target-derived information, future actual weather, unnecessary database identifiers, and other leakage-prone variables.
+
+Use an explicit approved predictor list.
+
+## 4. Implement all seven forecasting methods
+
+Professor Sarnikar expects experiments with:
+
+1. **Seasonal Naive** — previous-week comparable demand.
+2. **Historical Same-Hour Average** — historical same-weekday/hour demand.
+3. **Ridge Regression** — regularized linear regression.
+4. **Random Forest** — ensemble decision trees.
+5. **XGBoost** — gradient boosting.
+6. **LightGBM** — additional boosting algorithm specifically requested by the professor.
+7. **Facebook Prophet** — time-series model specifically requested by the professor.
+
+Verify that all seven methods actually execute and generate predictions.
+
+Do not count a model as completed merely because its library was imported or code was written.
+
+Preserve any additional SARIMA experiments as optional supporting results.
+
+## 5. Improve ML performance fairly
+
+The previous comparison showed that Tejasri's advanced models achieved better retrospective accuracy.
+
+On matched May observations, her results included:
+
+- Hourly LightGBM MAE: approximately 10.88.
+- Hourly Random Forest MAE: approximately 10.93.
+- Daily XGBoost MAE: approximately 44.04.
+
+These are historical reference results, not performance targets to force.
+
+Reproduce Tejasri's strongest configurations using the approved forecasting-safe feature pipeline.
+
+Experiment with appropriate feature engineering, hyperparameters, student-enrollment variables, and historical lag features.
+
+Use validation performance for tuning.
+
+**Do not tune models using May test results or manipulate the dataset to achieve artificially better accuracy.**
+
+If the baseline performs better after leakage controls, report that honestly.
+
+## 6. Forecast at hourly and daily levels
+
+Generate:
+
+**Hourly forecasts**
+
+Location + Date + Hour → Predicted hourly item units.
+
+**Daily forecasts**
+
+Location + Date → Predicted daily item units.
+
+Prefer one shared modeling framework to avoid maintaining unrelated pipelines.
+
+Evaluate both a dedicated daily model and daily totals aggregated from hourly predictions where feasible.
+
+Check operating-hour coverage before aggregating hourly predictions.
+
+Choose the daily approach based on validated accuracy and reliability.
+
+## 7. Use a consistent chronological evaluation
+
+Use the previously agreed split unless the approved project requirements have changed:
+
+- Training: January–February 2026.
+- Validation: March–April 2026.
+- Testing: May 2026.
+
+Use training data to fit models and validation data for hyperparameter tuning and model selection.
+
+Keep the final test period untouched until evaluation.
+
+Compare models using identical test observations wherever possible.
+
+Document any exclusions or differences in coverage.
+
+## 8. Produce complete model evaluation
+
+Calculate:
+
+- MAE — Mean Absolute Error.
+- RMSE — Root Mean Squared Error.
+- WAPE — Weighted Absolute Percentage Error.
+
+Produce separate evaluation tables for:
+
+- Overall hourly forecasting.
+- Overall daily forecasting.
+- Einstein's, Panda Express, and Residential Dining.
+- Each weekday represented in the test data.
+- Each operating hour for hourly forecasting.
+- Daily forecasting by location and weekday.
+
+Include observation counts in all comparison tables.
+
+Do not mix training, validation, and test observations.
+
+Report WAPE as undefined when total actual demand is zero.
+
+## 9. Explainability and interpretation
+
+For the final selected model, generate feature-importance and SHAP analysis where applicable.
+
+Explain how historical demand, scheduled student activity, weekdays, hours, weather, and campus events contribute to predictions.
+
+Distinguish associations from causal effects.
+
+Identify which locations, weekdays, and hours have the highest forecasting errors.
+
+## 10. Resolve differences between both forecasting packages
+
+Investigate why Package A and Package B produce different model performance.
+
+Check:
+
+- Feature sets.
+- Historical lag construction.
+- Enrollment features.
+- Hyperparameters.
+- Missing-value treatment.
+- Forecasting horizon.
+- Training and validation periods.
+- Evaluation observations.
+- Data leakage.
+- Daily aggregation methodology.
+
+Document the causes supported by evidence.
+
+Create one official comparison table and one clearly justified final model selection.
+
+## 11. Required final folder structure
+
+Create:
+
+```text
+ServeSmart_Advanced_Forecasting_Ready_To_Submit/
+├── 01_Approved_Data/
+├── 02_Forecasting_Code/
+├── 03_Trained_Models/
+├── 04_Hourly_Predictions/
+├── 05_Daily_Predictions/
+├── 06_Model_Evaluation/
+├── 07_Feature_Importance_SHAP/
+├── 08_Results_and_Findings/
+├── 09_Documentation/
+└── 10_Final_Submission/
+```
+
+The final package must contain:
+
+- Approved ML flat file and data-quality report.
+- Reproducible forecasting scripts and notebook.
+- Dependency requirements and execution instructions.
+- Saved trained models and preprocessing pipelines.
+- Hourly and daily prediction CSVs.
+- Overall model comparison workbook.
+- Location-wise, weekday-wise, and hour-wise error tables.
+- Feature-importance and SHAP charts where supported.
+- Final findings report.
+- Professor's nine-requirement verification checklist.
+- One complete submission ZIP.
+
+Do not include empty placeholder results or unsupported performance claims.
+
+## 12. Final verification before submission
+
+Before declaring completion:
+
+1. Execute the final pipeline from a clean environment.
+2. Verify that the scripts work without undocumented absolute paths.
+3. Confirm all seven forecasting methods were evaluated or document any unsuccessful runs.
+4. Recalculate model metrics from saved predictions.
+5. Confirm Spring Break information is excluded from predictors.
+6. Verify enrollment feature calculations.
+7. Verify forecast-time feature availability.
+8. Confirm hourly and daily forecasts are valid.
+9. Verify location, weekday, and hour breakdowns.
+10. Test that saved models can be loaded and used for prediction.
+11. Confirm the final ZIP contains the necessary files.
+12. Preserve all original files unchanged.
+
+## 13. Final response required
+
+After completing the work, provide:
+
+**A. Final model results**
+
+- Hourly model comparison with MAE, RMSE, and WAPE.
+- Daily model comparison with MAE, RMSE, and WAPE.
+- Best validated hourly and daily models.
+- Improvement or deterioration relative to Seasonal Naive.
+
+**B. Professor requirements**
+
+A table showing whether each of the nine requirements is fully satisfied, partially satisfied, or unresolved.
+
+**C. Submission readiness**
+
+- Exact location of the final submission ZIP.
+- List of deliverables.
+- Reproducibility test results.
+- Remaining limitations.
+- Clear verdict: Ready to Submit, Ready with Minor Limitations, or Not Yet Ready.
+
+**D. Final capstone explanation**
+
+Write a short, technically accurate explanation of the forecasting methodology, models tested, evaluation process, findings, and selected model that I can use during my presentation and mock interview.
+
+## Critical final instruction
+
+My objective is to submit **one reliable, reproducible, academically defensible forecasting solution** that fulfills Professor Sarnikar's expectations.
+
+Do not claim success based on filenames, existing reports, or previous model scores alone.
+
+Actually rerun the models, verify the outputs, and report the results accurately.
+
+If any required experiment cannot be completed, explain the exact blocker and distinguish completed work from unfinished work.
+
+**Do not sacrifice data validity or introduce leakage merely to improve reported ML performance.**

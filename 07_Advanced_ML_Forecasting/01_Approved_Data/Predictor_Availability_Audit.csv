@@ -1,0 +1,38 @@
+Predictor,Availability,MissingTreatment
+CampusClosed,Deterministic date/location/calendar,Training-only median plus missing indicator; unknown profile rows are not zero-filled
+ComparableAgeDays,Strictly previous calendar dates; assumes historical records available by end of day,Training-only median plus missing indicator; unknown profile rows are not zero-filled
+FinalExamPeriod,Deterministic date/location/calendar,Training-only median plus missing indicator; unknown profile rows are not zero-filled
+HistoryClockCount,Strictly previous calendar dates; assumes historical records available by end of day,Training-only median plus missing indicator; unknown profile rows are not zero-filled
+HistoryClockMean,Strictly previous calendar dates; assumes historical records available by end of day,Training-only median plus missing indicator; unknown profile rows are not zero-filled
+HistoryWeekdayCount,Strictly previous calendar dates; assumes historical records available by end of day,Training-only median plus missing indicator; unknown profile rows are not zero-filled
+HistoryWeekdayMean,Strictly previous calendar dates; assumes historical records available by end of day,Training-only median plus missing indicator; unknown profile rows are not zero-filled
+HolidayFlag,Deterministic date/location/calendar,Training-only median plus missing indicator; unknown profile rows are not zero-filled
+Hour,Deterministic date/location/calendar,Training-only median plus missing indicator; unknown profile rows are not zero-filled
+IsWeekend,Deterministic date/location/calendar,Training-only median plus missing indicator; unknown profile rows are not zero-filled
+Lag14Day,Strictly previous calendar dates; assumes historical records available by end of day,Training-only median plus missing indicator; unknown profile rows are not zero-filled
+Lag1Day,Strictly previous calendar dates; assumes historical records available by end of day,Training-only median plus missing indicator; unknown profile rows are not zero-filled
+Lag7Day,Strictly previous calendar dates; assumes historical records available by end of day,Training-only median plus missing indicator; unknown profile rows are not zero-filled
+Lag7MinusLag14,Strictly previous calendar dates; assumes historical records available by end of day,Training-only median plus missing indicator; unknown profile rows are not zero-filled
+Lag7To14Ratio,Strictly previous calendar dates; assumes historical records available by end of day,Training-only median plus missing indicator; unknown profile rows are not zero-filled
+LastObservedComparable,Strictly previous calendar dates; assumes historical records available by end of day,Training-only median plus missing indicator; unknown profile rows are not zero-filled
+Location,Deterministic date/location/calendar,Training-only median plus missing indicator; unknown profile rows are not zero-filled
+Month,Deterministic date/location/calendar,Training-only median plus missing indicator; unknown profile rows are not zero-filled
+Prev28DayCount,Strictly previous calendar dates; assumes historical records available by end of day,Training-only median plus missing indicator; unknown profile rows are not zero-filled
+Prev28DayMean,Strictly previous calendar dates; assumes historical records available by end of day,Training-only median plus missing indicator; unknown profile rows are not zero-filled
+Prev7DayCount,Strictly previous calendar dates; assumes historical records available by end of day,Training-only median plus missing indicator; unknown profile rows are not zero-filled
+Prev7DayMean,Strictly previous calendar dates; assumes historical records available by end of day,Training-only median plus missing indicator; unknown profile rows are not zero-filled
+PrevDayTotal,Strictly previous calendar dates; assumes historical records available by end of day,Training-only median plus missing indicator; unknown profile rows are not zero-filled
+PriorDayMappedEventCount,Strictly previous calendar dates; assumes historical records available by end of day,Training-only median plus missing indicator; unknown profile rows are not zero-filled
+PriorDayPrecipitationIn,Strictly previous calendar dates; assumes historical records available by end of day,Training-only median plus missing indicator; unknown profile rows are not zero-filled
+PriorDayTemperatureF,Strictly previous calendar dates; assumes historical records available by end of day,Training-only median plus missing indicator; unknown profile rows are not zero-filled
+ProfileMissing,Conditional: supplied published weekly schedule snapshot; actual historical publication timestamp unknown,Training-only median plus missing indicator; unknown profile rows are not zero-filled
+Recent28ClockMean,Strictly previous calendar dates; assumes historical records available by end of day,Training-only median plus missing indicator; unknown profile rows are not zero-filled
+Recent28WeekdayMean,Strictly previous calendar dates; assumes historical records available by end of day,Training-only median plus missing indicator; unknown profile rows are not zero-filled
+Recent56WeekdayMean,Strictly previous calendar dates; assumes historical records available by end of day,Training-only median plus missing indicator; unknown profile rows are not zero-filled
+Recent7ClockMean,Strictly previous calendar dates; assumes historical records available by end of day,Training-only median plus missing indicator; unknown profile rows are not zero-filled
+Weekday,Deterministic date/location/calendar,Training-only median plus missing indicator; unknown profile rows are not zero-filled
+WeeklyActiveClasses,Conditional: supplied published weekly schedule snapshot; actual historical publication timestamp unknown,Training-only median plus missing indicator; unknown profile rows are not zero-filled
+WeeklyClassesEnding,Conditional: supplied published weekly schedule snapshot; actual historical publication timestamp unknown,Training-only median plus missing indicator; unknown profile rows are not zero-filled
+WeeklyClassesStarting,Conditional: supplied published weekly schedule snapshot; actual historical publication timestamp unknown,Training-only median plus missing indicator; unknown profile rows are not zero-filled
+WeeklyDailyEnrollmentPeak,Conditional: supplied published weekly schedule snapshot; actual historical publication timestamp unknown,Training-only median plus missing indicator; unknown profile rows are not zero-filled
+WeeklyScheduledEnrollment,Conditional: supplied published weekly schedule snapshot; actual historical publication timestamp unknown,Training-only median plus missing indicator; unknown profile rows are not zero-filled

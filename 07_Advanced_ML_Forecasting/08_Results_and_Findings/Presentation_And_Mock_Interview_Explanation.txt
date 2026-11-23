@@ -1,0 +1,19 @@
+I developed one reproducible forecasting workflow from our corrected ETL and
+ML flat file. I verified the targets and rebuilt historical features using only
+information from earlier dates. I excluded Spring Break labels, unsafe database
+identifiers and future actual weather. I compared Seasonal Naive, Historical
+Average, Ridge, Random Forest, XGBoost, LightGBM and Prophet at hourly and daily
+levels. I also reran Tejasri's documented tree settings using the safe features.
+
+Models were fitted on January–February and selected on March–April validation.
+Historical Average won hourly validation; Random Forest won daily validation.
+All methods were evaluated on identical May observations. Seasonal Naive had
+lower May errors, so I reported the generalization limitation instead of
+changing the winner after inspecting the test scores. The saved predictions,
+independent metric checks and a second matching run support reproducibility.
+
+I also documented what the sources cannot establish: the original timed class
+schedule and historical enrollment availability are missing, opening-hour
+coverage is unverified, and Package B omits its final runner. These limitations
+must be resolved before claiming that every requirement or live integration is
+fully verified. The model outputs are POS units, not people or attendance.

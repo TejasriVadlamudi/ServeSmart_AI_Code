@@ -1,27 +1,14 @@
-# ServeSmart finalized forecasting results
+# ServeSmart forecasting results
 
-## Authoritative experiment
+The authoritative results are in `07_Advanced_ML_Forecasting/06_Model_Evaluation/Overall_Model_Comparison.csv` and the app-facing copy is in `data/forecasting/Overall_Model_Comparison.csv`.
 
-The finalized Phase 2 experiment is the executed run in:
+| Forecast level | Selected model | WAPE | Evaluation rows |
+|---|---|---:|---:|
+| Hourly | Historical Average | 61.6987% | 280 |
+| Daily | Random Forest | 42.2436% | 43 |
 
-`07_Advanced_ML_Forecasting/FINAL_Advanced_ML_Outputs_20261122/outputs/model_metrics.csv`
+The integrated website backtest files are `data/forecasting/Hourly_Website_Backtest_Data.csv` and `data/forecasting/Daily_Website_Backtest_Data.csv`. They are historical May 2026 benchmark predictions with an explicit forecast cutoff; they must not be described as prospective live forecasts.
 
-| Forecast level | Selected model | WAPE | MAE | RMSE | Observations |
-|---|---|---:|---:|---:|---:|
-| Hourly | Random Forest | 37.37% | 9.93 | 13.92 | 316 |
-| Daily | XGBoost | 22.54% | 44.04 | 59.77 | 43 |
+The app uses the hourly Historical Average rows when an exact backtest date is available. For dates beyond the scored history, it uses a rolling historical fallback based on prior same-weekday/hour observations and labels that source in the UI. Daily Random Forest predictions appear in Analytics as the daily backtest view.
 
-The source handoff contains 2,032 hourly rows and 63,891 units. The finalized run preserves one negative target row, excludes it from supervised fitting, and evaluates the May common eligible test rows.
-
-## Why older metrics differ
-
-The repository already contained an earlier app-layer comparison under `outputs/models/`. That comparison reports different values because it used a separate baseline/advanced-model artifact and a different common-row coverage. It is retained rather than silently deleted so the project history remains auditable.
-
-Use the finalized Phase 2 `model_metrics.csv` for the capstone result. Use the older `outputs/models/` files only as historical comparison material.
-
-## Reproducibility files
-
-- Preparation scripts: `07_Advanced_ML_Forecasting/preparation/`
-- Validation outputs: `07_Advanced_ML_Forecasting/validation/`
-- Final predictions and manifests: `07_Advanced_ML_Forecasting/FINAL_Advanced_ML_Outputs_20261122/outputs/`
-- Final comparison workbook: `07_Advanced_ML_Forecasting/FINAL_Advanced_ML_Outputs_20261122/ServeSmart_Phase2_Final_ML_Comparison.xlsx`
+The ZIP's own findings and remaining-blocker files are included under `07_Advanced_ML_Forecasting/08_Results_and_Findings/`. In particular, the package does not support an unconditional claim that all nine professor requirements are complete.

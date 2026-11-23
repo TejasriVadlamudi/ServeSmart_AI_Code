@@ -1,0 +1,15 @@
+ForecastLevel,Model,ReloadPredictionMatch
+Hourly,Historical Average,True
+Hourly,LightGBM,True
+Hourly,XGBoost,True
+Hourly,Random Forest,True
+Hourly,Ridge,True
+Hourly,Seasonal Naive,True
+Hourly,Prophet,True
+Daily,Random Forest,True
+Daily,Historical Average,True
+Daily,XGBoost,True
+Daily,LightGBM,True
+Daily,Ridge,True
+Daily,Seasonal Naive,True
+Daily,Prophet,True

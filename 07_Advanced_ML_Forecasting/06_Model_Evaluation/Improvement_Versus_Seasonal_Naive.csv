@@ -1,0 +1,15 @@
+ForecastLevel,Model,ValidationRank,MAE,SeasonalNaiveMAE,MAEImprovementPct,Meaning
+Daily,Random Forest,1,82.52244528368558,71.46511627906976,-15.472344523217718,Positive=lower May MAE; negative=deterioration. All use common keys.
+Daily,Historical Average,2,102.19453635359926,71.46511627906976,-42.99918851951737,Positive=lower May MAE; negative=deterioration. All use common keys.
+Daily,XGBoost,3,83.63886828755223,71.46511627906976,-17.03453746712483,Positive=lower May MAE; negative=deterioration. All use common keys.
+Daily,LightGBM,4,94.24113223796972,71.46511627906976,-31.870116701356928,Positive=lower May MAE; negative=deterioration. All use common keys.
+Daily,Ridge,5,79.3532494887127,71.46511627906976,-11.037739278055538,Positive=lower May MAE; negative=deterioration. All use common keys.
+Daily,Seasonal Naive,6,71.46511627906976,71.46511627906976,0.0,Positive=lower May MAE; negative=deterioration. All use common keys.
+Daily,Prophet,7,97.80927264649706,71.46511627906976,-36.862958795944486,Positive=lower May MAE; negative=deterioration. All use common keys.
+Hourly,Historical Average,1,18.342141497916185,14.767857142857142,-24.203134689638013,Positive=lower May MAE; negative=deterioration. All use common keys.
+Hourly,LightGBM,2,16.075787826275306,14.767857142857142,-8.856604385902923,Positive=lower May MAE; negative=deterioration. All use common keys.
+Hourly,XGBoost,3,16.46229962365968,14.767857142857142,-11.473854767223944,Positive=lower May MAE; negative=deterioration. All use common keys.
+Hourly,Random Forest,4,17.060214219828705,14.767857142857142,-15.522611403918681,Positive=lower May MAE; negative=deterioration. All use common keys.
+Hourly,Ridge,5,17.032669496218563,14.767857142857142,-15.336093323850012,Positive=lower May MAE; negative=deterioration. All use common keys.
+Hourly,Seasonal Naive,6,14.767857142857142,14.767857142857142,0.0,Positive=lower May MAE; negative=deterioration. All use common keys.
+Hourly,Prophet,7,16.905147557186456,14.767857142857142,-14.472583216740217,Positive=lower May MAE; negative=deterioration. All use common keys.

@@ -1,0 +1,11 @@
+{
+  "Status": "PASS",
+  "Environment": "New isolated Python3.12 environment installed from pinned requirements inside this new project; two complete executions in separate result folders.",
+  "AllTestPredictionsMatch": true,
+  "PredictionRows": 2513,
+  "MetricTablesMatched": [
+    "Overall_Model_Comparison.csv",
+    "All_Group_Performance.csv"
+  ],
+  "Tolerance": "1e-9"
+}

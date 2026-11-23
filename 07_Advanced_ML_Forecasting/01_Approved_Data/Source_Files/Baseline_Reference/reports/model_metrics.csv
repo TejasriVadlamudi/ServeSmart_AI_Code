@@ -1,0 +1,12 @@
+ForecastLevel,Model,Evaluation,Configuration,Observations,MAE,RMSE,WAPE,ZeroActuals,WAPEDenominator
+Daily,Historical Same-Day-of-Week Average,Model eligible rows,No Spring Break; weather excluded,270,49.11479772466701,101.56470727075639,21.722955452707943,1,61046.0
+Daily,Random Forest,Model eligible rows,No Spring Break; weather excluded,43,147.46595200430136,196.28041664264487,75.48852304982093,0,8400.0
+Daily,Ridge,Model eligible rows,No Spring Break; weather excluded,43,147.15906728400992,195.0803680226129,75.33142730014794,0,8400.0
+Daily,SARIMA,Model eligible rows,No Spring Break; weather excluded,43,109.77392431123344,172.90696858512314,56.19379458789331,0,8400.0
+Daily,Seasonal Naive,Model eligible rows,No Spring Break; weather excluded,257,52.43968871595331,101.61897629090961,22.81144211238998,1,59080.0
+Daily,XGBoost,Model eligible rows,No Spring Break; weather excluded,43,146.98331389316292,195.73809153399256,75.24145830245244,0,8400.0
+Hourly,Historical Same-Hour Average,Model eligible rows,No Spring Break; weather excluded,1998,11.24423707994317,17.90581944121838,35.570521518273644,2,63159.0
+Hourly,Random Forest,Model eligible rows,No Spring Break; weather excluded,316,10.049715325497289,14.066406409734588,37.80607193877551,0,8400.0
+Hourly,Ridge,Model eligible rows,No Spring Break; weather excluded,316,10.720639302154659,15.301000900048754,40.330024041438946,0,8400.0
+Hourly,Seasonal Naive,Model eligible rows,No Spring Break; weather excluded,1581,12.588867805186592,19.108151195896404,34.84174777676633,1,57124.0
+Hourly,XGBoost,Model eligible rows,No Spring Break; weather excluded,316,9.54212053101274,13.307796257583444,35.89654866428602,0,8400.0

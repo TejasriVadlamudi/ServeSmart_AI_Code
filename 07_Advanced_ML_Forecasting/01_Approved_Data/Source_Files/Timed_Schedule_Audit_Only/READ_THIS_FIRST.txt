@@ -1,0 +1,1 @@
+Audit-only copy of existing timed Tableau meeting evidence. It is not substituted into the approved ML file or new forecast features. See Enrollment_Timed_Evidence_Crosscheck.csv for comparisons and the explicit reconstruction caveat. The current master workbook still has blank section time columns; the exact supplied69-row profile generator remains unverified.

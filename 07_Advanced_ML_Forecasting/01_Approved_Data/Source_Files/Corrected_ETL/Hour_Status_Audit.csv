@@ -1,0 +1,2033 @@
+Location,LocationKey,Date,DateKey,Hour,TimeKey,HourStatus,ItemUnits,NetSales,TransactionRows,CampusClosedFlag,HolidayFlag,Regular_Class_Day,OutletScheduleEvidence
+Residential Dining,3,2026-01-11,20260111,17,11,observed_sales,1,15.66,1,0,0,No,none_available
+Residential Dining,3,2026-01-13,20260113,11,5,observed_sales,2,28.16,2,0,0,No,none_available
+Residential Dining,3,2026-01-14,20260114,12,6,observed_sales,3,42.24,3,0,0,No,none_available
+Residential Dining,3,2026-01-15,20260115,12,6,observed_sales,3,42.24,3,0,0,No,none_available
+Residential Dining,3,2026-01-16,20260116,12,6,observed_sales,1,14.08,1,0,0,No,none_available
+Residential Dining,3,2026-01-16,20260116,14,8,observed_sales,1,9.25,1,0,0,No,none_available
+Residential Dining,3,2026-01-17,20260117,11,5,observed_sales,3,42.24,3,0,0,No,none_available
+Residential Dining,3,2026-01-17,20260117,12,6,observed_sales,2,28.16,2,0,0,No,none_available
+Residential Dining,3,2026-01-17,20260117,13,7,observed_sales,2,28.16,2,0,0,No,none_available
+Residential Dining,3,2026-01-17,20260117,14,8,observed_sales,1,14.08,1,0,0,No,none_available
+Residential Dining,3,2026-01-17,20260117,18,12,observed_sales,1,15.66,1,0,0,No,none_available
+Residential Dining,3,2026-01-17,20260117,19,13,observed_sales,1,15.66,1,0,0,No,none_available
+Residential Dining,3,2026-01-18,20260118,17,11,observed_sales,1,15.66,1,0,0,No,none_available
+Einstein's,1,2026-01-19,20260119,10,4,observed_sales,1,1.0,1,1,1,No,none_available
+Panda Express,2,2026-01-19,20260119,8,2,observed_sales,1,0.1,1,1,1,No,none_available
+Residential Dining,3,2026-01-19,20260119,17,11,observed_sales,5,78.3,5,1,1,No,none_available
+Residential Dining,3,2026-01-19,20260119,18,12,observed_sales,1,15.66,1,1,1,No,none_available
+Einstein's,1,2026-01-20,20260120,7,1,observed_sales,2,9.780000000000001,4,0,0,Yes,none_available
+Einstein's,1,2026-01-20,20260120,8,2,observed_sales,31,119.88,33,0,0,Yes,none_available
+Einstein's,1,2026-01-20,20260120,9,3,observed_sales,79,261.81,81,0,0,Yes,none_available
+Einstein's,1,2026-01-20,20260120,10,4,observed_sales,83,373.19,85,0,0,Yes,none_available
+Einstein's,1,2026-01-20,20260120,11,5,observed_sales,71,349.35,75,0,0,Yes,none_available
+Einstein's,1,2026-01-20,20260120,12,6,observed_sales,91,441.07,93,0,0,Yes,none_available
+Einstein's,1,2026-01-20,20260120,13,7,observed_sales,46,213.79999999999998,46,0,0,Yes,none_available
+Einstein's,1,2026-01-20,20260120,14,8,observed_sales,37,146.97,43,0,0,Yes,none_available
+Einstein's,1,2026-01-20,20260120,15,9,observed_sales,42,218.49,48,0,0,Yes,none_available
+Einstein's,1,2026-01-20,20260120,16,10,observed_sales,24,92.61,24,0,0,Yes,none_available
+Einstein's,1,2026-01-20,20260120,17,11,observed_sales,23,74.29,29,0,0,Yes,none_available
+Panda Express,2,2026-01-20,20260120,11,5,observed_sales,58,508.18,62,0,0,Yes,none_available
+Panda Express,2,2026-01-20,20260120,12,6,observed_sales,88,733.01,102,0,0,Yes,none_available
+Panda Express,2,2026-01-20,20260120,13,7,observed_sales,45,370.07,45,0,0,Yes,none_available
+Panda Express,2,2026-01-20,20260120,14,8,observed_sales,26,226.75,26,0,0,Yes,none_available
+Panda Express,2,2026-01-20,20260120,15,9,observed_sales,42,344.32,44,0,0,Yes,none_available
+Residential Dining,3,2026-01-20,20260120,8,2,observed_sales,1,9.25,1,0,0,Yes,none_available
+Residential Dining,3,2026-01-20,20260120,9,3,observed_sales,2,18.5,2,0,0,Yes,none_available
+Residential Dining,3,2026-01-20,20260120,10,4,observed_sales,1,9.25,1,0,0,Yes,none_available
+Residential Dining,3,2026-01-20,20260120,11,5,observed_sales,5,70.4,5,0,0,Yes,none_available
+Residential Dining,3,2026-01-20,20260120,12,6,observed_sales,10,140.8,10,0,0,Yes,none_available
+Residential Dining,3,2026-01-20,20260120,13,7,observed_sales,1,14.08,1,0,0,Yes,none_available
+Residential Dining,3,2026-01-20,20260120,16,10,observed_sales,1,15.66,1,0,0,Yes,none_available
+Residential Dining,3,2026-01-20,20260120,17,11,observed_sales,3,46.980000000000004,3,0,0,Yes,none_available
+Residential Dining,3,2026-01-20,20260120,18,12,observed_sales,3,46.980000000000004,3,0,0,Yes,none_available
+Residential Dining,3,2026-01-20,20260120,19,13,observed_sales,1,15.66,1,0,0,Yes,none_available
+Einstein's,1,2026-01-21,20260121,7,1,observed_sales,18,87.5,18,0,0,Yes,none_available
+Einstein's,1,2026-01-21,20260121,8,2,observed_sales,19,115.61,19,0,0,Yes,none_available
+Einstein's,1,2026-01-21,20260121,9,3,observed_sales,84,393.16,86,0,0,Yes,none_available
+Einstein's,1,2026-01-21,20260121,10,4,observed_sales,81,450.38,81,0,0,Yes,none_available
+Einstein's,1,2026-01-21,20260121,11,5,observed_sales,92,402.17,94,0,0,Yes,none_available
+Einstein's,1,2026-01-21,20260121,12,6,observed_sales,89,440.2,93,0,0,Yes,none_available
+Einstein's,1,2026-01-21,20260121,13,7,observed_sales,86,351.18,86,0,0,Yes,none_available
+Einstein's,1,2026-01-21,20260121,14,8,observed_sales,45,176.12,47,0,0,Yes,none_available
+Einstein's,1,2026-01-21,20260121,15,9,observed_sales,46,183.52,50,0,0,Yes,none_available
+Einstein's,1,2026-01-21,20260121,16,10,observed_sales,38,161.35,42,0,0,Yes,none_available
+Einstein's,1,2026-01-21,20260121,17,11,observed_sales,11,22.7,11,0,0,Yes,none_available
+Panda Express,2,2026-01-21,20260121,11,5,observed_sales,70,556.38,74,0,0,Yes,none_available
+Panda Express,2,2026-01-21,20260121,12,6,observed_sales,77,659.09,79,0,0,Yes,none_available
+Panda Express,2,2026-01-21,20260121,13,7,observed_sales,73,592.67,73,0,0,Yes,none_available
+Panda Express,2,2026-01-21,20260121,14,8,observed_sales,51,424.44,51,0,0,Yes,none_available
+Panda Express,2,2026-01-21,20260121,15,9,observed_sales,31,264.72,31,0,0,Yes,none_available
+Residential Dining,3,2026-01-21,20260121,7,1,observed_sales,3,27.75,3,0,0,Yes,none_available
+Residential Dining,3,2026-01-21,20260121,8,2,observed_sales,3,27.75,3,0,0,Yes,none_available
+Residential Dining,3,2026-01-21,20260121,9,3,observed_sales,1,9.25,1,0,0,Yes,none_available
+Residential Dining,3,2026-01-21,20260121,10,4,observed_sales,3,42.24,3,0,0,Yes,none_available
+Residential Dining,3,2026-01-21,20260121,11,5,observed_sales,8,112.64,8,0,0,Yes,none_available
+Residential Dining,3,2026-01-21,20260121,12,6,observed_sales,19,267.52,14,0,0,Yes,none_available
+Residential Dining,3,2026-01-21,20260121,13,7,observed_sales,7,98.56,7,0,0,Yes,none_available
+Residential Dining,3,2026-01-21,20260121,17,11,observed_sales,2,31.32,2,0,0,Yes,none_available
+Residential Dining,3,2026-01-21,20260121,18,12,observed_sales,1,15.66,1,0,0,Yes,none_available
+Residential Dining,3,2026-01-21,20260121,19,13,observed_sales,2,31.32,2,0,0,Yes,none_available
+Einstein's,1,2026-01-22,20260122,7,1,observed_sales,6,22.11,6,0,0,Yes,none_available
+Einstein's,1,2026-01-22,20260122,8,2,observed_sales,39,174.57,39,0,0,Yes,none_available
+Einstein's,1,2026-01-22,20260122,9,3,observed_sales,62,235.10999999999999,62,0,0,Yes,none_available
+Einstein's,1,2026-01-22,20260122,10,4,observed_sales,92,418.58,98,0,0,Yes,none_available
+Einstein's,1,2026-01-22,20260122,11,5,observed_sales,61,304.83,63,0,0,Yes,none_available
+Einstein's,1,2026-01-22,20260122,12,6,observed_sales,105,523.82,111,0,0,Yes,none_available
+Einstein's,1,2026-01-22,20260122,13,7,observed_sales,39,193.75,43,0,0,Yes,none_available
+Einstein's,1,2026-01-22,20260122,14,8,observed_sales,52,197.15,52,0,0,Yes,none_available
+Einstein's,1,2026-01-22,20260122,15,9,observed_sales,35,140.48,37,0,0,Yes,none_available
+Einstein's,1,2026-01-22,20260122,16,10,observed_sales,34,109.09,42,0,0,Yes,none_available
+Einstein's,1,2026-01-22,20260122,17,11,observed_sales,8,45.14,10,0,0,Yes,none_available
+Panda Express,2,2026-01-22,20260122,10,4,observed_sales,3,28.88,3,0,0,Yes,none_available
+Panda Express,2,2026-01-22,20260122,11,5,observed_sales,55,439.05,57,0,0,Yes,none_available
+Panda Express,2,2026-01-22,20260122,12,6,observed_sales,101,826.23,105,0,0,Yes,none_available
+Panda Express,2,2026-01-22,20260122,13,7,observed_sales,34,266.88,36,0,0,Yes,none_available
+Panda Express,2,2026-01-22,20260122,14,8,observed_sales,43,403.31,43,0,0,Yes,none_available
+Panda Express,2,2026-01-22,20260122,15,9,observed_sales,19,174.33,21,0,0,Yes,none_available
+Residential Dining,3,2026-01-22,20260122,7,1,observed_sales,2,18.5,2,0,0,Yes,none_available
+Residential Dining,3,2026-01-22,20260122,8,2,observed_sales,2,18.5,2,0,0,Yes,none_available
+Residential Dining,3,2026-01-22,20260122,9,3,observed_sales,1,9.25,1,0,0,Yes,none_available
+Residential Dining,3,2026-01-22,20260122,10,4,observed_sales,3,42.24,3,0,0,Yes,none_available
+Residential Dining,3,2026-01-22,20260122,11,5,observed_sales,5,70.4,5,0,0,Yes,none_available
+Residential Dining,3,2026-01-22,20260122,12,6,observed_sales,11,154.88,13,0,0,Yes,none_available
+Residential Dining,3,2026-01-22,20260122,16,10,observed_sales,3,46.980000000000004,3,0,0,Yes,none_available
+Residential Dining,3,2026-01-22,20260122,17,11,observed_sales,4,62.64,4,0,0,Yes,none_available
+Residential Dining,3,2026-01-22,20260122,18,12,observed_sales,1,15.66,1,0,0,Yes,none_available
+Residential Dining,3,2026-01-22,20260122,20,14,observed_sales,1,15.66,1,0,0,Yes,none_available
+Einstein's,1,2026-01-23,20260123,7,1,observed_sales,3,17.57,3,0,0,Yes,none_available
+Einstein's,1,2026-01-23,20260123,8,2,observed_sales,26,123.08,30,0,0,Yes,none_available
+Einstein's,1,2026-01-23,20260123,9,3,observed_sales,29,131.62,29,0,0,Yes,none_available
+Einstein's,1,2026-01-23,20260123,10,4,observed_sales,61,258.89,63,0,0,Yes,none_available
+Einstein's,1,2026-01-23,20260123,11,5,observed_sales,34,151.6,34,0,0,Yes,none_available
+Einstein's,1,2026-01-23,20260123,12,6,observed_sales,40,153.75,40,0,0,Yes,none_available
+Einstein's,1,2026-01-23,20260123,13,7,observed_sales,28,121.99,28,0,0,Yes,none_available
+Einstein's,1,2026-01-23,20260123,14,8,observed_sales,24,114.68,24,0,0,Yes,none_available
+Einstein's,1,2026-01-23,20260123,15,9,observed_sales,18,78.64999999999999,20,0,0,Yes,none_available
+Panda Express,2,2026-01-23,20260123,11,5,observed_sales,11,73.03,11,0,0,Yes,none_available
+Panda Express,2,2026-01-23,20260123,12,6,observed_sales,33,293.0,33,0,0,Yes,none_available
+Panda Express,2,2026-01-23,20260123,13,7,observed_sales,22,179.8,22,0,0,Yes,none_available
+Residential Dining,3,2026-01-23,20260123,8,2,observed_sales,1,9.25,1,0,0,Yes,none_available
+Residential Dining,3,2026-01-23,20260123,9,3,observed_sales,3,27.75,3,0,0,Yes,none_available
+Residential Dining,3,2026-01-23,20260123,11,5,observed_sales,8,112.64,8,0,0,Yes,none_available
+Residential Dining,3,2026-01-23,20260123,12,6,observed_sales,6,84.48,6,0,0,Yes,none_available
+Residential Dining,3,2026-01-23,20260123,13,7,observed_sales,2,28.16,2,0,0,Yes,none_available
+Residential Dining,3,2026-01-23,20260123,17,11,observed_sales,1,15.66,1,0,0,Yes,none_available
+Residential Dining,3,2026-01-23,20260123,18,12,observed_sales,4,62.64,4,0,0,Yes,none_available
+Residential Dining,3,2026-01-24,20260124,16,10,observed_sales,2,31.32,2,0,0,No,none_available
+Residential Dining,3,2026-01-24,20260124,17,11,observed_sales,1,15.66,1,0,0,No,none_available
+Residential Dining,3,2026-01-24,20260124,18,12,observed_sales,1,15.66,1,0,0,No,none_available
+Residential Dining,3,2026-01-25,20260125,11,5,observed_sales,2,28.16,2,0,0,No,none_available
+Residential Dining,3,2026-01-25,20260125,16,10,observed_sales,1,15.66,1,0,0,No,none_available
+Residential Dining,3,2026-01-25,20260125,17,11,observed_sales,3,46.980000000000004,3,0,0,No,none_available
+Residential Dining,3,2026-01-25,20260125,18,12,observed_sales,1,15.66,1,0,0,No,none_available
+Einstein's,1,2026-01-26,20260126,7,1,observed_sales,9,47.01,9,0,0,Yes,none_available
+Einstein's,1,2026-01-26,20260126,8,2,observed_sales,38,134.59,38,0,0,Yes,none_available
+Einstein's,1,2026-01-26,20260126,9,3,observed_sales,70,329.09,72,0,0,Yes,none_available
+Einstein's,1,2026-01-26,20260126,10,4,observed_sales,86,375.94,86,0,0,Yes,none_available
+Einstein's,1,2026-01-26,20260126,11,5,observed_sales,105,418.58,115,0,0,Yes,none_available
+Einstein's,1,2026-01-26,20260126,12,6,observed_sales,97,431.34,101,0,0,Yes,none_available
+Einstein's,1,2026-01-26,20260126,13,7,observed_sales,104,466.76,106,0,0,Yes,none_available
+Einstein's,1,2026-01-26,20260126,14,8,observed_sales,35,145.75,35,0,0,Yes,none_available
+Einstein's,1,2026-01-26,20260126,15,9,observed_sales,68,235.24,68,0,0,Yes,none_available
+Einstein's,1,2026-01-26,20260126,16,10,observed_sales,23,94.51,23,0,0,Yes,none_available
+Einstein's,1,2026-01-26,20260126,17,11,observed_sales,11,31.86,11,0,0,Yes,none_available
+Panda Express,2,2026-01-26,20260126,11,5,observed_sales,63,520.09,63,0,0,Yes,none_available
+Panda Express,2,2026-01-26,20260126,12,6,observed_sales,115,936.5500000000001,115,0,0,Yes,none_available
+Panda Express,2,2026-01-26,20260126,13,7,observed_sales,99,787.98,101,0,0,Yes,none_available
+Panda Express,2,2026-01-26,20260126,14,8,observed_sales,41,385.41,45,0,0,Yes,none_available
+Panda Express,2,2026-01-26,20260126,15,9,observed_sales,28,240.35,28,0,0,Yes,none_available
+Residential Dining,3,2026-01-26,20260126,7,1,observed_sales,2,18.5,2,0,0,Yes,none_available
+Residential Dining,3,2026-01-26,20260126,8,2,observed_sales,1,9.25,1,0,0,Yes,none_available
+Residential Dining,3,2026-01-26,20260126,9,3,observed_sales,1,9.25,1,0,0,Yes,none_available
+Residential Dining,3,2026-01-26,20260126,10,4,observed_sales,4,56.32,4,0,0,Yes,none_available
+Residential Dining,3,2026-01-26,20260126,11,5,observed_sales,7,98.56,7,0,0,Yes,none_available
+Residential Dining,3,2026-01-26,20260126,12,6,observed_sales,14,197.12,14,0,0,Yes,none_available
+Residential Dining,3,2026-01-26,20260126,13,7,observed_sales,5,70.4,5,0,0,Yes,none_available
+Residential Dining,3,2026-01-26,20260126,16,10,observed_sales,2,31.32,2,0,0,Yes,none_available
+Residential Dining,3,2026-01-26,20260126,17,11,observed_sales,1,15.66,1,0,0,Yes,none_available
+Residential Dining,3,2026-01-26,20260126,18,12,observed_sales,1,15.66,1,0,0,Yes,none_available
+Einstein's,1,2026-01-27,20260127,7,1,observed_sales,8,30.09,8,0,0,Yes,none_available
+Einstein's,1,2026-01-27,20260127,8,2,observed_sales,77,418.71,81,0,0,Yes,none_available
+Einstein's,1,2026-01-27,20260127,9,3,observed_sales,84,317.2,84,0,0,Yes,none_available
+Einstein's,1,2026-01-27,20260127,10,4,observed_sales,82,398.11,86,0,0,Yes,none_available
+Einstein's,1,2026-01-27,20260127,11,5,observed_sales,82,389.2,92,0,0,Yes,none_available
+Einstein's,1,2026-01-27,20260127,12,6,observed_sales,110,475.66,120,0,0,Yes,none_available
+Einstein's,1,2026-01-27,20260127,13,7,observed_sales,50,193.86,52,0,0,Yes,none_available
+Einstein's,1,2026-01-27,20260127,14,8,observed_sales,42,163.9,42,0,0,Yes,none_available
+Einstein's,1,2026-01-27,20260127,15,9,observed_sales,36,138.68,36,0,0,Yes,none_available
+Einstein's,1,2026-01-27,20260127,16,10,observed_sales,27,88.38,31,0,0,Yes,none_available
+Einstein's,1,2026-01-27,20260127,17,11,observed_sales,27,101.29,35,0,0,Yes,none_available
+Panda Express,2,2026-01-27,20260127,10,4,observed_sales,4,45.760000000000005,4,0,0,Yes,none_available
+Panda Express,2,2026-01-27,20260127,11,5,observed_sales,58,453.90000000000003,60,0,0,Yes,none_available
+Panda Express,2,2026-01-27,20260127,12,6,observed_sales,122,999.84,124,0,0,Yes,none_available
+Panda Express,2,2026-01-27,20260127,13,7,observed_sales,49,430.17,49,0,0,Yes,none_available
+Panda Express,2,2026-01-27,20260127,14,8,observed_sales,52,443.26,52,0,0,Yes,none_available
+Panda Express,2,2026-01-27,20260127,15,9,observed_sales,18,151.65,18,0,0,Yes,none_available
+Residential Dining,3,2026-01-27,20260127,8,2,observed_sales,3,27.75,3,0,0,Yes,none_available
+Residential Dining,3,2026-01-27,20260127,10,4,observed_sales,3,42.24,3,0,0,Yes,none_available
+Residential Dining,3,2026-01-27,20260127,11,5,observed_sales,4,56.32,4,0,0,Yes,none_available
+Residential Dining,3,2026-01-27,20260127,12,6,observed_sales,4,56.32,4,0,0,Yes,none_available
+Residential Dining,3,2026-01-27,20260127,13,7,observed_sales,1,14.08,1,0,0,Yes,none_available
+Residential Dining,3,2026-01-27,20260127,16,10,observed_sales,2,31.32,2,0,0,Yes,none_available
+Residential Dining,3,2026-01-27,20260127,17,11,observed_sales,3,46.980000000000004,3,0,0,Yes,none_available
+Residential Dining,3,2026-01-27,20260127,20,14,observed_sales,1,15.66,1,0,0,Yes,none_available
+Einstein's,1,2026-01-28,20260128,7,1,observed_sales,7,43.43,7,0,0,Yes,none_available
+Einstein's,1,2026-01-28,20260128,8,2,observed_sales,36,181.58,38,0,0,Yes,none_available
+Einstein's,1,2026-01-28,20260128,9,3,observed_sales,116,473.83,128,0,0,Yes,none_available
+Einstein's,1,2026-01-28,20260128,10,4,observed_sales,114,450.79,116,0,0,Yes,none_available
+Einstein's,1,2026-01-28,20260128,11,5,observed_sales,126,559.35,132,0,0,Yes,none_available
+Einstein's,1,2026-01-28,20260128,12,6,observed_sales,106,433.64,108,0,0,Yes,none_available
+Einstein's,1,2026-01-28,20260128,13,7,observed_sales,79,346.09,79,0,0,Yes,none_available
+Einstein's,1,2026-01-28,20260128,14,8,observed_sales,30,125.01,30,0,0,Yes,none_available
+Einstein's,1,2026-01-28,20260128,15,9,observed_sales,33,148.58,39,0,0,Yes,none_available
+Einstein's,1,2026-01-28,20260128,16,10,observed_sales,46,183.23,54,0,0,Yes,none_available
+Einstein's,1,2026-01-28,20260128,17,11,observed_sales,4,22.96,4,0,0,Yes,none_available
+Panda Express,2,2026-01-28,20260128,10,4,observed_sales,3,32.07,3,0,0,Yes,none_available
+Panda Express,2,2026-01-28,20260128,11,5,observed_sales,49,391.42,49,0,0,Yes,none_available
+Panda Express,2,2026-01-28,20260128,12,6,observed_sales,103,828.96,103,0,0,Yes,none_available
+Panda Express,2,2026-01-28,20260128,13,7,observed_sales,55,447.63,59,0,0,Yes,none_available
+Panda Express,2,2026-01-28,20260128,14,8,observed_sales,32,270.6,32,0,0,Yes,none_available
+Panda Express,2,2026-01-28,20260128,15,9,observed_sales,25,190.78,25,0,0,Yes,none_available
+Residential Dining,3,2026-01-28,20260128,7,1,observed_sales,1,9.25,1,0,0,Yes,none_available
+Residential Dining,3,2026-01-28,20260128,8,2,observed_sales,2,18.5,2,0,0,Yes,none_available
+Residential Dining,3,2026-01-28,20260128,9,3,observed_sales,2,18.5,2,0,0,Yes,none_available
+Residential Dining,3,2026-01-28,20260128,10,4,observed_sales,1,14.08,1,0,0,Yes,none_available
+Residential Dining,3,2026-01-28,20260128,11,5,observed_sales,8,112.64,8,0,0,Yes,none_available
+Residential Dining,3,2026-01-28,20260128,12,6,observed_sales,11,154.88,11,0,0,Yes,none_available
+Residential Dining,3,2026-01-28,20260128,13,7,observed_sales,4,56.32,6,0,0,Yes,none_available
+Residential Dining,3,2026-01-28,20260128,17,11,observed_sales,3,46.980000000000004,3,0,0,Yes,none_available
+Residential Dining,3,2026-01-28,20260128,19,13,observed_sales,1,15.66,1,0,0,Yes,none_available
+Einstein's,1,2026-01-29,20260129,7,1,observed_sales,5,26.95,5,0,0,Yes,none_available
+Einstein's,1,2026-01-29,20260129,8,2,observed_sales,25,112.3,25,0,0,Yes,none_available
+Einstein's,1,2026-01-29,20260129,9,3,observed_sales,85,317.29,89,0,0,Yes,none_available
+Einstein's,1,2026-01-29,20260129,10,4,observed_sales,106,466.46,106,0,0,Yes,none_available
+Einstein's,1,2026-01-29,20260129,11,5,observed_sales,66,295.16,66,0,0,Yes,none_available
+Einstein's,1,2026-01-29,20260129,12,6,observed_sales,96,453.26,102,0,0,Yes,none_available
+Einstein's,1,2026-01-29,20260129,13,7,observed_sales,40,141.45,46,0,0,Yes,none_available
+Einstein's,1,2026-01-29,20260129,14,8,observed_sales,56,231.6,70,0,0,Yes,none_available
+Einstein's,1,2026-01-29,20260129,15,9,observed_sales,27,98.53999999999999,27,0,0,Yes,none_available
+Einstein's,1,2026-01-29,20260129,16,10,observed_sales,25,141.38,27,0,0,Yes,none_available
+Einstein's,1,2026-01-29,20260129,17,11,observed_sales,9,32.3,9,0,0,Yes,none_available
+Panda Express,2,2026-01-29,20260129,10,4,observed_sales,7,71.93,7,0,0,Yes,none_available
+Panda Express,2,2026-01-29,20260129,11,5,observed_sales,31,281.03000000000003,31,0,0,Yes,none_available
+Panda Express,2,2026-01-29,20260129,12,6,observed_sales,110,927.64,110,0,0,Yes,none_available
+Panda Express,2,2026-01-29,20260129,13,7,observed_sales,55,468.61,55,0,0,Yes,none_available
+Panda Express,2,2026-01-29,20260129,14,8,observed_sales,43,341.7,47,0,0,Yes,none_available
+Panda Express,2,2026-01-29,20260129,15,9,observed_sales,23,213.9,23,0,0,Yes,none_available
+Residential Dining,3,2026-01-29,20260129,11,5,observed_sales,9,126.72,9,0,0,Yes,none_available
+Residential Dining,3,2026-01-29,20260129,12,6,observed_sales,2,28.16,2,0,0,Yes,none_available
+Residential Dining,3,2026-01-29,20260129,15,9,observed_sales,1,14.08,1,0,0,Yes,none_available
+Residential Dining,3,2026-01-29,20260129,16,10,observed_sales,1,15.66,1,0,0,Yes,none_available
+Residential Dining,3,2026-01-29,20260129,17,11,observed_sales,7,109.62,7,0,0,Yes,none_available
+Residential Dining,3,2026-01-29,20260129,18,12,observed_sales,3,46.980000000000004,3,0,0,Yes,none_available
+Residential Dining,3,2026-01-29,20260129,20,14,observed_sales,1,15.66,1,0,0,Yes,none_available
+Einstein's,1,2026-01-30,20260130,7,1,observed_sales,1,4.09,1,0,0,Yes,none_available
+Einstein's,1,2026-01-30,20260130,8,2,observed_sales,25,87.92,27,0,0,Yes,none_available
+Einstein's,1,2026-01-30,20260130,9,3,observed_sales,54,202.34,64,0,0,Yes,none_available
+Einstein's,1,2026-01-30,20260130,10,4,observed_sales,41,153.51,41,0,0,Yes,none_available
+Einstein's,1,2026-01-30,20260130,11,5,observed_sales,43,181.82,43,0,0,Yes,none_available
+Einstein's,1,2026-01-30,20260130,12,6,observed_sales,35,128.2,35,0,0,Yes,none_available
+Einstein's,1,2026-01-30,20260130,13,7,observed_sales,50,201.23,56,0,0,Yes,none_available
+Einstein's,1,2026-01-30,20260130,14,8,observed_sales,9,41.58,15,0,0,Yes,none_available
+Einstein's,1,2026-01-30,20260130,15,9,observed_sales,21,63.28,25,0,0,Yes,none_available
+Panda Express,2,2026-01-30,20260130,11,5,observed_sales,22,176.22,22,0,0,Yes,none_available
+Panda Express,2,2026-01-30,20260130,12,6,observed_sales,38,279.65,38,0,0,Yes,none_available
+Panda Express,2,2026-01-30,20260130,13,7,observed_sales,23,176.7,23,0,0,Yes,none_available
+Panda Express,2,2026-01-30,20260130,14,8,observed_sales,2,11.59,2,0,0,Yes,none_available
+Residential Dining,3,2026-01-30,20260130,7,1,observed_sales,1,9.25,1,0,0,Yes,none_available
+Residential Dining,3,2026-01-30,20260130,9,3,observed_zero,0,0.0,2,0,0,Yes,none_available
+Residential Dining,3,2026-01-30,20260130,10,4,observed_sales,1,14.08,1,0,0,Yes,none_available
+Residential Dining,3,2026-01-30,20260130,11,5,observed_sales,3,42.24,3,0,0,Yes,none_available
+Residential Dining,3,2026-01-30,20260130,12,6,observed_sales,5,70.4,5,0,0,Yes,none_available
+Residential Dining,3,2026-01-30,20260130,13,7,observed_sales,8,112.64,8,0,0,Yes,none_available
+Residential Dining,3,2026-01-30,20260130,17,11,observed_sales,2,31.32,2,0,0,Yes,none_available
+Residential Dining,3,2026-01-30,20260130,18,12,observed_sales,3,46.980000000000004,3,0,0,Yes,none_available
+Residential Dining,3,2026-01-30,20260130,19,13,observed_sales,1,15.66,1,0,0,Yes,none_available
+Residential Dining,3,2026-01-31,20260131,17,11,observed_sales,5,78.3,5,0,0,No,none_available
+Residential Dining,3,2026-01-31,20260131,18,12,observed_sales,5,78.3,5,0,0,No,none_available
+Residential Dining,3,2026-01-31,20260131,19,13,observed_sales,1,15.66,1,0,0,No,none_available
+Residential Dining,3,2026-02-01,20260201,10,4,observed_sales,5,46.25,5,0,0,No,none_available
+Residential Dining,3,2026-02-01,20260201,11,5,observed_sales,2,28.16,2,0,0,No,none_available
+Residential Dining,3,2026-02-01,20260201,12,6,observed_sales,5,70.4,5,0,0,No,none_available
+Residential Dining,3,2026-02-01,20260201,13,7,observed_sales,2,28.16,2,0,0,No,none_available
+Residential Dining,3,2026-02-01,20260201,16,10,observed_sales,1,15.66,1,0,0,No,none_available
+Residential Dining,3,2026-02-01,20260201,17,11,observed_sales,7,109.62,7,0,0,No,none_available
+Residential Dining,3,2026-02-01,20260201,18,12,observed_sales,4,62.64,4,0,0,No,none_available
+Einstein's,1,2026-02-02,20260202,7,1,observed_sales,3,18.169999999999995,5,0,0,Yes,none_available
+Einstein's,1,2026-02-02,20260202,8,2,observed_sales,27,100.06,27,0,0,Yes,none_available
+Einstein's,1,2026-02-02,20260202,9,3,observed_sales,94,380.38,96,0,0,Yes,none_available
+Einstein's,1,2026-02-02,20260202,10,4,observed_sales,83,338.77,83,0,0,Yes,none_available
+Einstein's,1,2026-02-02,20260202,11,5,observed_sales,90,398.32,92,0,0,Yes,none_available
+Einstein's,1,2026-02-02,20260202,12,6,observed_sales,81,361.99,87,0,0,Yes,none_available
+Einstein's,1,2026-02-02,20260202,13,7,observed_sales,73,376.0,77,0,0,Yes,none_available
+Einstein's,1,2026-02-02,20260202,14,8,observed_sales,29,157.99,35,0,0,Yes,none_available
+Einstein's,1,2026-02-02,20260202,15,9,observed_sales,47,192.73,47,0,0,Yes,none_available
+Einstein's,1,2026-02-02,20260202,16,10,observed_sales,36,196.6,40,0,0,Yes,none_available
+Einstein's,1,2026-02-02,20260202,17,11,observed_sales,10,49.67,12,0,0,Yes,none_available
+Panda Express,2,2026-02-02,20260202,11,5,observed_sales,56,487.91,56,0,0,Yes,none_available
+Panda Express,2,2026-02-02,20260202,12,6,observed_sales,79,655.66,79,0,0,Yes,none_available
+Panda Express,2,2026-02-02,20260202,13,7,observed_sales,79,622.0,79,0,0,Yes,none_available
+Panda Express,2,2026-02-02,20260202,14,8,observed_sales,41,343.17,43,0,0,Yes,none_available
+Panda Express,2,2026-02-02,20260202,15,9,observed_sales,39,347.05,39,0,0,Yes,none_available
+Panda Express,2,2026-02-02,20260202,16,10,observed_sales,2,23.78,2,0,0,Yes,none_available
+Residential Dining,3,2026-02-02,20260202,8,2,observed_sales,2,18.5,2,0,0,Yes,none_available
+Residential Dining,3,2026-02-02,20260202,10,4,observed_sales,1,14.08,1,0,0,Yes,none_available
+Residential Dining,3,2026-02-02,20260202,11,5,observed_sales,8,112.64,8,0,0,Yes,none_available
+Residential Dining,3,2026-02-02,20260202,12,6,observed_sales,14,197.12,14,0,0,Yes,none_available
+Residential Dining,3,2026-02-02,20260202,13,7,observed_sales,3,42.24,3,0,0,Yes,none_available
+Residential Dining,3,2026-02-02,20260202,17,11,observed_sales,3,46.980000000000004,3,0,0,Yes,none_available
+Residential Dining,3,2026-02-02,20260202,18,12,observed_sales,1,15.66,1,0,0,Yes,none_available
+Einstein's,1,2026-02-03,20260203,7,1,observed_sales,8,40.62,10,0,0,Yes,none_available
+Einstein's,1,2026-02-03,20260203,8,2,observed_sales,25,144.75,29,0,0,Yes,none_available
+Einstein's,1,2026-02-03,20260203,9,3,observed_sales,73,319.96,79,0,0,Yes,none_available
+Einstein's,1,2026-02-03,20260203,10,4,observed_sales,115,450.9,127,0,0,Yes,none_available
+Einstein's,1,2026-02-03,20260203,11,5,observed_sales,45,206.37,47,0,0,Yes,none_available
+Einstein's,1,2026-02-03,20260203,12,6,observed_sales,125,551.7,125,0,0,Yes,none_available
+Einstein's,1,2026-02-03,20260203,13,7,observed_sales,55,225.25,57,0,0,Yes,none_available
+Einstein's,1,2026-02-03,20260203,14,8,observed_sales,49,181.2,53,0,0,Yes,none_available
+Einstein's,1,2026-02-03,20260203,15,9,observed_sales,18,96.11,18,0,0,Yes,none_available
+Einstein's,1,2026-02-03,20260203,16,10,observed_sales,37,156.23,37,0,0,Yes,none_available
+Einstein's,1,2026-02-03,20260203,17,11,observed_sales,20,91.74,24,0,0,Yes,none_available
+Panda Express,2,2026-02-03,20260203,10,4,observed_sales,3,23.48,3,0,0,Yes,none_available
+Panda Express,2,2026-02-03,20260203,11,5,observed_sales,68,506.55,70,0,0,Yes,none_available
+Panda Express,2,2026-02-03,20260203,12,6,observed_sales,91,781.38,99,0,0,Yes,none_available
+Panda Express,2,2026-02-03,20260203,13,7,observed_sales,37,282.1,37,0,0,Yes,none_available
+Panda Express,2,2026-02-03,20260203,14,8,observed_sales,52,423.55,54,0,0,Yes,none_available
+Panda Express,2,2026-02-03,20260203,15,9,observed_sales,36,364.56,40,0,0,Yes,none_available
+Residential Dining,3,2026-02-03,20260203,7,1,observed_sales,1,9.25,1,0,0,Yes,none_available
+Residential Dining,3,2026-02-03,20260203,8,2,observed_sales,1,9.25,1,0,0,Yes,none_available
+Residential Dining,3,2026-02-03,20260203,9,3,observed_sales,1,9.25,1,0,0,Yes,none_available
+Residential Dining,3,2026-02-03,20260203,10,4,observed_sales,3,42.24,3,0,0,Yes,none_available
+Residential Dining,3,2026-02-03,20260203,11,5,observed_sales,5,70.4,5,0,0,Yes,none_available
+Residential Dining,3,2026-02-03,20260203,12,6,observed_sales,1,14.08,1,0,0,Yes,none_available
+Residential Dining,3,2026-02-03,20260203,16,10,observed_sales,2,31.32,2,0,0,Yes,none_available
+Residential Dining,3,2026-02-03,20260203,17,11,observed_sales,4,62.64,4,0,0,Yes,none_available
+Residential Dining,3,2026-02-03,20260203,18,12,observed_sales,1,15.66,1,0,0,Yes,none_available
+Einstein's,1,2026-02-04,20260204,7,1,observed_sales,16,60.94,16,0,0,Yes,none_available
+Einstein's,1,2026-02-04,20260204,8,2,observed_sales,40,132.37,40,0,0,Yes,none_available
+Einstein's,1,2026-02-04,20260204,9,3,observed_sales,86,423.49,86,0,0,Yes,none_available
+Einstein's,1,2026-02-04,20260204,10,4,observed_sales,100,376.84,104,0,0,Yes,none_available
+Einstein's,1,2026-02-04,20260204,11,5,observed_sales,74,347.19,82,0,0,Yes,none_available
+Einstein's,1,2026-02-04,20260204,12,6,observed_sales,77,357.37,87,0,0,Yes,none_available
+Einstein's,1,2026-02-04,20260204,13,7,observed_sales,107,472.48,111,0,0,Yes,none_available
+Einstein's,1,2026-02-04,20260204,14,8,observed_sales,28,112.57,30,0,0,Yes,none_available
+Einstein's,1,2026-02-04,20260204,15,9,observed_sales,62,280.57,64,0,0,Yes,none_available
+Einstein's,1,2026-02-04,20260204,16,10,observed_sales,19,72.35,19,0,0,Yes,none_available
+Einstein's,1,2026-02-04,20260204,17,11,observed_sales,6,30.91,6,0,0,Yes,none_available
+Panda Express,2,2026-02-04,20260204,11,5,observed_sales,55,450.12,55,0,0,Yes,none_available
+Panda Express,2,2026-02-04,20260204,12,6,observed_sales,72,600.92,72,0,0,Yes,none_available
+Panda Express,2,2026-02-04,20260204,13,7,observed_sales,64,541.61,66,0,0,Yes,none_available
+Panda Express,2,2026-02-04,20260204,14,8,observed_sales,26,227.86,26,0,0,Yes,none_available
+Panda Express,2,2026-02-04,20260204,15,9,observed_sales,34,290.69,34,0,0,Yes,none_available
+Residential Dining,3,2026-02-04,20260204,7,1,observed_sales,4,37.0,4,0,0,Yes,none_available
+Residential Dining,3,2026-02-04,20260204,8,2,observed_sales,1,9.25,1,0,0,Yes,none_available
+Residential Dining,3,2026-02-04,20260204,9,3,observed_sales,3,27.75,3,0,0,Yes,none_available
+Residential Dining,3,2026-02-04,20260204,11,5,observed_sales,28,394.23999999999995,10,0,0,Yes,none_available
+Residential Dining,3,2026-02-04,20260204,12,6,observed_sales,23,323.84,23,0,0,Yes,none_available
+Residential Dining,3,2026-02-04,20260204,13,7,observed_sales,3,42.24,3,0,0,Yes,none_available
+Residential Dining,3,2026-02-04,20260204,17,11,observed_sales,3,46.980000000000004,3,0,0,Yes,none_available
+Einstein's,1,2026-02-05,20260205,7,1,observed_sales,6,30.14,8,0,0,Yes,none_available
+Einstein's,1,2026-02-05,20260205,8,2,observed_sales,33,138.88,33,0,0,Yes,none_available
+Einstein's,1,2026-02-05,20260205,9,3,observed_sales,106,443.19,106,0,0,Yes,none_available
+Einstein's,1,2026-02-05,20260205,10,4,observed_sales,84,391.27,86,0,0,Yes,none_available
+Einstein's,1,2026-02-05,20260205,11,5,observed_sales,67,245.72,67,0,0,Yes,none_available
+Einstein's,1,2026-02-05,20260205,12,6,observed_sales,101,442.03,109,0,0,Yes,none_available
+Einstein's,1,2026-02-05,20260205,13,7,observed_sales,57,213.06,57,0,0,Yes,none_available
+Einstein's,1,2026-02-05,20260205,14,8,observed_sales,56,227.21,56,0,0,Yes,none_available
+Einstein's,1,2026-02-05,20260205,15,9,observed_sales,25,111.8,25,0,0,Yes,none_available
+Einstein's,1,2026-02-05,20260205,16,10,observed_sales,38,185.19,40,0,0,Yes,none_available
+Einstein's,1,2026-02-05,20260205,17,11,observed_sales,22,74.53,26,0,0,Yes,none_available
+Panda Express,2,2026-02-05,20260205,10,4,observed_sales,6,48.74,6,0,0,Yes,none_available
+Panda Express,2,2026-02-05,20260205,11,5,observed_sales,34,270.51,34,0,0,Yes,none_available
+Panda Express,2,2026-02-05,20260205,12,6,observed_sales,96,796.87,100,0,0,Yes,none_available
+Panda Express,2,2026-02-05,20260205,13,7,observed_sales,37,309.14,37,0,0,Yes,none_available
+Panda Express,2,2026-02-05,20260205,14,8,observed_sales,48,399.26,48,0,0,Yes,none_available
+Panda Express,2,2026-02-05,20260205,15,9,observed_sales,22,179.8,22,0,0,Yes,none_available
+Residential Dining,3,2026-02-05,20260205,9,3,observed_sales,4,37.0,4,0,0,Yes,none_available
+Residential Dining,3,2026-02-05,20260205,10,4,observed_sales,3,42.24,3,0,0,Yes,none_available
+Residential Dining,3,2026-02-05,20260205,11,5,observed_sales,17,239.36,17,0,0,Yes,none_available
+Residential Dining,3,2026-02-05,20260205,12,6,observed_sales,2,28.16,2,0,0,Yes,none_available
+Residential Dining,3,2026-02-05,20260205,13,7,observed_sales,2,28.16,2,0,0,Yes,none_available
+Residential Dining,3,2026-02-05,20260205,14,8,observed_sales,1,14.08,1,0,0,Yes,none_available
+Residential Dining,3,2026-02-05,20260205,16,10,observed_sales,2,31.32,2,0,0,Yes,none_available
+Residential Dining,3,2026-02-05,20260205,17,11,observed_sales,2,31.32,2,0,0,Yes,none_available
+Residential Dining,3,2026-02-05,20260205,20,14,observed_sales,1,15.66,1,0,0,Yes,none_available
+Einstein's,1,2026-02-06,20260206,7,1,observed_sales,7,31.400000000000002,7,0,0,Yes,none_available
+Einstein's,1,2026-02-06,20260206,8,2,observed_sales,21,98.69,23,0,0,Yes,none_available
+Einstein's,1,2026-02-06,20260206,9,3,observed_sales,27,133.27,31,0,0,Yes,none_available
+Einstein's,1,2026-02-06,20260206,10,4,observed_sales,37,147.68,43,0,0,Yes,none_available
+Einstein's,1,2026-02-06,20260206,11,5,observed_sales,19,110.49,19,0,0,Yes,none_available
+Einstein's,1,2026-02-06,20260206,12,6,observed_sales,56,231.66,64,0,0,Yes,none_available
+Einstein's,1,2026-02-06,20260206,13,7,observed_sales,24,114.11,24,0,0,Yes,none_available
+Einstein's,1,2026-02-06,20260206,14,8,observed_sales,8,51.52,14,0,0,Yes,none_available
+Einstein's,1,2026-02-06,20260206,15,9,observed_sales,12,66.15,12,0,0,Yes,none_available
+Panda Express,2,2026-02-06,20260206,10,4,observed_sales,5,29.85,5,0,0,Yes,none_available
+Panda Express,2,2026-02-06,20260206,11,5,observed_sales,25,208.09,25,0,0,Yes,none_available
+Panda Express,2,2026-02-06,20260206,12,6,observed_sales,19,167.73000000000002,19,0,0,Yes,none_available
+Panda Express,2,2026-02-06,20260206,13,7,observed_sales,31,235.35,31,0,0,Yes,none_available
+Residential Dining,3,2026-02-06,20260206,7,1,observed_sales,1,9.25,1,0,0,Yes,none_available
+Residential Dining,3,2026-02-06,20260206,8,2,observed_sales,1,9.25,1,0,0,Yes,none_available
+Residential Dining,3,2026-02-06,20260206,9,3,observed_sales,1,9.25,1,0,0,Yes,none_available
+Residential Dining,3,2026-02-06,20260206,11,5,observed_sales,5,70.4,5,0,0,Yes,none_available
+Residential Dining,3,2026-02-06,20260206,12,6,observed_sales,9,126.72,9,0,0,Yes,none_available
+Residential Dining,3,2026-02-06,20260206,13,7,observed_sales,1,14.08,1,0,0,Yes,none_available
+Residential Dining,3,2026-02-06,20260206,17,11,observed_sales,2,31.32,2,0,0,Yes,none_available
+Residential Dining,3,2026-02-06,20260206,18,12,observed_sales,7,109.62,7,0,0,Yes,none_available
+Residential Dining,3,2026-02-07,20260207,17,11,observed_sales,2,31.32,2,0,0,No,none_available
+Residential Dining,3,2026-02-07,20260207,18,12,observed_sales,1,15.66,1,0,0,No,none_available
+Residential Dining,3,2026-02-07,20260207,19,13,observed_sales,1,15.66,1,0,0,No,none_available
+Residential Dining,3,2026-02-08,20260208,12,6,observed_sales,1,14.08,1,0,0,No,none_available
+Residential Dining,3,2026-02-08,20260208,17,11,observed_sales,2,31.32,2,0,0,No,none_available
+Residential Dining,3,2026-02-08,20260208,20,14,observed_sales,1,15.66,1,0,0,No,none_available
+Einstein's,1,2026-02-09,20260209,7,1,observed_sales,7,29.23,7,0,0,Yes,none_available
+Einstein's,1,2026-02-09,20260209,8,2,observed_sales,24,97.81,24,0,0,Yes,none_available
+Einstein's,1,2026-02-09,20260209,9,3,observed_sales,96,330.82,96,0,0,Yes,none_available
+Einstein's,1,2026-02-09,20260209,10,4,observed_sales,101,422.42,111,0,0,Yes,none_available
+Einstein's,1,2026-02-09,20260209,11,5,observed_sales,76,322.9,86,0,0,Yes,none_available
+Einstein's,1,2026-02-09,20260209,12,6,observed_sales,116,516.77,118,0,0,Yes,none_available
+Einstein's,1,2026-02-09,20260209,13,7,observed_sales,69,328.56,81,0,0,Yes,none_available
+Einstein's,1,2026-02-09,20260209,14,8,observed_sales,42,192.69,42,0,0,Yes,none_available
+Einstein's,1,2026-02-09,20260209,15,9,observed_sales,49,173.18,49,0,0,Yes,none_available
+Einstein's,1,2026-02-09,20260209,16,10,observed_sales,22,91.62,22,0,0,Yes,none_available
+Einstein's,1,2026-02-09,20260209,17,11,observed_sales,20,70.71,22,0,0,Yes,none_available
+Panda Express,2,2026-02-09,20260209,11,5,observed_sales,62,481.07,62,0,0,Yes,none_available
+Panda Express,2,2026-02-09,20260209,12,6,observed_sales,65,542.46,65,0,0,Yes,none_available
+Panda Express,2,2026-02-09,20260209,13,7,observed_sales,60,502.58,66,0,0,Yes,none_available
+Panda Express,2,2026-02-09,20260209,14,8,observed_sales,43,357.81,43,0,0,Yes,none_available
+Panda Express,2,2026-02-09,20260209,15,9,observed_sales,35,324.77,39,0,0,Yes,none_available
+Panda Express,2,2026-02-09,20260209,16,10,observed_sales,1,2.39,1,0,0,Yes,none_available
+Residential Dining,3,2026-02-09,20260209,8,2,observed_sales,3,27.75,3,0,0,Yes,none_available
+Residential Dining,3,2026-02-09,20260209,9,3,observed_sales,1,9.25,1,0,0,Yes,none_available
+Residential Dining,3,2026-02-09,20260209,10,4,observed_sales,4,56.32,4,0,0,Yes,none_available
+Residential Dining,3,2026-02-09,20260209,11,5,observed_sales,3,42.24,3,0,0,Yes,none_available
+Residential Dining,3,2026-02-09,20260209,12,6,observed_sales,9,126.72,9,0,0,Yes,none_available
+Residential Dining,3,2026-02-09,20260209,17,11,observed_sales,1,15.66,1,0,0,Yes,none_available
+Einstein's,1,2026-02-10,20260210,7,1,observed_sales,11,47.3,11,0,0,Yes,none_available
+Einstein's,1,2026-02-10,20260210,8,2,observed_sales,78,378.93,78,0,0,Yes,none_available
+Einstein's,1,2026-02-10,20260210,9,3,observed_sales,75,343.45,75,0,0,Yes,none_available
+Einstein's,1,2026-02-10,20260210,10,4,observed_sales,120,482.11,124,0,0,Yes,none_available
+Einstein's,1,2026-02-10,20260210,11,5,observed_sales,53,207.96,53,0,0,Yes,none_available
+Einstein's,1,2026-02-10,20260210,12,6,observed_sales,95,397.3,97,0,0,Yes,none_available
+Einstein's,1,2026-02-10,20260210,13,7,observed_sales,46,201.26,48,0,0,Yes,none_available
+Einstein's,1,2026-02-10,20260210,14,8,observed_sales,40,169.12,48,0,0,Yes,none_available
+Einstein's,1,2026-02-10,20260210,15,9,observed_sales,35,171.46,35,0,0,Yes,none_available
+Einstein's,1,2026-02-10,20260210,16,10,observed_sales,48,161.02,48,0,0,Yes,none_available
+Einstein's,1,2026-02-10,20260210,17,11,observed_sales,16,66.09,16,0,0,Yes,none_available
+Panda Express,2,2026-02-10,20260210,11,5,observed_sales,54,428.92,56,0,0,Yes,none_available
+Panda Express,2,2026-02-10,20260210,12,6,observed_sales,97,817.85,103,0,0,Yes,none_available
+Panda Express,2,2026-02-10,20260210,13,7,observed_sales,31,273.22,31,0,0,Yes,none_available
+Panda Express,2,2026-02-10,20260210,14,8,observed_sales,26,252.65,28,0,0,Yes,none_available
+Panda Express,2,2026-02-10,20260210,15,9,observed_sales,34,265.61,34,0,0,Yes,none_available
+Panda Express,2,2026-02-10,20260210,16,10,observed_sales,3,32.07,3,0,0,Yes,none_available
+Residential Dining,3,2026-02-10,20260210,7,1,observed_sales,2,18.5,2,0,0,Yes,none_available
+Residential Dining,3,2026-02-10,20260210,8,2,observed_sales,1,9.25,1,0,0,Yes,none_available
+Residential Dining,3,2026-02-10,20260210,9,3,observed_sales,2,18.5,2,0,0,Yes,none_available
+Residential Dining,3,2026-02-10,20260210,10,4,observed_sales,5,70.4,5,0,0,Yes,none_available
+Residential Dining,3,2026-02-10,20260210,11,5,observed_sales,21,295.68,9,0,0,Yes,none_available
+Residential Dining,3,2026-02-10,20260210,12,6,observed_sales,1,14.08,1,0,0,Yes,none_available
+Residential Dining,3,2026-02-10,20260210,15,9,observed_sales,1,9.25,1,0,0,Yes,none_available
+Residential Dining,3,2026-02-10,20260210,16,10,observed_sales,1,15.66,1,0,0,Yes,none_available
+Residential Dining,3,2026-02-10,20260210,17,11,observed_sales,4,62.64,4,0,0,Yes,none_available
+Einstein's,1,2026-02-11,20260211,7,1,observed_sales,5,19.16,7,0,0,Yes,none_available
+Einstein's,1,2026-02-11,20260211,8,2,observed_sales,50,179.94,50,0,0,Yes,none_available
+Einstein's,1,2026-02-11,20260211,9,3,observed_sales,73,321.59,75,0,0,Yes,none_available
+Einstein's,1,2026-02-11,20260211,10,4,observed_sales,116,544.28,122,0,0,Yes,none_available
+Einstein's,1,2026-02-11,20260211,11,5,observed_sales,86,371.46,96,0,0,Yes,none_available
+Einstein's,1,2026-02-11,20260211,12,6,observed_sales,109,469.29,111,0,0,Yes,none_available
+Einstein's,1,2026-02-11,20260211,13,7,observed_sales,79,341.89,83,0,0,Yes,none_available
+Einstein's,1,2026-02-11,20260211,14,8,observed_sales,39,166.12,39,0,0,Yes,none_available
+Einstein's,1,2026-02-11,20260211,15,9,observed_sales,41,202.24,41,0,0,Yes,none_available
+Einstein's,1,2026-02-11,20260211,16,10,observed_sales,45,178.93,45,0,0,Yes,none_available
+Einstein's,1,2026-02-11,20260211,17,11,observed_sales,3,10.469999999999999,3,0,0,Yes,none_available
+Panda Express,2,2026-02-11,20260211,10,4,observed_sales,1,10.09,1,0,0,Yes,none_available
+Panda Express,2,2026-02-11,20260211,11,5,observed_sales,53,469.56,53,0,0,Yes,none_available
+Panda Express,2,2026-02-11,20260211,12,6,observed_sales,69,625.07,69,0,0,Yes,none_available
+Panda Express,2,2026-02-11,20260211,13,7,observed_sales,62,519.5600000000001,62,0,0,Yes,none_available
+Panda Express,2,2026-02-11,20260211,14,8,observed_sales,31,246.13,33,0,0,Yes,none_available
+Panda Express,2,2026-02-11,20260211,15,9,observed_sales,29,242.44,33,0,0,Yes,none_available
+Panda Express,2,2026-02-11,20260211,16,10,observed_sales,4,38.06,4,0,0,Yes,none_available
+Residential Dining,3,2026-02-11,20260211,7,1,observed_sales,2,18.5,2,0,0,Yes,none_available
+Residential Dining,3,2026-02-11,20260211,8,2,observed_sales,5,46.25,5,0,0,Yes,none_available
+Residential Dining,3,2026-02-11,20260211,9,3,observed_sales,2,18.5,2,0,0,Yes,none_available
+Residential Dining,3,2026-02-11,20260211,10,4,observed_sales,1,14.08,1,0,0,Yes,none_available
+Residential Dining,3,2026-02-11,20260211,11,5,observed_sales,5,70.4,5,0,0,Yes,none_available
+Residential Dining,3,2026-02-11,20260211,12,6,observed_sales,12,168.96,12,0,0,Yes,none_available
+Residential Dining,3,2026-02-11,20260211,13,7,observed_sales,2,28.16,2,0,0,Yes,none_available
+Residential Dining,3,2026-02-11,20260211,14,8,observed_sales,1,14.08,1,0,0,Yes,none_available
+Residential Dining,3,2026-02-11,20260211,18,12,observed_sales,1,15.66,1,0,0,Yes,none_available
+Einstein's,1,2026-02-12,20260212,7,1,observed_sales,10,47.97,10,0,0,Yes,none_available
+Einstein's,1,2026-02-12,20260212,8,2,observed_sales,39,170.63,41,0,0,Yes,none_available
+Einstein's,1,2026-02-12,20260212,9,3,observed_sales,81,339.49,85,0,0,Yes,none_available
+Einstein's,1,2026-02-12,20260212,10,4,observed_sales,130,502.96,136,0,0,Yes,none_available
+Einstein's,1,2026-02-12,20260212,11,5,observed_sales,70,301.3,70,0,0,Yes,none_available
+Einstein's,1,2026-02-12,20260212,12,6,observed_sales,93,419.6,95,0,0,Yes,none_available
+Einstein's,1,2026-02-12,20260212,13,7,observed_sales,29,151.38,37,0,0,Yes,none_available
+Einstein's,1,2026-02-12,20260212,14,8,observed_sales,75,289.84,77,0,0,Yes,none_available
+Einstein's,1,2026-02-12,20260212,15,9,observed_sales,16,82.86,16,0,0,Yes,none_available
+Einstein's,1,2026-02-12,20260212,16,10,observed_sales,41,134.87,41,0,0,Yes,none_available
+Einstein's,1,2026-02-12,20260212,17,11,observed_sales,4,26.06,4,0,0,Yes,none_available
+Panda Express,2,2026-02-12,20260212,10,4,observed_sales,3,21.68,3,0,0,Yes,none_available
+Panda Express,2,2026-02-12,20260212,11,5,observed_sales,43,316.61,45,0,0,Yes,none_available
+Panda Express,2,2026-02-12,20260212,12,6,observed_sales,99,806.53,111,0,0,Yes,none_available
+Panda Express,2,2026-02-12,20260212,13,7,observed_sales,44,365.09000000000003,44,0,0,Yes,none_available
+Panda Express,2,2026-02-12,20260212,14,8,observed_sales,34,271.69,36,0,0,Yes,none_available
+Panda Express,2,2026-02-12,20260212,15,9,observed_sales,19,161.54,19,0,0,Yes,none_available
+Panda Express,2,2026-02-12,20260212,16,10,observed_sales,1,10.09,1,0,0,Yes,none_available
+Residential Dining,3,2026-02-12,20260212,9,3,observed_sales,1,9.25,1,0,0,Yes,none_available
+Residential Dining,3,2026-02-12,20260212,10,4,observed_sales,1,14.08,1,0,0,Yes,none_available
+Residential Dining,3,2026-02-12,20260212,11,5,observed_sales,12,168.96,12,0,0,Yes,none_available
+Residential Dining,3,2026-02-12,20260212,12,6,observed_sales,1,14.08,1,0,0,Yes,none_available
+Residential Dining,3,2026-02-12,20260212,13,7,observed_sales,2,28.16,2,0,0,Yes,none_available
+Residential Dining,3,2026-02-12,20260212,16,10,observed_sales,4,57.9,4,0,0,Yes,none_available
+Residential Dining,3,2026-02-12,20260212,17,11,observed_sales,2,31.32,2,0,0,Yes,none_available
+Residential Dining,3,2026-02-12,20260212,19,13,observed_sales,2,31.32,2,0,0,Yes,none_available
+Einstein's,1,2026-02-13,20260213,7,1,observed_sales,6,21.939999999999998,6,0,0,Yes,none_available
+Einstein's,1,2026-02-13,20260213,8,2,observed_sales,27,97.14999999999999,27,0,0,Yes,none_available
+Einstein's,1,2026-02-13,20260213,9,3,observed_sales,53,215.75,53,0,0,Yes,none_available
+Einstein's,1,2026-02-13,20260213,10,4,observed_sales,65,249.64,67,0,0,Yes,none_available
+Einstein's,1,2026-02-13,20260213,11,5,observed_sales,27,99.01,27,0,0,Yes,none_available
+Einstein's,1,2026-02-13,20260213,12,6,observed_sales,37,209.31,39,0,0,Yes,none_available
+Einstein's,1,2026-02-13,20260213,13,7,observed_sales,44,172.53,44,0,0,Yes,none_available
+Einstein's,1,2026-02-13,20260213,14,8,observed_sales,24,103.27,24,0,0,Yes,none_available
+Einstein's,1,2026-02-13,20260213,15,9,observed_sales,30,99.67,30,0,0,Yes,none_available
+Panda Express,2,2026-02-13,20260213,10,4,observed_sales,2,14.98,2,0,0,Yes,none_available
+Panda Express,2,2026-02-13,20260213,11,5,observed_sales,16,132.47,16,0,0,Yes,none_available
+Panda Express,2,2026-02-13,20260213,12,6,observed_sales,26,195.86,26,0,0,Yes,none_available
+Panda Express,2,2026-02-13,20260213,13,7,observed_sales,20,179.51,20,0,0,Yes,none_available
+Residential Dining,3,2026-02-13,20260213,8,2,observed_sales,2,18.5,2,0,0,Yes,none_available
+Residential Dining,3,2026-02-13,20260213,9,3,observed_sales,3,32.58,3,0,0,Yes,none_available
+Residential Dining,3,2026-02-13,20260213,10,4,observed_sales,1,14.08,1,0,0,Yes,none_available
+Residential Dining,3,2026-02-13,20260213,11,5,observed_sales,2,28.16,2,0,0,Yes,none_available
+Residential Dining,3,2026-02-13,20260213,12,6,observed_sales,82,1154.56,10,0,0,Yes,none_available
+Residential Dining,3,2026-02-13,20260213,17,11,observed_sales,1,15.66,1,0,0,Yes,none_available
+Residential Dining,3,2026-02-13,20260213,18,12,observed_sales,1,15.66,1,0,0,Yes,none_available
+Residential Dining,3,2026-02-14,20260214,13,7,observed_sales,1,14.08,1,0,0,No,none_available
+Residential Dining,3,2026-02-14,20260214,17,11,observed_sales,2,31.32,2,0,0,No,none_available
+Residential Dining,3,2026-02-15,20260215,17,11,observed_sales,3,46.980000000000004,3,0,0,No,none_available
+Einstein's,1,2026-02-16,20260216,7,1,observed_sales,14,40.95,14,0,0,Yes,none_available
+Einstein's,1,2026-02-16,20260216,8,2,observed_sales,25,118.22,25,0,0,Yes,none_available
+Einstein's,1,2026-02-16,20260216,9,3,observed_sales,59,260.84,59,0,0,Yes,none_available
+Einstein's,1,2026-02-16,20260216,10,4,observed_sales,73,325.08,75,0,0,Yes,none_available
+Einstein's,1,2026-02-16,20260216,11,5,observed_sales,104,451.29,108,0,0,Yes,none_available
+Einstein's,1,2026-02-16,20260216,12,6,observed_sales,73,341.87,77,0,0,Yes,none_available
+Einstein's,1,2026-02-16,20260216,13,7,observed_sales,52,252.44,54,0,0,Yes,none_available
+Einstein's,1,2026-02-16,20260216,14,8,observed_sales,17,97.10000000000001,17,0,0,Yes,none_available
+Einstein's,1,2026-02-16,20260216,15,9,observed_sales,31,106.37,31,0,0,Yes,none_available
+Einstein's,1,2026-02-16,20260216,16,10,observed_sales,32,147.29,32,0,0,Yes,none_available
+Einstein's,1,2026-02-16,20260216,17,11,observed_sales,5,28.65,5,0,0,Yes,none_available
+Panda Express,2,2026-02-16,20260216,11,5,observed_sales,54,461.25,54,0,0,Yes,none_available
+Panda Express,2,2026-02-16,20260216,12,6,observed_sales,65,520.85,67,0,0,Yes,none_available
+Panda Express,2,2026-02-16,20260216,13,7,observed_sales,53,465.12,53,0,0,Yes,none_available
+Panda Express,2,2026-02-16,20260216,14,8,observed_sales,22,196.7,24,0,0,Yes,none_available
+Panda Express,2,2026-02-16,20260216,15,9,observed_sales,21,181.1,21,0,0,Yes,none_available
+Panda Express,2,2026-02-16,20260216,16,10,observed_sales,2,12.48,2,0,0,Yes,none_available
+Residential Dining,3,2026-02-16,20260216,7,1,observed_sales,2,18.5,2,0,0,Yes,none_available
+Residential Dining,3,2026-02-16,20260216,8,2,observed_sales,1,9.25,1,0,0,Yes,none_available
+Residential Dining,3,2026-02-16,20260216,9,3,observed_sales,1,14.08,1,0,0,Yes,none_available
+Residential Dining,3,2026-02-16,20260216,11,5,observed_sales,2,28.16,2,0,0,Yes,none_available
+Residential Dining,3,2026-02-16,20260216,12,6,observed_sales,10,140.8,10,0,0,Yes,none_available
+Residential Dining,3,2026-02-16,20260216,13,7,observed_sales,2,28.16,2,0,0,Yes,none_available
+Residential Dining,3,2026-02-16,20260216,14,8,observed_sales,2,28.16,2,0,0,Yes,none_available
+Residential Dining,3,2026-02-16,20260216,17,11,observed_sales,1,15.66,1,0,0,Yes,none_available
+Residential Dining,3,2026-02-16,20260216,18,12,observed_sales,1,15.66,1,0,0,Yes,none_available
+Einstein's,1,2026-02-17,20260217,7,1,observed_sales,9,38.120000000000005,9,0,0,Yes,none_available
+Einstein's,1,2026-02-17,20260217,8,2,observed_sales,23,90.81,23,0,0,Yes,none_available
+Einstein's,1,2026-02-17,20260217,9,3,observed_sales,38,172.71,40,0,0,Yes,none_available
+Einstein's,1,2026-02-17,20260217,10,4,observed_sales,82,354.05,92,0,0,Yes,none_available
+Einstein's,1,2026-02-17,20260217,11,5,observed_sales,65,298.65,65,0,0,Yes,none_available
+Einstein's,1,2026-02-17,20260217,12,6,observed_sales,105,521.4,105,0,0,Yes,none_available
+Einstein's,1,2026-02-17,20260217,13,7,observed_sales,51,199.1,51,0,0,Yes,none_available
+Einstein's,1,2026-02-17,20260217,14,8,observed_sales,79,294.57,79,0,0,Yes,none_available
+Einstein's,1,2026-02-17,20260217,15,9,observed_sales,29,103.35,29,0,0,Yes,none_available
+Einstein's,1,2026-02-17,20260217,16,10,observed_sales,41,171.42,41,0,0,Yes,none_available
+Einstein's,1,2026-02-17,20260217,17,11,observed_sales,4,17.46,4,0,0,Yes,none_available
+Panda Express,2,2026-02-17,20260217,11,5,observed_sales,52,383.16,52,0,0,Yes,none_available
+Panda Express,2,2026-02-17,20260217,12,6,observed_sales,90,752.5,94,0,0,Yes,none_available
+Panda Express,2,2026-02-17,20260217,13,7,observed_sales,43,350.90000000000003,45,0,0,Yes,none_available
+Panda Express,2,2026-02-17,20260217,14,8,observed_sales,26,250.05,26,0,0,Yes,none_available
+Panda Express,2,2026-02-17,20260217,15,9,observed_sales,36,334.38,36,0,0,Yes,none_available
+Residential Dining,3,2026-02-17,20260217,9,3,observed_sales,1,9.25,1,0,0,Yes,none_available
+Residential Dining,3,2026-02-17,20260217,10,4,observed_sales,6,84.48,6,0,0,Yes,none_available
+Residential Dining,3,2026-02-17,20260217,11,5,observed_sales,13,183.04,13,0,0,Yes,none_available
+Residential Dining,3,2026-02-17,20260217,12,6,observed_sales,4,56.32,4,0,0,Yes,none_available
+Residential Dining,3,2026-02-17,20260217,13,7,observed_sales,3,42.24,3,0,0,Yes,none_available
+Residential Dining,3,2026-02-17,20260217,14,8,observed_sales,-1,-14.08,1,0,0,Yes,none_available
+Residential Dining,3,2026-02-17,20260217,17,11,observed_sales,2,31.32,2,0,0,Yes,none_available
+Einstein's,1,2026-02-18,20260218,7,1,observed_sales,9,42.01,9,0,0,Yes,none_available
+Einstein's,1,2026-02-18,20260218,8,2,observed_sales,33,132.75,35,0,0,Yes,none_available
+Einstein's,1,2026-02-18,20260218,9,3,observed_sales,92,363.52,102,0,0,Yes,none_available
+Einstein's,1,2026-02-18,20260218,10,4,observed_sales,81,332.8,81,0,0,Yes,none_available
+Einstein's,1,2026-02-18,20260218,11,5,observed_sales,84,310.54,86,0,0,Yes,none_available
+Einstein's,1,2026-02-18,20260218,12,6,observed_sales,57,248.65,59,0,0,Yes,none_available
+Einstein's,1,2026-02-18,20260218,13,7,observed_sales,68,279.38,68,0,0,Yes,none_available
+Einstein's,1,2026-02-18,20260218,14,8,observed_sales,34,168.17,34,0,0,Yes,none_available
+Einstein's,1,2026-02-18,20260218,15,9,observed_sales,42,199.05,44,0,0,Yes,none_available
+Einstein's,1,2026-02-18,20260218,16,10,observed_sales,48,195.54,50,0,0,Yes,none_available
+Einstein's,1,2026-02-18,20260218,17,11,observed_sales,2,18.18,2,0,0,Yes,none_available
+Panda Express,2,2026-02-18,20260218,11,5,observed_sales,67,537.01,67,0,0,Yes,none_available
+Panda Express,2,2026-02-18,20260218,12,6,observed_sales,62,532.64,64,0,0,Yes,none_available
+Panda Express,2,2026-02-18,20260218,13,7,observed_sales,60,451.89,64,0,0,Yes,none_available
+Panda Express,2,2026-02-18,20260218,14,8,observed_sales,33,250.81,35,0,0,Yes,none_available
+Panda Express,2,2026-02-18,20260218,15,9,observed_sales,19,180.12,19,0,0,Yes,none_available
+Residential Dining,3,2026-02-18,20260218,7,1,observed_sales,1,9.25,1,0,0,Yes,none_available
+Residential Dining,3,2026-02-18,20260218,8,2,observed_sales,1,9.25,1,0,0,Yes,none_available
+Residential Dining,3,2026-02-18,20260218,10,4,observed_sales,2,28.16,2,0,0,Yes,none_available
+Residential Dining,3,2026-02-18,20260218,11,5,observed_sales,7,98.56,7,0,0,Yes,none_available
+Residential Dining,3,2026-02-18,20260218,12,6,observed_sales,7,98.56,7,0,0,Yes,none_available
+Residential Dining,3,2026-02-18,20260218,13,7,observed_sales,6,84.48,6,0,0,Yes,none_available
+Residential Dining,3,2026-02-18,20260218,16,10,observed_sales,3,46.980000000000004,3,0,0,Yes,none_available
+Residential Dining,3,2026-02-18,20260218,17,11,observed_sales,3,46.980000000000004,3,0,0,Yes,none_available
+Residential Dining,3,2026-02-18,20260218,20,14,observed_sales,1,15.66,1,0,0,Yes,none_available
+Einstein's,1,2026-02-19,20260219,7,1,observed_sales,3,11.27,3,0,0,Yes,none_available
+Einstein's,1,2026-02-19,20260219,8,2,observed_sales,51,247.89,51,0,0,Yes,none_available
+Einstein's,1,2026-02-19,20260219,9,3,observed_sales,52,259.46999999999997,52,0,0,Yes,none_available
+Einstein's,1,2026-02-19,20260219,10,4,observed_sales,81,384.0,83,0,0,Yes,none_available
+Einstein's,1,2026-02-19,20260219,11,5,observed_sales,96,399.01,98,0,0,Yes,none_available
+Einstein's,1,2026-02-19,20260219,12,6,observed_sales,96,455.88,96,0,0,Yes,none_available
+Einstein's,1,2026-02-19,20260219,13,7,observed_sales,39,151.22,39,0,0,Yes,none_available
+Einstein's,1,2026-02-19,20260219,14,8,observed_sales,50,222.2,52,0,0,Yes,none_available
+Einstein's,1,2026-02-19,20260219,15,9,observed_sales,37,123.49,37,0,0,Yes,none_available
+Einstein's,1,2026-02-19,20260219,16,10,observed_sales,20,80.0,22,0,0,Yes,none_available
+Einstein's,1,2026-02-19,20260219,17,11,observed_sales,10,47.07,10,0,0,Yes,none_available
+Panda Express,2,2026-02-19,20260219,10,4,observed_sales,1,11.89,1,0,0,Yes,none_available
+Panda Express,2,2026-02-19,20260219,11,5,observed_sales,54,435.25,56,0,0,Yes,none_available
+Panda Express,2,2026-02-19,20260219,12,6,observed_sales,128,1026.16,138,0,0,Yes,none_available
+Panda Express,2,2026-02-19,20260219,13,7,observed_sales,36,277.78000000000003,40,0,0,Yes,none_available
+Panda Express,2,2026-02-19,20260219,14,8,observed_sales,31,238.23000000000002,31,0,0,Yes,none_available
+Panda Express,2,2026-02-19,20260219,15,9,observed_sales,34,303.3,34,0,0,Yes,none_available
+Residential Dining,3,2026-02-19,20260219,8,2,observed_sales,1,9.25,1,0,0,Yes,none_available
+Residential Dining,3,2026-02-19,20260219,11,5,observed_sales,5,70.4,5,0,0,Yes,none_available
+Residential Dining,3,2026-02-19,20260219,12,6,observed_sales,2,28.16,2,0,0,Yes,none_available
+Residential Dining,3,2026-02-19,20260219,13,7,observed_sales,1,14.08,1,0,0,Yes,none_available
+Residential Dining,3,2026-02-19,20260219,16,10,observed_sales,1,15.66,1,0,0,Yes,none_available
+Residential Dining,3,2026-02-19,20260219,17,11,observed_sales,5,78.3,5,0,0,Yes,none_available
+Residential Dining,3,2026-02-19,20260219,18,12,observed_sales,1,15.66,1,0,0,Yes,none_available
+Einstein's,1,2026-02-20,20260220,7,1,observed_sales,4,19.86,4,0,0,Yes,none_available
+Einstein's,1,2026-02-20,20260220,8,2,observed_sales,36,137.32,36,0,0,Yes,none_available
+Einstein's,1,2026-02-20,20260220,9,3,observed_sales,38,167.42000000000002,38,0,0,Yes,none_available
+Einstein's,1,2026-02-20,20260220,10,4,observed_sales,49,186.84,51,0,0,Yes,none_available
+Einstein's,1,2026-02-20,20260220,11,5,observed_sales,52,168.15,52,0,0,Yes,none_available
+Einstein's,1,2026-02-20,20260220,12,6,observed_sales,51,223.72,53,0,0,Yes,none_available
+Einstein's,1,2026-02-20,20260220,13,7,observed_sales,35,128.08,37,0,0,Yes,none_available
+Einstein's,1,2026-02-20,20260220,14,8,observed_sales,28,102.66,30,0,0,Yes,none_available
+Einstein's,1,2026-02-20,20260220,15,9,observed_sales,7,34.63,9,0,0,Yes,none_available
+Panda Express,2,2026-02-20,20260220,11,5,observed_sales,41,339.79,41,0,0,Yes,none_available
+Panda Express,2,2026-02-20,20260220,12,6,observed_sales,63,477.86,63,0,0,Yes,none_available
+Panda Express,2,2026-02-20,20260220,13,7,observed_sales,34,280.31,34,0,0,Yes,none_available
+Panda Express,2,2026-02-20,20260220,14,8,observed_sales,2,14.780000000000001,2,0,0,Yes,none_available
+Residential Dining,3,2026-02-20,20260220,7,1,observed_sales,1,9.25,1,0,0,Yes,none_available
+Residential Dining,3,2026-02-20,20260220,9,3,observed_sales,2,18.5,2,0,0,Yes,none_available
+Residential Dining,3,2026-02-20,20260220,11,5,observed_sales,1,14.08,1,0,0,Yes,none_available
+Residential Dining,3,2026-02-20,20260220,12,6,observed_sales,3,42.24,3,0,0,Yes,none_available
+Residential Dining,3,2026-02-20,20260220,13,7,observed_sales,2,28.16,2,0,0,Yes,none_available
+Residential Dining,3,2026-02-20,20260220,18,12,observed_sales,2,31.32,2,0,0,Yes,none_available
+Residential Dining,3,2026-02-21,20260221,16,10,observed_sales,1,15.66,1,0,0,No,none_available
+Residential Dining,3,2026-02-21,20260221,17,11,observed_sales,1,15.66,1,0,0,No,none_available
+Residential Dining,3,2026-02-22,20260222,17,11,observed_sales,3,46.980000000000004,3,0,0,No,none_available
+Residential Dining,3,2026-02-22,20260222,18,12,observed_sales,2,31.32,2,0,0,No,none_available
+Residential Dining,3,2026-02-22,20260222,20,14,observed_sales,1,15.66,1,0,0,No,none_available
+Einstein's,1,2026-02-23,20260223,7,1,observed_sales,4,14.86,4,0,0,Yes,none_available
+Einstein's,1,2026-02-23,20260223,8,2,observed_sales,24,86.67,24,0,0,Yes,none_available
+Einstein's,1,2026-02-23,20260223,9,3,observed_sales,77,323.44,85,0,0,Yes,none_available
+Einstein's,1,2026-02-23,20260223,10,4,observed_sales,79,331.2,83,0,0,Yes,none_available
+Einstein's,1,2026-02-23,20260223,11,5,observed_sales,76,352.88,76,0,0,Yes,none_available
+Einstein's,1,2026-02-23,20260223,12,6,observed_sales,79,369.98,95,0,0,Yes,none_available
+Einstein's,1,2026-02-23,20260223,13,7,observed_sales,71,396.34,73,0,0,Yes,none_available
+Einstein's,1,2026-02-23,20260223,14,8,observed_sales,27,127.87,27,0,0,Yes,none_available
+Einstein's,1,2026-02-23,20260223,15,9,observed_sales,42,128.84,42,0,0,Yes,none_available
+Einstein's,1,2026-02-23,20260223,16,10,observed_sales,35,160.33,41,0,0,Yes,none_available
+Einstein's,1,2026-02-23,20260223,17,11,observed_sales,17,66.08,19,0,0,Yes,none_available
+Panda Express,2,2026-02-23,20260223,11,5,observed_sales,82,680.98,84,0,0,Yes,none_available
+Panda Express,2,2026-02-23,20260223,12,6,observed_sales,100,780.5600000000001,102,0,0,Yes,none_available
+Panda Express,2,2026-02-23,20260223,13,7,observed_sales,62,469.36,62,0,0,Yes,none_available
+Panda Express,2,2026-02-23,20260223,14,8,observed_sales,32,261.5,34,0,0,Yes,none_available
+Panda Express,2,2026-02-23,20260223,15,9,observed_sales,21,196.09,21,0,0,Yes,none_available
+Residential Dining,3,2026-02-23,20260223,10,4,observed_sales,3,42.24,3,0,0,Yes,none_available
+Residential Dining,3,2026-02-23,20260223,11,5,observed_sales,19,267.52000000000004,10,0,0,Yes,none_available
+Residential Dining,3,2026-02-23,20260223,12,6,observed_sales,4,56.32,4,0,0,Yes,none_available
+Residential Dining,3,2026-02-23,20260223,13,7,observed_sales,2,28.16,2,0,0,Yes,none_available
+Residential Dining,3,2026-02-23,20260223,17,11,observed_sales,1,15.66,1,0,0,Yes,none_available
+Residential Dining,3,2026-02-23,20260223,18,12,observed_sales,4,62.64,4,0,0,Yes,none_available
+Einstein's,1,2026-02-24,20260224,7,1,observed_sales,11,51.06,11,0,0,Yes,none_available
+Einstein's,1,2026-02-24,20260224,8,2,observed_sales,86,395.59,86,0,0,Yes,none_available
+Einstein's,1,2026-02-24,20260224,9,3,observed_sales,86,372.98,86,0,0,Yes,none_available
+Einstein's,1,2026-02-24,20260224,10,4,observed_sales,117,445.23,123,0,0,Yes,none_available
+Einstein's,1,2026-02-24,20260224,11,5,observed_sales,58,227.46,66,0,0,Yes,none_available
+Einstein's,1,2026-02-24,20260224,12,6,observed_sales,82,388.77,82,0,0,Yes,none_available
+Einstein's,1,2026-02-24,20260224,13,7,observed_sales,54,232.96,58,0,0,Yes,none_available
+Einstein's,1,2026-02-24,20260224,14,8,observed_sales,30,116.32000000000001,30,0,0,Yes,none_available
+Einstein's,1,2026-02-24,20260224,15,9,observed_sales,40,139.12,48,0,0,Yes,none_available
+Einstein's,1,2026-02-24,20260224,16,10,observed_sales,37,129.65,43,0,0,Yes,none_available
+Einstein's,1,2026-02-24,20260224,17,11,observed_sales,16,55.58,22,0,0,Yes,none_available
+Panda Express,2,2026-02-24,20260224,11,5,observed_sales,49,395.58,49,0,0,Yes,none_available
+Panda Express,2,2026-02-24,20260224,12,6,observed_sales,75,636.02,77,0,0,Yes,none_available
+Panda Express,2,2026-02-24,20260224,13,7,observed_sales,24,201.89000000000001,26,0,0,Yes,none_available
+Panda Express,2,2026-02-24,20260224,14,8,observed_sales,36,296.86,36,0,0,Yes,none_available
+Panda Express,2,2026-02-24,20260224,15,9,observed_sales,29,228.23,29,0,0,Yes,none_available
+Residential Dining,3,2026-02-24,20260224,8,2,observed_sales,1,9.25,1,0,0,Yes,none_available
+Residential Dining,3,2026-02-24,20260224,9,3,observed_sales,1,9.25,1,0,0,Yes,none_available
+Residential Dining,3,2026-02-24,20260224,10,4,observed_sales,1,14.08,1,0,0,Yes,none_available
+Residential Dining,3,2026-02-24,20260224,11,5,observed_sales,6,84.48,6,0,0,Yes,none_available
+Residential Dining,3,2026-02-24,20260224,13,7,observed_sales,1,14.08,1,0,0,Yes,none_available
+Residential Dining,3,2026-02-24,20260224,15,9,observed_sales,2,28.16,2,0,0,Yes,none_available
+Residential Dining,3,2026-02-24,20260224,16,10,observed_sales,2,31.32,2,0,0,Yes,none_available
+Residential Dining,3,2026-02-24,20260224,17,11,observed_sales,2,31.32,2,0,0,Yes,none_available
+Residential Dining,3,2026-02-24,20260224,18,12,observed_sales,1,15.66,1,0,0,Yes,none_available
+Einstein's,1,2026-02-25,20260225,7,1,observed_sales,7,29.85,7,0,0,Yes,none_available
+Einstein's,1,2026-02-25,20260225,8,2,observed_sales,45,183.45,49,0,0,Yes,none_available
+Einstein's,1,2026-02-25,20260225,9,3,observed_sales,103,406.37,105,0,0,Yes,none_available
+Einstein's,1,2026-02-25,20260225,10,4,observed_sales,137,515.0,145,0,0,Yes,none_available
+Einstein's,1,2026-02-25,20260225,11,5,observed_sales,67,297.92,73,0,0,Yes,none_available
+Einstein's,1,2026-02-25,20260225,12,6,observed_sales,94,471.58,98,0,0,Yes,none_available
+Einstein's,1,2026-02-25,20260225,13,7,observed_sales,81,334.82,81,0,0,Yes,none_available
+Einstein's,1,2026-02-25,20260225,14,8,observed_sales,46,220.62,54,0,0,Yes,none_available
+Einstein's,1,2026-02-25,20260225,15,9,observed_sales,58,270.85,62,0,0,Yes,none_available
+Einstein's,1,2026-02-25,20260225,16,10,observed_sales,44,177.88,46,0,0,Yes,none_available
+Einstein's,1,2026-02-25,20260225,17,11,observed_sales,2,8.879999999999999,2,0,0,Yes,none_available
+Panda Express,2,2026-02-25,20260225,11,5,observed_sales,43,406.7,45,0,0,Yes,none_available
+Panda Express,2,2026-02-25,20260225,12,6,observed_sales,87,731.2,89,0,0,Yes,none_available
+Panda Express,2,2026-02-25,20260225,13,7,observed_sales,45,401.69,45,0,0,Yes,none_available
+Panda Express,2,2026-02-25,20260225,14,8,observed_sales,35,288.59000000000003,35,0,0,Yes,none_available
+Panda Express,2,2026-02-25,20260225,15,9,observed_sales,32,280.32,38,0,0,Yes,none_available
+Residential Dining,3,2026-02-25,20260225,7,1,observed_sales,1,9.25,1,0,0,Yes,none_available
+Residential Dining,3,2026-02-25,20260225,8,2,observed_sales,3,27.75,3,0,0,Yes,none_available
+Residential Dining,3,2026-02-25,20260225,9,3,observed_sales,1,9.25,1,0,0,Yes,none_available
+Residential Dining,3,2026-02-25,20260225,11,5,observed_sales,7,98.56,7,0,0,Yes,none_available
+Residential Dining,3,2026-02-25,20260225,12,6,observed_sales,8,112.64,8,0,0,Yes,none_available
+Residential Dining,3,2026-02-25,20260225,13,7,observed_sales,3,42.24,3,0,0,Yes,none_available
+Residential Dining,3,2026-02-25,20260225,17,11,observed_sales,3,46.980000000000004,3,0,0,Yes,none_available
+Einstein's,1,2026-02-26,20260226,7,1,observed_sales,22,55.48,22,0,0,Yes,none_available
+Einstein's,1,2026-02-26,20260226,8,2,observed_sales,29,115.26,31,0,0,Yes,none_available
+Einstein's,1,2026-02-26,20260226,9,3,observed_sales,36,150.9,36,0,0,Yes,none_available
+Einstein's,1,2026-02-26,20260226,10,4,observed_sales,94,419.11,96,0,0,Yes,none_available
+Einstein's,1,2026-02-26,20260226,11,5,observed_sales,63,286.26,65,0,0,Yes,none_available
+Einstein's,1,2026-02-26,20260226,12,6,observed_sales,118,526.81,122,0,0,Yes,none_available
+Einstein's,1,2026-02-26,20260226,13,7,observed_sales,49,190.48,49,0,0,Yes,none_available
+Einstein's,1,2026-02-26,20260226,14,8,observed_sales,36,138.47,36,0,0,Yes,none_available
+Einstein's,1,2026-02-26,20260226,15,9,observed_sales,28,90.67,32,0,0,Yes,none_available
+Einstein's,1,2026-02-26,20260226,16,10,observed_sales,12,60.650000000000006,12,0,0,Yes,none_available
+Einstein's,1,2026-02-26,20260226,17,11,observed_sales,10,50.47,12,0,0,Yes,none_available
+Panda Express,2,2026-02-26,20260226,11,5,observed_sales,46,444.91,48,0,0,Yes,none_available
+Panda Express,2,2026-02-26,20260226,12,6,observed_sales,79,670.08,85,0,0,Yes,none_available
+Panda Express,2,2026-02-26,20260226,13,7,observed_sales,61,453.47,61,0,0,Yes,none_available
+Panda Express,2,2026-02-26,20260226,14,8,observed_sales,50,394.04,50,0,0,Yes,none_available
+Panda Express,2,2026-02-26,20260226,15,9,observed_sales,23,159.41,23,0,0,Yes,none_available
+Residential Dining,3,2026-02-26,20260226,8,2,observed_sales,2,18.5,2,0,0,Yes,none_available
+Residential Dining,3,2026-02-26,20260226,9,3,observed_sales,2,18.5,2,0,0,Yes,none_available
+Residential Dining,3,2026-02-26,20260226,11,5,observed_sales,5,70.4,5,0,0,Yes,none_available
+Residential Dining,3,2026-02-26,20260226,13,7,observed_sales,1,14.08,1,0,0,Yes,none_available
+Residential Dining,3,2026-02-26,20260226,16,10,observed_sales,1,15.66,1,0,0,Yes,none_available
+Residential Dining,3,2026-02-26,20260226,17,11,observed_sales,3,46.980000000000004,3,0,0,Yes,none_available
+Residential Dining,3,2026-02-26,20260226,18,12,observed_sales,1,15.66,1,0,0,Yes,none_available
+Einstein's,1,2026-02-27,20260227,7,1,observed_sales,6,6.9799999999999995,6,0,0,Yes,none_available
+Einstein's,1,2026-02-27,20260227,8,2,observed_sales,27,81.88,27,0,0,Yes,none_available
+Einstein's,1,2026-02-27,20260227,9,3,observed_sales,57,232.52,67,0,0,Yes,none_available
+Einstein's,1,2026-02-27,20260227,10,4,observed_sales,21,100.37,23,0,0,Yes,none_available
+Einstein's,1,2026-02-27,20260227,11,5,observed_sales,20,90.74,20,0,0,Yes,none_available
+Einstein's,1,2026-02-27,20260227,12,6,observed_sales,21,90.3,21,0,0,Yes,none_available
+Einstein's,1,2026-02-27,20260227,13,7,observed_sales,21,85.8,21,0,0,Yes,none_available
+Einstein's,1,2026-02-27,20260227,14,8,observed_sales,20,85.04,32,0,0,Yes,none_available
+Einstein's,1,2026-02-27,20260227,15,9,observed_sales,22,101.26,24,0,0,Yes,none_available
+Panda Express,2,2026-02-27,20260227,11,5,observed_sales,46,355.71,46,0,0,Yes,none_available
+Panda Express,2,2026-02-27,20260227,12,6,observed_sales,85,661.85,87,0,0,Yes,none_available
+Panda Express,2,2026-02-27,20260227,13,7,observed_sales,22,145.82,22,0,0,Yes,none_available
+Residential Dining,3,2026-02-27,20260227,7,1,observed_sales,2,18.5,2,0,0,Yes,none_available
+Residential Dining,3,2026-02-27,20260227,9,3,observed_sales,3,32.58,3,0,0,Yes,none_available
+Residential Dining,3,2026-02-27,20260227,11,5,observed_sales,14,197.12,2,0,0,Yes,none_available
+Residential Dining,3,2026-02-27,20260227,12,6,observed_sales,2,28.16,2,0,0,Yes,none_available
+Residential Dining,3,2026-02-27,20260227,13,7,observed_sales,7,98.56,7,0,0,Yes,none_available
+Residential Dining,3,2026-02-27,20260227,16,10,observed_sales,3,46.980000000000004,3,0,0,Yes,none_available
+Residential Dining,3,2026-02-27,20260227,18,12,observed_sales,1,15.66,1,0,0,Yes,none_available
+Residential Dining,3,2026-02-28,20260228,16,10,observed_sales,2,31.32,2,0,0,No,none_available
+Residential Dining,3,2026-02-28,20260228,18,12,observed_sales,7,109.62,7,0,0,No,none_available
+Residential Dining,3,2026-03-01,20260301,16,10,observed_sales,1,15.66,1,0,0,No,none_available
+Einstein's,1,2026-03-02,20260302,7,1,observed_sales,9,44.78,9,0,0,Yes,none_available
+Einstein's,1,2026-03-02,20260302,8,2,observed_sales,21,89.16,21,0,0,Yes,none_available
+Einstein's,1,2026-03-02,20260302,9,3,observed_sales,75,330.98,75,0,0,Yes,none_available
+Einstein's,1,2026-03-02,20260302,10,4,observed_sales,95,407.67,95,0,0,Yes,none_available
+Einstein's,1,2026-03-02,20260302,11,5,observed_sales,99,405.37,99,0,0,Yes,none_available
+Einstein's,1,2026-03-02,20260302,12,6,observed_sales,73,337.79,73,0,0,Yes,none_available
+Einstein's,1,2026-03-02,20260302,13,7,observed_sales,63,313.85,67,0,0,Yes,none_available
+Einstein's,1,2026-03-02,20260302,14,8,observed_sales,49,155.88,55,0,0,Yes,none_available
+Einstein's,1,2026-03-02,20260302,15,9,observed_sales,51,293.77,51,0,0,Yes,none_available
+Einstein's,1,2026-03-02,20260302,16,10,observed_sales,33,120.67999999999999,35,0,0,Yes,none_available
+Einstein's,1,2026-03-02,20260302,17,11,observed_sales,9,14.35,9,0,0,Yes,none_available
+Panda Express,2,2026-03-02,20260302,11,5,observed_sales,77,560.41,77,0,0,Yes,none_available
+Panda Express,2,2026-03-02,20260302,12,6,observed_sales,126,997.41,126,0,0,Yes,none_available
+Panda Express,2,2026-03-02,20260302,13,7,observed_sales,49,434.68,51,0,0,Yes,none_available
+Panda Express,2,2026-03-02,20260302,14,8,observed_sales,27,257.24,29,0,0,Yes,none_available
+Panda Express,2,2026-03-02,20260302,15,9,observed_sales,43,345.91,47,0,0,Yes,none_available
+Residential Dining,3,2026-03-02,20260302,7,1,observed_sales,2,18.5,2,0,0,Yes,none_available
+Residential Dining,3,2026-03-02,20260302,10,4,observed_sales,2,28.16,2,0,0,Yes,none_available
+Residential Dining,3,2026-03-02,20260302,11,5,observed_sales,7,98.56,7,0,0,Yes,none_available
+Residential Dining,3,2026-03-02,20260302,12,6,observed_sales,12,168.96,12,0,0,Yes,none_available
+Residential Dining,3,2026-03-02,20260302,13,7,observed_sales,1,14.08,1,0,0,Yes,none_available
+Residential Dining,3,2026-03-02,20260302,16,10,observed_sales,3,46.980000000000004,3,0,0,Yes,none_available
+Residential Dining,3,2026-03-02,20260302,17,11,observed_sales,3,46.980000000000004,3,0,0,Yes,none_available
+Einstein's,1,2026-03-03,20260303,7,1,observed_sales,8,49.42,12,0,0,Yes,none_available
+Einstein's,1,2026-03-03,20260303,8,2,observed_sales,37,173.4,39,0,0,Yes,none_available
+Einstein's,1,2026-03-03,20260303,9,3,observed_sales,93,377.36,101,0,0,Yes,none_available
+Einstein's,1,2026-03-03,20260303,10,4,observed_sales,127,492.96999999999997,129,0,0,Yes,none_available
+Einstein's,1,2026-03-03,20260303,11,5,observed_sales,81,308.86,83,0,0,Yes,none_available
+Einstein's,1,2026-03-03,20260303,12,6,observed_sales,99,494.89,99,0,0,Yes,none_available
+Einstein's,1,2026-03-03,20260303,13,7,observed_sales,54,220.92,56,0,0,Yes,none_available
+Einstein's,1,2026-03-03,20260303,14,8,observed_sales,39,165.23,39,0,0,Yes,none_available
+Einstein's,1,2026-03-03,20260303,15,9,observed_sales,36,172.48,44,0,0,Yes,none_available
+Einstein's,1,2026-03-03,20260303,16,10,observed_sales,23,91.05,23,0,0,Yes,none_available
+Einstein's,1,2026-03-03,20260303,17,11,observed_sales,24,104.3,24,0,0,Yes,none_available
+Panda Express,2,2026-03-03,20260303,11,5,observed_sales,97,716.28,101,0,0,Yes,none_available
+Panda Express,2,2026-03-03,20260303,12,6,observed_sales,99,804.6800000000001,99,0,0,Yes,none_available
+Panda Express,2,2026-03-03,20260303,13,7,observed_sales,36,288.79,36,0,0,Yes,none_available
+Panda Express,2,2026-03-03,20260303,14,8,observed_sales,32,289.79,32,0,0,Yes,none_available
+Panda Express,2,2026-03-03,20260303,15,9,observed_sales,23,220.79000000000002,23,0,0,Yes,none_available
+Residential Dining,3,2026-03-03,20260303,7,1,observed_sales,2,18.5,2,0,0,Yes,none_available
+Residential Dining,3,2026-03-03,20260303,8,2,observed_sales,1,9.25,1,0,0,Yes,none_available
+Residential Dining,3,2026-03-03,20260303,9,3,observed_sales,1,14.08,1,0,0,Yes,none_available
+Residential Dining,3,2026-03-03,20260303,11,5,observed_sales,10,140.8,10,0,0,Yes,none_available
+Residential Dining,3,2026-03-03,20260303,12,6,observed_sales,9,126.72,9,0,0,Yes,none_available
+Residential Dining,3,2026-03-03,20260303,13,7,observed_sales,3,42.24,3,0,0,Yes,none_available
+Residential Dining,3,2026-03-03,20260303,16,10,observed_sales,1,15.66,1,0,0,Yes,none_available
+Residential Dining,3,2026-03-03,20260303,17,11,observed_sales,7,109.62,7,0,0,Yes,none_available
+Einstein's,1,2026-03-04,20260304,7,1,observed_sales,3,11.469999999999999,3,0,0,Yes,none_available
+Einstein's,1,2026-03-04,20260304,8,2,observed_sales,56,215.06,56,0,0,Yes,none_available
+Einstein's,1,2026-03-04,20260304,9,3,observed_sales,74,333.28000000000003,84,0,0,Yes,none_available
+Einstein's,1,2026-03-04,20260304,10,4,observed_sales,120,453.9,128,0,0,Yes,none_available
+Einstein's,1,2026-03-04,20260304,11,5,observed_sales,92,438.22,92,0,0,Yes,none_available
+Einstein's,1,2026-03-04,20260304,12,6,observed_sales,71,334.4,73,0,0,Yes,none_available
+Einstein's,1,2026-03-04,20260304,13,7,observed_sales,95,389.86,95,0,0,Yes,none_available
+Einstein's,1,2026-03-04,20260304,14,8,observed_sales,23,117.04,25,0,0,Yes,none_available
+Einstein's,1,2026-03-04,20260304,15,9,observed_sales,55,233.84,67,0,0,Yes,none_available
+Einstein's,1,2026-03-04,20260304,16,10,observed_sales,39,154.85999999999999,41,0,0,Yes,none_available
+Einstein's,1,2026-03-04,20260304,17,11,observed_sales,8,35.43,8,0,0,Yes,none_available
+Panda Express,2,2026-03-04,20260304,11,5,observed_sales,76,612.94,76,0,0,Yes,none_available
+Panda Express,2,2026-03-04,20260304,12,6,observed_sales,77,660.5,77,0,0,Yes,none_available
+Panda Express,2,2026-03-04,20260304,13,7,observed_sales,66,531.1,68,0,0,Yes,none_available
+Panda Express,2,2026-03-04,20260304,14,8,observed_sales,29,287.01,29,0,0,Yes,none_available
+Panda Express,2,2026-03-04,20260304,15,9,observed_sales,45,377.11,45,0,0,Yes,none_available
+Residential Dining,3,2026-03-04,20260304,8,2,observed_sales,5,46.25,5,0,0,Yes,none_available
+Residential Dining,3,2026-03-04,20260304,9,3,observed_sales,2,23.33,2,0,0,Yes,none_available
+Residential Dining,3,2026-03-04,20260304,10,4,observed_sales,2,28.16,2,0,0,Yes,none_available
+Residential Dining,3,2026-03-04,20260304,11,5,observed_sales,5,70.4,5,0,0,Yes,none_available
+Residential Dining,3,2026-03-04,20260304,12,6,observed_sales,10,140.8,10,0,0,Yes,none_available
+Residential Dining,3,2026-03-04,20260304,13,7,observed_sales,32,450.56,5,0,0,Yes,none_available
+Residential Dining,3,2026-03-04,20260304,16,10,observed_sales,1,15.66,1,0,0,Yes,none_available
+Residential Dining,3,2026-03-04,20260304,17,11,observed_sales,3,46.980000000000004,3,0,0,Yes,none_available
+Residential Dining,3,2026-03-04,20260304,18,12,observed_sales,1,15.66,1,0,0,Yes,none_available
+Einstein's,1,2026-03-05,20260305,7,1,observed_sales,17,67.27,17,0,0,Yes,none_available
+Einstein's,1,2026-03-05,20260305,8,2,observed_sales,18,89.82,24,0,0,Yes,none_available
+Einstein's,1,2026-03-05,20260305,9,3,observed_sales,74,263.93,74,0,0,Yes,none_available
+Einstein's,1,2026-03-05,20260305,10,4,observed_sales,86,357.44,94,0,0,Yes,none_available
+Einstein's,1,2026-03-05,20260305,11,5,observed_sales,61,280.81,69,0,0,Yes,none_available
+Einstein's,1,2026-03-05,20260305,12,6,observed_sales,65,334.0,69,0,0,Yes,none_available
+Einstein's,1,2026-03-05,20260305,13,7,observed_sales,67,277.07,67,0,0,Yes,none_available
+Einstein's,1,2026-03-05,20260305,14,8,observed_sales,62,266.56,68,0,0,Yes,none_available
+Einstein's,1,2026-03-05,20260305,15,9,observed_sales,22,79.1,22,0,0,Yes,none_available
+Einstein's,1,2026-03-05,20260305,16,10,observed_sales,24,89.6,26,0,0,Yes,none_available
+Einstein's,1,2026-03-05,20260305,17,11,observed_sales,14,64.7,16,0,0,Yes,none_available
+Panda Express,2,2026-03-05,20260305,11,5,observed_sales,34,329.18,34,0,0,Yes,none_available
+Panda Express,2,2026-03-05,20260305,12,6,observed_sales,103,866.0600000000001,103,0,0,Yes,none_available
+Panda Express,2,2026-03-05,20260305,13,7,observed_sales,46,427.87,46,0,0,Yes,none_available
+Panda Express,2,2026-03-05,20260305,14,8,observed_sales,63,485.77000000000004,63,0,0,Yes,none_available
+Panda Express,2,2026-03-05,20260305,15,9,observed_sales,17,139.46,17,0,0,Yes,none_available
+Residential Dining,3,2026-03-05,20260305,7,1,observed_sales,1,9.25,1,0,0,Yes,none_available
+Residential Dining,3,2026-03-05,20260305,9,3,observed_sales,1,9.25,1,0,0,Yes,none_available
+Residential Dining,3,2026-03-05,20260305,10,4,observed_sales,1,14.08,1,0,0,Yes,none_available
+Residential Dining,3,2026-03-05,20260305,11,5,observed_sales,9,126.72,9,0,0,Yes,none_available
+Residential Dining,3,2026-03-05,20260305,12,6,observed_sales,1,14.08,1,0,0,Yes,none_available
+Residential Dining,3,2026-03-05,20260305,13,7,observed_sales,1,14.08,1,0,0,Yes,none_available
+Residential Dining,3,2026-03-05,20260305,17,11,observed_sales,4,62.64,4,0,0,Yes,none_available
+Residential Dining,3,2026-03-05,20260305,18,12,observed_sales,3,46.980000000000004,3,0,0,Yes,none_available
+Einstein's,1,2026-03-06,20260306,7,1,observed_sales,2,12.38,2,0,0,Yes,none_available
+Einstein's,1,2026-03-06,20260306,8,2,observed_sales,9,36.51,9,0,0,Yes,none_available
+Einstein's,1,2026-03-06,20260306,9,3,observed_sales,67,272.04,67,0,0,Yes,none_available
+Einstein's,1,2026-03-06,20260306,10,4,observed_sales,47,175.28,47,0,0,Yes,none_available
+Einstein's,1,2026-03-06,20260306,11,5,observed_sales,37,114.75,37,0,0,Yes,none_available
+Einstein's,1,2026-03-06,20260306,12,6,observed_sales,37,163.67,37,0,0,Yes,none_available
+Einstein's,1,2026-03-06,20260306,13,7,observed_sales,23,116.14,39,0,0,Yes,none_available
+Einstein's,1,2026-03-06,20260306,14,8,observed_sales,7,41.53,9,0,0,Yes,none_available
+Einstein's,1,2026-03-06,20260306,15,9,observed_sales,11,48.1,11,0,0,Yes,none_available
+Panda Express,2,2026-03-06,20260306,10,4,observed_sales,1,11.89,1,0,0,Yes,none_available
+Panda Express,2,2026-03-06,20260306,11,5,observed_sales,27,220.97,27,0,0,Yes,none_available
+Panda Express,2,2026-03-06,20260306,12,6,observed_sales,42,324.93,42,0,0,Yes,none_available
+Panda Express,2,2026-03-06,20260306,13,7,observed_sales,23,168.71,23,0,0,Yes,none_available
+Panda Express,2,2026-03-06,20260306,14,8,observed_sales,3,17.58,3,0,0,Yes,none_available
+Residential Dining,3,2026-03-06,20260306,7,1,observed_sales,2,18.5,2,0,0,Yes,none_available
+Residential Dining,3,2026-03-06,20260306,11,5,observed_sales,12,168.96,12,0,0,Yes,none_available
+Residential Dining,3,2026-03-06,20260306,12,6,observed_sales,6,84.48,6,0,0,Yes,none_available
+Residential Dining,3,2026-03-06,20260306,13,7,observed_sales,6,84.48,6,0,0,Yes,none_available
+Residential Dining,3,2026-03-06,20260306,16,10,observed_sales,1,15.66,1,0,0,Yes,none_available
+Residential Dining,3,2026-03-06,20260306,18,12,observed_sales,1,15.66,1,0,0,Yes,none_available
+Residential Dining,3,2026-03-07,20260307,14,8,observed_sales,1,14.08,1,0,0,No,none_available
+Residential Dining,3,2026-03-07,20260307,17,11,observed_sales,3,46.980000000000004,3,0,0,No,none_available
+Residential Dining,3,2026-03-07,20260307,19,13,observed_sales,1,15.66,1,0,0,No,none_available
+Residential Dining,3,2026-03-08,20260308,11,5,observed_sales,1,14.08,1,0,0,No,none_available
+Residential Dining,3,2026-03-08,20260308,12,6,observed_sales,2,28.16,2,0,0,No,none_available
+Residential Dining,3,2026-03-08,20260308,13,7,observed_sales,1,14.08,1,0,0,No,none_available
+Residential Dining,3,2026-03-08,20260308,17,11,observed_sales,2,31.32,2,0,0,No,none_available
+Residential Dining,3,2026-03-08,20260308,18,12,observed_sales,2,31.32,2,0,0,No,none_available
+Einstein's,1,2026-03-09,20260309,7,1,observed_sales,5,14.16,5,0,0,Yes,none_available
+Einstein's,1,2026-03-09,20260309,8,2,observed_sales,29,143.57,29,0,0,Yes,none_available
+Einstein's,1,2026-03-09,20260309,9,3,observed_sales,73,332.2,75,0,0,Yes,none_available
+Einstein's,1,2026-03-09,20260309,10,4,observed_sales,87,348.19,89,0,0,Yes,none_available
+Einstein's,1,2026-03-09,20260309,11,5,observed_sales,99,435.69,105,0,0,Yes,none_available
+Einstein's,1,2026-03-09,20260309,12,6,observed_sales,65,277.66,65,0,0,Yes,none_available
+Einstein's,1,2026-03-09,20260309,13,7,observed_sales,88,339.02,90,0,0,Yes,none_available
+Einstein's,1,2026-03-09,20260309,14,8,observed_sales,40,154.78,42,0,0,Yes,none_available
+Einstein's,1,2026-03-09,20260309,15,9,observed_sales,38,139.37,38,0,0,Yes,none_available
+Einstein's,1,2026-03-09,20260309,16,10,observed_sales,20,73.84,20,0,0,Yes,none_available
+Einstein's,1,2026-03-09,20260309,17,11,observed_sales,10,37.77,16,0,0,Yes,none_available
+Panda Express,2,2026-03-09,20260309,11,5,observed_sales,51,412.73,51,0,0,Yes,none_available
+Panda Express,2,2026-03-09,20260309,12,6,observed_sales,61,497.56,61,0,0,Yes,none_available
+Panda Express,2,2026-03-09,20260309,13,7,observed_sales,78,671.6,80,0,0,Yes,none_available
+Panda Express,2,2026-03-09,20260309,14,8,observed_sales,38,313.15000000000003,38,0,0,Yes,none_available
+Panda Express,2,2026-03-09,20260309,15,9,observed_sales,32,254.7,32,0,0,Yes,none_available
+Panda Express,2,2026-03-09,20260309,16,10,observed_sales,2,12.68,2,0,0,Yes,none_available
+Residential Dining,3,2026-03-09,20260309,7,1,observed_sales,3,27.75,3,0,0,Yes,none_available
+Residential Dining,3,2026-03-09,20260309,8,2,observed_sales,3,27.75,3,0,0,Yes,none_available
+Residential Dining,3,2026-03-09,20260309,10,4,observed_sales,1,14.08,1,0,0,Yes,none_available
+Residential Dining,3,2026-03-09,20260309,11,5,observed_sales,7,98.56,7,0,0,Yes,none_available
+Residential Dining,3,2026-03-09,20260309,12,6,observed_sales,6,84.48,6,0,0,Yes,none_available
+Residential Dining,3,2026-03-09,20260309,13,7,observed_sales,3,42.24,3,0,0,Yes,none_available
+Residential Dining,3,2026-03-09,20260309,16,10,observed_sales,1,15.66,1,0,0,Yes,none_available
+Residential Dining,3,2026-03-09,20260309,17,11,observed_sales,2,31.32,2,0,0,Yes,none_available
+Residential Dining,3,2026-03-09,20260309,18,12,observed_sales,2,31.32,2,0,0,Yes,none_available
+Einstein's,1,2026-03-10,20260310,7,1,observed_sales,4,18.76,4,0,0,Yes,none_available
+Einstein's,1,2026-03-10,20260310,8,2,observed_sales,95,472.83,97,0,0,Yes,none_available
+Einstein's,1,2026-03-10,20260310,9,3,observed_sales,79,332.6,81,0,0,Yes,none_available
+Einstein's,1,2026-03-10,20260310,10,4,observed_sales,126,502.96,130,0,0,Yes,none_available
+Einstein's,1,2026-03-10,20260310,11,5,observed_sales,61,240.76,67,0,0,Yes,none_available
+Einstein's,1,2026-03-10,20260310,12,6,observed_sales,140,563.91,150,0,0,Yes,none_available
+Einstein's,1,2026-03-10,20260310,13,7,observed_sales,54,214.83,54,0,0,Yes,none_available
+Einstein's,1,2026-03-10,20260310,14,8,observed_sales,51,196.33,55,0,0,Yes,none_available
+Einstein's,1,2026-03-10,20260310,15,9,observed_sales,46,185.41,46,0,0,Yes,none_available
+Einstein's,1,2026-03-10,20260310,16,10,observed_sales,33,95.25,39,0,0,Yes,none_available
+Einstein's,1,2026-03-10,20260310,17,11,observed_sales,15,59.120000000000005,19,0,0,Yes,none_available
+Panda Express,2,2026-03-10,20260310,10,4,observed_sales,1,11.89,1,0,0,Yes,none_available
+Panda Express,2,2026-03-10,20260310,11,5,observed_sales,46,359.93,48,0,0,Yes,none_available
+Panda Express,2,2026-03-10,20260310,12,6,observed_sales,93,701.5600000000001,93,0,0,Yes,none_available
+Panda Express,2,2026-03-10,20260310,13,7,observed_sales,38,337.58,38,0,0,Yes,none_available
+Panda Express,2,2026-03-10,20260310,14,8,observed_sales,28,248.44,30,0,0,Yes,none_available
+Panda Express,2,2026-03-10,20260310,15,9,observed_sales,38,286.56,38,0,0,Yes,none_available
+Residential Dining,3,2026-03-10,20260310,7,1,observed_sales,3,27.75,3,0,0,Yes,none_available
+Residential Dining,3,2026-03-10,20260310,9,3,observed_sales,2,18.5,2,0,0,Yes,none_available
+Residential Dining,3,2026-03-10,20260310,10,4,observed_sales,2,28.16,2,0,0,Yes,none_available
+Residential Dining,3,2026-03-10,20260310,11,5,observed_sales,3,42.24,3,0,0,Yes,none_available
+Residential Dining,3,2026-03-10,20260310,12,6,observed_sales,3,37.41,3,0,0,Yes,none_available
+Residential Dining,3,2026-03-10,20260310,13,7,observed_sales,2,28.16,2,0,0,Yes,none_available
+Residential Dining,3,2026-03-10,20260310,17,11,observed_sales,2,31.32,2,0,0,Yes,none_available
+Residential Dining,3,2026-03-10,20260310,18,12,observed_sales,2,31.32,2,0,0,Yes,none_available
+Residential Dining,3,2026-03-10,20260310,19,13,observed_sales,1,15.66,1,0,0,Yes,none_available
+Einstein's,1,2026-03-11,20260311,7,1,observed_sales,11,66.08999999999999,11,0,0,Yes,none_available
+Einstein's,1,2026-03-11,20260311,8,2,observed_sales,33,129.65,37,0,0,Yes,none_available
+Einstein's,1,2026-03-11,20260311,9,3,observed_sales,76,356.99,78,0,0,Yes,none_available
+Einstein's,1,2026-03-11,20260311,10,4,observed_sales,113,390.98,121,0,0,Yes,none_available
+Einstein's,1,2026-03-11,20260311,11,5,observed_sales,112,501.83,116,0,0,Yes,none_available
+Einstein's,1,2026-03-11,20260311,12,6,observed_sales,71,300.98,73,0,0,Yes,none_available
+Einstein's,1,2026-03-11,20260311,13,7,observed_sales,69,264.07,69,0,0,Yes,none_available
+Einstein's,1,2026-03-11,20260311,14,8,observed_sales,33,162.16,33,0,0,Yes,none_available
+Einstein's,1,2026-03-11,20260311,15,9,observed_sales,47,226.26,49,0,0,Yes,none_available
+Einstein's,1,2026-03-11,20260311,16,10,observed_sales,30,156.88,30,0,0,Yes,none_available
+Einstein's,1,2026-03-11,20260311,17,11,observed_sales,18,57.660000000000004,20,0,0,Yes,none_available
+Panda Express,2,2026-03-11,20260311,11,5,observed_sales,68,581.8,70,0,0,Yes,none_available
+Panda Express,2,2026-03-11,20260311,12,6,observed_sales,61,529.87,61,0,0,Yes,none_available
+Panda Express,2,2026-03-11,20260311,13,7,observed_sales,73,569.5500000000001,73,0,0,Yes,none_available
+Panda Express,2,2026-03-11,20260311,14,8,observed_sales,31,259.69,31,0,0,Yes,none_available
+Panda Express,2,2026-03-11,20260311,15,9,observed_sales,27,237.37,27,0,0,Yes,none_available
+Panda Express,2,2026-03-11,20260311,16,10,observed_sales,1,10.09,1,0,0,Yes,none_available
+Residential Dining,3,2026-03-11,20260311,7,1,observed_sales,2,18.5,2,0,0,Yes,none_available
+Residential Dining,3,2026-03-11,20260311,8,2,observed_sales,4,37.0,4,0,0,Yes,none_available
+Residential Dining,3,2026-03-11,20260311,9,3,observed_sales,1,9.25,1,0,0,Yes,none_available
+Residential Dining,3,2026-03-11,20260311,10,4,observed_sales,1,14.08,1,0,0,Yes,none_available
+Residential Dining,3,2026-03-11,20260311,11,5,observed_sales,10,140.8,10,0,0,Yes,none_available
+Residential Dining,3,2026-03-11,20260311,12,6,observed_sales,58,816.6400000000001,18,0,0,Yes,none_available
+Residential Dining,3,2026-03-11,20260311,13,7,observed_sales,4,56.32,4,0,0,Yes,none_available
+Residential Dining,3,2026-03-11,20260311,16,10,observed_sales,2,31.32,2,0,0,Yes,none_available
+Residential Dining,3,2026-03-11,20260311,17,11,observed_sales,5,78.3,5,0,0,Yes,none_available
+Residential Dining,3,2026-03-11,20260311,19,13,observed_sales,1,15.66,1,0,0,Yes,none_available
+Einstein's,1,2026-03-12,20260312,7,1,observed_sales,15,61.46,15,0,0,Yes,none_available
+Einstein's,1,2026-03-12,20260312,8,2,observed_sales,40,136.26,40,0,0,Yes,none_available
+Einstein's,1,2026-03-12,20260312,9,3,observed_sales,44,192.59,46,0,0,Yes,none_available
+Einstein's,1,2026-03-12,20260312,10,4,observed_sales,101,388.13,103,0,0,Yes,none_available
+Einstein's,1,2026-03-12,20260312,11,5,observed_sales,103,395.21,109,0,0,Yes,none_available
+Einstein's,1,2026-03-12,20260312,12,6,observed_sales,104,505.24,106,0,0,Yes,none_available
+Einstein's,1,2026-03-12,20260312,13,7,observed_sales,34,129.94,34,0,0,Yes,none_available
+Einstein's,1,2026-03-12,20260312,14,8,observed_sales,73,291.61,73,0,0,Yes,none_available
+Einstein's,1,2026-03-12,20260312,15,9,observed_sales,29,118.25,33,0,0,Yes,none_available
+Einstein's,1,2026-03-12,20260312,16,10,observed_sales,43,194.07,43,0,0,Yes,none_available
+Einstein's,1,2026-03-12,20260312,17,11,observed_sales,8,25.490000000000002,8,0,0,Yes,none_available
+Panda Express,2,2026-03-12,20260312,11,5,observed_sales,57,459.21,57,0,0,Yes,none_available
+Panda Express,2,2026-03-12,20260312,12,6,observed_sales,126,985.94,132,0,0,Yes,none_available
+Panda Express,2,2026-03-12,20260312,13,7,observed_sales,76,620.74,76,0,0,Yes,none_available
+Panda Express,2,2026-03-12,20260312,14,8,observed_sales,46,373.69,46,0,0,Yes,none_available
+Panda Express,2,2026-03-12,20260312,15,9,observed_sales,19,185.62,19,0,0,Yes,none_available
+Residential Dining,3,2026-03-12,20260312,8,2,observed_sales,1,9.25,1,0,0,Yes,none_available
+Residential Dining,3,2026-03-12,20260312,10,4,observed_sales,2,28.16,2,0,0,Yes,none_available
+Residential Dining,3,2026-03-12,20260312,11,5,observed_sales,2,28.16,2,0,0,Yes,none_available
+Residential Dining,3,2026-03-12,20260312,13,7,observed_sales,2,28.16,2,0,0,Yes,none_available
+Residential Dining,3,2026-03-12,20260312,15,9,observed_sales,1,14.08,1,0,0,Yes,none_available
+Residential Dining,3,2026-03-12,20260312,17,11,observed_sales,3,46.980000000000004,3,0,0,Yes,none_available
+Residential Dining,3,2026-03-12,20260312,18,12,observed_sales,2,31.32,2,0,0,Yes,none_available
+Residential Dining,3,2026-03-12,20260312,19,13,observed_sales,1,15.66,1,0,0,Yes,none_available
+Residential Dining,3,2026-03-12,20260312,20,14,observed_sales,1,15.66,1,0,0,Yes,none_available
+Einstein's,1,2026-03-13,20260313,8,2,observed_sales,35,106.97,43,0,0,Yes,none_available
+Einstein's,1,2026-03-13,20260313,9,3,observed_sales,53,214.48,57,0,0,Yes,none_available
+Einstein's,1,2026-03-13,20260313,10,4,observed_sales,25,85.0,29,0,0,Yes,none_available
+Einstein's,1,2026-03-13,20260313,11,5,observed_sales,53,217.59,55,0,0,Yes,none_available
+Einstein's,1,2026-03-13,20260313,12,6,observed_sales,83,247.76999999999998,87,0,0,Yes,none_available
+Einstein's,1,2026-03-13,20260313,13,7,observed_sales,45,102.64999999999999,45,0,0,Yes,none_available
+Einstein's,1,2026-03-13,20260313,14,8,observed_sales,23,73.45,23,0,0,Yes,none_available
+Einstein's,1,2026-03-13,20260313,15,9,observed_sales,9,52.51,9,0,0,Yes,none_available
+Panda Express,2,2026-03-13,20260313,11,5,observed_sales,17,130.04,17,0,0,Yes,none_available
+Panda Express,2,2026-03-13,20260313,12,6,observed_sales,34,282.59000000000003,34,0,0,Yes,none_available
+Panda Express,2,2026-03-13,20260313,13,7,observed_sales,31,234.43,31,0,0,Yes,none_available
+Panda Express,2,2026-03-13,20260313,14,8,observed_sales,5,41.36,5,0,0,Yes,none_available
+Residential Dining,3,2026-03-13,20260313,9,3,observed_sales,2,23.33,2,0,0,Yes,none_available
+Residential Dining,3,2026-03-13,20260313,11,5,observed_sales,2,28.16,2,0,0,Yes,none_available
+Residential Dining,3,2026-03-13,20260313,12,6,observed_sales,7,98.56,7,0,0,Yes,none_available
+Residential Dining,3,2026-03-13,20260313,13,7,observed_sales,4,56.32,4,0,0,Yes,none_available
+Residential Dining,3,2026-03-13,20260313,16,10,observed_sales,2,31.32,2,0,0,Yes,none_available
+Residential Dining,3,2026-03-13,20260313,18,12,observed_sales,5,78.3,5,0,0,Yes,none_available
+Residential Dining,3,2026-03-14,20260314,16,10,observed_sales,1,15.66,1,0,0,No,none_available
+Residential Dining,3,2026-03-14,20260314,17,11,observed_sales,4,62.64,4,0,0,No,none_available
+Residential Dining,3,2026-03-14,20260314,18,12,observed_sales,1,15.66,1,0,0,No,none_available
+Residential Dining,3,2026-03-15,20260315,17,11,observed_sales,3,46.980000000000004,3,0,0,No,none_available
+Residential Dining,3,2026-03-15,20260315,18,12,observed_sales,1,15.66,1,0,0,No,none_available
+Residential Dining,3,2026-03-15,20260315,20,14,observed_sales,1,15.66,1,0,0,No,none_available
+Einstein's,1,2026-03-16,20260316,7,1,observed_sales,10,44.47,10,0,0,Yes,none_available
+Einstein's,1,2026-03-16,20260316,8,2,observed_sales,24,84.9,24,0,0,Yes,none_available
+Einstein's,1,2026-03-16,20260316,9,3,observed_sales,80,305.04,84,0,0,Yes,none_available
+Einstein's,1,2026-03-16,20260316,10,4,observed_sales,112,474.69,112,0,0,Yes,none_available
+Einstein's,1,2026-03-16,20260316,11,5,observed_sales,93,459.33,99,0,0,Yes,none_available
+Einstein's,1,2026-03-16,20260316,12,6,observed_sales,91,353.74,99,0,0,Yes,none_available
+Einstein's,1,2026-03-16,20260316,13,7,observed_sales,59,258.1,69,0,0,Yes,none_available
+Einstein's,1,2026-03-16,20260316,14,8,observed_sales,32,141.99,32,0,0,Yes,none_available
+Einstein's,1,2026-03-16,20260316,15,9,observed_sales,56,208.71,58,0,0,Yes,none_available
+Einstein's,1,2026-03-16,20260316,16,10,observed_sales,39,179.1,39,0,0,Yes,none_available
+Einstein's,1,2026-03-16,20260316,17,11,observed_sales,13,44.410000000000004,15,0,0,Yes,none_available
+Panda Express,2,2026-03-16,20260316,11,5,observed_sales,102,793.14,102,0,0,Yes,none_available
+Panda Express,2,2026-03-16,20260316,12,6,observed_sales,92,738.48,92,0,0,Yes,none_available
+Panda Express,2,2026-03-16,20260316,13,7,observed_sales,56,471.2,56,0,0,Yes,none_available
+Panda Express,2,2026-03-16,20260316,14,8,observed_sales,40,326.99,40,0,0,Yes,none_available
+Panda Express,2,2026-03-16,20260316,15,9,observed_sales,32,256.29,34,0,0,Yes,none_available
+Panda Express,2,2026-03-16,20260316,16,10,observed_sales,1,10.09,1,0,0,Yes,none_available
+Residential Dining,3,2026-03-16,20260316,7,1,observed_sales,1,9.25,1,0,0,Yes,none_available
+Residential Dining,3,2026-03-16,20260316,8,2,observed_sales,5,46.25,5,0,0,Yes,none_available
+Residential Dining,3,2026-03-16,20260316,9,3,observed_sales,1,9.25,1,0,0,Yes,none_available
+Residential Dining,3,2026-03-16,20260316,10,4,observed_sales,2,28.16,2,0,0,Yes,none_available
+Residential Dining,3,2026-03-16,20260316,11,5,observed_sales,3,42.24,3,0,0,Yes,none_available
+Residential Dining,3,2026-03-16,20260316,12,6,observed_sales,16,225.28,16,0,0,Yes,none_available
+Residential Dining,3,2026-03-16,20260316,13,7,observed_sales,6,84.48,6,0,0,Yes,none_available
+Residential Dining,3,2026-03-16,20260316,17,11,observed_sales,3,46.980000000000004,3,0,0,Yes,none_available
+Residential Dining,3,2026-03-16,20260316,18,12,observed_sales,5,78.3,5,0,0,Yes,none_available
+Einstein's,1,2026-03-17,20260317,7,1,observed_sales,9,34.21,9,0,0,Yes,none_available
+Einstein's,1,2026-03-17,20260317,8,2,observed_sales,25,108.33,29,0,0,Yes,none_available
+Einstein's,1,2026-03-17,20260317,9,3,observed_sales,83,324.19,83,0,0,Yes,none_available
+Einstein's,1,2026-03-17,20260317,10,4,observed_sales,99,419.96999999999997,99,0,0,Yes,none_available
+Einstein's,1,2026-03-17,20260317,11,5,observed_sales,70,295.46999999999997,70,0,0,Yes,none_available
+Einstein's,1,2026-03-17,20260317,12,6,observed_sales,89,447.85,91,0,0,Yes,none_available
+Einstein's,1,2026-03-17,20260317,13,7,observed_sales,47,235.08,49,0,0,Yes,none_available
+Einstein's,1,2026-03-17,20260317,14,8,observed_sales,42,198.64,44,0,0,Yes,none_available
+Einstein's,1,2026-03-17,20260317,15,9,observed_sales,37,141.55,37,0,0,Yes,none_available
+Einstein's,1,2026-03-17,20260317,16,10,observed_sales,36,130.48,36,0,0,Yes,none_available
+Einstein's,1,2026-03-17,20260317,17,11,observed_sales,5,15.96,5,0,0,Yes,none_available
+Panda Express,2,2026-03-17,20260317,11,5,observed_sales,70,582.22,72,0,0,Yes,none_available
+Panda Express,2,2026-03-17,20260317,12,6,observed_sales,100,819.46,100,0,0,Yes,none_available
+Panda Express,2,2026-03-17,20260317,13,7,observed_sales,55,425.81,55,0,0,Yes,none_available
+Panda Express,2,2026-03-17,20260317,14,8,observed_sales,61,466.56,63,0,0,Yes,none_available
+Panda Express,2,2026-03-17,20260317,15,9,observed_sales,43,344.11,43,0,0,Yes,none_available
+Residential Dining,3,2026-03-17,20260317,9,3,observed_sales,4,37.0,4,0,0,Yes,none_available
+Residential Dining,3,2026-03-17,20260317,10,4,observed_sales,4,56.32,4,0,0,Yes,none_available
+Residential Dining,3,2026-03-17,20260317,11,5,observed_sales,16,225.28,16,0,0,Yes,none_available
+Residential Dining,3,2026-03-17,20260317,14,8,observed_sales,1,14.08,1,0,0,Yes,none_available
+Residential Dining,3,2026-03-17,20260317,16,10,observed_sales,3,46.980000000000004,3,0,0,Yes,none_available
+Residential Dining,3,2026-03-17,20260317,17,11,observed_sales,3,46.980000000000004,3,0,0,Yes,none_available
+Residential Dining,3,2026-03-17,20260317,18,12,observed_sales,1,15.66,1,0,0,Yes,none_available
+Einstein's,1,2026-03-18,20260318,7,1,observed_sales,11,46.96,13,0,0,Yes,none_available
+Einstein's,1,2026-03-18,20260318,8,2,observed_sales,14,56.4,14,0,0,Yes,none_available
+Einstein's,1,2026-03-18,20260318,9,3,observed_sales,93,388.23,97,0,0,Yes,none_available
+Einstein's,1,2026-03-18,20260318,10,4,observed_sales,121,401.36,121,0,0,Yes,none_available
+Einstein's,1,2026-03-18,20260318,11,5,observed_sales,86,378.42,96,0,0,Yes,none_available
+Einstein's,1,2026-03-18,20260318,12,6,observed_sales,83,389.94,87,0,0,Yes,none_available
+Einstein's,1,2026-03-18,20260318,13,7,observed_sales,93,425.28000000000003,93,0,0,Yes,none_available
+Einstein's,1,2026-03-18,20260318,14,8,observed_sales,48,211.17,48,0,0,Yes,none_available
+Einstein's,1,2026-03-18,20260318,15,9,observed_sales,31,158.06,31,0,0,Yes,none_available
+Einstein's,1,2026-03-18,20260318,16,10,observed_sales,19,82.5,21,0,0,Yes,none_available
+Einstein's,1,2026-03-18,20260318,17,11,observed_sales,3,15.27,3,0,0,Yes,none_available
+Panda Express,2,2026-03-18,20260318,11,5,observed_sales,49,455.65000000000003,49,0,0,Yes,none_available
+Panda Express,2,2026-03-18,20260318,12,6,observed_sales,69,537.82,71,0,0,Yes,none_available
+Panda Express,2,2026-03-18,20260318,13,7,observed_sales,69,520.16,71,0,0,Yes,none_available
+Panda Express,2,2026-03-18,20260318,14,8,observed_sales,26,215.14000000000001,26,0,0,Yes,none_available
+Panda Express,2,2026-03-18,20260318,15,9,observed_sales,24,188.27,24,0,0,Yes,none_available
+Panda Express,2,2026-03-18,20260318,16,10,observed_sales,1,10.09,1,0,0,Yes,none_available
+Residential Dining,3,2026-03-18,20260318,8,2,observed_sales,2,18.5,2,0,0,Yes,none_available
+Residential Dining,3,2026-03-18,20260318,9,3,observed_sales,4,37.0,1,0,0,Yes,none_available
+Residential Dining,3,2026-03-18,20260318,10,4,observed_sales,2,28.16,2,0,0,Yes,none_available
+Residential Dining,3,2026-03-18,20260318,11,5,observed_sales,9,126.72,9,0,0,Yes,none_available
+Residential Dining,3,2026-03-18,20260318,12,6,observed_sales,13,183.04,13,0,0,Yes,none_available
+Residential Dining,3,2026-03-18,20260318,16,10,observed_sales,1,15.66,1,0,0,Yes,none_available
+Residential Dining,3,2026-03-18,20260318,17,11,observed_sales,4,62.64,4,0,0,Yes,none_available
+Residential Dining,3,2026-03-18,20260318,18,12,observed_sales,1,15.66,1,0,0,Yes,none_available
+Residential Dining,3,2026-03-18,20260318,19,13,observed_sales,1,15.66,1,0,0,Yes,none_available
+Einstein's,1,2026-03-19,20260319,7,1,observed_sales,5,10.42,5,0,0,Yes,none_available
+Einstein's,1,2026-03-19,20260319,8,2,observed_sales,43,181.85999999999999,47,0,0,Yes,none_available
+Einstein's,1,2026-03-19,20260319,9,3,observed_sales,62,290.73,64,0,0,Yes,none_available
+Einstein's,1,2026-03-19,20260319,10,4,observed_sales,110,465.98,124,0,0,Yes,none_available
+Einstein's,1,2026-03-19,20260319,11,5,observed_sales,58,289.8,58,0,0,Yes,none_available
+Einstein's,1,2026-03-19,20260319,12,6,observed_sales,66,271.87,66,0,0,Yes,none_available
+Einstein's,1,2026-03-19,20260319,13,7,observed_sales,39,130.07,41,0,0,Yes,none_available
+Einstein's,1,2026-03-19,20260319,14,8,observed_sales,42,155.25,42,0,0,Yes,none_available
+Einstein's,1,2026-03-19,20260319,15,9,observed_sales,28,110.34,28,0,0,Yes,none_available
+Einstein's,1,2026-03-19,20260319,16,10,observed_sales,31,145.55,31,0,0,Yes,none_available
+Einstein's,1,2026-03-19,20260319,17,11,observed_sales,26,126.38,26,0,0,Yes,none_available
+Panda Express,2,2026-03-19,20260319,11,5,observed_sales,37,290.29,41,0,0,Yes,none_available
+Panda Express,2,2026-03-19,20260319,12,6,observed_sales,101,845.39,107,0,0,Yes,none_available
+Panda Express,2,2026-03-19,20260319,13,7,observed_sales,42,344.74,42,0,0,Yes,none_available
+Panda Express,2,2026-03-19,20260319,14,8,observed_sales,35,299.1,37,0,0,Yes,none_available
+Panda Express,2,2026-03-19,20260319,15,9,observed_sales,27,217.75,27,0,0,Yes,none_available
+Residential Dining,3,2026-03-19,20260319,7,1,observed_sales,2,18.5,2,0,0,Yes,none_available
+Residential Dining,3,2026-03-19,20260319,9,3,observed_sales,1,9.25,1,0,0,Yes,none_available
+Residential Dining,3,2026-03-19,20260319,11,5,observed_sales,4,56.32,4,0,0,Yes,none_available
+Residential Dining,3,2026-03-19,20260319,12,6,observed_sales,2,28.16,2,0,0,Yes,none_available
+Residential Dining,3,2026-03-19,20260319,16,10,observed_sales,2,31.32,2,0,0,Yes,none_available
+Residential Dining,3,2026-03-19,20260319,17,11,observed_sales,4,62.64,4,0,0,Yes,none_available
+Residential Dining,3,2026-03-19,20260319,18,12,observed_sales,1,15.66,1,0,0,Yes,none_available
+Einstein's,1,2026-03-20,20260320,8,2,observed_sales,19,67.17999999999999,19,0,0,Yes,none_available
+Einstein's,1,2026-03-20,20260320,9,3,observed_sales,28,126.44,32,0,0,Yes,none_available
+Einstein's,1,2026-03-20,20260320,10,4,observed_sales,64,246.31,64,0,0,Yes,none_available
+Einstein's,1,2026-03-20,20260320,11,5,observed_sales,46,179.63,46,0,0,Yes,none_available
+Einstein's,1,2026-03-20,20260320,12,6,observed_sales,40,196.12,40,0,0,Yes,none_available
+Einstein's,1,2026-03-20,20260320,13,7,observed_sales,31,120.0,31,0,0,Yes,none_available
+Einstein's,1,2026-03-20,20260320,14,8,observed_sales,20,124.61,20,0,0,Yes,none_available
+Einstein's,1,2026-03-20,20260320,15,9,observed_sales,25,99.0,27,0,0,Yes,none_available
+Einstein's,1,2026-03-20,20260320,16,10,observed_sales,4,12.56,4,0,0,Yes,none_available
+Panda Express,2,2026-03-20,20260320,11,5,observed_sales,20,166.43,20,0,0,Yes,none_available
+Panda Express,2,2026-03-20,20260320,12,6,observed_sales,147,1002.33,147,0,0,Yes,none_available
+Panda Express,2,2026-03-20,20260320,13,7,observed_sales,33,276.6,33,0,0,Yes,none_available
+Panda Express,2,2026-03-20,20260320,14,8,observed_sales,5,28.46,5,0,0,Yes,none_available
+Residential Dining,3,2026-03-20,20260320,8,2,observed_sales,1,9.25,1,0,0,Yes,none_available
+Residential Dining,3,2026-03-20,20260320,10,4,observed_sales,2,23.33,2,0,0,Yes,none_available
+Residential Dining,3,2026-03-20,20260320,11,5,observed_sales,28,394.24,5,0,0,Yes,none_available
+Residential Dining,3,2026-03-20,20260320,12,6,observed_sales,8,112.64,8,0,0,Yes,none_available
+Residential Dining,3,2026-03-20,20260320,13,7,observed_sales,1,14.08,1,0,0,Yes,none_available
+Residential Dining,3,2026-03-20,20260320,17,11,observed_sales,2,31.32,2,0,0,Yes,none_available
+Residential Dining,3,2026-03-20,20260320,18,12,observed_sales,3,46.980000000000004,3,0,0,Yes,none_available
+Residential Dining,3,2026-03-22,20260322,13,7,observed_sales,2,28.16,2,0,0,No,none_available
+Residential Dining,3,2026-03-22,20260322,17,11,observed_sales,1,15.66,1,0,0,No,none_available
+Residential Dining,3,2026-03-22,20260322,18,12,observed_sales,2,31.32,2,0,0,No,none_available
+Einstein's,1,2026-03-23,20260323,7,1,observed_sales,9,28.18,9,0,0,Yes,none_available
+Einstein's,1,2026-03-23,20260323,8,2,observed_sales,34,109.14999999999999,36,0,0,Yes,none_available
+Einstein's,1,2026-03-23,20260323,9,3,observed_sales,66,254.04,72,0,0,Yes,none_available
+Einstein's,1,2026-03-23,20260323,10,4,observed_sales,82,350.42,82,0,0,Yes,none_available
+Einstein's,1,2026-03-23,20260323,11,5,observed_sales,94,352.94,96,0,0,Yes,none_available
+Einstein's,1,2026-03-23,20260323,12,6,observed_sales,71,300.26,79,0,0,Yes,none_available
+Einstein's,1,2026-03-23,20260323,13,7,observed_sales,95,354.82,97,0,0,Yes,none_available
+Einstein's,1,2026-03-23,20260323,14,8,observed_sales,37,204.32999999999998,39,0,0,Yes,none_available
+Einstein's,1,2026-03-23,20260323,15,9,observed_sales,48,196.44,52,0,0,Yes,none_available
+Einstein's,1,2026-03-23,20260323,16,10,observed_sales,53,212.4,57,0,0,Yes,none_available
+Einstein's,1,2026-03-23,20260323,17,11,observed_sales,21,92.78,25,0,0,Yes,none_available
+Panda Express,2,2026-03-23,20260323,10,4,observed_sales,4,49.36,4,0,0,Yes,none_available
+Panda Express,2,2026-03-23,20260323,11,5,observed_sales,64,520.21,64,0,0,Yes,none_available
+Panda Express,2,2026-03-23,20260323,12,6,observed_sales,71,548.05,71,0,0,Yes,none_available
+Panda Express,2,2026-03-23,20260323,13,7,observed_sales,61,490.03000000000003,61,0,0,Yes,none_available
+Panda Express,2,2026-03-23,20260323,14,8,observed_sales,45,356.90000000000003,47,0,0,Yes,none_available
+Panda Express,2,2026-03-23,20260323,15,9,observed_sales,28,239.35,28,0,0,Yes,none_available
+Residential Dining,3,2026-03-23,20260323,7,1,observed_sales,1,9.25,1,0,0,Yes,none_available
+Residential Dining,3,2026-03-23,20260323,9,3,observed_sales,1,9.25,1,0,0,Yes,none_available
+Residential Dining,3,2026-03-23,20260323,11,5,observed_sales,8,112.64,8,0,0,Yes,none_available
+Residential Dining,3,2026-03-23,20260323,12,6,observed_sales,58,816.64,13,0,0,Yes,none_available
+Residential Dining,3,2026-03-23,20260323,17,11,observed_sales,1,15.66,1,0,0,Yes,none_available
+Residential Dining,3,2026-03-23,20260323,18,12,observed_sales,1,15.66,1,0,0,Yes,none_available
+Residential Dining,3,2026-03-23,20260323,19,13,observed_sales,1,15.66,1,0,0,Yes,none_available
+Einstein's,1,2026-03-24,20260324,7,1,observed_sales,8,29.82,10,0,0,Yes,none_available
+Einstein's,1,2026-03-24,20260324,8,2,observed_sales,63,318.32,63,0,0,Yes,none_available
+Einstein's,1,2026-03-24,20260324,9,3,observed_sales,85,356.7,91,0,0,Yes,none_available
+Einstein's,1,2026-03-24,20260324,10,4,observed_sales,108,487.77,112,0,0,Yes,none_available
+Einstein's,1,2026-03-24,20260324,11,5,observed_sales,78,344.38,82,0,0,Yes,none_available
+Einstein's,1,2026-03-24,20260324,12,6,observed_sales,100,440.33,102,0,0,Yes,none_available
+Einstein's,1,2026-03-24,20260324,13,7,observed_sales,67,255.22,69,0,0,Yes,none_available
+Einstein's,1,2026-03-24,20260324,14,8,observed_sales,51,212.22,51,0,0,Yes,none_available
+Einstein's,1,2026-03-24,20260324,15,9,observed_sales,41,112.48,41,0,0,Yes,none_available
+Einstein's,1,2026-03-24,20260324,16,10,observed_sales,40,154.67,40,0,0,Yes,none_available
+Einstein's,1,2026-03-24,20260324,17,11,observed_sales,11,61.36,11,0,0,Yes,none_available
+Panda Express,2,2026-03-24,20260324,11,5,observed_sales,62,506.68,72,0,0,Yes,none_available
+Panda Express,2,2026-03-24,20260324,12,6,observed_sales,135,1066.67,137,0,0,Yes,none_available
+Panda Express,2,2026-03-24,20260324,13,7,observed_sales,56,465.07,56,0,0,Yes,none_available
+Panda Express,2,2026-03-24,20260324,14,8,observed_sales,84,644.5,88,0,0,Yes,none_available
+Panda Express,2,2026-03-24,20260324,15,9,observed_sales,26,232.78,26,0,0,Yes,none_available
+Residential Dining,3,2026-03-24,20260324,7,1,observed_sales,1,9.25,1,0,0,Yes,none_available
+Residential Dining,3,2026-03-24,20260324,8,2,observed_sales,2,18.5,2,0,0,Yes,none_available
+Residential Dining,3,2026-03-24,20260324,9,3,observed_sales,1,9.25,1,0,0,Yes,none_available
+Residential Dining,3,2026-03-24,20260324,10,4,observed_sales,5,70.4,5,0,0,Yes,none_available
+Residential Dining,3,2026-03-24,20260324,11,5,observed_sales,5,70.4,5,0,0,Yes,none_available
+Residential Dining,3,2026-03-24,20260324,12,6,observed_sales,1,14.08,1,0,0,Yes,none_available
+Residential Dining,3,2026-03-24,20260324,13,7,observed_sales,3,42.24,3,0,0,Yes,none_available
+Residential Dining,3,2026-03-24,20260324,16,10,observed_sales,1,9.25,1,0,0,Yes,none_available
+Residential Dining,3,2026-03-24,20260324,17,11,observed_sales,2,31.32,2,0,0,Yes,none_available
+Residential Dining,3,2026-03-24,20260324,18,12,observed_sales,2,31.32,2,0,0,Yes,none_available
+Einstein's,1,2026-03-25,20260325,7,1,observed_sales,12,64.19,12,0,0,Yes,none_available
+Einstein's,1,2026-03-25,20260325,8,2,observed_sales,41,127.71,41,0,0,Yes,none_available
+Einstein's,1,2026-03-25,20260325,9,3,observed_sales,77,315.04,79,0,0,Yes,none_available
+Einstein's,1,2026-03-25,20260325,10,4,observed_sales,89,386.58,93,0,0,Yes,none_available
+Einstein's,1,2026-03-25,20260325,11,5,observed_sales,112,539.17,118,0,0,Yes,none_available
+Einstein's,1,2026-03-25,20260325,12,6,observed_sales,87,369.8,95,0,0,Yes,none_available
+Einstein's,1,2026-03-25,20260325,13,7,observed_sales,97,395.64,109,0,0,Yes,none_available
+Einstein's,1,2026-03-25,20260325,14,8,observed_sales,58,254.42,58,0,0,Yes,none_available
+Einstein's,1,2026-03-25,20260325,15,9,observed_sales,34,158.5,34,0,0,Yes,none_available
+Einstein's,1,2026-03-25,20260325,16,10,observed_sales,46,152.39,54,0,0,Yes,none_available
+Einstein's,1,2026-03-25,20260325,17,11,observed_sales,10,42.27,10,0,0,Yes,none_available
+Panda Express,2,2026-03-25,20260325,11,5,observed_sales,64,570.02,64,0,0,Yes,none_available
+Panda Express,2,2026-03-25,20260325,12,6,observed_sales,70,635.02,70,0,0,Yes,none_available
+Panda Express,2,2026-03-25,20260325,13,7,observed_sales,56,528.66,56,0,0,Yes,none_available
+Panda Express,2,2026-03-25,20260325,14,8,observed_sales,64,517.63,64,0,0,Yes,none_available
+Panda Express,2,2026-03-25,20260325,15,9,observed_sales,44,344.6,44,0,0,Yes,none_available
+Residential Dining,3,2026-03-25,20260325,7,1,observed_sales,2,18.5,2,0,0,Yes,none_available
+Residential Dining,3,2026-03-25,20260325,8,2,observed_sales,7,64.75,7,0,0,Yes,none_available
+Residential Dining,3,2026-03-25,20260325,9,3,observed_sales,1,9.25,1,0,0,Yes,none_available
+Residential Dining,3,2026-03-25,20260325,10,4,observed_sales,2,28.16,2,0,0,Yes,none_available
+Residential Dining,3,2026-03-25,20260325,11,5,observed_sales,5,70.4,5,0,0,Yes,none_available
+Residential Dining,3,2026-03-25,20260325,12,6,observed_sales,13,183.04,13,0,0,Yes,none_available
+Residential Dining,3,2026-03-25,20260325,13,7,observed_sales,3,42.24,3,0,0,Yes,none_available
+Residential Dining,3,2026-03-25,20260325,14,8,observed_sales,1,14.08,1,0,0,Yes,none_available
+Residential Dining,3,2026-03-25,20260325,17,11,observed_sales,1,15.66,1,0,0,Yes,none_available
+Einstein's,1,2026-03-26,20260326,7,1,observed_sales,11,45.56,13,0,0,Yes,none_available
+Einstein's,1,2026-03-26,20260326,8,2,observed_sales,33,102.35,43,0,0,Yes,none_available
+Einstein's,1,2026-03-26,20260326,9,3,observed_sales,67,307.6,75,0,0,Yes,none_available
+Einstein's,1,2026-03-26,20260326,10,4,observed_sales,109,434.94,117,0,0,Yes,none_available
+Einstein's,1,2026-03-26,20260326,11,5,observed_sales,97,400.36,103,0,0,Yes,none_available
+Einstein's,1,2026-03-26,20260326,12,6,observed_sales,130,540.61,130,0,0,Yes,none_available
+Einstein's,1,2026-03-26,20260326,13,7,observed_sales,61,236.2,63,0,0,Yes,none_available
+Einstein's,1,2026-03-26,20260326,14,8,observed_sales,54,197.04,54,0,0,Yes,none_available
+Einstein's,1,2026-03-26,20260326,15,9,observed_sales,53,193.17,53,0,0,Yes,none_available
+Einstein's,1,2026-03-26,20260326,16,10,observed_sales,18,79.4,20,0,0,Yes,none_available
+Einstein's,1,2026-03-26,20260326,17,11,observed_sales,7,27.75,7,0,0,Yes,none_available
+Panda Express,2,2026-03-26,20260326,11,5,observed_sales,107,792.63,109,0,0,Yes,none_available
+Panda Express,2,2026-03-26,20260326,12,6,observed_sales,109,882.33,111,0,0,Yes,none_available
+Panda Express,2,2026-03-26,20260326,13,7,observed_sales,70,581.96,72,0,0,Yes,none_available
+Panda Express,2,2026-03-26,20260326,14,8,observed_sales,53,426.03000000000003,53,0,0,Yes,none_available
+Panda Express,2,2026-03-26,20260326,15,9,observed_sales,43,356.52,45,0,0,Yes,none_available
+Residential Dining,3,2026-03-26,20260326,7,1,observed_sales,1,9.25,1,0,0,Yes,none_available
+Residential Dining,3,2026-03-26,20260326,11,5,observed_sales,14,197.12,14,0,0,Yes,none_available
+Residential Dining,3,2026-03-26,20260326,12,6,observed_sales,2,28.16,2,0,0,Yes,none_available
+Residential Dining,3,2026-03-26,20260326,13,7,observed_sales,1,14.08,3,0,0,Yes,none_available
+Residential Dining,3,2026-03-26,20260326,17,11,observed_sales,2,31.32,2,0,0,Yes,none_available
+Residential Dining,3,2026-03-26,20260326,18,12,observed_sales,2,31.32,2,0,0,Yes,none_available
+Einstein's,1,2026-03-27,20260327,7,1,observed_sales,1,9.79,1,0,0,Yes,none_available
+Einstein's,1,2026-03-27,20260327,8,2,observed_sales,30,110.56,30,0,0,Yes,none_available
+Einstein's,1,2026-03-27,20260327,9,3,observed_sales,34,131.78,34,0,0,Yes,none_available
+Einstein's,1,2026-03-27,20260327,10,4,observed_sales,54,216.24,54,0,0,Yes,none_available
+Einstein's,1,2026-03-27,20260327,11,5,observed_sales,43,135.93,49,0,0,Yes,none_available
+Einstein's,1,2026-03-27,20260327,12,6,observed_sales,19,82.48,21,0,0,Yes,none_available
+Einstein's,1,2026-03-27,20260327,13,7,observed_sales,27,105.53999999999999,29,0,0,Yes,none_available
+Panda Express,2,2026-03-27,20260327,10,4,observed_sales,3,24.57,3,0,0,Yes,none_available
+Panda Express,2,2026-03-27,20260327,11,5,observed_sales,24,192.08,24,0,0,Yes,none_available
+Panda Express,2,2026-03-27,20260327,12,6,observed_sales,29,234.16,33,0,0,Yes,none_available
+Panda Express,2,2026-03-27,20260327,13,7,observed_sales,21,191.89000000000001,23,0,0,Yes,none_available
+Residential Dining,3,2026-03-27,20260327,11,5,observed_sales,4,56.32,4,0,0,Yes,none_available
+Residential Dining,3,2026-03-27,20260327,12,6,observed_sales,1,14.08,1,0,0,Yes,none_available
+Residential Dining,3,2026-03-27,20260327,13,7,observed_sales,1,14.08,1,0,0,Yes,none_available
+Residential Dining,3,2026-03-27,20260327,14,8,observed_sales,1,14.08,1,0,0,Yes,none_available
+Residential Dining,3,2026-03-27,20260327,18,12,observed_sales,1,15.66,1,0,0,Yes,none_available
+Residential Dining,3,2026-03-28,20260328,18,12,observed_sales,1,15.66,1,0,0,No,none_available
+Residential Dining,3,2026-03-29,20260329,15,9,observed_sales,1,15.66,1,0,0,No,none_available
+Residential Dining,3,2026-03-29,20260329,18,12,observed_sales,2,31.32,2,0,0,No,none_available
+Residential Dining,3,2026-03-29,20260329,19,13,observed_sales,1,15.66,1,0,0,No,none_available
+Einstein's,1,2026-03-30,20260330,8,2,observed_sales,10,23.54,12,0,0,No,none_available
+Einstein's,1,2026-03-30,20260330,9,3,observed_sales,11,64.3,11,0,0,No,none_available
+Einstein's,1,2026-03-30,20260330,10,4,observed_sales,37,127.96,37,0,0,No,none_available
+Einstein's,1,2026-03-30,20260330,11,5,observed_sales,36,153.75,38,0,0,No,none_available
+Einstein's,1,2026-03-30,20260330,12,6,observed_sales,71,367.09,71,0,0,No,none_available
+Einstein's,1,2026-03-30,20260330,13,7,observed_sales,50,151.64,50,0,0,No,none_available
+Einstein's,1,2026-04-01,20260401,8,2,observed_sales,16,60.58,20,0,0,No,none_available
+Einstein's,1,2026-04-01,20260401,9,3,observed_sales,28,132.86,28,0,0,No,none_available
+Einstein's,1,2026-04-01,20260401,10,4,observed_sales,17,78.52,17,0,0,No,none_available
+Einstein's,1,2026-04-01,20260401,11,5,observed_sales,35,135.21,39,0,0,No,none_available
+Einstein's,1,2026-04-01,20260401,12,6,observed_sales,71,308.91,71,0,0,No,none_available
+Einstein's,1,2026-04-01,20260401,13,7,observed_sales,41,206.07,43,0,0,No,none_available
+Einstein's,1,2026-04-02,20260402,8,2,observed_sales,21,83.53,21,0,0,No,none_available
+Einstein's,1,2026-04-02,20260402,9,3,observed_sales,33,129.79,35,0,0,No,none_available
+Einstein's,1,2026-04-02,20260402,10,4,observed_sales,40,194.39,42,0,0,No,none_available
+Einstein's,1,2026-04-02,20260402,11,5,observed_sales,29,146.38,31,0,0,No,none_available
+Einstein's,1,2026-04-02,20260402,12,6,observed_sales,82,376.58,82,0,0,No,none_available
+Einstein's,1,2026-04-02,20260402,13,7,observed_sales,36,117.92999999999999,36,0,0,No,none_available
+Einstein's,1,2026-04-03,20260403,8,2,observed_sales,36,136.67,36,0,0,No,none_available
+Einstein's,1,2026-04-03,20260403,9,3,observed_sales,16,80.91,16,0,0,No,none_available
+Einstein's,1,2026-04-03,20260403,10,4,observed_sales,19,87.43,19,0,0,No,none_available
+Einstein's,1,2026-04-03,20260403,11,5,observed_sales,65,262.72,69,0,0,No,none_available
+Einstein's,1,2026-04-03,20260403,12,6,observed_sales,54,243.68,56,0,0,No,none_available
+Einstein's,1,2026-04-03,20260403,13,7,observed_sales,39,177.16,39,0,0,No,none_available
+Residential Dining,3,2026-04-05,20260405,12,6,observed_zero,0,0.0,4,0,0,No,none_available
+Einstein's,1,2026-04-06,20260406,7,1,observed_sales,3,11.77,3,0,0,Yes,none_available
+Einstein's,1,2026-04-06,20260406,8,2,observed_sales,31,120.13,31,0,0,Yes,none_available
+Einstein's,1,2026-04-06,20260406,9,3,observed_sales,67,235.04,67,0,0,Yes,none_available
+Einstein's,1,2026-04-06,20260406,10,4,observed_sales,78,290.66,88,0,0,Yes,none_available
+Einstein's,1,2026-04-06,20260406,11,5,observed_sales,81,317.42,95,0,0,Yes,none_available
+Einstein's,1,2026-04-06,20260406,12,6,observed_sales,78,372.43,78,0,0,Yes,none_available
+Einstein's,1,2026-04-06,20260406,13,7,observed_sales,81,420.07,83,0,0,Yes,none_available
+Einstein's,1,2026-04-06,20260406,14,8,observed_sales,36,144.73,36,0,0,Yes,none_available
+Einstein's,1,2026-04-06,20260406,15,9,observed_sales,61,241.41,65,0,0,Yes,none_available
+Einstein's,1,2026-04-06,20260406,16,10,observed_sales,32,123.8,38,0,0,Yes,none_available
+Einstein's,1,2026-04-06,20260406,17,11,observed_sales,8,35.29,10,0,0,Yes,none_available
+Panda Express,2,2026-04-06,20260406,11,5,observed_sales,49,395.06,49,0,0,Yes,none_available
+Panda Express,2,2026-04-06,20260406,12,6,observed_sales,84,681.45,84,0,0,Yes,none_available
+Panda Express,2,2026-04-06,20260406,13,7,observed_sales,59,484.45,59,0,0,Yes,none_available
+Panda Express,2,2026-04-06,20260406,14,8,observed_sales,24,235.57,24,0,0,Yes,none_available
+Panda Express,2,2026-04-06,20260406,15,9,observed_sales,40,297.17,40,0,0,Yes,none_available
+Residential Dining,3,2026-04-06,20260406,7,1,observed_sales,1,9.25,1,0,0,Yes,none_available
+Residential Dining,3,2026-04-06,20260406,8,2,observed_sales,2,18.5,2,0,0,Yes,none_available
+Residential Dining,3,2026-04-06,20260406,9,3,observed_sales,8,74.0,1,0,0,Yes,none_available
+Residential Dining,3,2026-04-06,20260406,10,4,observed_sales,1,14.08,1,0,0,Yes,none_available
+Residential Dining,3,2026-04-06,20260406,11,5,observed_sales,3,42.24,3,0,0,Yes,none_available
+Residential Dining,3,2026-04-06,20260406,12,6,observed_sales,12,168.96,12,0,0,Yes,none_available
+Residential Dining,3,2026-04-06,20260406,13,7,observed_sales,4,56.32,4,0,0,Yes,none_available
+Residential Dining,3,2026-04-06,20260406,16,10,observed_sales,1,15.66,1,0,0,Yes,none_available
+Residential Dining,3,2026-04-06,20260406,17,11,observed_sales,2,31.32,2,0,0,Yes,none_available
+Einstein's,1,2026-04-07,20260407,7,1,observed_sales,13,44.35,13,0,0,Yes,none_available
+Einstein's,1,2026-04-07,20260407,8,2,observed_sales,25,125.56,29,0,0,Yes,none_available
+Einstein's,1,2026-04-07,20260407,9,3,observed_sales,100,378.55,104,0,0,Yes,none_available
+Einstein's,1,2026-04-07,20260407,10,4,observed_sales,106,486.89,108,0,0,Yes,none_available
+Einstein's,1,2026-04-07,20260407,11,5,observed_sales,56,264.71999999999997,58,0,0,Yes,none_available
+Einstein's,1,2026-04-07,20260407,12,6,observed_sales,117,517.36,133,0,0,Yes,none_available
+Einstein's,1,2026-04-07,20260407,13,7,observed_sales,44,234.05,44,0,0,Yes,none_available
+Einstein's,1,2026-04-07,20260407,14,8,observed_sales,63,253.73,65,0,0,Yes,none_available
+Einstein's,1,2026-04-07,20260407,15,9,observed_sales,32,136.61,34,0,0,Yes,none_available
+Einstein's,1,2026-04-07,20260407,16,10,observed_sales,29,122.67,29,0,0,Yes,none_available
+Einstein's,1,2026-04-07,20260407,17,11,observed_sales,13,58.24,13,0,0,Yes,none_available
+Panda Express,2,2026-04-07,20260407,11,5,observed_sales,45,395.51,47,0,0,Yes,none_available
+Panda Express,2,2026-04-07,20260407,12,6,observed_sales,82,650.57,82,0,0,Yes,none_available
+Panda Express,2,2026-04-07,20260407,13,7,observed_sales,69,507.35,69,0,0,Yes,none_available
+Panda Express,2,2026-04-07,20260407,14,8,observed_sales,28,228.54000000000002,28,0,0,Yes,none_available
+Panda Express,2,2026-04-07,20260407,15,9,observed_sales,24,202.08,24,0,0,Yes,none_available
+Residential Dining,3,2026-04-07,20260407,7,1,observed_sales,1,9.25,1,0,0,Yes,none_available
+Residential Dining,3,2026-04-07,20260407,10,4,observed_sales,3,42.24,3,0,0,Yes,none_available
+Residential Dining,3,2026-04-07,20260407,11,5,observed_sales,26,366.08000000000004,6,0,0,Yes,none_available
+Residential Dining,3,2026-04-07,20260407,12,6,observed_sales,1,14.08,1,0,0,Yes,none_available
+Residential Dining,3,2026-04-07,20260407,13,7,observed_sales,2,28.16,2,0,0,Yes,none_available
+Residential Dining,3,2026-04-07,20260407,15,9,observed_sales,1,15.66,1,0,0,Yes,none_available
+Residential Dining,3,2026-04-07,20260407,16,10,observed_sales,1,15.66,1,0,0,Yes,none_available
+Residential Dining,3,2026-04-07,20260407,17,11,observed_sales,2,31.32,2,0,0,Yes,none_available
+Residential Dining,3,2026-04-07,20260407,18,12,observed_sales,2,31.32,2,0,0,Yes,none_available
+Residential Dining,3,2026-04-07,20260407,19,13,observed_sales,1,15.66,1,0,0,Yes,none_available
+Einstein's,1,2026-04-08,20260408,7,1,observed_sales,11,44.96,11,0,0,Yes,none_available
+Einstein's,1,2026-04-08,20260408,8,2,observed_sales,51,205.48,51,0,0,Yes,none_available
+Einstein's,1,2026-04-08,20260408,9,3,observed_sales,76,310.46,82,0,0,Yes,none_available
+Einstein's,1,2026-04-08,20260408,10,4,observed_sales,111,399.26,113,0,0,Yes,none_available
+Einstein's,1,2026-04-08,20260408,11,5,observed_sales,94,425.99,98,0,0,Yes,none_available
+Einstein's,1,2026-04-08,20260408,12,6,observed_sales,99,485.25,103,0,0,Yes,none_available
+Einstein's,1,2026-04-08,20260408,13,7,observed_sales,87,318.82,101,0,0,Yes,none_available
+Einstein's,1,2026-04-08,20260408,14,8,observed_sales,51,222.22,59,0,0,Yes,none_available
+Einstein's,1,2026-04-08,20260408,15,9,observed_sales,62,201.49,62,0,0,Yes,none_available
+Einstein's,1,2026-04-08,20260408,16,10,observed_sales,33,147.53,35,0,0,Yes,none_available
+Einstein's,1,2026-04-08,20260408,17,11,observed_sales,11,24.13,11,0,0,Yes,none_available
+Panda Express,2,2026-04-08,20260408,10,4,observed_sales,2,14.780000000000001,2,0,0,Yes,none_available
+Panda Express,2,2026-04-08,20260408,11,5,observed_sales,60,472.41,60,0,0,Yes,none_available
+Panda Express,2,2026-04-08,20260408,12,6,observed_sales,80,699.71,80,0,0,Yes,none_available
+Panda Express,2,2026-04-08,20260408,13,7,observed_sales,80,646.78,84,0,0,Yes,none_available
+Panda Express,2,2026-04-08,20260408,14,8,observed_sales,36,290.97,36,0,0,Yes,none_available
+Panda Express,2,2026-04-08,20260408,15,9,observed_sales,40,321.43,40,0,0,Yes,none_available
+Panda Express,2,2026-04-08,20260408,16,10,observed_sales,2,16.28,2,0,0,Yes,none_available
+Residential Dining,3,2026-04-08,20260408,8,2,observed_sales,3,27.75,3,0,0,Yes,none_available
+Residential Dining,3,2026-04-08,20260408,9,3,observed_sales,1,9.25,1,0,0,Yes,none_available
+Residential Dining,3,2026-04-08,20260408,10,4,observed_sales,3,42.24,3,0,0,Yes,none_available
+Residential Dining,3,2026-04-08,20260408,11,5,observed_sales,39,549.12,15,0,0,Yes,none_available
+Residential Dining,3,2026-04-08,20260408,12,6,observed_sales,14,197.12,14,0,0,Yes,none_available
+Residential Dining,3,2026-04-08,20260408,13,7,observed_sales,2,28.16,2,0,0,Yes,none_available
+Residential Dining,3,2026-04-08,20260408,17,11,observed_sales,1,15.66,1,0,0,Yes,none_available
+Residential Dining,3,2026-04-08,20260408,18,12,observed_sales,4,62.64,4,0,0,Yes,none_available
+Einstein's,1,2026-04-09,20260409,7,1,observed_sales,5,12.32,7,0,0,Yes,none_available
+Einstein's,1,2026-04-09,20260409,8,2,observed_sales,67,248.42000000000002,75,0,0,Yes,none_available
+Einstein's,1,2026-04-09,20260409,9,3,observed_sales,79,327.34000000000003,83,0,0,Yes,none_available
+Einstein's,1,2026-04-09,20260409,10,4,observed_sales,55,241.0,57,0,0,Yes,none_available
+Einstein's,1,2026-04-09,20260409,11,5,observed_sales,76,258.54,80,0,0,Yes,none_available
+Einstein's,1,2026-04-09,20260409,12,6,observed_sales,91,430.76,101,0,0,Yes,none_available
+Einstein's,1,2026-04-09,20260409,13,7,observed_sales,56,209.2,56,0,0,Yes,none_available
+Einstein's,1,2026-04-09,20260409,14,8,observed_sales,67,263.40999999999997,67,0,0,Yes,none_available
+Einstein's,1,2026-04-09,20260409,15,9,observed_sales,47,199.46,51,0,0,Yes,none_available
+Einstein's,1,2026-04-09,20260409,16,10,observed_sales,43,148.37,49,0,0,Yes,none_available
+Einstein's,1,2026-04-09,20260409,17,11,observed_sales,26,100.0,26,0,0,Yes,none_available
+Panda Express,2,2026-04-09,20260409,11,5,observed_sales,48,395.48,50,0,0,Yes,none_available
+Panda Express,2,2026-04-09,20260409,12,6,observed_sales,99,839.72,99,0,0,Yes,none_available
+Panda Express,2,2026-04-09,20260409,13,7,observed_sales,50,417.34000000000003,56,0,0,Yes,none_available
+Panda Express,2,2026-04-09,20260409,14,8,observed_sales,38,322.23,38,0,0,Yes,none_available
+Panda Express,2,2026-04-09,20260409,15,9,observed_sales,22,180.62,22,0,0,Yes,none_available
+Residential Dining,3,2026-04-09,20260409,7,1,observed_sales,1,9.25,1,0,0,Yes,none_available
+Residential Dining,3,2026-04-09,20260409,8,2,observed_sales,6,55.5,1,0,0,Yes,none_available
+Residential Dining,3,2026-04-09,20260409,9,3,observed_sales,3,27.75,3,0,0,Yes,none_available
+Residential Dining,3,2026-04-09,20260409,10,4,observed_sales,1,14.08,1,0,0,Yes,none_available
+Residential Dining,3,2026-04-09,20260409,11,5,observed_sales,6,84.48,6,0,0,Yes,none_available
+Residential Dining,3,2026-04-09,20260409,12,6,observed_sales,4,56.32,4,0,0,Yes,none_available
+Residential Dining,3,2026-04-09,20260409,13,7,observed_sales,1,14.08,1,0,0,Yes,none_available
+Residential Dining,3,2026-04-09,20260409,16,10,observed_sales,1,15.66,1,0,0,Yes,none_available
+Residential Dining,3,2026-04-09,20260409,17,11,observed_sales,5,78.3,5,0,0,Yes,none_available
+Residential Dining,3,2026-04-09,20260409,18,12,observed_sales,2,31.32,2,0,0,Yes,none_available
+Residential Dining,3,2026-04-09,20260409,19,13,observed_sales,1,15.66,1,0,0,Yes,none_available
+Einstein's,1,2026-04-10,20260410,7,1,observed_sales,6,19.71,6,0,0,Yes,none_available
+Einstein's,1,2026-04-10,20260410,8,2,observed_sales,27,95.39,29,0,0,Yes,none_available
+Einstein's,1,2026-04-10,20260410,9,3,observed_sales,17,74.33,19,0,0,Yes,none_available
+Einstein's,1,2026-04-10,20260410,10,4,observed_sales,23,133.77,27,0,0,Yes,none_available
+Einstein's,1,2026-04-10,20260410,11,5,observed_sales,27,125.17,29,0,0,Yes,none_available
+Einstein's,1,2026-04-10,20260410,12,6,observed_sales,46,178.74,46,0,0,Yes,none_available
+Einstein's,1,2026-04-10,20260410,13,7,observed_sales,26,90.65,26,0,0,Yes,none_available
+Einstein's,1,2026-04-10,20260410,14,8,observed_sales,15,96.32,15,0,0,Yes,none_available
+Einstein's,1,2026-04-10,20260410,15,9,observed_sales,11,64.49,11,0,0,Yes,none_available
+Panda Express,2,2026-04-10,20260410,10,4,observed_sales,1,11.89,1,0,0,Yes,none_available
+Panda Express,2,2026-04-10,20260410,11,5,observed_sales,34,283.91,34,0,0,Yes,none_available
+Panda Express,2,2026-04-10,20260410,12,6,observed_sales,49,355.99,49,0,0,Yes,none_available
+Panda Express,2,2026-04-10,20260410,13,7,observed_sales,29,236.74,31,0,0,Yes,none_available
+Panda Express,2,2026-04-10,20260410,14,8,observed_sales,2,12.98,2,0,0,Yes,none_available
+Residential Dining,3,2026-04-10,20260410,8,2,observed_sales,1,9.25,1,0,0,Yes,none_available
+Residential Dining,3,2026-04-10,20260410,9,3,observed_sales,1,9.25,1,0,0,Yes,none_available
+Residential Dining,3,2026-04-10,20260410,10,4,observed_sales,1,14.08,1,0,0,Yes,none_available
+Residential Dining,3,2026-04-10,20260410,11,5,observed_sales,1,14.08,1,0,0,Yes,none_available
+Residential Dining,3,2026-04-10,20260410,12,6,observed_sales,2,28.16,2,0,0,Yes,none_available
+Residential Dining,3,2026-04-10,20260410,13,7,observed_sales,5,70.4,5,0,0,Yes,none_available
+Residential Dining,3,2026-04-10,20260410,17,11,observed_sales,3,46.980000000000004,3,0,0,Yes,none_available
+Residential Dining,3,2026-04-10,20260410,18,12,observed_sales,1,15.66,1,0,0,Yes,none_available
+Residential Dining,3,2026-04-11,20260411,17,11,observed_sales,1,15.66,1,0,0,No,none_available
+Residential Dining,3,2026-04-11,20260411,18,12,observed_sales,3,46.980000000000004,3,0,0,No,none_available
+Residential Dining,3,2026-04-12,20260412,17,11,observed_sales,3,46.980000000000004,3,0,0,No,none_available
+Residential Dining,3,2026-04-12,20260412,18,12,observed_sales,2,31.32,2,0,0,No,none_available
+Einstein's,1,2026-04-13,20260413,7,1,observed_sales,13,66.17,13,0,0,Yes,none_available
+Einstein's,1,2026-04-13,20260413,8,2,observed_sales,37,142.14,37,0,0,Yes,none_available
+Einstein's,1,2026-04-13,20260413,9,3,observed_sales,91,335.22,93,0,0,Yes,none_available
+Einstein's,1,2026-04-13,20260413,10,4,observed_sales,74,337.14,74,0,0,Yes,none_available
+Einstein's,1,2026-04-13,20260413,11,5,observed_sales,64,331.08,68,0,0,Yes,none_available
+Einstein's,1,2026-04-13,20260413,12,6,observed_sales,88,417.28,96,0,0,Yes,none_available
+Einstein's,1,2026-04-13,20260413,13,7,observed_sales,88,363.28,90,0,0,Yes,none_available
+Einstein's,1,2026-04-13,20260413,14,8,observed_sales,25,109.03999999999999,25,0,0,Yes,none_available
+Einstein's,1,2026-04-13,20260413,15,9,observed_sales,33,158.16,33,0,0,Yes,none_available
+Einstein's,1,2026-04-13,20260413,16,10,observed_sales,23,83.22,31,0,0,Yes,none_available
+Einstein's,1,2026-04-13,20260413,17,11,observed_sales,18,52.87,20,0,0,Yes,none_available
+Panda Express,2,2026-04-13,20260413,11,5,observed_sales,59,480.37,63,0,0,Yes,none_available
+Panda Express,2,2026-04-13,20260413,12,6,observed_sales,84,632.7,84,0,0,Yes,none_available
+Panda Express,2,2026-04-13,20260413,13,7,observed_sales,55,460.63,57,0,0,Yes,none_available
+Panda Express,2,2026-04-13,20260413,14,8,observed_sales,31,286.33,31,0,0,Yes,none_available
+Panda Express,2,2026-04-13,20260413,15,9,observed_sales,33,297.1,35,0,0,Yes,none_available
+Residential Dining,3,2026-04-13,20260413,8,2,observed_sales,7,64.75,4,0,0,Yes,none_available
+Residential Dining,3,2026-04-13,20260413,9,3,observed_sales,2,18.5,2,0,0,Yes,none_available
+Residential Dining,3,2026-04-13,20260413,10,4,observed_sales,1,14.08,1,0,0,Yes,none_available
+Residential Dining,3,2026-04-13,20260413,11,5,observed_sales,4,56.32,4,0,0,Yes,none_available
+Residential Dining,3,2026-04-13,20260413,12,6,observed_sales,7,98.56,7,0,0,Yes,none_available
+Residential Dining,3,2026-04-13,20260413,13,7,observed_sales,1,14.08,1,0,0,Yes,none_available
+Residential Dining,3,2026-04-13,20260413,17,11,observed_sales,2,31.32,2,0,0,Yes,none_available
+Residential Dining,3,2026-04-13,20260413,18,12,observed_sales,3,46.980000000000004,3,0,0,Yes,none_available
+Einstein's,1,2026-04-14,20260414,7,1,observed_sales,6,17.11,6,0,0,Yes,none_available
+Einstein's,1,2026-04-14,20260414,8,2,observed_sales,46,211.35,50,0,0,Yes,none_available
+Einstein's,1,2026-04-14,20260414,9,3,observed_sales,83,343.1,89,0,0,Yes,none_available
+Einstein's,1,2026-04-14,20260414,10,4,observed_sales,73,344.37,73,0,0,Yes,none_available
+Einstein's,1,2026-04-14,20260414,11,5,observed_sales,68,392.24,70,0,0,Yes,none_available
+Einstein's,1,2026-04-14,20260414,12,6,observed_sales,94,449.77,94,0,0,Yes,none_available
+Einstein's,1,2026-04-14,20260414,13,7,observed_sales,48,245.11,52,0,0,Yes,none_available
+Einstein's,1,2026-04-14,20260414,14,8,observed_sales,54,250.44,54,0,0,Yes,none_available
+Einstein's,1,2026-04-14,20260414,15,9,observed_sales,42,161.88,44,0,0,Yes,none_available
+Einstein's,1,2026-04-14,20260414,16,10,observed_sales,49,187.41,51,0,0,Yes,none_available
+Einstein's,1,2026-04-14,20260414,17,11,observed_sales,11,52.4,11,0,0,Yes,none_available
+Panda Express,2,2026-04-14,20260414,11,5,observed_sales,42,350.02,42,0,0,Yes,none_available
+Panda Express,2,2026-04-14,20260414,12,6,observed_sales,80,663.59,80,0,0,Yes,none_available
+Panda Express,2,2026-04-14,20260414,13,7,observed_sales,54,450.64,54,0,0,Yes,none_available
+Panda Express,2,2026-04-14,20260414,14,8,observed_sales,39,373.03000000000003,41,0,0,Yes,none_available
+Panda Express,2,2026-04-14,20260414,15,9,observed_sales,18,159.54000000000002,18,0,0,Yes,none_available
+Residential Dining,3,2026-04-14,20260414,9,3,observed_sales,1,9.25,1,0,0,Yes,none_available
+Residential Dining,3,2026-04-14,20260414,10,4,observed_sales,3,42.24,3,0,0,Yes,none_available
+Residential Dining,3,2026-04-14,20260414,11,5,observed_sales,1,14.08,1,0,0,Yes,none_available
+Residential Dining,3,2026-04-14,20260414,16,10,observed_sales,2,31.32,2,0,0,Yes,none_available
+Residential Dining,3,2026-04-14,20260414,17,11,observed_sales,2,31.32,2,0,0,Yes,none_available
+Residential Dining,3,2026-04-14,20260414,18,12,observed_sales,2,31.32,2,0,0,Yes,none_available
+Einstein's,1,2026-04-15,20260415,7,1,observed_sales,7,41.93,7,0,0,Yes,none_available
+Einstein's,1,2026-04-15,20260415,8,2,observed_sales,42,167.36,44,0,0,Yes,none_available
+Einstein's,1,2026-04-15,20260415,9,3,observed_sales,87,332.13,87,0,0,Yes,none_available
+Einstein's,1,2026-04-15,20260415,10,4,observed_sales,108,406.93,116,0,0,Yes,none_available
+Einstein's,1,2026-04-15,20260415,11,5,observed_sales,79,346.45,83,0,0,Yes,none_available
+Einstein's,1,2026-04-15,20260415,12,6,observed_sales,76,370.45,84,0,0,Yes,none_available
+Einstein's,1,2026-04-15,20260415,13,7,observed_sales,71,259.71,73,0,0,Yes,none_available
+Einstein's,1,2026-04-15,20260415,14,8,observed_sales,62,199.96,74,0,0,Yes,none_available
+Einstein's,1,2026-04-15,20260415,15,9,observed_sales,44,171.68,44,0,0,Yes,none_available
+Einstein's,1,2026-04-15,20260415,16,10,observed_sales,34,114.19,34,0,0,Yes,none_available
+Einstein's,1,2026-04-15,20260415,17,11,observed_sales,5,29.95,5,0,0,Yes,none_available
+Panda Express,2,2026-04-15,20260415,11,5,observed_sales,59,473.89,61,0,0,Yes,none_available
+Panda Express,2,2026-04-15,20260415,12,6,observed_sales,74,649.38,80,0,0,Yes,none_available
+Panda Express,2,2026-04-15,20260415,13,7,observed_sales,59,480.67,59,0,0,Yes,none_available
+Panda Express,2,2026-04-15,20260415,14,8,observed_sales,46,346.1,46,0,0,Yes,none_available
+Panda Express,2,2026-04-15,20260415,15,9,observed_sales,28,244.33,28,0,0,Yes,none_available
+Residential Dining,3,2026-04-15,20260415,8,2,observed_sales,1,9.25,1,0,0,Yes,none_available
+Residential Dining,3,2026-04-15,20260415,9,3,observed_sales,1,9.25,1,0,0,Yes,none_available
+Residential Dining,3,2026-04-15,20260415,10,4,observed_sales,2,28.16,2,0,0,Yes,none_available
+Residential Dining,3,2026-04-15,20260415,11,5,observed_sales,6,84.48,6,0,0,Yes,none_available
+Residential Dining,3,2026-04-15,20260415,12,6,observed_sales,22,309.76,10,0,0,Yes,none_available
+Residential Dining,3,2026-04-15,20260415,13,7,observed_sales,2,29.740000000000002,2,0,0,Yes,none_available
+Residential Dining,3,2026-04-15,20260415,17,11,observed_sales,1,15.66,1,0,0,Yes,none_available
+Einstein's,1,2026-04-16,20260416,7,1,observed_sales,3,15.27,3,0,0,Yes,none_available
+Einstein's,1,2026-04-16,20260416,8,2,observed_sales,36,144.78,42,0,0,Yes,none_available
+Einstein's,1,2026-04-16,20260416,9,3,observed_sales,65,306.32,67,0,0,Yes,none_available
+Einstein's,1,2026-04-16,20260416,10,4,observed_sales,79,375.69,83,0,0,Yes,none_available
+Einstein's,1,2026-04-16,20260416,11,5,observed_sales,71,317.82,77,0,0,Yes,none_available
+Einstein's,1,2026-04-16,20260416,12,6,observed_sales,118,508.19,126,0,0,Yes,none_available
+Einstein's,1,2026-04-16,20260416,13,7,observed_sales,71,255.68,73,0,0,Yes,none_available
+Einstein's,1,2026-04-16,20260416,14,8,observed_sales,30,155.95,30,0,0,Yes,none_available
+Einstein's,1,2026-04-16,20260416,15,9,observed_sales,43,164.12,43,0,0,Yes,none_available
+Einstein's,1,2026-04-16,20260416,16,10,observed_sales,52,156.62,56,0,0,Yes,none_available
+Einstein's,1,2026-04-16,20260416,17,11,observed_sales,13,53.24,13,0,0,Yes,none_available
+Panda Express,2,2026-04-16,20260416,10,4,observed_sales,1,11.89,1,0,0,Yes,none_available
+Panda Express,2,2026-04-16,20260416,11,5,observed_sales,49,401.8,49,0,0,Yes,none_available
+Panda Express,2,2026-04-16,20260416,12,6,observed_sales,95,821.98,97,0,0,Yes,none_available
+Panda Express,2,2026-04-16,20260416,13,7,observed_sales,46,386.48,48,0,0,Yes,none_available
+Panda Express,2,2026-04-16,20260416,14,8,observed_sales,32,284.79,34,0,0,Yes,none_available
+Panda Express,2,2026-04-16,20260416,15,9,observed_sales,25,199.38,25,0,0,Yes,none_available
+Panda Express,2,2026-04-16,20260416,16,10,observed_sales,1,10.09,1,0,0,Yes,none_available
+Residential Dining,3,2026-04-16,20260416,8,2,observed_sales,4,37.0,1,0,0,Yes,none_available
+Residential Dining,3,2026-04-16,20260416,10,4,observed_sales,3,42.24,3,0,0,Yes,none_available
+Residential Dining,3,2026-04-16,20260416,11,5,observed_sales,10,140.8,10,0,0,Yes,none_available
+Residential Dining,3,2026-04-16,20260416,13,7,observed_sales,2,28.16,2,0,0,Yes,none_available
+Residential Dining,3,2026-04-16,20260416,17,11,observed_sales,2,31.32,2,0,0,Yes,none_available
+Einstein's,1,2026-04-17,20260417,7,1,observed_sales,6,12.01,6,0,0,Yes,none_available
+Einstein's,1,2026-04-17,20260417,8,2,observed_sales,26,105.49,28,0,0,Yes,none_available
+Einstein's,1,2026-04-17,20260417,9,3,observed_sales,25,121.39,25,0,0,Yes,none_available
+Einstein's,1,2026-04-17,20260417,10,4,observed_sales,29,132.09,29,0,0,Yes,none_available
+Einstein's,1,2026-04-17,20260417,11,5,observed_sales,67,294.42,69,0,0,Yes,none_available
+Einstein's,1,2026-04-17,20260417,12,6,observed_sales,53,207.17,53,0,0,Yes,none_available
+Einstein's,1,2026-04-17,20260417,13,7,observed_sales,39,146.16,39,0,0,Yes,none_available
+Einstein's,1,2026-04-17,20260417,14,8,observed_sales,6,39.14,6,0,0,Yes,none_available
+Einstein's,1,2026-04-17,20260417,15,9,observed_sales,27,58.22,27,0,0,Yes,none_available
+Panda Express,2,2026-04-17,20260417,10,4,observed_sales,3,24.57,3,0,0,Yes,none_available
+Panda Express,2,2026-04-17,20260417,11,5,observed_sales,35,290.2,37,0,0,Yes,none_available
+Panda Express,2,2026-04-17,20260417,12,6,observed_sales,37,330.23,39,0,0,Yes,none_available
+Panda Express,2,2026-04-17,20260417,13,7,observed_sales,43,350.5,45,0,0,Yes,none_available
+Panda Express,2,2026-04-17,20260417,14,8,observed_sales,13,103.68,13,0,0,Yes,none_available
+Residential Dining,3,2026-04-17,20260417,7,1,observed_sales,1,9.25,1,0,0,Yes,none_available
+Residential Dining,3,2026-04-17,20260417,8,2,observed_sales,1,9.25,1,0,0,Yes,none_available
+Residential Dining,3,2026-04-17,20260417,11,5,observed_sales,1,14.08,1,0,0,Yes,none_available
+Residential Dining,3,2026-04-17,20260417,12,6,observed_sales,4,56.32,4,0,0,Yes,none_available
+Residential Dining,3,2026-04-17,20260417,13,7,observed_sales,4,56.32,4,0,0,Yes,none_available
+Residential Dining,3,2026-04-17,20260417,16,10,observed_sales,1,15.66,1,0,0,Yes,none_available
+Residential Dining,3,2026-04-17,20260417,17,11,observed_sales,1,15.66,1,0,0,Yes,none_available
+Residential Dining,3,2026-04-17,20260417,18,12,observed_sales,1,15.66,1,0,0,Yes,none_available
+Residential Dining,3,2026-04-18,20260418,13,7,observed_sales,1,14.08,1,0,0,No,none_available
+Residential Dining,3,2026-04-19,20260419,12,6,observed_sales,1,14.08,1,0,0,No,none_available
+Residential Dining,3,2026-04-19,20260419,16,10,observed_sales,1,15.66,1,0,0,No,none_available
+Residential Dining,3,2026-04-19,20260419,18,12,observed_sales,1,15.66,1,0,0,No,none_available
+Einstein's,1,2026-04-20,20260420,7,1,observed_sales,11,33.57,11,0,0,Yes,none_available
+Einstein's,1,2026-04-20,20260420,8,2,observed_sales,29,115.42,29,0,0,Yes,none_available
+Einstein's,1,2026-04-20,20260420,9,3,observed_sales,70,291.5,76,0,0,Yes,none_available
+Einstein's,1,2026-04-20,20260420,10,4,observed_sales,87,418.95,89,0,0,Yes,none_available
+Einstein's,1,2026-04-20,20260420,11,5,observed_sales,83,350.6,85,0,0,Yes,none_available
+Einstein's,1,2026-04-20,20260420,12,6,observed_sales,78,421.53,86,0,0,Yes,none_available
+Einstein's,1,2026-04-20,20260420,13,7,observed_sales,72,269.4,76,0,0,Yes,none_available
+Einstein's,1,2026-04-20,20260420,14,8,observed_sales,26,96.2,30,0,0,Yes,none_available
+Einstein's,1,2026-04-20,20260420,15,9,observed_sales,38,147.51,38,0,0,Yes,none_available
+Einstein's,1,2026-04-20,20260420,16,10,observed_sales,20,92.74,20,0,0,Yes,none_available
+Einstein's,1,2026-04-20,20260420,17,11,observed_sales,20,83.34,20,0,0,Yes,none_available
+Panda Express,2,2026-04-20,20260420,11,5,observed_sales,50,416.29,50,0,0,Yes,none_available
+Panda Express,2,2026-04-20,20260420,12,6,observed_sales,77,638.73,77,0,0,Yes,none_available
+Panda Express,2,2026-04-20,20260420,13,7,observed_sales,70,588.09,70,0,0,Yes,none_available
+Panda Express,2,2026-04-20,20260420,14,8,observed_sales,48,415.06,48,0,0,Yes,none_available
+Panda Express,2,2026-04-20,20260420,15,9,observed_sales,17,151.55,17,0,0,Yes,none_available
+Residential Dining,3,2026-04-20,20260420,7,1,observed_sales,1,9.25,1,0,0,Yes,none_available
+Residential Dining,3,2026-04-20,20260420,8,2,observed_sales,1,9.25,1,0,0,Yes,none_available
+Residential Dining,3,2026-04-20,20260420,9,3,observed_sales,1,9.25,1,0,0,Yes,none_available
+Residential Dining,3,2026-04-20,20260420,11,5,observed_sales,4,56.32,4,0,0,Yes,none_available
+Residential Dining,3,2026-04-20,20260420,12,6,observed_sales,13,183.04,13,0,0,Yes,none_available
+Residential Dining,3,2026-04-20,20260420,13,7,observed_sales,5,70.4,5,0,0,Yes,none_available
+Einstein's,1,2026-04-21,20260421,7,1,observed_sales,4,14.86,4,0,0,Yes,none_available
+Einstein's,1,2026-04-21,20260421,8,2,observed_sales,93,433.75,93,0,0,Yes,none_available
+Einstein's,1,2026-04-21,20260421,9,3,observed_sales,84,357.2,92,0,0,Yes,none_available
+Einstein's,1,2026-04-21,20260421,10,4,observed_sales,114,633.01,124,0,0,Yes,none_available
+Einstein's,1,2026-04-21,20260421,11,5,observed_sales,69,275.93,69,0,0,Yes,none_available
+Einstein's,1,2026-04-21,20260421,12,6,observed_sales,112,515.14,118,0,0,Yes,none_available
+Einstein's,1,2026-04-21,20260421,13,7,observed_sales,79,301.35,87,0,0,Yes,none_available
+Einstein's,1,2026-04-21,20260421,14,8,observed_sales,63,257.36,63,0,0,Yes,none_available
+Einstein's,1,2026-04-21,20260421,15,9,observed_sales,52,235.99,52,0,0,Yes,none_available
+Einstein's,1,2026-04-21,20260421,16,10,observed_sales,19,64.82,19,0,0,Yes,none_available
+Einstein's,1,2026-04-21,20260421,17,11,observed_sales,15,41.5,15,0,0,Yes,none_available
+Panda Express,2,2026-04-21,20260421,11,5,observed_sales,52,421.67,52,0,0,Yes,none_available
+Panda Express,2,2026-04-21,20260421,12,6,observed_sales,81,655.19,87,0,0,Yes,none_available
+Panda Express,2,2026-04-21,20260421,13,7,observed_sales,56,409.3,58,0,0,Yes,none_available
+Panda Express,2,2026-04-21,20260421,14,8,observed_sales,16,145.05,16,0,0,Yes,none_available
+Panda Express,2,2026-04-21,20260421,15,9,observed_sales,24,214.08,24,0,0,Yes,none_available
+Residential Dining,3,2026-04-21,20260421,11,5,observed_sales,7,98.56,7,0,0,Yes,none_available
+Residential Dining,3,2026-04-21,20260421,12,6,observed_sales,1,14.08,1,0,0,Yes,none_available
+Einstein's,1,2026-04-22,20260422,7,1,observed_sales,22,57.61,24,0,0,Yes,none_available
+Einstein's,1,2026-04-22,20260422,8,2,observed_sales,10,33.07,10,0,0,Yes,none_available
+Einstein's,1,2026-04-22,20260422,9,3,observed_sales,45,195.33,45,0,0,Yes,none_available
+Einstein's,1,2026-04-22,20260422,10,4,observed_sales,113,436.77,115,0,0,Yes,none_available
+Einstein's,1,2026-04-22,20260422,11,5,observed_sales,81,314.27,85,0,0,Yes,none_available
+Einstein's,1,2026-04-22,20260422,12,6,observed_sales,71,320.1,71,0,0,Yes,none_available
+Einstein's,1,2026-04-22,20260422,13,7,observed_sales,81,353.29,85,0,0,Yes,none_available
+Einstein's,1,2026-04-22,20260422,14,8,observed_sales,33,118.9,35,0,0,Yes,none_available
+Einstein's,1,2026-04-22,20260422,15,9,observed_sales,48,220.76,48,0,0,Yes,none_available
+Einstein's,1,2026-04-22,20260422,16,10,observed_sales,52,170.31,58,0,0,Yes,none_available
+Einstein's,1,2026-04-22,20260422,17,11,observed_sales,8,32.589999999999996,8,0,0,Yes,none_available
+Panda Express,2,2026-04-22,20260422,10,4,observed_sales,4,45.76,4,0,0,Yes,none_available
+Panda Express,2,2026-04-22,20260422,11,5,observed_sales,93,722.53,95,0,0,Yes,none_available
+Panda Express,2,2026-04-22,20260422,12,6,observed_sales,93,757.3100000000001,93,0,0,Yes,none_available
+Panda Express,2,2026-04-22,20260422,13,7,observed_sales,70,642.04,70,0,0,Yes,none_available
+Panda Express,2,2026-04-22,20260422,14,8,observed_sales,43,322.96000000000004,45,0,0,Yes,none_available
+Panda Express,2,2026-04-22,20260422,15,9,observed_sales,43,358.73,43,0,0,Yes,none_available
+Residential Dining,3,2026-04-22,20260422,8,2,observed_sales,6,55.5,3,0,0,Yes,none_available
+Residential Dining,3,2026-04-22,20260422,9,3,observed_sales,1,14.08,1,0,0,Yes,none_available
+Residential Dining,3,2026-04-22,20260422,11,5,observed_sales,9,126.72,9,0,0,Yes,none_available
+Residential Dining,3,2026-04-22,20260422,12,6,observed_sales,11,154.88,11,0,0,Yes,none_available
+Residential Dining,3,2026-04-22,20260422,13,7,observed_sales,2,28.16,2,0,0,Yes,none_available
+Residential Dining,3,2026-04-22,20260422,17,11,observed_sales,1,15.66,1,0,0,Yes,none_available
+Residential Dining,3,2026-04-22,20260422,19,13,observed_sales,1,15.66,1,0,0,Yes,none_available
+Einstein's,1,2026-04-23,20260423,7,1,observed_sales,16,50.69,16,0,0,Yes,none_available
+Einstein's,1,2026-04-23,20260423,8,2,observed_sales,17,59.4,17,0,0,Yes,none_available
+Einstein's,1,2026-04-23,20260423,9,3,observed_sales,55,255.28,59,0,0,Yes,none_available
+Einstein's,1,2026-04-23,20260423,10,4,observed_sales,44,200.04,50,0,0,Yes,none_available
+Einstein's,1,2026-04-23,20260423,11,5,observed_sales,51,197.11,59,0,0,Yes,none_available
+Einstein's,1,2026-04-23,20260423,12,6,observed_sales,99,452.92,99,0,0,Yes,none_available
+Einstein's,1,2026-04-23,20260423,13,7,observed_sales,56,199.97,58,0,0,Yes,none_available
+Einstein's,1,2026-04-23,20260423,14,8,observed_sales,38,196.0,40,0,0,Yes,none_available
+Einstein's,1,2026-04-23,20260423,15,9,observed_sales,49,138.11,55,0,0,Yes,none_available
+Einstein's,1,2026-04-23,20260423,16,10,observed_sales,19,75.96,19,0,0,Yes,none_available
+Einstein's,1,2026-04-23,20260423,17,11,observed_sales,7,32.73,7,0,0,Yes,none_available
+Panda Express,2,2026-04-23,20260423,11,5,observed_sales,48,389.99,48,0,0,Yes,none_available
+Panda Express,2,2026-04-23,20260423,12,6,observed_sales,88,757.77,88,0,0,Yes,none_available
+Panda Express,2,2026-04-23,20260423,13,7,observed_sales,45,338.61,45,0,0,Yes,none_available
+Panda Express,2,2026-04-23,20260423,14,8,observed_sales,32,317.40000000000003,32,0,0,Yes,none_available
+Panda Express,2,2026-04-23,20260423,15,9,observed_sales,20,170.92000000000002,20,0,0,Yes,none_available
+Residential Dining,3,2026-04-23,20260423,8,2,observed_sales,3,27.75,3,0,0,Yes,none_available
+Residential Dining,3,2026-04-23,20260423,11,5,observed_sales,8,112.64,8,0,0,Yes,none_available
+Residential Dining,3,2026-04-23,20260423,12,6,observed_sales,6,84.48,6,0,0,Yes,none_available
+Residential Dining,3,2026-04-23,20260423,17,11,observed_sales,2,31.32,2,0,0,Yes,none_available
+Einstein's,1,2026-04-24,20260424,7,1,observed_sales,9,27.5,9,0,0,Yes,none_available
+Einstein's,1,2026-04-24,20260424,8,2,observed_sales,28,135.45,32,0,0,Yes,none_available
+Einstein's,1,2026-04-24,20260424,9,3,observed_sales,25,105.92999999999999,25,0,0,Yes,none_available
+Einstein's,1,2026-04-24,20260424,10,4,observed_sales,31,96.95,31,0,0,Yes,none_available
+Einstein's,1,2026-04-24,20260424,11,5,observed_sales,49,222.36,49,0,0,Yes,none_available
+Einstein's,1,2026-04-24,20260424,12,6,observed_sales,30,124.03,30,0,0,Yes,none_available
+Einstein's,1,2026-04-24,20260424,13,7,observed_sales,41,174.32999999999998,41,0,0,Yes,none_available
+Einstein's,1,2026-04-24,20260424,14,8,observed_sales,48,198.82,48,0,0,Yes,none_available
+Einstein's,1,2026-04-24,20260424,15,9,observed_sales,23,64.02,23,0,0,Yes,none_available
+Einstein's,1,2026-04-24,20260424,16,10,observed_sales,3,2.94,3,0,0,Yes,none_available
+Panda Express,2,2026-04-24,20260424,10,4,observed_sales,10,74.9,10,0,0,Yes,none_available
+Panda Express,2,2026-04-24,20260424,11,5,observed_sales,40,327.94,40,0,0,Yes,none_available
+Panda Express,2,2026-04-24,20260424,12,6,observed_sales,68,528.11,68,0,0,Yes,none_available
+Panda Express,2,2026-04-24,20260424,13,7,observed_sales,28,246.95000000000002,32,0,0,Yes,none_available
+Panda Express,2,2026-04-24,20260424,14,8,observed_sales,7,59.53,7,0,0,Yes,none_available
+Residential Dining,3,2026-04-24,20260424,12,6,observed_sales,2,28.16,2,0,0,Yes,none_available
+Residential Dining,3,2026-04-24,20260424,13,7,observed_sales,5,70.4,5,0,0,Yes,none_available
+Residential Dining,3,2026-04-24,20260424,17,11,observed_sales,3,46.980000000000004,3,0,0,Yes,none_available
+Residential Dining,3,2026-04-25,20260425,15,9,observed_sales,1,14.08,1,0,0,No,none_available
+Residential Dining,3,2026-04-25,20260425,17,11,observed_sales,1,15.66,1,0,0,No,none_available
+Residential Dining,3,2026-04-26,20260426,10,4,observed_sales,1,9.25,3,0,0,No,none_available
+Residential Dining,3,2026-04-26,20260426,11,5,observed_sales,2,18.5,2,0,0,No,none_available
+Residential Dining,3,2026-04-26,20260426,12,6,observed_sales,1,14.08,1,0,0,No,none_available
+Residential Dining,3,2026-04-26,20260426,13,7,observed_sales,3,42.24,3,0,0,No,none_available
+Residential Dining,3,2026-04-26,20260426,17,11,observed_sales,4,62.64,4,0,0,No,none_available
+Residential Dining,3,2026-04-26,20260426,18,12,observed_sales,3,46.980000000000004,3,0,0,No,none_available
+Einstein's,1,2026-04-27,20260427,7,1,observed_sales,9,39.31,9,0,0,Yes,none_available
+Einstein's,1,2026-04-27,20260427,8,2,observed_sales,37,130.9,37,0,0,Yes,none_available
+Einstein's,1,2026-04-27,20260427,9,3,observed_sales,63,257.71,65,0,0,Yes,none_available
+Einstein's,1,2026-04-27,20260427,10,4,observed_sales,98,432.79,108,0,0,Yes,none_available
+Einstein's,1,2026-04-27,20260427,11,5,observed_sales,76,332.07,82,0,0,Yes,none_available
+Einstein's,1,2026-04-27,20260427,12,6,observed_sales,79,355.84999999999997,87,0,0,Yes,none_available
+Einstein's,1,2026-04-27,20260427,13,7,observed_sales,104,450.86,120,0,0,Yes,none_available
+Einstein's,1,2026-04-27,20260427,14,8,observed_sales,26,124.63,28,0,0,Yes,none_available
+Einstein's,1,2026-04-27,20260427,15,9,observed_sales,57,239.61,59,0,0,Yes,none_available
+Einstein's,1,2026-04-27,20260427,16,10,observed_sales,18,75.62,18,0,0,Yes,none_available
+Einstein's,1,2026-04-27,20260427,17,11,observed_sales,16,60.839999999999996,22,0,0,Yes,none_available
+Panda Express,2,2026-04-27,20260427,11,5,observed_sales,76,662.4300000000001,76,0,0,Yes,none_available
+Panda Express,2,2026-04-27,20260427,12,6,observed_sales,84,655.86,84,0,0,Yes,none_available
+Panda Express,2,2026-04-27,20260427,13,7,observed_sales,61,500.96,63,0,0,Yes,none_available
+Panda Express,2,2026-04-27,20260427,14,8,observed_sales,41,311.15000000000003,51,0,0,Yes,none_available
+Panda Express,2,2026-04-27,20260427,15,9,observed_sales,31,275.42,31,0,0,Yes,none_available
+Panda Express,2,2026-04-27,20260427,16,10,observed_sales,1,9.79,1,0,0,Yes,none_available
+Residential Dining,3,2026-04-27,20260427,7,1,observed_sales,2,18.5,2,0,0,Yes,none_available
+Residential Dining,3,2026-04-27,20260427,8,2,observed_sales,3,27.75,3,0,0,Yes,none_available
+Residential Dining,3,2026-04-27,20260427,9,3,observed_sales,2,23.33,2,0,0,Yes,none_available
+Residential Dining,3,2026-04-27,20260427,10,4,observed_sales,1,14.08,1,0,0,Yes,none_available
+Residential Dining,3,2026-04-27,20260427,11,5,observed_sales,3,42.24,3,0,0,Yes,none_available
+Residential Dining,3,2026-04-27,20260427,12,6,observed_sales,8,107.81,8,0,0,Yes,none_available
+Residential Dining,3,2026-04-27,20260427,13,7,observed_sales,5,65.57,5,0,0,Yes,none_available
+Residential Dining,3,2026-04-27,20260427,16,10,observed_sales,1,15.66,1,0,0,Yes,none_available
+Residential Dining,3,2026-04-27,20260427,17,11,observed_sales,1,15.66,1,0,0,Yes,none_available
+Residential Dining,3,2026-04-27,20260427,18,12,observed_sales,4,62.64,4,0,0,Yes,none_available
+Einstein's,1,2026-04-28,20260428,7,1,observed_sales,10,30.28,10,0,0,Yes,none_available
+Einstein's,1,2026-04-28,20260428,8,2,observed_sales,36,157.08,36,0,0,Yes,none_available
+Einstein's,1,2026-04-28,20260428,9,3,observed_sales,82,299.92,88,0,0,Yes,none_available
+Einstein's,1,2026-04-28,20260428,10,4,observed_sales,91,412.61,93,0,0,Yes,none_available
+Einstein's,1,2026-04-28,20260428,11,5,observed_sales,74,338.04,74,0,0,Yes,none_available
+Einstein's,1,2026-04-28,20260428,12,6,observed_sales,104,530.13,106,0,0,Yes,none_available
+Einstein's,1,2026-04-28,20260428,13,7,observed_sales,82,309.85,84,0,0,Yes,none_available
+Einstein's,1,2026-04-28,20260428,14,8,observed_sales,30,129.45,32,0,0,Yes,none_available
+Einstein's,1,2026-04-28,20260428,15,9,observed_sales,42,184.6,50,0,0,Yes,none_available
+Einstein's,1,2026-04-28,20260428,16,10,observed_sales,23,97.78,25,0,0,Yes,none_available
+Einstein's,1,2026-04-28,20260428,17,11,observed_sales,13,80.04,13,0,0,Yes,none_available
+Panda Express,2,2026-04-28,20260428,11,5,observed_sales,42,338.52,42,0,0,Yes,none_available
+Panda Express,2,2026-04-28,20260428,12,6,observed_sales,78,647.04,78,0,0,Yes,none_available
+Panda Express,2,2026-04-28,20260428,13,7,observed_sales,44,386.01,44,0,0,Yes,none_available
+Panda Express,2,2026-04-28,20260428,14,8,observed_sales,26,216.94,28,0,0,Yes,none_available
+Panda Express,2,2026-04-28,20260428,15,9,observed_sales,31,247.0,31,0,0,Yes,none_available
+Residential Dining,3,2026-04-28,20260428,7,1,observed_sales,1,9.25,1,0,0,Yes,none_available
+Residential Dining,3,2026-04-28,20260428,9,3,observed_sales,1,9.25,1,0,0,Yes,none_available
+Residential Dining,3,2026-04-28,20260428,10,4,observed_sales,1,14.08,1,0,0,Yes,none_available
+Residential Dining,3,2026-04-28,20260428,11,5,observed_sales,3,42.24,3,0,0,Yes,none_available
+Residential Dining,3,2026-04-28,20260428,13,7,observed_sales,3,42.24,3,0,0,Yes,none_available
+Residential Dining,3,2026-04-28,20260428,16,10,observed_sales,3,38.99,3,0,0,Yes,none_available
+Residential Dining,3,2026-04-28,20260428,17,11,observed_sales,2,31.32,2,0,0,Yes,none_available
+Einstein's,1,2026-04-29,20260429,7,1,observed_sales,12,41.95,14,0,0,Yes,none_available
+Einstein's,1,2026-04-29,20260429,8,2,observed_sales,35,137.37,39,0,0,Yes,none_available
+Einstein's,1,2026-04-29,20260429,9,3,observed_sales,72,292.69,80,0,0,Yes,none_available
+Einstein's,1,2026-04-29,20260429,10,4,observed_sales,69,332.92,73,0,0,Yes,none_available
+Einstein's,1,2026-04-29,20260429,11,5,observed_sales,71,285.65,79,0,0,Yes,none_available
+Einstein's,1,2026-04-29,20260429,12,6,observed_sales,77,309.98,85,0,0,Yes,none_available
+Einstein's,1,2026-04-29,20260429,13,7,observed_sales,77,328.01,85,0,0,Yes,none_available
+Einstein's,1,2026-04-29,20260429,14,8,observed_sales,35,145.26,35,0,0,Yes,none_available
+Einstein's,1,2026-04-29,20260429,15,9,observed_sales,83,275.8,85,0,0,Yes,none_available
+Einstein's,1,2026-04-29,20260429,16,10,observed_sales,39,134.9,41,0,0,Yes,none_available
+Einstein's,1,2026-04-29,20260429,17,11,observed_sales,9,38.58,9,0,0,Yes,none_available
+Panda Express,2,2026-04-29,20260429,11,5,observed_sales,60,503.6,60,0,0,Yes,none_available
+Panda Express,2,2026-04-29,20260429,12,6,observed_sales,87,736.51,87,0,0,Yes,none_available
+Panda Express,2,2026-04-29,20260429,13,7,observed_sales,68,539.63,68,0,0,Yes,none_available
+Panda Express,2,2026-04-29,20260429,14,8,observed_sales,39,348.05,39,0,0,Yes,none_available
+Panda Express,2,2026-04-29,20260429,15,9,observed_sales,39,307.46,39,0,0,Yes,none_available
+Residential Dining,3,2026-04-29,20260429,7,1,observed_sales,1,9.25,1,0,0,Yes,none_available
+Residential Dining,3,2026-04-29,20260429,9,3,observed_sales,1,9.25,1,0,0,Yes,none_available
+Residential Dining,3,2026-04-29,20260429,10,4,observed_sales,2,28.16,2,0,0,Yes,none_available
+Residential Dining,3,2026-04-29,20260429,11,5,observed_sales,10,140.8,10,0,0,Yes,none_available
+Residential Dining,3,2026-04-29,20260429,12,6,observed_sales,14,197.12,14,0,0,Yes,none_available
+Residential Dining,3,2026-04-29,20260429,13,7,observed_sales,2,28.16,2,0,0,Yes,none_available
+Residential Dining,3,2026-04-29,20260429,15,9,observed_sales,1,14.08,1,0,0,Yes,none_available
+Residential Dining,3,2026-04-29,20260429,17,11,observed_sales,2,31.32,2,0,0,Yes,none_available
+Residential Dining,3,2026-04-29,20260429,18,12,observed_sales,1,15.66,1,0,0,Yes,none_available
+Residential Dining,3,2026-04-29,20260429,19,13,observed_sales,1,15.66,1,0,0,Yes,none_available
+Einstein's,1,2026-04-30,20260430,7,1,observed_sales,15,41.8,15,0,0,Yes,none_available
+Einstein's,1,2026-04-30,20260430,8,2,observed_sales,28,115.27,28,0,0,Yes,none_available
+Einstein's,1,2026-04-30,20260430,9,3,observed_sales,57,268.79,63,0,0,Yes,none_available
+Einstein's,1,2026-04-30,20260430,10,4,observed_sales,90,391.76,90,0,0,Yes,none_available
+Einstein's,1,2026-04-30,20260430,11,5,observed_sales,71,376.69,71,0,0,Yes,none_available
+Einstein's,1,2026-04-30,20260430,12,6,observed_sales,123,487.05,129,0,0,Yes,none_available
+Einstein's,1,2026-04-30,20260430,13,7,observed_sales,73,271.37,79,0,0,Yes,none_available
+Einstein's,1,2026-04-30,20260430,14,8,observed_sales,80,251.74,84,0,0,Yes,none_available
+Einstein's,1,2026-04-30,20260430,15,9,observed_sales,60,184.17000000000002,60,0,0,Yes,none_available
+Einstein's,1,2026-04-30,20260430,16,10,observed_sales,32,168.53,32,0,0,Yes,none_available
+Einstein's,1,2026-04-30,20260430,17,11,observed_sales,15,68.39,17,0,0,Yes,none_available
+Panda Express,2,2026-04-30,20260430,11,5,observed_sales,45,366.29,45,0,0,Yes,none_available
+Panda Express,2,2026-04-30,20260430,12,6,observed_sales,98,884.5,98,0,0,Yes,none_available
+Panda Express,2,2026-04-30,20260430,13,7,observed_sales,73,541.5600000000001,73,0,0,Yes,none_available
+Panda Express,2,2026-04-30,20260430,14,8,observed_sales,47,362.18,49,0,0,Yes,none_available
+Panda Express,2,2026-04-30,20260430,15,9,observed_sales,29,219.35,29,0,0,Yes,none_available
+Residential Dining,3,2026-04-30,20260430,7,1,observed_sales,1,9.25,1,0,0,Yes,none_available
+Residential Dining,3,2026-04-30,20260430,8,2,observed_sales,8,74.0,3,0,0,Yes,none_available
+Residential Dining,3,2026-04-30,20260430,9,3,observed_sales,1,9.25,1,0,0,Yes,none_available
+Residential Dining,3,2026-04-30,20260430,10,4,observed_sales,4,56.32,4,0,0,Yes,none_available
+Residential Dining,3,2026-04-30,20260430,11,5,observed_sales,8,112.64,8,0,0,Yes,none_available
+Residential Dining,3,2026-04-30,20260430,17,11,observed_sales,4,62.64,4,0,0,Yes,none_available
+Residential Dining,3,2026-04-30,20260430,18,12,observed_sales,1,15.66,1,0,0,Yes,none_available
+Residential Dining,3,2026-04-30,20260430,19,13,observed_sales,1,15.66,1,0,0,Yes,none_available
+Einstein's,1,2026-05-01,20260501,7,1,observed_sales,8,32.69,8,0,0,Yes,none_available
+Einstein's,1,2026-05-01,20260501,8,2,observed_sales,42,174.11,44,0,0,Yes,none_available
+Einstein's,1,2026-05-01,20260501,9,3,observed_sales,51,188.74,51,0,0,Yes,none_available
+Einstein's,1,2026-05-01,20260501,10,4,observed_sales,34,184.28,36,0,0,Yes,none_available
+Einstein's,1,2026-05-01,20260501,11,5,observed_sales,20,114.67,20,0,0,Yes,none_available
+Einstein's,1,2026-05-01,20260501,12,6,observed_sales,38,149.18,38,0,0,Yes,none_available
+Einstein's,1,2026-05-01,20260501,13,7,observed_sales,43,179.39,43,0,0,Yes,none_available
+Einstein's,1,2026-05-01,20260501,14,8,observed_sales,9,37.480000000000004,11,0,0,Yes,none_available
+Einstein's,1,2026-05-01,20260501,15,9,observed_sales,27,98.85,27,0,0,Yes,none_available
+Panda Express,2,2026-05-01,20260501,11,5,observed_sales,20,176.51,20,0,0,Yes,none_available
+Panda Express,2,2026-05-01,20260501,12,6,observed_sales,51,431.45,51,0,0,Yes,none_available
+Panda Express,2,2026-05-01,20260501,13,7,observed_sales,35,287.58,35,0,0,Yes,none_available
+Residential Dining,3,2026-05-01,20260501,7,1,observed_sales,3,27.75,3,0,0,Yes,none_available
+Residential Dining,3,2026-05-01,20260501,8,2,observed_sales,1,9.25,1,0,0,Yes,none_available
+Residential Dining,3,2026-05-01,20260501,9,3,observed_sales,1,9.25,1,0,0,Yes,none_available
+Residential Dining,3,2026-05-01,20260501,11,5,observed_sales,5,70.4,5,0,0,Yes,none_available
+Residential Dining,3,2026-05-01,20260501,12,6,observed_sales,3,42.24,3,0,0,Yes,none_available
+Residential Dining,3,2026-05-01,20260501,13,7,observed_sales,1,14.08,1,0,0,Yes,none_available
+Residential Dining,3,2026-05-01,20260501,18,12,observed_sales,1,15.66,1,0,0,Yes,none_available
+Residential Dining,3,2026-05-02,20260502,18,12,observed_sales,1,15.66,1,0,0,No,none_available
+Residential Dining,3,2026-05-03,20260503,12,6,observed_sales,2,28.16,2,0,0,No,none_available
+Residential Dining,3,2026-05-03,20260503,17,11,observed_sales,2,31.32,2,0,0,No,none_available
+Einstein's,1,2026-05-04,20260504,7,1,observed_sales,10,64.27,12,0,0,Yes,none_available
+Einstein's,1,2026-05-04,20260504,8,2,observed_sales,36,145.38,36,0,0,Yes,none_available
+Einstein's,1,2026-05-04,20260504,9,3,observed_sales,65,258.08,73,0,0,Yes,none_available
+Einstein's,1,2026-05-04,20260504,10,4,observed_sales,88,404.76,94,0,0,Yes,none_available
+Einstein's,1,2026-05-04,20260504,11,5,observed_sales,102,449.58,106,0,0,Yes,none_available
+Einstein's,1,2026-05-04,20260504,12,6,observed_sales,82,392.85,82,0,0,Yes,none_available
+Einstein's,1,2026-05-04,20260504,13,7,observed_sales,97,475.14,115,0,0,Yes,none_available
+Einstein's,1,2026-05-04,20260504,14,8,observed_sales,33,181.56,33,0,0,Yes,none_available
+Einstein's,1,2026-05-04,20260504,15,9,observed_sales,63,281.06,67,0,0,Yes,none_available
+Einstein's,1,2026-05-04,20260504,16,10,observed_sales,19,79.69,19,0,0,Yes,none_available
+Einstein's,1,2026-05-04,20260504,17,11,observed_sales,25,102.62,25,0,0,Yes,none_available
+Panda Express,2,2026-05-04,20260504,11,5,observed_sales,93,778.78,93,0,0,Yes,none_available
+Panda Express,2,2026-05-04,20260504,12,6,observed_sales,83,656.37,83,0,0,Yes,none_available
+Panda Express,2,2026-05-04,20260504,13,7,observed_sales,53,478.6,53,0,0,Yes,none_available
+Panda Express,2,2026-05-04,20260504,14,8,observed_sales,37,314.07,39,0,0,Yes,none_available
+Panda Express,2,2026-05-04,20260504,15,9,observed_sales,49,424.98,49,0,0,Yes,none_available
+Residential Dining,3,2026-05-04,20260504,7,1,observed_sales,1,9.25,1,0,0,Yes,none_available
+Residential Dining,3,2026-05-04,20260504,8,2,observed_sales,2,18.5,2,0,0,Yes,none_available
+Residential Dining,3,2026-05-04,20260504,9,3,observed_sales,1,9.25,1,0,0,Yes,none_available
+Residential Dining,3,2026-05-04,20260504,10,4,observed_sales,2,28.16,2,0,0,Yes,none_available
+Residential Dining,3,2026-05-04,20260504,11,5,observed_sales,5,70.4,5,0,0,Yes,none_available
+Residential Dining,3,2026-05-04,20260504,12,6,observed_sales,11,154.88,11,0,0,Yes,none_available
+Residential Dining,3,2026-05-04,20260504,17,11,observed_sales,3,46.980000000000004,3,0,0,Yes,none_available
+Residential Dining,3,2026-05-04,20260504,18,12,observed_sales,4,62.64,4,0,0,Yes,none_available
+Einstein's,1,2026-05-05,20260505,7,1,observed_sales,6,19.01,6,0,0,Yes,none_available
+Einstein's,1,2026-05-05,20260505,8,2,observed_sales,48,173.8,52,0,0,Yes,none_available
+Einstein's,1,2026-05-05,20260505,9,3,observed_sales,40,162.68,42,0,0,Yes,none_available
+Einstein's,1,2026-05-05,20260505,10,4,observed_sales,116,475.86,118,0,0,Yes,none_available
+Einstein's,1,2026-05-05,20260505,11,5,observed_sales,74,386.95,78,0,0,Yes,none_available
+Einstein's,1,2026-05-05,20260505,12,6,observed_sales,120,545.72,128,0,0,Yes,none_available
+Einstein's,1,2026-05-05,20260505,13,7,observed_sales,38,138.28,38,0,0,Yes,none_available
+Einstein's,1,2026-05-05,20260505,14,8,observed_sales,61,244.01,63,0,0,Yes,none_available
+Einstein's,1,2026-05-05,20260505,15,9,observed_sales,52,225.63,52,0,0,Yes,none_available
+Einstein's,1,2026-05-05,20260505,16,10,observed_sales,29,112.62,29,0,0,Yes,none_available
+Einstein's,1,2026-05-05,20260505,17,11,observed_sales,14,58.1,20,0,0,Yes,none_available
+Panda Express,2,2026-05-05,20260505,10,4,observed_sales,1,10.09,1,0,0,Yes,none_available
+Panda Express,2,2026-05-05,20260505,11,5,observed_sales,68,487.62,68,0,0,Yes,none_available
+Panda Express,2,2026-05-05,20260505,12,6,observed_sales,72,614.8,72,0,0,Yes,none_available
+Panda Express,2,2026-05-05,20260505,13,7,observed_sales,34,306.18,34,0,0,Yes,none_available
+Panda Express,2,2026-05-05,20260505,14,8,observed_sales,30,242.83,30,0,0,Yes,none_available
+Panda Express,2,2026-05-05,20260505,15,9,observed_sales,30,239.84,30,0,0,Yes,none_available
+Residential Dining,3,2026-05-05,20260505,8,2,observed_sales,1,9.25,1,0,0,Yes,none_available
+Residential Dining,3,2026-05-05,20260505,9,3,observed_sales,1,9.25,1,0,0,Yes,none_available
+Residential Dining,3,2026-05-05,20260505,10,4,observed_sales,1,14.08,1,0,0,Yes,none_available
+Residential Dining,3,2026-05-05,20260505,11,5,observed_sales,57,802.56,12,0,0,Yes,none_available
+Residential Dining,3,2026-05-05,20260505,12,6,observed_sales,2,28.16,2,0,0,Yes,none_available
+Residential Dining,3,2026-05-05,20260505,17,11,observed_sales,2,31.32,2,0,0,Yes,none_available
+Residential Dining,3,2026-05-05,20260505,18,12,observed_sales,3,46.980000000000004,3,0,0,Yes,none_available
+Residential Dining,3,2026-05-05,20260505,19,13,observed_sales,1,15.66,1,0,0,Yes,none_available
+Einstein's,1,2026-05-06,20260506,7,1,observed_sales,14,45.3,14,0,0,Yes,none_available
+Einstein's,1,2026-05-06,20260506,8,2,observed_sales,42,160.8,42,0,0,Yes,none_available
+Einstein's,1,2026-05-06,20260506,9,3,observed_sales,84,383.81,88,0,0,Yes,none_available
+Einstein's,1,2026-05-06,20260506,10,4,observed_sales,86,361.73,90,0,0,Yes,none_available
+Einstein's,1,2026-05-06,20260506,11,5,observed_sales,97,507.09,103,0,0,Yes,none_available
+Einstein's,1,2026-05-06,20260506,12,6,observed_sales,100,417.26,102,0,0,Yes,none_available
+Einstein's,1,2026-05-06,20260506,13,7,observed_sales,79,347.57,79,0,0,Yes,none_available
+Einstein's,1,2026-05-06,20260506,14,8,observed_sales,62,225.57,62,0,0,Yes,none_available
+Einstein's,1,2026-05-06,20260506,15,9,observed_sales,51,178.1,53,0,0,Yes,none_available
+Einstein's,1,2026-05-06,20260506,16,10,observed_sales,35,155.96,35,0,0,Yes,none_available
+Einstein's,1,2026-05-06,20260506,17,11,observed_sales,12,60.05,12,0,0,Yes,none_available
+Panda Express,2,2026-05-06,20260506,11,5,observed_sales,54,459.67,56,0,0,Yes,none_available
+Panda Express,2,2026-05-06,20260506,12,6,observed_sales,91,703.1800000000001,91,0,0,Yes,none_available
+Panda Express,2,2026-05-06,20260506,13,7,observed_sales,59,499.75,59,0,0,Yes,none_available
+Panda Express,2,2026-05-06,20260506,14,8,observed_sales,52,446.83,52,0,0,Yes,none_available
+Panda Express,2,2026-05-06,20260506,15,9,observed_sales,48,416.69,48,0,0,Yes,none_available
+Panda Express,2,2026-05-06,20260506,16,10,observed_sales,1,10.09,1,0,0,Yes,none_available
+Residential Dining,3,2026-05-06,20260506,7,1,observed_sales,3,27.75,3,0,0,Yes,none_available
+Residential Dining,3,2026-05-06,20260506,8,2,observed_sales,1,9.25,1,0,0,Yes,none_available
+Residential Dining,3,2026-05-06,20260506,9,3,observed_sales,1,9.25,1,0,0,Yes,none_available
+Residential Dining,3,2026-05-06,20260506,10,4,observed_sales,2,28.16,2,0,0,Yes,none_available
+Residential Dining,3,2026-05-06,20260506,11,5,observed_sales,52,732.16,12,0,0,Yes,none_available
+Residential Dining,3,2026-05-06,20260506,12,6,observed_sales,12,168.96,12,0,0,Yes,none_available
+Residential Dining,3,2026-05-06,20260506,13,7,observed_sales,4,56.32,4,0,0,Yes,none_available
+Residential Dining,3,2026-05-06,20260506,17,11,observed_sales,5,78.3,5,0,0,Yes,none_available
+Residential Dining,3,2026-05-06,20260506,18,12,observed_sales,1,15.66,1,0,0,Yes,none_available
+Einstein's,1,2026-05-07,20260507,7,1,observed_sales,20,51.98,20,0,0,Yes,none_available
+Einstein's,1,2026-05-07,20260507,8,2,observed_sales,36,171.62,38,0,0,Yes,none_available
+Einstein's,1,2026-05-07,20260507,9,3,observed_sales,75,328.04,81,0,0,Yes,none_available
+Einstein's,1,2026-05-07,20260507,10,4,observed_sales,72,302.14,76,0,0,Yes,none_available
+Einstein's,1,2026-05-07,20260507,11,5,observed_sales,74,300.79,78,0,0,Yes,none_available
+Einstein's,1,2026-05-07,20260507,12,6,observed_sales,79,375.91,83,0,0,Yes,none_available
+Einstein's,1,2026-05-07,20260507,13,7,observed_sales,57,226.32,59,0,0,Yes,none_available
+Einstein's,1,2026-05-07,20260507,14,8,observed_sales,69,283.88,77,0,0,Yes,none_available
+Einstein's,1,2026-05-07,20260507,15,9,observed_sales,40,172.65,48,0,0,Yes,none_available
+Einstein's,1,2026-05-07,20260507,16,10,observed_sales,21,78.5,23,0,0,Yes,none_available
+Einstein's,1,2026-05-07,20260507,17,11,observed_sales,7,45.53,11,0,0,Yes,none_available
+Panda Express,2,2026-05-07,20260507,11,5,observed_sales,43,332.11,43,0,0,Yes,none_available
+Panda Express,2,2026-05-07,20260507,12,6,observed_sales,91,728.59,91,0,0,Yes,none_available
+Panda Express,2,2026-05-07,20260507,13,7,observed_sales,41,319.62,41,0,0,Yes,none_available
+Panda Express,2,2026-05-07,20260507,14,8,observed_sales,48,391.66,48,0,0,Yes,none_available
+Panda Express,2,2026-05-07,20260507,15,9,observed_sales,27,234.08,27,0,0,Yes,none_available
+Panda Express,2,2026-05-07,20260507,16,10,observed_sales,1,10.09,1,0,0,Yes,none_available
+Residential Dining,3,2026-05-07,20260507,7,1,observed_sales,1,9.25,1,0,0,Yes,none_available
+Residential Dining,3,2026-05-07,20260507,11,5,observed_sales,7,98.56,7,0,0,Yes,none_available
+Residential Dining,3,2026-05-07,20260507,13,7,observed_sales,1,14.08,1,0,0,Yes,none_available
+Residential Dining,3,2026-05-07,20260507,17,11,observed_sales,2,31.32,2,0,0,Yes,none_available
+Residential Dining,3,2026-05-07,20260507,18,12,observed_sales,2,31.32,2,0,0,Yes,none_available
+Einstein's,1,2026-05-08,20260508,8,2,observed_sales,40,151.8,40,0,0,Yes,none_available
+Einstein's,1,2026-05-08,20260508,9,3,observed_sales,28,128.47,32,0,0,Yes,none_available
+Einstein's,1,2026-05-08,20260508,10,4,observed_sales,35,153.9,37,0,0,Yes,none_available
+Einstein's,1,2026-05-08,20260508,11,5,observed_sales,51,231.02,51,0,0,Yes,none_available
+Einstein's,1,2026-05-08,20260508,12,6,observed_sales,56,264.62,58,0,0,Yes,none_available
+Einstein's,1,2026-05-08,20260508,13,7,observed_sales,28,127.94,28,0,0,Yes,none_available
+Einstein's,1,2026-05-08,20260508,14,8,observed_sales,11,42.99,11,0,0,Yes,none_available
+Einstein's,1,2026-05-08,20260508,15,9,observed_sales,40,141.48,40,0,0,Yes,none_available
+Panda Express,2,2026-05-08,20260508,10,4,observed_sales,4,29.76,4,0,0,Yes,none_available
+Panda Express,2,2026-05-08,20260508,11,5,observed_sales,31,292.74,31,0,0,Yes,none_available
+Panda Express,2,2026-05-08,20260508,12,6,observed_sales,58,436.19,62,0,0,Yes,none_available
+Panda Express,2,2026-05-08,20260508,13,7,observed_sales,20,167.73000000000002,20,0,0,Yes,none_available
+Residential Dining,3,2026-05-08,20260508,7,1,observed_sales,1,9.25,1,0,0,Yes,none_available
+Residential Dining,3,2026-05-08,20260508,8,2,observed_sales,2,18.5,2,0,0,Yes,none_available
+Residential Dining,3,2026-05-08,20260508,9,3,observed_sales,6,55.5,1,0,0,Yes,none_available
+Residential Dining,3,2026-05-08,20260508,11,5,observed_sales,3,42.24,3,0,0,Yes,none_available
+Residential Dining,3,2026-05-08,20260508,13,7,observed_sales,2,28.16,2,0,0,Yes,none_available
+Residential Dining,3,2026-05-08,20260508,16,10,observed_sales,1,15.66,1,0,0,Yes,none_available
+Residential Dining,3,2026-05-08,20260508,17,11,observed_sales,1,15.66,1,0,0,Yes,none_available
+Residential Dining,3,2026-05-08,20260508,21,15,observed_sales,1,15.66,1,0,0,Yes,none_available
+Residential Dining,3,2026-05-09,20260509,13,7,observed_sales,4,56.32,4,0,0,No,none_available
+Residential Dining,3,2026-05-10,20260510,12,6,observed_sales,3,42.24,3,0,0,No,none_available
+Residential Dining,3,2026-05-10,20260510,18,12,observed_sales,3,46.980000000000004,3,0,0,No,none_available
+Einstein's,1,2026-05-11,20260511,7,1,observed_sales,11,39.33,11,0,0,No,none_available
+Einstein's,1,2026-05-11,20260511,8,2,observed_sales,20,71.25,20,0,0,No,none_available
+Einstein's,1,2026-05-11,20260511,9,3,observed_sales,49,216.57,49,0,0,No,none_available
+Einstein's,1,2026-05-11,20260511,10,4,observed_sales,49,214.44,49,0,0,No,none_available
+Einstein's,1,2026-05-11,20260511,11,5,observed_sales,52,252.10999999999999,52,0,0,No,none_available
+Einstein's,1,2026-05-11,20260511,12,6,observed_sales,63,295.73,63,0,0,No,none_available
+Einstein's,1,2026-05-11,20260511,13,7,observed_sales,36,181.68,36,0,0,No,none_available
+Einstein's,1,2026-05-11,20260511,14,8,observed_sales,42,148.44,42,0,0,No,none_available
+Einstein's,1,2026-05-11,20260511,15,9,observed_sales,31,153.26,33,0,0,No,none_available
+Einstein's,1,2026-05-11,20260511,16,10,observed_sales,38,147.51,38,0,0,No,none_available
+Einstein's,1,2026-05-11,20260511,17,11,observed_sales,26,82.38,34,0,0,No,none_available
+Panda Express,2,2026-05-11,20260511,10,4,observed_sales,1,11.89,1,0,0,No,none_available
+Panda Express,2,2026-05-11,20260511,11,5,observed_sales,34,299.81,34,0,0,No,none_available
+Panda Express,2,2026-05-11,20260511,12,6,observed_sales,42,368.82,42,0,0,No,none_available
+Panda Express,2,2026-05-11,20260511,13,7,observed_sales,39,312.13,39,0,0,No,none_available
+Panda Express,2,2026-05-11,20260511,14,8,observed_sales,48,388.88,48,0,0,No,none_available
+Panda Express,2,2026-05-11,20260511,15,9,observed_sales,43,291.96,43,0,0,No,none_available
+Residential Dining,3,2026-05-11,20260511,8,2,observed_sales,2,18.5,2,0,0,No,none_available
+Residential Dining,3,2026-05-11,20260511,9,3,observed_sales,1,9.25,1,0,0,No,none_available
+Residential Dining,3,2026-05-11,20260511,10,4,observed_sales,1,14.08,1,0,0,No,none_available
+Residential Dining,3,2026-05-11,20260511,11,5,observed_sales,5,70.4,5,0,0,No,none_available
+Residential Dining,3,2026-05-11,20260511,12,6,observed_sales,12,168.96,12,0,0,No,none_available
+Residential Dining,3,2026-05-11,20260511,13,7,observed_sales,5,70.4,5,0,0,No,none_available
+Residential Dining,3,2026-05-11,20260511,16,10,observed_sales,1,15.66,1,0,0,No,none_available
+Residential Dining,3,2026-05-11,20260511,17,11,observed_sales,1,15.66,1,0,0,No,none_available
+Residential Dining,3,2026-05-11,20260511,18,12,observed_sales,3,46.980000000000004,3,0,0,No,none_available
+Einstein's,1,2026-05-12,20260512,7,1,observed_sales,25,94.19,25,0,0,No,none_available
+Einstein's,1,2026-05-12,20260512,8,2,observed_sales,23,121.44,23,0,0,No,none_available
+Einstein's,1,2026-05-12,20260512,9,3,observed_sales,69,290.63,73,0,0,No,none_available
+Einstein's,1,2026-05-12,20260512,10,4,observed_sales,50,238.13,52,0,0,No,none_available
+Einstein's,1,2026-05-12,20260512,11,5,observed_sales,46,226.12,46,0,0,No,none_available
+Einstein's,1,2026-05-12,20260512,12,6,observed_sales,82,410.65,82,0,0,No,none_available
+Einstein's,1,2026-05-12,20260512,13,7,observed_sales,64,252.98,68,0,0,No,none_available
+Einstein's,1,2026-05-12,20260512,14,8,observed_sales,36,152.42,38,0,0,No,none_available
+Einstein's,1,2026-05-12,20260512,15,9,observed_sales,18,104.22,20,0,0,No,none_available
+Einstein's,1,2026-05-12,20260512,16,10,observed_sales,33,165.85,39,0,0,No,none_available
+Einstein's,1,2026-05-12,20260512,17,11,observed_sales,14,70.89999999999999,14,0,0,No,none_available
+Panda Express,2,2026-05-12,20260512,11,5,observed_sales,39,325.25,39,0,0,No,none_available
+Panda Express,2,2026-05-12,20260512,12,6,observed_sales,49,423.19,49,0,0,No,none_available
+Panda Express,2,2026-05-12,20260512,13,7,observed_sales,32,260.21,34,0,0,No,none_available
+Panda Express,2,2026-05-12,20260512,14,8,observed_sales,37,326.78000000000003,37,0,0,No,none_available
+Panda Express,2,2026-05-12,20260512,15,9,observed_sales,24,196.49,24,0,0,No,none_available
+Residential Dining,3,2026-05-12,20260512,7,1,observed_sales,1,9.25,1,0,0,No,none_available
+Residential Dining,3,2026-05-12,20260512,8,2,observed_sales,1,9.25,1,0,0,No,none_available
+Residential Dining,3,2026-05-12,20260512,9,3,observed_sales,3,32.58,3,0,0,No,none_available
+Residential Dining,3,2026-05-12,20260512,10,4,observed_sales,1,14.08,1,0,0,No,none_available
+Residential Dining,3,2026-05-12,20260512,11,5,observed_sales,8,112.64,8,0,0,No,none_available
+Residential Dining,3,2026-05-12,20260512,15,9,observed_sales,1,14.08,1,0,0,No,none_available
+Residential Dining,3,2026-05-12,20260512,17,11,observed_sales,4,62.64,4,0,0,No,none_available
+Einstein's,1,2026-05-13,20260513,7,1,observed_sales,21,59.809999999999995,21,0,0,No,none_available
+Einstein's,1,2026-05-13,20260513,8,2,observed_sales,18,87.82,20,0,0,No,none_available
+Einstein's,1,2026-05-13,20260513,9,3,observed_sales,36,161.0,38,0,0,No,none_available
+Einstein's,1,2026-05-13,20260513,10,4,observed_sales,54,307.45,56,0,0,No,none_available
+Einstein's,1,2026-05-13,20260513,11,5,observed_sales,54,206.01,56,0,0,No,none_available
+Einstein's,1,2026-05-13,20260513,12,6,observed_sales,60,253.32999999999998,68,0,0,No,none_available
+Einstein's,1,2026-05-13,20260513,13,7,observed_sales,50,217.22,52,0,0,No,none_available
+Einstein's,1,2026-05-13,20260513,14,8,observed_sales,47,168.26,47,0,0,No,none_available
+Einstein's,1,2026-05-13,20260513,15,9,observed_sales,31,138.13,35,0,0,No,none_available
+Einstein's,1,2026-05-13,20260513,16,10,observed_sales,63,263.92,63,0,0,No,none_available
+Einstein's,1,2026-05-13,20260513,17,11,observed_sales,32,97.03999999999999,32,0,0,No,none_available
+Panda Express,2,2026-05-13,20260513,11,5,observed_sales,51,373.72,51,0,0,No,none_available
+Panda Express,2,2026-05-13,20260513,12,6,observed_sales,36,315.48,36,0,0,No,none_available
+Panda Express,2,2026-05-13,20260513,13,7,observed_sales,40,347.14,40,0,0,No,none_available
+Panda Express,2,2026-05-13,20260513,14,8,observed_sales,24,204.19,24,0,0,No,none_available
+Panda Express,2,2026-05-13,20260513,15,9,observed_sales,24,198.09,24,0,0,No,none_available
+Residential Dining,3,2026-05-13,20260513,8,2,observed_sales,1,9.25,1,0,0,No,none_available
+Residential Dining,3,2026-05-13,20260513,9,3,observed_sales,2,18.5,2,0,0,No,none_available
+Residential Dining,3,2026-05-13,20260513,10,4,observed_sales,3,42.24,3,0,0,No,none_available
+Residential Dining,3,2026-05-13,20260513,11,5,observed_sales,5,70.4,5,0,0,No,none_available
+Residential Dining,3,2026-05-13,20260513,12,6,observed_sales,14,197.12,14,0,0,No,none_available
+Residential Dining,3,2026-05-13,20260513,13,7,observed_sales,6,84.48,6,0,0,No,none_available
+Residential Dining,3,2026-05-13,20260513,16,10,observed_sales,1,14.08,1,0,0,No,none_available
+Residential Dining,3,2026-05-13,20260513,17,11,observed_sales,3,46.980000000000004,3,0,0,No,none_available
+Einstein's,1,2026-05-14,20260514,7,1,observed_sales,7,33.93,7,0,0,No,none_available
+Einstein's,1,2026-05-14,20260514,8,2,observed_sales,20,76.81,20,0,0,No,none_available
+Einstein's,1,2026-05-14,20260514,9,3,observed_sales,57,250.63,59,0,0,No,none_available
+Einstein's,1,2026-05-14,20260514,10,4,observed_sales,44,198.08,44,0,0,No,none_available
+Einstein's,1,2026-05-14,20260514,11,5,observed_sales,39,187.95,43,0,0,No,none_available
+Einstein's,1,2026-05-14,20260514,12,6,observed_sales,62,233.44,64,0,0,No,none_available
+Einstein's,1,2026-05-14,20260514,13,7,observed_sales,47,201.35,47,0,0,No,none_available
+Einstein's,1,2026-05-14,20260514,14,8,observed_sales,46,129.51,46,0,0,No,none_available
+Einstein's,1,2026-05-14,20260514,15,9,observed_sales,55,190.01,55,0,0,No,none_available
+Einstein's,1,2026-05-14,20260514,16,10,observed_sales,38,141.02,42,0,0,No,none_available
+Einstein's,1,2026-05-14,20260514,17,11,observed_sales,9,43.019999999999996,11,0,0,No,none_available
+Panda Express,2,2026-05-14,20260514,11,5,observed_sales,29,225.8,33,0,0,No,none_available
+Panda Express,2,2026-05-14,20260514,12,6,observed_sales,54,433.92,54,0,0,No,none_available
+Panda Express,2,2026-05-14,20260514,13,7,observed_sales,43,349.64,43,0,0,No,none_available
+Panda Express,2,2026-05-14,20260514,14,8,observed_sales,35,287.1,35,0,0,No,none_available
+Panda Express,2,2026-05-14,20260514,15,9,observed_sales,6,65.94,6,0,0,No,none_available
+Residential Dining,3,2026-05-14,20260514,7,1,observed_sales,5,46.25,5,0,0,No,none_available
+Residential Dining,3,2026-05-14,20260514,8,2,observed_sales,2,18.5,2,0,0,No,none_available
+Residential Dining,3,2026-05-14,20260514,9,3,observed_sales,1,9.25,1,0,0,No,none_available
+Residential Dining,3,2026-05-14,20260514,10,4,observed_sales,1,14.08,1,0,0,No,none_available
+Residential Dining,3,2026-05-14,20260514,11,5,observed_sales,7,98.56,7,0,0,No,none_available
+Residential Dining,3,2026-05-14,20260514,12,6,observed_sales,7,98.56,9,0,0,No,none_available
+Residential Dining,3,2026-05-14,20260514,13,7,observed_sales,6,84.48,2,0,0,No,none_available
+Residential Dining,3,2026-05-14,20260514,17,11,observed_sales,2,31.32,2,0,0,No,none_available
+Residential Dining,3,2026-05-14,20260514,18,12,observed_sales,2,31.32,2,0,0,No,none_available
+Einstein's,1,2026-05-15,20260515,7,1,observed_sales,3,24.67,3,0,0,No,none_available
+Einstein's,1,2026-05-15,20260515,8,2,observed_sales,20,71.94,20,0,0,No,none_available
+Einstein's,1,2026-05-15,20260515,9,3,observed_sales,44,162.46,52,0,0,No,none_available
+Einstein's,1,2026-05-15,20260515,10,4,observed_sales,70,270.2,72,0,0,No,none_available
+Einstein's,1,2026-05-15,20260515,11,5,observed_sales,72,242.88,74,0,0,No,none_available
+Einstein's,1,2026-05-15,20260515,12,6,observed_sales,59,234.73,69,0,0,No,none_available
+Einstein's,1,2026-05-15,20260515,13,7,observed_sales,40,170.35,40,0,0,No,none_available
+Einstein's,1,2026-05-15,20260515,14,8,observed_sales,4,12.030000000000001,4,0,0,No,none_available
+Residential Dining,3,2026-05-15,20260515,7,1,observed_sales,1,9.25,1,0,0,No,none_available
+Residential Dining,3,2026-05-15,20260515,8,2,observed_sales,2,18.5,2,0,0,No,none_available
+Residential Dining,3,2026-05-15,20260515,9,3,observed_sales,1,9.25,1,0,0,No,none_available
+Residential Dining,3,2026-05-15,20260515,10,4,observed_sales,2,28.16,2,0,0,No,none_available
+Residential Dining,3,2026-05-15,20260515,11,5,observed_sales,3,42.24,3,0,0,No,none_available
+Residential Dining,3,2026-05-15,20260515,12,6,observed_sales,3,42.24,3,0,0,No,none_available
+Residential Dining,3,2026-05-15,20260515,13,7,observed_sales,1,14.08,1,0,0,No,none_available
+Residential Dining,3,2026-05-15,20260515,17,11,observed_sales,1,15.66,1,0,0,No,none_available
+Einstein's,1,2026-05-18,20260518,8,2,observed_sales,24,84.87,24,0,0,No,none_available
+Einstein's,1,2026-05-18,20260518,9,3,observed_sales,18,61.769999999999996,18,0,0,No,none_available
+Einstein's,1,2026-05-18,20260518,10,4,observed_sales,17,51.55,17,0,0,No,none_available
+Einstein's,1,2026-05-18,20260518,11,5,observed_sales,21,105.82000000000001,21,0,0,No,none_available
+Einstein's,1,2026-05-18,20260518,12,6,observed_sales,29,158.12,33,0,0,No,none_available
+Einstein's,1,2026-05-18,20260518,13,7,observed_sales,20,82.47,20,0,0,No,none_available
+Einstein's,1,2026-05-18,20260518,14,8,observed_sales,6,26.95,10,0,0,No,none_available
+Einstein's,1,2026-05-18,20260518,15,9,observed_sales,8,17.89,8,0,0,No,none_available
+Einstein's,1,2026-05-19,20260519,8,2,observed_sales,9,29.2,9,0,0,No,none_available
+Einstein's,1,2026-05-19,20260519,9,3,observed_sales,7,27.830000000000002,7,0,0,No,none_available
+Einstein's,1,2026-05-19,20260519,10,4,observed_sales,15,85.85,15,0,0,No,none_available
+Einstein's,1,2026-05-19,20260519,11,5,observed_sales,11,64.59,15,0,0,No,none_available
+Einstein's,1,2026-05-19,20260519,12,6,observed_sales,49,206.02,53,0,0,No,none_available
+Einstein's,1,2026-05-19,20260519,13,7,observed_sales,10,70.72,16,0,0,No,none_available
+Einstein's,1,2026-05-19,20260519,14,8,observed_sales,13,58.57,13,0,0,No,none_available
+Einstein's,1,2026-05-19,20260519,15,9,observed_sales,6,13.31,6,0,0,No,none_available
+Einstein's,1,2026-05-20,20260520,8,2,observed_sales,18,68.0,18,0,0,No,none_available
+Einstein's,1,2026-05-20,20260520,9,3,observed_sales,17,31.68,17,0,0,No,none_available
+Einstein's,1,2026-05-20,20260520,10,4,observed_sales,7,15.27,9,0,0,No,none_available
+Einstein's,1,2026-05-20,20260520,11,5,observed_sales,23,82.03,31,0,0,No,none_available
+Einstein's,1,2026-05-20,20260520,12,6,observed_sales,27,167.9,27,0,0,No,none_available
+Einstein's,1,2026-05-20,20260520,13,7,observed_sales,21,79.45,21,0,0,No,none_available
+Einstein's,1,2026-05-20,20260520,14,8,observed_sales,11,63.169999999999995,11,0,0,No,none_available
+Einstein's,1,2026-05-20,20260520,15,9,observed_sales,7,43.230000000000004,7,0,0,No,none_available
+Einstein's,1,2026-05-21,20260521,8,2,observed_sales,12,51.49,12,0,0,No,none_available
+Einstein's,1,2026-05-21,20260521,9,3,observed_sales,25,49.4,27,0,0,No,none_available
+Einstein's,1,2026-05-21,20260521,10,4,observed_sales,13,71.79,13,0,0,No,none_available
+Einstein's,1,2026-05-21,20260521,11,5,observed_sales,9,14.15,9,0,0,No,none_available
+Einstein's,1,2026-05-21,20260521,12,6,observed_sales,16,75.41,18,0,0,No,none_available
+Einstein's,1,2026-05-21,20260521,13,7,observed_sales,7,38.230000000000004,9,0,0,No,none_available
+Einstein's,1,2026-05-21,20260521,14,8,observed_sales,5,24.65,5,0,0,No,none_available
+Einstein's,1,2026-05-21,20260521,15,9,observed_sales,10,34.07,10,0,0,No,none_available
+Einstein's,1,2026-05-21,20260521,16,10,observed_sales,1,2.59,1,0,0,No,none_available
+Einstein's,1,2026-05-26,20260526,8,2,observed_sales,5,28.05,7,0,0,No,none_available
+Einstein's,1,2026-05-26,20260526,9,3,observed_sales,12,30.23,12,0,0,No,none_available
+Einstein's,1,2026-05-26,20260526,10,4,observed_sales,15,61.87,19,0,0,No,none_available
+Einstein's,1,2026-05-26,20260526,11,5,observed_sales,21,90.36,21,0,0,No,none_available
+Einstein's,1,2026-05-26,20260526,12,6,observed_sales,23,108.01,23,0,0,No,none_available
+Einstein's,1,2026-05-26,20260526,13,7,observed_sales,26,95.35,26,0,0,No,none_available
+Einstein's,1,2026-05-26,20260526,14,8,observed_sales,4,26.86,6,0,0,No,none_available
+Einstein's,1,2026-05-26,20260526,15,9,observed_sales,5,25.85,5,0,0,No,none_available
+Einstein's,1,2026-05-26,20260526,16,10,observed_sales,2,7.4799999999999995,2,0,0,No,none_available
+Einstein's,1,2026-05-27,20260527,8,2,observed_sales,15,40.56,17,0,0,No,none_available
+Einstein's,1,2026-05-27,20260527,9,3,observed_sales,35,113.99,35,0,0,No,none_available
+Einstein's,1,2026-05-27,20260527,10,4,observed_sales,6,33.54,6,0,0,No,none_available
+Einstein's,1,2026-05-27,20260527,11,5,observed_sales,27,130.58,29,0,0,No,none_available
+Einstein's,1,2026-05-27,20260527,12,6,observed_sales,23,102.11,29,0,0,No,none_available
+Einstein's,1,2026-05-27,20260527,13,7,observed_sales,15,66.92,21,0,0,No,none_available
+Einstein's,1,2026-05-27,20260527,14,8,observed_sales,10,66.2,12,0,0,No,none_available
+Einstein's,1,2026-05-27,20260527,15,9,observed_sales,16,48.690000000000005,16,0,0,No,none_available
+Einstein's,1,2026-05-27,20260527,16,10,observed_sales,7,20.8,7,0,0,No,none_available
+Einstein's,1,2026-05-28,20260528,8,2,observed_sales,23,146.92,33,0,0,No,none_available
+Einstein's,1,2026-05-28,20260528,9,3,observed_sales,11,55.09,11,0,0,No,none_available
+Einstein's,1,2026-05-28,20260528,10,4,observed_sales,22,76.03,22,0,0,No,none_available
+Einstein's,1,2026-05-28,20260528,11,5,observed_sales,17,97.2,17,0,0,No,none_available
+Einstein's,1,2026-05-28,20260528,12,6,observed_sales,36,146.2,36,0,0,No,none_available
+Einstein's,1,2026-05-28,20260528,13,7,observed_sales,17,84.94,17,0,0,No,none_available
+Einstein's,1,2026-05-28,20260528,14,8,observed_sales,10,43.22,10,0,0,No,none_available
+Einstein's,1,2026-05-28,20260528,15,9,observed_sales,2,16.28,2,0,0,No,none_available
+Einstein's,1,2026-05-28,20260528,16,10,observed_sales,8,13.56,8,0,0,No,none_available
