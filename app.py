@@ -529,9 +529,17 @@ def manager_portal(st, data: pd.DataFrame, sales: pd.DataFrame, closures: pd.Dat
     with snapshot_col:
         st.markdown(f"### Predicted Sales · {bucket_label}")
         st.caption(f"Selected date: {forecast_date.strftime('%B %-d, %Y')}")
+        station_images = {
+            "Dining Commons": DINING_COMMONS_IMAGE,
+            "Einstein's": EINSTEINS_IMAGE,
+            "Panda's": PANDAS_IMAGE,
+        }
         snapshot_columns = st.columns(len(snapshot_rows), gap="small")
         for column, row in zip(snapshot_columns, snapshot_rows):
             with column:
+                image_path = station_images.get(row["Station"])
+                if image_path and image_path.exists():
+                    st.image(str(image_path), use_container_width=True)
                 st.markdown(
                     f"<div class='wait-card'><div class='wait-name'>{row['Station']}</div><div class='wait-value'>{row['Predicted sales']}</div><div>{row['Status']}</div></div>",
                     unsafe_allow_html=True,

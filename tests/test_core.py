@@ -10,7 +10,7 @@ from metrics import calculate_metrics, compare_predictions
 
 
 def test_load_and_safe_features():
-    path = Path(__file__).parents[1] / "data/ServeSmart_ML_Flat_File_Updated.csv"
+    path = Path(__file__).parents[1] / "data/forecasting/Approved_ML_Flat_File.csv"
     frame = load_ml_flat_file(path)
     assert len(frame) == 2032
     assert "TransactionCount" not in safe_features(frame)
