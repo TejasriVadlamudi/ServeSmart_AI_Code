@@ -1,0 +1,1078 @@
+ForecastLevel,Model,Location,Date,Hour,Actual,Predicted
+Hourly,Random Forest,Einstein's,2026-05-01,7.0,8.0,9.255533493937985
+Hourly,Random Forest,Einstein's,2026-05-01,8.0,42.0,28.116779769564918
+Hourly,Random Forest,Einstein's,2026-05-01,9.0,51.0,31.61229172797628
+Hourly,Random Forest,Einstein's,2026-05-01,10.0,34.0,42.8832617946092
+Hourly,Random Forest,Einstein's,2026-05-01,11.0,20.0,39.53198046032948
+Hourly,Random Forest,Einstein's,2026-05-01,12.0,38.0,51.474160797689294
+Hourly,Random Forest,Einstein's,2026-05-01,13.0,43.0,39.46657935026455
+Hourly,Random Forest,Einstein's,2026-05-01,14.0,9.0,28.51838861790885
+Hourly,Random Forest,Einstein's,2026-05-01,15.0,27.0,22.137203861572058
+Hourly,Random Forest,Einstein's,2026-05-04,7.0,10.0,10.201399907993027
+Hourly,Random Forest,Einstein's,2026-05-04,8.0,36.0,36.741321345450835
+Hourly,Random Forest,Einstein's,2026-05-04,9.0,65.0,72.54830585724301
+Hourly,Random Forest,Einstein's,2026-05-04,10.0,88.0,94.32008943801355
+Hourly,Random Forest,Einstein's,2026-05-04,11.0,102.0,84.43805696563913
+Hourly,Random Forest,Einstein's,2026-05-04,12.0,82.0,80.32251533302001
+Hourly,Random Forest,Einstein's,2026-05-04,13.0,97.0,82.88342142678894
+Hourly,Random Forest,Einstein's,2026-05-04,14.0,33.0,38.87963905496839
+Hourly,Random Forest,Einstein's,2026-05-04,15.0,63.0,50.94909235982472
+Hourly,Random Forest,Einstein's,2026-05-04,16.0,19.0,31.233507208139986
+Hourly,Random Forest,Einstein's,2026-05-04,17.0,25.0,12.530917572041295
+Hourly,Random Forest,Einstein's,2026-05-05,7.0,6.0,8.81838675720926
+Hourly,Random Forest,Einstein's,2026-05-05,8.0,48.0,66.45180818478683
+Hourly,Random Forest,Einstein's,2026-05-05,9.0,40.0,69.91957472246764
+Hourly,Random Forest,Einstein's,2026-05-05,10.0,116.0,101.15087384149871
+Hourly,Random Forest,Einstein's,2026-05-05,11.0,74.0,69.4044434320741
+Hourly,Random Forest,Einstein's,2026-05-05,12.0,120.0,101.90104753984407
+Hourly,Random Forest,Einstein's,2026-05-05,13.0,38.0,67.25296318848937
+Hourly,Random Forest,Einstein's,2026-05-05,14.0,61.0,52.62207312275801
+Hourly,Random Forest,Einstein's,2026-05-05,15.0,52.0,42.8768093371202
+Hourly,Random Forest,Einstein's,2026-05-05,16.0,29.0,34.95122001816935
+Hourly,Random Forest,Einstein's,2026-05-05,17.0,14.0,12.136803853235987
+Hourly,Random Forest,Einstein's,2026-05-06,7.0,14.0,10.338786861922877
+Hourly,Random Forest,Einstein's,2026-05-06,8.0,42.0,39.31780062557922
+Hourly,Random Forest,Einstein's,2026-05-06,9.0,84.0,71.94992047954015
+Hourly,Random Forest,Einstein's,2026-05-06,10.0,86.0,98.40440416830643
+Hourly,Random Forest,Einstein's,2026-05-06,11.0,97.0,84.05057272015964
+Hourly,Random Forest,Einstein's,2026-05-06,12.0,100.0,79.90588289959489
+Hourly,Random Forest,Einstein's,2026-05-06,13.0,79.0,84.4137483348344
+Hourly,Random Forest,Einstein's,2026-05-06,14.0,62.0,48.699118452101395
+Hourly,Random Forest,Einstein's,2026-05-06,15.0,51.0,59.204473627583695
+Hourly,Random Forest,Einstein's,2026-05-06,16.0,35.0,37.93030998467113
+Hourly,Random Forest,Einstein's,2026-05-06,17.0,12.0,11.617101228170487
+Hourly,Random Forest,Einstein's,2026-05-07,7.0,20.0,10.243013182668877
+Hourly,Random Forest,Einstein's,2026-05-07,8.0,36.0,37.668267369554755
+Hourly,Random Forest,Einstein's,2026-05-07,9.0,75.0,65.24108847198926
+Hourly,Random Forest,Einstein's,2026-05-07,10.0,72.0,92.86344809491447
+Hourly,Random Forest,Einstein's,2026-05-07,11.0,74.0,68.92607771128402
+Hourly,Random Forest,Einstein's,2026-05-07,12.0,79.0,96.0044846246127
+Hourly,Random Forest,Einstein's,2026-05-07,13.0,57.0,62.70369470187455
+Hourly,Random Forest,Einstein's,2026-05-07,14.0,69.0,55.15395668556415
+Hourly,Random Forest,Einstein's,2026-05-07,15.0,40.0,44.065596537669364
+Hourly,Random Forest,Einstein's,2026-05-07,16.0,21.0,36.09384847629981
+Hourly,Random Forest,Einstein's,2026-05-07,17.0,7.0,11.167527981523914
+Hourly,Random Forest,Einstein's,2026-05-08,8.0,40.0,30.753175516462584
+Hourly,Random Forest,Einstein's,2026-05-08,9.0,28.0,39.136863520301794
+Hourly,Random Forest,Einstein's,2026-05-08,10.0,35.0,43.221359649098176
+Hourly,Random Forest,Einstein's,2026-05-08,11.0,51.0,40.87193668395414
+Hourly,Random Forest,Einstein's,2026-05-08,12.0,56.0,44.49304325973683
+Hourly,Random Forest,Einstein's,2026-05-08,13.0,28.0,37.77631742208014
+Hourly,Random Forest,Einstein's,2026-05-08,14.0,11.0,24.435878978462235
+Hourly,Random Forest,Einstein's,2026-05-08,15.0,40.0,23.820728789383143
+Hourly,Random Forest,Einstein's,2026-05-11,7.0,11.0,8.758140493224404
+Hourly,Random Forest,Einstein's,2026-05-11,8.0,20.0,28.698029433198133
+Hourly,Random Forest,Einstein's,2026-05-11,9.0,49.0,32.99514400605933
+Hourly,Random Forest,Einstein's,2026-05-11,10.0,49.0,43.965530914268626
+Hourly,Random Forest,Einstein's,2026-05-11,11.0,52.0,41.37940066666573
+Hourly,Random Forest,Einstein's,2026-05-11,12.0,63.0,49.36619734749176
+Hourly,Random Forest,Einstein's,2026-05-11,13.0,36.0,44.7940995613732
+Hourly,Random Forest,Einstein's,2026-05-11,14.0,42.0,22.65741079431754
+Hourly,Random Forest,Einstein's,2026-05-11,15.0,31.0,30.931338535887747
+Hourly,Random Forest,Einstein's,2026-05-11,16.0,38.0,20.705263716847654
+Hourly,Random Forest,Einstein's,2026-05-11,17.0,26.0,11.666831280267763
+Hourly,Random Forest,Einstein's,2026-05-12,7.0,25.0,8.65888123589622
+Hourly,Random Forest,Einstein's,2026-05-12,8.0,23.0,33.090931788630456
+Hourly,Random Forest,Einstein's,2026-05-12,9.0,69.0,35.350715583342115
+Hourly,Random Forest,Einstein's,2026-05-12,10.0,50.0,40.72743486522381
+Hourly,Random Forest,Einstein's,2026-05-12,11.0,46.0,37.47096218009237
+Hourly,Random Forest,Einstein's,2026-05-12,12.0,82.0,46.37097239140131
+Hourly,Random Forest,Einstein's,2026-05-12,13.0,64.0,42.60645667466579
+Hourly,Random Forest,Einstein's,2026-05-12,14.0,36.0,33.73110567977731
+Hourly,Random Forest,Einstein's,2026-05-12,15.0,18.0,31.5513419368426
+Hourly,Random Forest,Einstein's,2026-05-12,16.0,33.0,25.7467544734548
+Hourly,Random Forest,Einstein's,2026-05-12,17.0,14.0,11.164964360569082
+Hourly,Random Forest,Einstein's,2026-05-13,7.0,21.0,9.300123464593252
+Hourly,Random Forest,Einstein's,2026-05-13,8.0,18.0,33.07701903191084
+Hourly,Random Forest,Einstein's,2026-05-13,9.0,36.0,37.27869274942148
+Hourly,Random Forest,Einstein's,2026-05-13,10.0,54.0,43.25498390648509
+Hourly,Random Forest,Einstein's,2026-05-13,11.0,54.0,39.97905307073023
+Hourly,Random Forest,Einstein's,2026-05-13,12.0,60.0,51.952994887660104
+Hourly,Random Forest,Einstein's,2026-05-13,13.0,50.0,44.485472897991265
+Hourly,Random Forest,Einstein's,2026-05-13,14.0,47.0,32.04278156252044
+Hourly,Random Forest,Einstein's,2026-05-13,15.0,31.0,35.25267023363287
+Hourly,Random Forest,Einstein's,2026-05-13,16.0,63.0,24.035017433988255
+Hourly,Random Forest,Einstein's,2026-05-13,17.0,32.0,10.096358439178927
+Hourly,Random Forest,Einstein's,2026-05-14,7.0,7.0,9.764332844417124
+Hourly,Random Forest,Einstein's,2026-05-14,8.0,20.0,29.767521158159596
+Hourly,Random Forest,Einstein's,2026-05-14,9.0,57.0,33.57645458580867
+Hourly,Random Forest,Einstein's,2026-05-14,10.0,44.0,40.589656659526824
+Hourly,Random Forest,Einstein's,2026-05-14,11.0,39.0,38.812304894960434
+Hourly,Random Forest,Einstein's,2026-05-14,12.0,62.0,46.685294878131906
+Hourly,Random Forest,Einstein's,2026-05-14,13.0,47.0,40.72708311191912
+Hourly,Random Forest,Einstein's,2026-05-14,14.0,46.0,36.649992755322884
+Hourly,Random Forest,Einstein's,2026-05-14,15.0,55.0,30.46754716128214
+Hourly,Random Forest,Einstein's,2026-05-14,16.0,38.0,23.29427496288719
+Hourly,Random Forest,Einstein's,2026-05-14,17.0,9.0,11.133218618081676
+Hourly,Random Forest,Einstein's,2026-05-15,7.0,3.0,8.25994356872111
+Hourly,Random Forest,Einstein's,2026-05-15,8.0,20.0,31.02359274520611
+Hourly,Random Forest,Einstein's,2026-05-15,9.0,44.0,30.749825632852758
+Hourly,Random Forest,Einstein's,2026-05-15,10.0,70.0,40.207759899312165
+Hourly,Random Forest,Einstein's,2026-05-15,11.0,72.0,37.690376284766465
+Hourly,Random Forest,Einstein's,2026-05-15,12.0,59.0,42.77431426970835
+Hourly,Random Forest,Einstein's,2026-05-15,13.0,40.0,36.271135030009205
+Hourly,Random Forest,Einstein's,2026-05-15,14.0,4.0,23.287938910411135
+Hourly,Random Forest,Einstein's,2026-05-18,8.0,24.0,22.823738086661706
+Hourly,Random Forest,Einstein's,2026-05-18,9.0,18.0,41.891905696359245
+Hourly,Random Forest,Einstein's,2026-05-18,10.0,17.0,50.718268604901205
+Hourly,Random Forest,Einstein's,2026-05-18,11.0,21.0,45.01248902086414
+Hourly,Random Forest,Einstein's,2026-05-18,12.0,29.0,52.93457701862803
+Hourly,Random Forest,Einstein's,2026-05-18,13.0,20.0,51.297727652218555
+Hourly,Random Forest,Einstein's,2026-05-18,14.0,6.0,29.21864153529225
+Hourly,Random Forest,Einstein's,2026-05-18,15.0,8.0,24.85110815882542
+Hourly,Random Forest,Einstein's,2026-05-19,8.0,9.0,26.168859257494827
+Hourly,Random Forest,Einstein's,2026-05-19,9.0,7.0,36.48320757845765
+Hourly,Random Forest,Einstein's,2026-05-19,10.0,15.0,44.76546284545186
+Hourly,Random Forest,Einstein's,2026-05-19,11.0,11.0,40.914007200272245
+Hourly,Random Forest,Einstein's,2026-05-19,12.0,49.0,51.60302538323286
+Hourly,Random Forest,Einstein's,2026-05-19,13.0,10.0,46.36100205584907
+Hourly,Random Forest,Einstein's,2026-05-19,14.0,13.0,27.801650940153817
+Hourly,Random Forest,Einstein's,2026-05-19,15.0,6.0,23.6650862927122
+Hourly,Random Forest,Einstein's,2026-05-20,8.0,18.0,26.59631258848617
+Hourly,Random Forest,Einstein's,2026-05-20,9.0,17.0,38.90646090540979
+Hourly,Random Forest,Einstein's,2026-05-20,10.0,7.0,43.63588842137005
+Hourly,Random Forest,Einstein's,2026-05-20,11.0,23.0,41.37291100559128
+Hourly,Random Forest,Einstein's,2026-05-20,12.0,27.0,47.52979390683358
+Hourly,Random Forest,Einstein's,2026-05-20,13.0,21.0,41.77385748081657
+Hourly,Random Forest,Einstein's,2026-05-20,14.0,11.0,29.865791740950467
+Hourly,Random Forest,Einstein's,2026-05-20,15.0,7.0,24.269042959895973
+Hourly,Random Forest,Einstein's,2026-05-21,8.0,12.0,26.714388600709253
+Hourly,Random Forest,Einstein's,2026-05-21,9.0,25.0,38.15741108726965
+Hourly,Random Forest,Einstein's,2026-05-21,10.0,13.0,43.86524928604403
+Hourly,Random Forest,Einstein's,2026-05-21,11.0,9.0,42.04522079636182
+Hourly,Random Forest,Einstein's,2026-05-21,12.0,16.0,47.39174323591814
+Hourly,Random Forest,Einstein's,2026-05-21,13.0,7.0,38.56718894724493
+Hourly,Random Forest,Einstein's,2026-05-21,14.0,5.0,30.506313995235203
+Hourly,Random Forest,Einstein's,2026-05-21,15.0,10.0,28.964735792627465
+Hourly,Random Forest,Einstein's,2026-05-21,16.0,1.0,25.660255228811547
+Hourly,Random Forest,Einstein's,2026-05-26,8.0,5.0,27.95701705582362
+Hourly,Random Forest,Einstein's,2026-05-26,9.0,12.0,38.970527157216154
+Hourly,Random Forest,Einstein's,2026-05-26,10.0,15.0,43.40295644607609
+Hourly,Random Forest,Einstein's,2026-05-26,11.0,21.0,37.550959502793155
+Hourly,Random Forest,Einstein's,2026-05-26,12.0,23.0,47.66345657124888
+Hourly,Random Forest,Einstein's,2026-05-26,13.0,26.0,36.570656189131704
+Hourly,Random Forest,Einstein's,2026-05-26,14.0,4.0,24.794910715122167
+Hourly,Random Forest,Einstein's,2026-05-26,15.0,5.0,24.720885589464952
+Hourly,Random Forest,Einstein's,2026-05-26,16.0,2.0,20.652796283431275
+Hourly,Random Forest,Einstein's,2026-05-27,8.0,15.0,27.87369608298779
+Hourly,Random Forest,Einstein's,2026-05-27,9.0,35.0,33.18877722591866
+Hourly,Random Forest,Einstein's,2026-05-27,10.0,6.0,41.592028921032906
+Hourly,Random Forest,Einstein's,2026-05-27,11.0,27.0,39.02239384623841
+Hourly,Random Forest,Einstein's,2026-05-27,12.0,23.0,44.13266277263074
+Hourly,Random Forest,Einstein's,2026-05-27,13.0,15.0,35.897897839072215
+Hourly,Random Forest,Einstein's,2026-05-27,14.0,10.0,22.690268397272916
+Hourly,Random Forest,Einstein's,2026-05-27,15.0,16.0,21.979136869485615
+Hourly,Random Forest,Einstein's,2026-05-27,16.0,7.0,21.08428814683103
+Hourly,Random Forest,Einstein's,2026-05-28,8.0,23.0,27.79692161675656
+Hourly,Random Forest,Einstein's,2026-05-28,9.0,11.0,34.323534497195205
+Hourly,Random Forest,Einstein's,2026-05-28,10.0,22.0,40.37476957567476
+Hourly,Random Forest,Einstein's,2026-05-28,11.0,17.0,34.953169874860365
+Hourly,Random Forest,Einstein's,2026-05-28,12.0,36.0,45.838456504224474
+Hourly,Random Forest,Einstein's,2026-05-28,13.0,17.0,35.35098878594073
+Hourly,Random Forest,Einstein's,2026-05-28,14.0,10.0,22.09853586954065
+Hourly,Random Forest,Einstein's,2026-05-28,15.0,2.0,22.45631526341846
+Hourly,Random Forest,Einstein's,2026-05-28,16.0,8.0,19.15577525566267
+Hourly,Random Forest,Panda Express,2026-05-01,11.0,20.0,35.17072657358966
+Hourly,Random Forest,Panda Express,2026-05-01,12.0,51.0,47.32833997589064
+Hourly,Random Forest,Panda Express,2026-05-01,13.0,35.0,36.80043668758845
+Hourly,Random Forest,Panda Express,2026-05-04,11.0,93.0,62.21621398279903
+Hourly,Random Forest,Panda Express,2026-05-04,12.0,83.0,80.68623499744521
+Hourly,Random Forest,Panda Express,2026-05-04,13.0,53.0,65.40344576966045
+Hourly,Random Forest,Panda Express,2026-05-04,14.0,37.0,40.36716966597498
+Hourly,Random Forest,Panda Express,2026-05-04,15.0,49.0,33.75326781814419
+Hourly,Random Forest,Panda Express,2026-05-05,10.0,1.0,3.4096240949643146
+Hourly,Random Forest,Panda Express,2026-05-05,11.0,68.0,58.677019462348625
+Hourly,Random Forest,Panda Express,2026-05-05,12.0,72.0,91.11843031450704
+Hourly,Random Forest,Panda Express,2026-05-05,13.0,34.0,57.29700675664848
+Hourly,Random Forest,Panda Express,2026-05-05,14.0,30.0,41.27453133846025
+Hourly,Random Forest,Panda Express,2026-05-05,15.0,30.0,31.59474438525222
+Hourly,Random Forest,Panda Express,2026-05-06,11.0,54.0,66.21655473404914
+Hourly,Random Forest,Panda Express,2026-05-06,12.0,91.0,80.791366725458
+Hourly,Random Forest,Panda Express,2026-05-06,13.0,59.0,67.39183921750647
+Hourly,Random Forest,Panda Express,2026-05-06,14.0,52.0,45.22534071863274
+Hourly,Random Forest,Panda Express,2026-05-06,15.0,48.0,38.81277687409195
+Hourly,Random Forest,Panda Express,2026-05-06,16.0,1.0,1.6736617703055665
+Hourly,Random Forest,Panda Express,2026-05-07,11.0,43.0,52.61101500527853
+Hourly,Random Forest,Panda Express,2026-05-07,12.0,91.0,95.4128758292577
+Hourly,Random Forest,Panda Express,2026-05-07,13.0,41.0,55.3328959145211
+Hourly,Random Forest,Panda Express,2026-05-07,14.0,48.0,49.064090322257556
+Hourly,Random Forest,Panda Express,2026-05-07,15.0,27.0,30.610357287141326
+Hourly,Random Forest,Panda Express,2026-05-07,16.0,1.0,1.995972416873126
+Hourly,Random Forest,Panda Express,2026-05-08,10.0,4.0,3.9120231453711996
+Hourly,Random Forest,Panda Express,2026-05-08,11.0,31.0,32.715471429283454
+Hourly,Random Forest,Panda Express,2026-05-08,12.0,58.0,47.07356500133206
+Hourly,Random Forest,Panda Express,2026-05-08,13.0,20.0,33.238163864756395
+Hourly,Random Forest,Panda Express,2026-05-11,10.0,1.0,3.1445075361091894
+Hourly,Random Forest,Panda Express,2026-05-11,11.0,34.0,39.929571879523785
+Hourly,Random Forest,Panda Express,2026-05-11,12.0,42.0,50.88505374367664
+Hourly,Random Forest,Panda Express,2026-05-11,13.0,39.0,38.782122968787014
+Hourly,Random Forest,Panda Express,2026-05-11,14.0,48.0,23.459411858827693
+Hourly,Random Forest,Panda Express,2026-05-11,15.0,43.0,23.249869230298795
+Hourly,Random Forest,Panda Express,2026-05-12,11.0,39.0,35.1761843243652
+Hourly,Random Forest,Panda Express,2026-05-12,12.0,49.0,47.65488270629589
+Hourly,Random Forest,Panda Express,2026-05-12,13.0,32.0,33.86027899474548
+Hourly,Random Forest,Panda Express,2026-05-12,14.0,37.0,22.53889685003203
+Hourly,Random Forest,Panda Express,2026-05-12,15.0,24.0,21.828378952399685
+Hourly,Random Forest,Panda Express,2026-05-13,11.0,51.0,36.37857138173636
+Hourly,Random Forest,Panda Express,2026-05-13,12.0,36.0,51.164618004115546
+Hourly,Random Forest,Panda Express,2026-05-13,13.0,40.0,39.96760126941819
+Hourly,Random Forest,Panda Express,2026-05-13,14.0,24.0,26.567048641594255
+Hourly,Random Forest,Panda Express,2026-05-13,15.0,24.0,24.910729387064357
+Hourly,Random Forest,Panda Express,2026-05-14,11.0,29.0,35.083072617024825
+Hourly,Random Forest,Panda Express,2026-05-14,12.0,54.0,47.62552215710794
+Hourly,Random Forest,Panda Express,2026-05-14,13.0,43.0,39.286406398574464
+Hourly,Random Forest,Panda Express,2026-05-14,14.0,35.0,26.623498773075212
+Hourly,Random Forest,Panda Express,2026-05-14,15.0,6.0,20.3580147607034
+Hourly,Random Forest,Residential Dining,2026-05-01,7.0,3.0,1.8515075117795265
+Hourly,Random Forest,Residential Dining,2026-05-01,8.0,1.0,3.282456295976822
+Hourly,Random Forest,Residential Dining,2026-05-01,9.0,1.0,1.833030032690295
+Hourly,Random Forest,Residential Dining,2026-05-01,11.0,5.0,4.114964309703627
+Hourly,Random Forest,Residential Dining,2026-05-01,12.0,3.0,4.422477938445488
+Hourly,Random Forest,Residential Dining,2026-05-01,13.0,1.0,3.4045980810987
+Hourly,Random Forest,Residential Dining,2026-05-01,18.0,1.0,2.2803146677795887
+Hourly,Random Forest,Residential Dining,2026-05-02,18.0,1.0,2.251691576186121
+Hourly,Random Forest,Residential Dining,2026-05-03,12.0,2.0,3.634645109779466
+Hourly,Random Forest,Residential Dining,2026-05-03,17.0,2.0,3.0934834947881837
+Hourly,Random Forest,Residential Dining,2026-05-04,7.0,1.0,1.6912703324531162
+Hourly,Random Forest,Residential Dining,2026-05-04,8.0,2.0,3.0282070832937875
+Hourly,Random Forest,Residential Dining,2026-05-04,9.0,1.0,1.7138493966806234
+Hourly,Random Forest,Residential Dining,2026-05-04,10.0,2.0,2.652631922647968
+Hourly,Random Forest,Residential Dining,2026-05-04,11.0,5.0,6.924174634617292
+Hourly,Random Forest,Residential Dining,2026-05-04,12.0,11.0,11.008999426668
+Hourly,Random Forest,Residential Dining,2026-05-04,17.0,3.0,2.7591482615009704
+Hourly,Random Forest,Residential Dining,2026-05-04,18.0,4.0,2.2460344320424346
+Hourly,Random Forest,Residential Dining,2026-05-05,8.0,1.0,2.9465913258147554
+Hourly,Random Forest,Residential Dining,2026-05-05,9.0,1.0,1.7731963347293622
+Hourly,Random Forest,Residential Dining,2026-05-05,10.0,1.0,3.021515891357743
+Hourly,Random Forest,Residential Dining,2026-05-05,11.0,57.0,9.307932683352082
+Hourly,Random Forest,Residential Dining,2026-05-05,12.0,2.0,4.188230715219394
+Hourly,Random Forest,Residential Dining,2026-05-05,17.0,2.0,2.89388514206592
+Hourly,Random Forest,Residential Dining,2026-05-05,18.0,3.0,2.1582731468729675
+Hourly,Random Forest,Residential Dining,2026-05-05,19.0,1.0,1.4841092179277466
+Hourly,Random Forest,Residential Dining,2026-05-06,7.0,3.0,1.6089271268059904
+Hourly,Random Forest,Residential Dining,2026-05-06,8.0,1.0,3.0831428682395887
+Hourly,Random Forest,Residential Dining,2026-05-06,9.0,1.0,1.837318078429965
+Hourly,Random Forest,Residential Dining,2026-05-06,10.0,2.0,2.9865268767313196
+Hourly,Random Forest,Residential Dining,2026-05-06,11.0,52.0,12.71476955277056
+Hourly,Random Forest,Residential Dining,2026-05-06,12.0,12.0,14.692601852536875
+Hourly,Random Forest,Residential Dining,2026-05-06,13.0,4.0,4.134735269232957
+Hourly,Random Forest,Residential Dining,2026-05-06,17.0,5.0,3.7432307653652725
+Hourly,Random Forest,Residential Dining,2026-05-06,18.0,1.0,3.048398740771065
+Hourly,Random Forest,Residential Dining,2026-05-07,7.0,1.0,1.8155624815386073
+Hourly,Random Forest,Residential Dining,2026-05-07,11.0,7.0,9.900254006604502
+Hourly,Random Forest,Residential Dining,2026-05-07,13.0,1.0,2.6416329120172644
+Hourly,Random Forest,Residential Dining,2026-05-07,17.0,2.0,2.966669382946655
+Hourly,Random Forest,Residential Dining,2026-05-07,18.0,2.0,2.2039380891787683
+Hourly,Random Forest,Residential Dining,2026-05-08,7.0,1.0,1.914222019441396
+Hourly,Random Forest,Residential Dining,2026-05-08,8.0,2.0,2.8491223185183956
+Hourly,Random Forest,Residential Dining,2026-05-08,9.0,6.0,1.5720208148728432
+Hourly,Random Forest,Residential Dining,2026-05-08,11.0,3.0,4.281249425030506
+Hourly,Random Forest,Residential Dining,2026-05-08,13.0,2.0,3.111647187291295
+Hourly,Random Forest,Residential Dining,2026-05-08,16.0,1.0,1.5373664163137932
+Hourly,Random Forest,Residential Dining,2026-05-08,17.0,1.0,2.7823953168222952
+Hourly,Random Forest,Residential Dining,2026-05-08,21.0,1.0,1.492133061340509
+Hourly,Random Forest,Residential Dining,2026-05-09,13.0,4.0,2.720339996649877
+Hourly,Random Forest,Residential Dining,2026-05-10,12.0,3.0,3.606924861940871
+Hourly,Random Forest,Residential Dining,2026-05-10,18.0,3.0,2.146312904892398
+Hourly,Random Forest,Residential Dining,2026-05-11,8.0,2.0,3.303741952044007
+Hourly,Random Forest,Residential Dining,2026-05-11,9.0,1.0,1.7319518673053205
+Hourly,Random Forest,Residential Dining,2026-05-11,10.0,1.0,3.043121461336183
+Hourly,Random Forest,Residential Dining,2026-05-11,11.0,5.0,4.2272856642422285
+Hourly,Random Forest,Residential Dining,2026-05-11,12.0,12.0,7.76927668652295
+Hourly,Random Forest,Residential Dining,2026-05-11,13.0,5.0,3.0925044276970097
+Hourly,Random Forest,Residential Dining,2026-05-11,16.0,1.0,1.553449550179536
+Hourly,Random Forest,Residential Dining,2026-05-11,17.0,1.0,2.9582018659565024
+Hourly,Random Forest,Residential Dining,2026-05-11,18.0,3.0,2.535201019016482
+Hourly,Random Forest,Residential Dining,2026-05-12,7.0,1.0,1.619113046421988
+Hourly,Random Forest,Residential Dining,2026-05-12,8.0,1.0,3.004911954470848
+Hourly,Random Forest,Residential Dining,2026-05-12,9.0,3.0,1.7786742811719358
+Hourly,Random Forest,Residential Dining,2026-05-12,10.0,1.0,2.341732017056925
+Hourly,Random Forest,Residential Dining,2026-05-12,11.0,8.0,12.27172658429482
+Hourly,Random Forest,Residential Dining,2026-05-12,15.0,1.0,1.5298772421774611
+Hourly,Random Forest,Residential Dining,2026-05-12,17.0,4.0,2.8967309514493733
+Hourly,Random Forest,Residential Dining,2026-05-13,8.0,1.0,2.802977653180913
+Hourly,Random Forest,Residential Dining,2026-05-13,9.0,2.0,1.7751594145496434
+Hourly,Random Forest,Residential Dining,2026-05-13,10.0,3.0,2.3815582461953575
+Hourly,Random Forest,Residential Dining,2026-05-13,11.0,5.0,13.639636761774582
+Hourly,Random Forest,Residential Dining,2026-05-13,12.0,14.0,9.358887096382174
+Hourly,Random Forest,Residential Dining,2026-05-13,13.0,6.0,2.9992968427173117
+Hourly,Random Forest,Residential Dining,2026-05-13,16.0,1.0,1.5331825453513477
+Hourly,Random Forest,Residential Dining,2026-05-13,17.0,3.0,2.954269722169981
+Hourly,Random Forest,Residential Dining,2026-05-14,7.0,5.0,1.681254789332428
+Hourly,Random Forest,Residential Dining,2026-05-14,8.0,2.0,3.165543984921281
+Hourly,Random Forest,Residential Dining,2026-05-14,9.0,1.0,1.780450308972206
+Hourly,Random Forest,Residential Dining,2026-05-14,10.0,1.0,2.416380407222761
+Hourly,Random Forest,Residential Dining,2026-05-14,11.0,7.0,6.9168469959973775
+Hourly,Random Forest,Residential Dining,2026-05-14,12.0,7.0,3.7397297139172894
+Hourly,Random Forest,Residential Dining,2026-05-14,13.0,6.0,2.7314938165175575
+Hourly,Random Forest,Residential Dining,2026-05-14,17.0,2.0,2.992115174604235
+Hourly,Random Forest,Residential Dining,2026-05-14,18.0,2.0,2.2231776739753584
+Hourly,Random Forest,Residential Dining,2026-05-15,7.0,1.0,1.8637324311213328
+Hourly,Random Forest,Residential Dining,2026-05-15,8.0,2.0,2.846974730359953
+Hourly,Random Forest,Residential Dining,2026-05-15,9.0,1.0,2.223237252015865
+Hourly,Random Forest,Residential Dining,2026-05-15,10.0,2.0,2.218915022829151
+Hourly,Random Forest,Residential Dining,2026-05-15,11.0,3.0,6.64134737024511
+Hourly,Random Forest,Residential Dining,2026-05-15,12.0,3.0,3.983705632524955
+Hourly,Random Forest,Residential Dining,2026-05-15,13.0,1.0,2.9143881958115263
+Hourly,Random Forest,Residential Dining,2026-05-15,17.0,1.0,2.714802275508759
+Hourly,XGBoost,Einstein's,2026-05-01,7.0,8.0,8.284892082214355
+Hourly,XGBoost,Einstein's,2026-05-01,8.0,42.0,23.469449996948242
+Hourly,XGBoost,Einstein's,2026-05-01,9.0,51.0,34.93191909790039
+Hourly,XGBoost,Einstein's,2026-05-01,10.0,34.0,43.99418640136719
+Hourly,XGBoost,Einstein's,2026-05-01,11.0,20.0,44.00959396362305
+Hourly,XGBoost,Einstein's,2026-05-01,12.0,38.0,49.509212493896484
+Hourly,XGBoost,Einstein's,2026-05-01,13.0,43.0,41.085758209228516
+Hourly,XGBoost,Einstein's,2026-05-01,14.0,9.0,31.037368774414062
+Hourly,XGBoost,Einstein's,2026-05-01,15.0,27.0,23.9981746673584
+Hourly,XGBoost,Einstein's,2026-05-04,7.0,10.0,7.338766574859619
+Hourly,XGBoost,Einstein's,2026-05-04,8.0,36.0,32.37586212158203
+Hourly,XGBoost,Einstein's,2026-05-04,9.0,65.0,66.19742584228516
+Hourly,XGBoost,Einstein's,2026-05-04,10.0,88.0,96.48199462890625
+Hourly,XGBoost,Einstein's,2026-05-04,11.0,102.0,81.19195556640625
+Hourly,XGBoost,Einstein's,2026-05-04,12.0,82.0,82.82262420654297
+Hourly,XGBoost,Einstein's,2026-05-04,13.0,97.0,74.63243865966797
+Hourly,XGBoost,Einstein's,2026-05-04,14.0,33.0,38.208736419677734
+Hourly,XGBoost,Einstein's,2026-05-04,15.0,63.0,47.06087875366211
+Hourly,XGBoost,Einstein's,2026-05-04,16.0,19.0,31.040292739868164
+Hourly,XGBoost,Einstein's,2026-05-04,17.0,25.0,11.605329513549805
+Hourly,XGBoost,Einstein's,2026-05-05,7.0,6.0,7.909181118011475
+Hourly,XGBoost,Einstein's,2026-05-05,8.0,48.0,62.24678421020508
+Hourly,XGBoost,Einstein's,2026-05-05,9.0,40.0,79.52703857421875
+Hourly,XGBoost,Einstein's,2026-05-05,10.0,116.0,106.25078582763672
+Hourly,XGBoost,Einstein's,2026-05-05,11.0,74.0,71.31609344482422
+Hourly,XGBoost,Einstein's,2026-05-05,12.0,120.0,101.5240478515625
+Hourly,XGBoost,Einstein's,2026-05-05,13.0,38.0,62.506832122802734
+Hourly,XGBoost,Einstein's,2026-05-05,14.0,61.0,46.294097900390625
+Hourly,XGBoost,Einstein's,2026-05-05,15.0,52.0,40.93675231933594
+Hourly,XGBoost,Einstein's,2026-05-05,16.0,29.0,32.95036697387695
+Hourly,XGBoost,Einstein's,2026-05-05,17.0,14.0,13.427324295043945
+Hourly,XGBoost,Einstein's,2026-05-06,7.0,14.0,8.366193771362305
+Hourly,XGBoost,Einstein's,2026-05-06,8.0,42.0,37.45702362060547
+Hourly,XGBoost,Einstein's,2026-05-06,9.0,84.0,68.79109954833984
+Hourly,XGBoost,Einstein's,2026-05-06,10.0,86.0,109.0456771850586
+Hourly,XGBoost,Einstein's,2026-05-06,11.0,97.0,78.0837173461914
+Hourly,XGBoost,Einstein's,2026-05-06,12.0,100.0,79.46185302734375
+Hourly,XGBoost,Einstein's,2026-05-06,13.0,79.0,81.4954605102539
+Hourly,XGBoost,Einstein's,2026-05-06,14.0,62.0,45.17738342285156
+Hourly,XGBoost,Einstein's,2026-05-06,15.0,51.0,54.56022262573242
+Hourly,XGBoost,Einstein's,2026-05-06,16.0,35.0,40.24564743041992
+Hourly,XGBoost,Einstein's,2026-05-06,17.0,12.0,10.712945938110352
+Hourly,XGBoost,Einstein's,2026-05-07,7.0,20.0,8.870020866394043
+Hourly,XGBoost,Einstein's,2026-05-07,8.0,36.0,32.221004486083984
+Hourly,XGBoost,Einstein's,2026-05-07,9.0,75.0,59.5145263671875
+Hourly,XGBoost,Einstein's,2026-05-07,10.0,72.0,91.5138168334961
+Hourly,XGBoost,Einstein's,2026-05-07,11.0,74.0,62.189369201660156
+Hourly,XGBoost,Einstein's,2026-05-07,12.0,79.0,91.60195922851562
+Hourly,XGBoost,Einstein's,2026-05-07,13.0,57.0,59.297576904296875
+Hourly,XGBoost,Einstein's,2026-05-07,14.0,69.0,50.680076599121094
+Hourly,XGBoost,Einstein's,2026-05-07,15.0,40.0,40.902931213378906
+Hourly,XGBoost,Einstein's,2026-05-07,16.0,21.0,33.824424743652344
+Hourly,XGBoost,Einstein's,2026-05-07,17.0,7.0,10.385086059570312
+Hourly,XGBoost,Einstein's,2026-05-08,8.0,40.0,27.186094284057617
+Hourly,XGBoost,Einstein's,2026-05-08,9.0,28.0,40.09158706665039
+Hourly,XGBoost,Einstein's,2026-05-08,10.0,35.0,44.82044219970703
+Hourly,XGBoost,Einstein's,2026-05-08,11.0,51.0,38.137874603271484
+Hourly,XGBoost,Einstein's,2026-05-08,12.0,56.0,43.92278289794922
+Hourly,XGBoost,Einstein's,2026-05-08,13.0,28.0,34.176605224609375
+Hourly,XGBoost,Einstein's,2026-05-08,14.0,11.0,20.807613372802734
+Hourly,XGBoost,Einstein's,2026-05-08,15.0,40.0,23.513097763061523
+Hourly,XGBoost,Einstein's,2026-05-11,7.0,11.0,6.660447597503662
+Hourly,XGBoost,Einstein's,2026-05-11,8.0,20.0,21.240766525268555
+Hourly,XGBoost,Einstein's,2026-05-11,9.0,49.0,30.65241813659668
+Hourly,XGBoost,Einstein's,2026-05-11,10.0,49.0,44.72148132324219
+Hourly,XGBoost,Einstein's,2026-05-11,11.0,52.0,36.30132293701172
+Hourly,XGBoost,Einstein's,2026-05-11,12.0,63.0,35.79288101196289
+Hourly,XGBoost,Einstein's,2026-05-11,13.0,36.0,42.64045333862305
+Hourly,XGBoost,Einstein's,2026-05-11,14.0,42.0,22.83747100830078
+Hourly,XGBoost,Einstein's,2026-05-11,15.0,31.0,26.168720245361328
+Hourly,XGBoost,Einstein's,2026-05-11,16.0,38.0,20.515836715698242
+Hourly,XGBoost,Einstein's,2026-05-11,17.0,26.0,13.105077743530273
+Hourly,XGBoost,Einstein's,2026-05-12,7.0,25.0,6.631541728973389
+Hourly,XGBoost,Einstein's,2026-05-12,8.0,23.0,26.30718421936035
+Hourly,XGBoost,Einstein's,2026-05-12,9.0,69.0,42.72888946533203
+Hourly,XGBoost,Einstein's,2026-05-12,10.0,50.0,38.55373001098633
+Hourly,XGBoost,Einstein's,2026-05-12,11.0,46.0,36.79513168334961
+Hourly,XGBoost,Einstein's,2026-05-12,12.0,82.0,32.799049377441406
+Hourly,XGBoost,Einstein's,2026-05-12,13.0,64.0,43.73551940917969
+Hourly,XGBoost,Einstein's,2026-05-12,14.0,36.0,23.86958885192871
+Hourly,XGBoost,Einstein's,2026-05-12,15.0,18.0,23.833703994750977
+Hourly,XGBoost,Einstein's,2026-05-12,16.0,33.0,24.529687881469727
+Hourly,XGBoost,Einstein's,2026-05-12,17.0,14.0,12.486906051635742
+Hourly,XGBoost,Einstein's,2026-05-13,7.0,21.0,9.237229347229004
+Hourly,XGBoost,Einstein's,2026-05-13,8.0,18.0,26.1495418548584
+Hourly,XGBoost,Einstein's,2026-05-13,9.0,36.0,40.4097900390625
+Hourly,XGBoost,Einstein's,2026-05-13,10.0,54.0,41.11687469482422
+Hourly,XGBoost,Einstein's,2026-05-13,11.0,54.0,37.72169494628906
+Hourly,XGBoost,Einstein's,2026-05-13,12.0,60.0,47.572566986083984
+Hourly,XGBoost,Einstein's,2026-05-13,13.0,50.0,38.49307632446289
+Hourly,XGBoost,Einstein's,2026-05-13,14.0,47.0,25.46380043029785
+Hourly,XGBoost,Einstein's,2026-05-13,15.0,31.0,36.54954528808594
+Hourly,XGBoost,Einstein's,2026-05-13,16.0,63.0,27.51451301574707
+Hourly,XGBoost,Einstein's,2026-05-13,17.0,32.0,12.011924743652344
+Hourly,XGBoost,Einstein's,2026-05-14,7.0,7.0,3.865072727203369
+Hourly,XGBoost,Einstein's,2026-05-14,8.0,20.0,19.147960662841797
+Hourly,XGBoost,Einstein's,2026-05-14,9.0,57.0,32.47291564941406
+Hourly,XGBoost,Einstein's,2026-05-14,10.0,44.0,45.055294036865234
+Hourly,XGBoost,Einstein's,2026-05-14,11.0,39.0,35.91648483276367
+Hourly,XGBoost,Einstein's,2026-05-14,12.0,62.0,46.79041290283203
+Hourly,XGBoost,Einstein's,2026-05-14,13.0,47.0,38.60368728637695
+Hourly,XGBoost,Einstein's,2026-05-14,14.0,46.0,28.742490768432617
+Hourly,XGBoost,Einstein's,2026-05-14,15.0,55.0,30.873228073120117
+Hourly,XGBoost,Einstein's,2026-05-14,16.0,38.0,22.047517776489258
+Hourly,XGBoost,Einstein's,2026-05-14,17.0,9.0,12.378446578979492
+Hourly,XGBoost,Einstein's,2026-05-15,7.0,3.0,2.33364200592041
+Hourly,XGBoost,Einstein's,2026-05-15,8.0,20.0,21.1769962310791
+Hourly,XGBoost,Einstein's,2026-05-15,9.0,44.0,28.273881912231445
+Hourly,XGBoost,Einstein's,2026-05-15,10.0,70.0,39.38300323486328
+Hourly,XGBoost,Einstein's,2026-05-15,11.0,72.0,36.42344665527344
+Hourly,XGBoost,Einstein's,2026-05-15,12.0,59.0,41.45584487915039
+Hourly,XGBoost,Einstein's,2026-05-15,13.0,40.0,32.69840621948242
+Hourly,XGBoost,Einstein's,2026-05-15,14.0,4.0,19.5495548248291
+Hourly,XGBoost,Einstein's,2026-05-18,8.0,24.0,23.804689407348633
+Hourly,XGBoost,Einstein's,2026-05-18,9.0,18.0,46.0377082824707
+Hourly,XGBoost,Einstein's,2026-05-18,10.0,17.0,54.93492889404297
+Hourly,XGBoost,Einstein's,2026-05-18,11.0,21.0,46.48158264160156
+Hourly,XGBoost,Einstein's,2026-05-18,12.0,29.0,54.86310577392578
+Hourly,XGBoost,Einstein's,2026-05-18,13.0,20.0,45.27187728881836
+Hourly,XGBoost,Einstein's,2026-05-18,14.0,6.0,27.121652603149414
+Hourly,XGBoost,Einstein's,2026-05-18,15.0,8.0,23.041515350341797
+Hourly,XGBoost,Einstein's,2026-05-19,8.0,9.0,22.43659210205078
+Hourly,XGBoost,Einstein's,2026-05-19,9.0,7.0,35.99613571166992
+Hourly,XGBoost,Einstein's,2026-05-19,10.0,15.0,48.72502136230469
+Hourly,XGBoost,Einstein's,2026-05-19,11.0,11.0,42.485164642333984
+Hourly,XGBoost,Einstein's,2026-05-19,12.0,49.0,60.14564514160156
+Hourly,XGBoost,Einstein's,2026-05-19,13.0,10.0,44.106597900390625
+Hourly,XGBoost,Einstein's,2026-05-19,14.0,13.0,32.739990234375
+Hourly,XGBoost,Einstein's,2026-05-19,15.0,6.0,22.021257400512695
+Hourly,XGBoost,Einstein's,2026-05-20,8.0,18.0,20.94746208190918
+Hourly,XGBoost,Einstein's,2026-05-20,9.0,17.0,42.47172546386719
+Hourly,XGBoost,Einstein's,2026-05-20,10.0,7.0,50.57858657836914
+Hourly,XGBoost,Einstein's,2026-05-20,11.0,23.0,45.729103088378906
+Hourly,XGBoost,Einstein's,2026-05-20,12.0,27.0,53.328895568847656
+Hourly,XGBoost,Einstein's,2026-05-20,13.0,21.0,40.315650939941406
+Hourly,XGBoost,Einstein's,2026-05-20,14.0,11.0,33.021732330322266
+Hourly,XGBoost,Einstein's,2026-05-20,15.0,7.0,23.623050689697266
+Hourly,XGBoost,Einstein's,2026-05-21,8.0,12.0,14.490388870239258
+Hourly,XGBoost,Einstein's,2026-05-21,9.0,25.0,36.81418991088867
+Hourly,XGBoost,Einstein's,2026-05-21,10.0,13.0,46.45320129394531
+Hourly,XGBoost,Einstein's,2026-05-21,11.0,9.0,42.868553161621094
+Hourly,XGBoost,Einstein's,2026-05-21,12.0,16.0,46.72819137573242
+Hourly,XGBoost,Einstein's,2026-05-21,13.0,7.0,41.3665885925293
+Hourly,XGBoost,Einstein's,2026-05-21,14.0,5.0,32.036827087402344
+Hourly,XGBoost,Einstein's,2026-05-21,15.0,10.0,26.695438385009766
+Hourly,XGBoost,Einstein's,2026-05-21,16.0,1.0,30.759496688842773
+Hourly,XGBoost,Einstein's,2026-05-26,8.0,5.0,21.571025848388672
+Hourly,XGBoost,Einstein's,2026-05-26,9.0,12.0,33.31770324707031
+Hourly,XGBoost,Einstein's,2026-05-26,10.0,15.0,41.160972595214844
+Hourly,XGBoost,Einstein's,2026-05-26,11.0,21.0,35.97270965576172
+Hourly,XGBoost,Einstein's,2026-05-26,12.0,23.0,49.35594177246094
+Hourly,XGBoost,Einstein's,2026-05-26,13.0,26.0,34.644222259521484
+Hourly,XGBoost,Einstein's,2026-05-26,14.0,4.0,22.129837036132812
+Hourly,XGBoost,Einstein's,2026-05-26,15.0,5.0,22.296232223510742
+Hourly,XGBoost,Einstein's,2026-05-26,16.0,2.0,21.45349884033203
+Hourly,XGBoost,Einstein's,2026-05-27,8.0,15.0,19.520402908325195
+Hourly,XGBoost,Einstein's,2026-05-27,9.0,35.0,30.980182647705078
+Hourly,XGBoost,Einstein's,2026-05-27,10.0,6.0,37.80833053588867
+Hourly,XGBoost,Einstein's,2026-05-27,11.0,27.0,34.700889587402344
+Hourly,XGBoost,Einstein's,2026-05-27,12.0,23.0,42.31069564819336
+Hourly,XGBoost,Einstein's,2026-05-27,13.0,15.0,35.0274658203125
+Hourly,XGBoost,Einstein's,2026-05-27,14.0,10.0,23.006181716918945
+Hourly,XGBoost,Einstein's,2026-05-27,15.0,16.0,21.753437042236328
+Hourly,XGBoost,Einstein's,2026-05-27,16.0,7.0,24.258573532104492
+Hourly,XGBoost,Einstein's,2026-05-28,8.0,23.0,19.734432220458984
+Hourly,XGBoost,Einstein's,2026-05-28,9.0,11.0,29.98379898071289
+Hourly,XGBoost,Einstein's,2026-05-28,10.0,22.0,38.025630950927734
+Hourly,XGBoost,Einstein's,2026-05-28,11.0,17.0,34.55278396606445
+Hourly,XGBoost,Einstein's,2026-05-28,12.0,36.0,41.05171203613281
+Hourly,XGBoost,Einstein's,2026-05-28,13.0,17.0,32.09846878051758
+Hourly,XGBoost,Einstein's,2026-05-28,14.0,10.0,22.641647338867188
+Hourly,XGBoost,Einstein's,2026-05-28,15.0,2.0,21.60552978515625
+Hourly,XGBoost,Einstein's,2026-05-28,16.0,8.0,20.26861000061035
+Hourly,XGBoost,Panda Express,2026-05-01,11.0,20.0,34.164276123046875
+Hourly,XGBoost,Panda Express,2026-05-01,12.0,51.0,45.55155944824219
+Hourly,XGBoost,Panda Express,2026-05-01,13.0,35.0,37.88166809082031
+Hourly,XGBoost,Panda Express,2026-05-04,11.0,93.0,63.37610626220703
+Hourly,XGBoost,Panda Express,2026-05-04,12.0,83.0,86.80592346191406
+Hourly,XGBoost,Panda Express,2026-05-04,13.0,53.0,67.61732482910156
+Hourly,XGBoost,Panda Express,2026-05-04,14.0,37.0,43.94368362426758
+Hourly,XGBoost,Panda Express,2026-05-04,15.0,49.0,34.7232551574707
+Hourly,XGBoost,Panda Express,2026-05-05,10.0,1.0,5.086071014404297
+Hourly,XGBoost,Panda Express,2026-05-05,11.0,68.0,54.14794158935547
+Hourly,XGBoost,Panda Express,2026-05-05,12.0,72.0,87.23048400878906
+Hourly,XGBoost,Panda Express,2026-05-05,13.0,34.0,56.0015869140625
+Hourly,XGBoost,Panda Express,2026-05-05,14.0,30.0,42.48306655883789
+Hourly,XGBoost,Panda Express,2026-05-05,15.0,30.0,29.397294998168945
+Hourly,XGBoost,Panda Express,2026-05-06,11.0,54.0,66.74945831298828
+Hourly,XGBoost,Panda Express,2026-05-06,12.0,91.0,90.79052734375
+Hourly,XGBoost,Panda Express,2026-05-06,13.0,59.0,70.62089538574219
+Hourly,XGBoost,Panda Express,2026-05-06,14.0,52.0,46.6077995300293
+Hourly,XGBoost,Panda Express,2026-05-06,15.0,48.0,43.03125
+Hourly,XGBoost,Panda Express,2026-05-06,16.0,1.0,5.1172099113464355
+Hourly,XGBoost,Panda Express,2026-05-07,11.0,43.0,53.67736053466797
+Hourly,XGBoost,Panda Express,2026-05-07,12.0,91.0,91.98455810546875
+Hourly,XGBoost,Panda Express,2026-05-07,13.0,41.0,54.10538864135742
+Hourly,XGBoost,Panda Express,2026-05-07,14.0,48.0,49.77031326293945
+Hourly,XGBoost,Panda Express,2026-05-07,15.0,27.0,29.88032341003418
+Hourly,XGBoost,Panda Express,2026-05-07,16.0,1.0,2.005868911743164
+Hourly,XGBoost,Panda Express,2026-05-08,10.0,4.0,4.814761638641357
+Hourly,XGBoost,Panda Express,2026-05-08,11.0,31.0,28.9818058013916
+Hourly,XGBoost,Panda Express,2026-05-08,12.0,58.0,39.10594940185547
+Hourly,XGBoost,Panda Express,2026-05-08,13.0,20.0,34.023372650146484
+Hourly,XGBoost,Panda Express,2026-05-11,10.0,1.0,3.42586612701416
+Hourly,XGBoost,Panda Express,2026-05-11,11.0,34.0,38.11099624633789
+Hourly,XGBoost,Panda Express,2026-05-11,12.0,42.0,45.73634719848633
+Hourly,XGBoost,Panda Express,2026-05-11,13.0,39.0,38.93185806274414
+Hourly,XGBoost,Panda Express,2026-05-11,14.0,48.0,28.274368286132812
+Hourly,XGBoost,Panda Express,2026-05-11,15.0,43.0,28.59563636779785
+Hourly,XGBoost,Panda Express,2026-05-12,11.0,39.0,33.301395416259766
+Hourly,XGBoost,Panda Express,2026-05-12,12.0,49.0,41.44545364379883
+Hourly,XGBoost,Panda Express,2026-05-12,13.0,32.0,34.588836669921875
+Hourly,XGBoost,Panda Express,2026-05-12,14.0,37.0,21.61373519897461
+Hourly,XGBoost,Panda Express,2026-05-12,15.0,24.0,22.86880874633789
+Hourly,XGBoost,Panda Express,2026-05-13,11.0,51.0,36.73094940185547
+Hourly,XGBoost,Panda Express,2026-05-13,12.0,36.0,45.49094009399414
+Hourly,XGBoost,Panda Express,2026-05-13,13.0,40.0,38.65116882324219
+Hourly,XGBoost,Panda Express,2026-05-13,14.0,24.0,25.45221710205078
+Hourly,XGBoost,Panda Express,2026-05-13,15.0,24.0,28.625059127807617
+Hourly,XGBoost,Panda Express,2026-05-14,11.0,29.0,33.874298095703125
+Hourly,XGBoost,Panda Express,2026-05-14,12.0,54.0,46.7238655090332
+Hourly,XGBoost,Panda Express,2026-05-14,13.0,43.0,40.03348922729492
+Hourly,XGBoost,Panda Express,2026-05-14,14.0,35.0,27.699064254760742
+Hourly,XGBoost,Panda Express,2026-05-14,15.0,6.0,22.196842193603516
+Hourly,XGBoost,Residential Dining,2026-05-01,7.0,3.0,1.6134374141693115
+Hourly,XGBoost,Residential Dining,2026-05-01,8.0,1.0,2.2816507816314697
+Hourly,XGBoost,Residential Dining,2026-05-01,9.0,1.0,1.6190547943115234
+Hourly,XGBoost,Residential Dining,2026-05-01,11.0,5.0,3.250462293624878
+Hourly,XGBoost,Residential Dining,2026-05-01,12.0,3.0,4.419186592102051
+Hourly,XGBoost,Residential Dining,2026-05-01,13.0,1.0,3.162675619125366
+Hourly,XGBoost,Residential Dining,2026-05-01,18.0,1.0,3.4135971069335938
+Hourly,XGBoost,Residential Dining,2026-05-02,18.0,1.0,2.3000237941741943
+Hourly,XGBoost,Residential Dining,2026-05-03,12.0,2.0,4.0678324699401855
+Hourly,XGBoost,Residential Dining,2026-05-03,17.0,2.0,3.255289316177368
+Hourly,XGBoost,Residential Dining,2026-05-04,7.0,1.0,2.2689626216888428
+Hourly,XGBoost,Residential Dining,2026-05-04,8.0,2.0,2.629934072494507
+Hourly,XGBoost,Residential Dining,2026-05-04,9.0,1.0,2.6546835899353027
+Hourly,XGBoost,Residential Dining,2026-05-04,10.0,2.0,2.6904492378234863
+Hourly,XGBoost,Residential Dining,2026-05-04,11.0,5.0,8.474298477172852
+Hourly,XGBoost,Residential Dining,2026-05-04,12.0,11.0,11.942665100097656
+Hourly,XGBoost,Residential Dining,2026-05-04,17.0,3.0,2.5040600299835205
+Hourly,XGBoost,Residential Dining,2026-05-04,18.0,4.0,2.790395736694336
+Hourly,XGBoost,Residential Dining,2026-05-05,8.0,1.0,2.23516845703125
+Hourly,XGBoost,Residential Dining,2026-05-05,9.0,1.0,4.705358028411865
+Hourly,XGBoost,Residential Dining,2026-05-05,10.0,1.0,3.9339942932128906
+Hourly,XGBoost,Residential Dining,2026-05-05,11.0,57.0,9.194559097290039
+Hourly,XGBoost,Residential Dining,2026-05-05,12.0,2.0,3.9681146144866943
+Hourly,XGBoost,Residential Dining,2026-05-05,17.0,2.0,2.379828929901123
+Hourly,XGBoost,Residential Dining,2026-05-05,18.0,3.0,2.099665641784668
+Hourly,XGBoost,Residential Dining,2026-05-05,19.0,1.0,1.677700161933899
+Hourly,XGBoost,Residential Dining,2026-05-06,7.0,3.0,1.9752734899520874
+Hourly,XGBoost,Residential Dining,2026-05-06,8.0,1.0,4.157937526702881
+Hourly,XGBoost,Residential Dining,2026-05-06,9.0,1.0,2.515778064727783
+Hourly,XGBoost,Residential Dining,2026-05-06,10.0,2.0,3.425222396850586
+Hourly,XGBoost,Residential Dining,2026-05-06,11.0,52.0,10.523201942443848
+Hourly,XGBoost,Residential Dining,2026-05-06,12.0,12.0,13.267587661743164
+Hourly,XGBoost,Residential Dining,2026-05-06,13.0,4.0,7.605041980743408
+Hourly,XGBoost,Residential Dining,2026-05-06,17.0,5.0,2.495643138885498
+Hourly,XGBoost,Residential Dining,2026-05-06,18.0,1.0,2.2799363136291504
+Hourly,XGBoost,Residential Dining,2026-05-07,7.0,1.0,1.8827080726623535
+Hourly,XGBoost,Residential Dining,2026-05-07,11.0,7.0,9.222489356994629
+Hourly,XGBoost,Residential Dining,2026-05-07,13.0,1.0,2.7603156566619873
+Hourly,XGBoost,Residential Dining,2026-05-07,17.0,2.0,2.1340689659118652
+Hourly,XGBoost,Residential Dining,2026-05-07,18.0,2.0,2.0364596843719482
+Hourly,XGBoost,Residential Dining,2026-05-08,7.0,1.0,1.3764281272888184
+Hourly,XGBoost,Residential Dining,2026-05-08,8.0,2.0,1.7373998165130615
+Hourly,XGBoost,Residential Dining,2026-05-08,9.0,6.0,1.6581979990005493
+Hourly,XGBoost,Residential Dining,2026-05-08,11.0,3.0,2.6913938522338867
+Hourly,XGBoost,Residential Dining,2026-05-08,13.0,2.0,4.026287078857422
+Hourly,XGBoost,Residential Dining,2026-05-08,16.0,1.0,1.4850811958312988
+Hourly,XGBoost,Residential Dining,2026-05-08,17.0,1.0,2.297083854675293
+Hourly,XGBoost,Residential Dining,2026-05-08,21.0,1.0,1.0152009725570679
+Hourly,XGBoost,Residential Dining,2026-05-09,13.0,4.0,2.440159797668457
+Hourly,XGBoost,Residential Dining,2026-05-10,12.0,3.0,2.8405165672302246
+Hourly,XGBoost,Residential Dining,2026-05-10,18.0,3.0,1.9759366512298584
+Hourly,XGBoost,Residential Dining,2026-05-11,8.0,2.0,1.8295327425003052
+Hourly,XGBoost,Residential Dining,2026-05-11,9.0,1.0,0.05180405452847481
+Hourly,XGBoost,Residential Dining,2026-05-11,10.0,1.0,1.19534432888031
+Hourly,XGBoost,Residential Dining,2026-05-11,11.0,5.0,2.827761173248291
+Hourly,XGBoost,Residential Dining,2026-05-11,12.0,12.0,7.415891647338867
+Hourly,XGBoost,Residential Dining,2026-05-11,13.0,5.0,4.091747760772705
+Hourly,XGBoost,Residential Dining,2026-05-11,16.0,1.0,1.75245201587677
+Hourly,XGBoost,Residential Dining,2026-05-11,17.0,1.0,2.2820611000061035
+Hourly,XGBoost,Residential Dining,2026-05-11,18.0,3.0,3.011641263961792
+Hourly,XGBoost,Residential Dining,2026-05-12,7.0,1.0,2.08516788482666
+Hourly,XGBoost,Residential Dining,2026-05-12,8.0,1.0,2.3437390327453613
+Hourly,XGBoost,Residential Dining,2026-05-12,9.0,3.0,1.8430638313293457
+Hourly,XGBoost,Residential Dining,2026-05-12,10.0,1.0,1.2391961812973022
+Hourly,XGBoost,Residential Dining,2026-05-12,11.0,8.0,10.123250961303711
+Hourly,XGBoost,Residential Dining,2026-05-12,15.0,1.0,1.1365997791290283
+Hourly,XGBoost,Residential Dining,2026-05-12,17.0,4.0,1.9335625171661377
+Hourly,XGBoost,Residential Dining,2026-05-13,8.0,1.0,1.3776012659072876
+Hourly,XGBoost,Residential Dining,2026-05-13,9.0,2.0,1.1652936935424805
+Hourly,XGBoost,Residential Dining,2026-05-13,10.0,3.0,1.1688554286956787
+Hourly,XGBoost,Residential Dining,2026-05-13,11.0,5.0,12.220470428466797
+Hourly,XGBoost,Residential Dining,2026-05-13,12.0,14.0,6.939342498779297
+Hourly,XGBoost,Residential Dining,2026-05-13,13.0,6.0,1.6769503355026245
+Hourly,XGBoost,Residential Dining,2026-05-13,16.0,1.0,1.8988200426101685
+Hourly,XGBoost,Residential Dining,2026-05-13,17.0,3.0,1.9643672704696655
+Hourly,XGBoost,Residential Dining,2026-05-14,7.0,5.0,0.48340827226638794
+Hourly,XGBoost,Residential Dining,2026-05-14,8.0,2.0,1.6130472421646118
+Hourly,XGBoost,Residential Dining,2026-05-14,9.0,1.0,-0.012418946251273155
+Hourly,XGBoost,Residential Dining,2026-05-14,10.0,1.0,1.6678681373596191
+Hourly,XGBoost,Residential Dining,2026-05-14,11.0,7.0,3.9513919353485107
+Hourly,XGBoost,Residential Dining,2026-05-14,12.0,7.0,3.0042479038238525
+Hourly,XGBoost,Residential Dining,2026-05-14,13.0,6.0,1.6339430809020996
+Hourly,XGBoost,Residential Dining,2026-05-14,17.0,2.0,2.4083635807037354
+Hourly,XGBoost,Residential Dining,2026-05-14,18.0,2.0,1.6842011213302612
+Hourly,XGBoost,Residential Dining,2026-05-15,7.0,1.0,0.4601898193359375
+Hourly,XGBoost,Residential Dining,2026-05-15,8.0,2.0,-0.4052456319332123
+Hourly,XGBoost,Residential Dining,2026-05-15,9.0,1.0,-0.04159883037209511
+Hourly,XGBoost,Residential Dining,2026-05-15,10.0,2.0,0.5758541822433472
+Hourly,XGBoost,Residential Dining,2026-05-15,11.0,3.0,4.235284805297852
+Hourly,XGBoost,Residential Dining,2026-05-15,12.0,3.0,2.8880090713500977
+Hourly,XGBoost,Residential Dining,2026-05-15,13.0,1.0,1.4600974321365356
+Hourly,XGBoost,Residential Dining,2026-05-15,17.0,1.0,2.052077531814575
+Hourly,LightGBM,Einstein's,2026-05-01,7.0,8.0,10.122643655222216
+Hourly,LightGBM,Einstein's,2026-05-01,8.0,42.0,24.037521394013503
+Hourly,LightGBM,Einstein's,2026-05-01,9.0,51.0,30.761969411709476
+Hourly,LightGBM,Einstein's,2026-05-01,10.0,34.0,42.679154385546816
+Hourly,LightGBM,Einstein's,2026-05-01,11.0,20.0,34.603579710299776
+Hourly,LightGBM,Einstein's,2026-05-01,12.0,38.0,50.878926144640445
+Hourly,LightGBM,Einstein's,2026-05-01,13.0,43.0,38.549536161112805
+Hourly,LightGBM,Einstein's,2026-05-01,14.0,9.0,27.13375432830356
+Hourly,LightGBM,Einstein's,2026-05-01,15.0,27.0,23.890313168905035
+Hourly,LightGBM,Einstein's,2026-05-04,7.0,10.0,11.319661932417647
+Hourly,LightGBM,Einstein's,2026-05-04,8.0,36.0,31.946272924313067
+Hourly,LightGBM,Einstein's,2026-05-04,9.0,65.0,67.1122180499884
+Hourly,LightGBM,Einstein's,2026-05-04,10.0,88.0,99.43665290413914
+Hourly,LightGBM,Einstein's,2026-05-04,11.0,102.0,83.58953163266413
+Hourly,LightGBM,Einstein's,2026-05-04,12.0,82.0,81.21393409816046
+Hourly,LightGBM,Einstein's,2026-05-04,13.0,97.0,76.19751708444696
+Hourly,LightGBM,Einstein's,2026-05-04,14.0,33.0,39.093556318032796
+Hourly,LightGBM,Einstein's,2026-05-04,15.0,63.0,47.703377628018316
+Hourly,LightGBM,Einstein's,2026-05-04,16.0,19.0,31.616278893051394
+Hourly,LightGBM,Einstein's,2026-05-04,17.0,25.0,14.070270644204244
+Hourly,LightGBM,Einstein's,2026-05-05,7.0,6.0,9.242537434731489
+Hourly,LightGBM,Einstein's,2026-05-05,8.0,48.0,49.11703704645628
+Hourly,LightGBM,Einstein's,2026-05-05,9.0,40.0,77.90663172315347
+Hourly,LightGBM,Einstein's,2026-05-05,10.0,116.0,106.11718302208082
+Hourly,LightGBM,Einstein's,2026-05-05,11.0,74.0,67.57458281388064
+Hourly,LightGBM,Einstein's,2026-05-05,12.0,120.0,102.90026649586451
+Hourly,LightGBM,Einstein's,2026-05-05,13.0,38.0,56.63436089785112
+Hourly,LightGBM,Einstein's,2026-05-05,14.0,61.0,45.03711781029487
+Hourly,LightGBM,Einstein's,2026-05-05,15.0,52.0,37.35503469067301
+Hourly,LightGBM,Einstein's,2026-05-05,16.0,29.0,35.78323526688812
+Hourly,LightGBM,Einstein's,2026-05-05,17.0,14.0,16.019635535693574
+Hourly,LightGBM,Einstein's,2026-05-06,7.0,14.0,11.63262256880906
+Hourly,LightGBM,Einstein's,2026-05-06,8.0,42.0,35.530489769378754
+Hourly,LightGBM,Einstein's,2026-05-06,9.0,84.0,70.07776166651482
+Hourly,LightGBM,Einstein's,2026-05-06,10.0,86.0,103.83113291864669
+Hourly,LightGBM,Einstein's,2026-05-06,11.0,97.0,85.36763777889551
+Hourly,LightGBM,Einstein's,2026-05-06,12.0,100.0,83.56995594126319
+Hourly,LightGBM,Einstein's,2026-05-06,13.0,79.0,83.2807978901821
+Hourly,LightGBM,Einstein's,2026-05-06,14.0,62.0,43.89133466640203
+Hourly,LightGBM,Einstein's,2026-05-06,15.0,51.0,49.98102627322948
+Hourly,LightGBM,Einstein's,2026-05-06,16.0,35.0,35.263698687368546
+Hourly,LightGBM,Einstein's,2026-05-06,17.0,12.0,10.70956920324772
+Hourly,LightGBM,Einstein's,2026-05-07,7.0,20.0,11.657757665442846
+Hourly,LightGBM,Einstein's,2026-05-07,8.0,36.0,33.776501163949796
+Hourly,LightGBM,Einstein's,2026-05-07,9.0,75.0,57.49346459489294
+Hourly,LightGBM,Einstein's,2026-05-07,10.0,72.0,90.32127582967354
+Hourly,LightGBM,Einstein's,2026-05-07,11.0,74.0,65.07225475872956
+Hourly,LightGBM,Einstein's,2026-05-07,12.0,79.0,96.88048124028768
+Hourly,LightGBM,Einstein's,2026-05-07,13.0,57.0,56.30540051856577
+Hourly,LightGBM,Einstein's,2026-05-07,14.0,69.0,47.710131576641366
+Hourly,LightGBM,Einstein's,2026-05-07,15.0,40.0,34.34144057618525
+Hourly,LightGBM,Einstein's,2026-05-07,16.0,21.0,34.33138611473156
+Hourly,LightGBM,Einstein's,2026-05-07,17.0,7.0,13.337649048183184
+Hourly,LightGBM,Einstein's,2026-05-08,8.0,40.0,25.212979786439888
+Hourly,LightGBM,Einstein's,2026-05-08,9.0,28.0,32.28237849376729
+Hourly,LightGBM,Einstein's,2026-05-08,10.0,35.0,45.80889304731672
+Hourly,LightGBM,Einstein's,2026-05-08,11.0,51.0,38.51682278762136
+Hourly,LightGBM,Einstein's,2026-05-08,12.0,56.0,38.51486170350093
+Hourly,LightGBM,Einstein's,2026-05-08,13.0,28.0,30.368041521574238
+Hourly,LightGBM,Einstein's,2026-05-08,14.0,11.0,20.60457059298835
+Hourly,LightGBM,Einstein's,2026-05-08,15.0,40.0,23.578861664454983
+Hourly,LightGBM,Einstein's,2026-05-11,7.0,11.0,10.732595134957425
+Hourly,LightGBM,Einstein's,2026-05-11,8.0,20.0,23.123429468985464
+Hourly,LightGBM,Einstein's,2026-05-11,9.0,49.0,27.236960814908212
+Hourly,LightGBM,Einstein's,2026-05-11,10.0,49.0,45.869075788923816
+Hourly,LightGBM,Einstein's,2026-05-11,11.0,52.0,35.05449749399559
+Hourly,LightGBM,Einstein's,2026-05-11,12.0,63.0,36.214201036495695
+Hourly,LightGBM,Einstein's,2026-05-11,13.0,36.0,41.61769407487107
+Hourly,LightGBM,Einstein's,2026-05-11,14.0,42.0,20.384589291043323
+Hourly,LightGBM,Einstein's,2026-05-11,15.0,31.0,25.988027672447046
+Hourly,LightGBM,Einstein's,2026-05-11,16.0,38.0,21.00178743643931
+Hourly,LightGBM,Einstein's,2026-05-11,17.0,26.0,15.355401495181027
+Hourly,LightGBM,Einstein's,2026-05-12,7.0,25.0,10.234907289544998
+Hourly,LightGBM,Einstein's,2026-05-12,8.0,23.0,26.28148890622573
+Hourly,LightGBM,Einstein's,2026-05-12,9.0,69.0,34.034166036918236
+Hourly,LightGBM,Einstein's,2026-05-12,10.0,50.0,40.498468172861074
+Hourly,LightGBM,Einstein's,2026-05-12,11.0,46.0,31.598409553903846
+Hourly,LightGBM,Einstein's,2026-05-12,12.0,82.0,39.70939265246049
+Hourly,LightGBM,Einstein's,2026-05-12,13.0,64.0,39.269000810583556
+Hourly,LightGBM,Einstein's,2026-05-12,14.0,36.0,24.665002786163395
+Hourly,LightGBM,Einstein's,2026-05-12,15.0,18.0,23.288213967513915
+Hourly,LightGBM,Einstein's,2026-05-12,16.0,33.0,20.798525803343527
+Hourly,LightGBM,Einstein's,2026-05-12,17.0,14.0,14.211412518592422
+Hourly,LightGBM,Einstein's,2026-05-13,7.0,21.0,13.489435184655807
+Hourly,LightGBM,Einstein's,2026-05-13,8.0,18.0,26.882184354290015
+Hourly,LightGBM,Einstein's,2026-05-13,9.0,36.0,33.71388025135496
+Hourly,LightGBM,Einstein's,2026-05-13,10.0,54.0,42.75133515197594
+Hourly,LightGBM,Einstein's,2026-05-13,11.0,54.0,36.03403823966288
+Hourly,LightGBM,Einstein's,2026-05-13,12.0,60.0,49.65551077021119
+Hourly,LightGBM,Einstein's,2026-05-13,13.0,50.0,38.461675745496116
+Hourly,LightGBM,Einstein's,2026-05-13,14.0,47.0,27.697720541951096
+Hourly,LightGBM,Einstein's,2026-05-13,15.0,31.0,32.059876974191226
+Hourly,LightGBM,Einstein's,2026-05-13,16.0,63.0,24.484577546861473
+Hourly,LightGBM,Einstein's,2026-05-13,17.0,32.0,13.923419104556052
+Hourly,LightGBM,Einstein's,2026-05-14,7.0,7.0,11.849137926583605
+Hourly,LightGBM,Einstein's,2026-05-14,8.0,20.0,20.890147444268184
+Hourly,LightGBM,Einstein's,2026-05-14,9.0,57.0,31.564020896944765
+Hourly,LightGBM,Einstein's,2026-05-14,10.0,44.0,45.95591738620551
+Hourly,LightGBM,Einstein's,2026-05-14,11.0,39.0,34.101072680580515
+Hourly,LightGBM,Einstein's,2026-05-14,12.0,62.0,47.789083987751425
+Hourly,LightGBM,Einstein's,2026-05-14,13.0,47.0,40.7072167615022
+Hourly,LightGBM,Einstein's,2026-05-14,14.0,46.0,28.03283879040545
+Hourly,LightGBM,Einstein's,2026-05-14,15.0,55.0,30.59546012757065
+Hourly,LightGBM,Einstein's,2026-05-14,16.0,38.0,23.405502461134407
+Hourly,LightGBM,Einstein's,2026-05-14,17.0,9.0,14.174639615298341
+Hourly,LightGBM,Einstein's,2026-05-15,7.0,3.0,8.94317817874836
+Hourly,LightGBM,Einstein's,2026-05-15,8.0,20.0,22.744416968498648
+Hourly,LightGBM,Einstein's,2026-05-15,9.0,44.0,29.051587695803214
+Hourly,LightGBM,Einstein's,2026-05-15,10.0,70.0,40.177706848553434
+Hourly,LightGBM,Einstein's,2026-05-15,11.0,72.0,38.03320726887998
+Hourly,LightGBM,Einstein's,2026-05-15,12.0,59.0,48.2222923432211
+Hourly,LightGBM,Einstein's,2026-05-15,13.0,40.0,35.70240629019973
+Hourly,LightGBM,Einstein's,2026-05-15,14.0,4.0,22.47175074855005
+Hourly,LightGBM,Einstein's,2026-05-18,8.0,24.0,26.262208386832455
+Hourly,LightGBM,Einstein's,2026-05-18,9.0,18.0,40.59229551781078
+Hourly,LightGBM,Einstein's,2026-05-18,10.0,17.0,53.06748781580928
+Hourly,LightGBM,Einstein's,2026-05-18,11.0,21.0,43.895696161090385
+Hourly,LightGBM,Einstein's,2026-05-18,12.0,29.0,49.53013686871977
+Hourly,LightGBM,Einstein's,2026-05-18,13.0,20.0,42.70963036391769
+Hourly,LightGBM,Einstein's,2026-05-18,14.0,6.0,27.600403979336058
+Hourly,LightGBM,Einstein's,2026-05-18,15.0,8.0,26.012240132398496
+Hourly,LightGBM,Einstein's,2026-05-19,8.0,9.0,24.280158582562933
+Hourly,LightGBM,Einstein's,2026-05-19,9.0,7.0,37.92625458248907
+Hourly,LightGBM,Einstein's,2026-05-19,10.0,15.0,50.758289139504264
+Hourly,LightGBM,Einstein's,2026-05-19,11.0,11.0,41.986011642827194
+Hourly,LightGBM,Einstein's,2026-05-19,12.0,49.0,52.46365594706813
+Hourly,LightGBM,Einstein's,2026-05-19,13.0,10.0,43.668834020749614
+Hourly,LightGBM,Einstein's,2026-05-19,14.0,13.0,28.463324256019185
+Hourly,LightGBM,Einstein's,2026-05-19,15.0,6.0,25.222247094952294
+Hourly,LightGBM,Einstein's,2026-05-20,8.0,18.0,21.470646329738063
+Hourly,LightGBM,Einstein's,2026-05-20,9.0,17.0,41.128032982823996
+Hourly,LightGBM,Einstein's,2026-05-20,10.0,7.0,52.26864830666803
+Hourly,LightGBM,Einstein's,2026-05-20,11.0,23.0,45.80541657131881
+Hourly,LightGBM,Einstein's,2026-05-20,12.0,27.0,54.0777550975699
+Hourly,LightGBM,Einstein's,2026-05-20,13.0,21.0,38.73756142239918
+Hourly,LightGBM,Einstein's,2026-05-20,14.0,11.0,30.216939960354047
+Hourly,LightGBM,Einstein's,2026-05-20,15.0,7.0,24.556628191678474
+Hourly,LightGBM,Einstein's,2026-05-21,8.0,12.0,21.341329910876286
+Hourly,LightGBM,Einstein's,2026-05-21,9.0,25.0,37.849992900904724
+Hourly,LightGBM,Einstein's,2026-05-21,10.0,13.0,49.484861008538935
+Hourly,LightGBM,Einstein's,2026-05-21,11.0,9.0,41.818512342900554
+Hourly,LightGBM,Einstein's,2026-05-21,12.0,16.0,49.652332080066984
+Hourly,LightGBM,Einstein's,2026-05-21,13.0,7.0,39.498638142456706
+Hourly,LightGBM,Einstein's,2026-05-21,14.0,5.0,30.256401827122335
+Hourly,LightGBM,Einstein's,2026-05-21,15.0,10.0,28.390245503952332
+Hourly,LightGBM,Einstein's,2026-05-21,16.0,1.0,28.029831048037344
+Hourly,LightGBM,Einstein's,2026-05-26,8.0,5.0,19.191846348439253
+Hourly,LightGBM,Einstein's,2026-05-26,9.0,12.0,31.653277284571544
+Hourly,LightGBM,Einstein's,2026-05-26,10.0,15.0,40.29261448725538
+Hourly,LightGBM,Einstein's,2026-05-26,11.0,21.0,30.347484483003
+Hourly,LightGBM,Einstein's,2026-05-26,12.0,23.0,44.79383145736356
+Hourly,LightGBM,Einstein's,2026-05-26,13.0,26.0,31.053952507703777
+Hourly,LightGBM,Einstein's,2026-05-26,14.0,4.0,18.24198846538682
+Hourly,LightGBM,Einstein's,2026-05-26,15.0,5.0,18.047170519395202
+Hourly,LightGBM,Einstein's,2026-05-26,16.0,2.0,18.193304834310602
+Hourly,LightGBM,Einstein's,2026-05-27,8.0,15.0,19.062566666057478
+Hourly,LightGBM,Einstein's,2026-05-27,9.0,35.0,27.81657683521105
+Hourly,LightGBM,Einstein's,2026-05-27,10.0,6.0,39.893153703630894
+Hourly,LightGBM,Einstein's,2026-05-27,11.0,27.0,35.14834953628922
+Hourly,LightGBM,Einstein's,2026-05-27,12.0,23.0,46.861239622492405
+Hourly,LightGBM,Einstein's,2026-05-27,13.0,15.0,33.382138377950575
+Hourly,LightGBM,Einstein's,2026-05-27,14.0,10.0,19.547327146885255
+Hourly,LightGBM,Einstein's,2026-05-27,15.0,16.0,18.551177901431906
+Hourly,LightGBM,Einstein's,2026-05-27,16.0,7.0,21.084246036951853
+Hourly,LightGBM,Einstein's,2026-05-28,8.0,23.0,15.875625231416091
+Hourly,LightGBM,Einstein's,2026-05-28,9.0,11.0,25.733605453222754
+Hourly,LightGBM,Einstein's,2026-05-28,10.0,22.0,36.17030985980308
+Hourly,LightGBM,Einstein's,2026-05-28,11.0,17.0,29.690920655432155
+Hourly,LightGBM,Einstein's,2026-05-28,12.0,36.0,45.02101535034618
+Hourly,LightGBM,Einstein's,2026-05-28,13.0,17.0,30.972260738278127
+Hourly,LightGBM,Einstein's,2026-05-28,14.0,10.0,16.53876814266219
+Hourly,LightGBM,Einstein's,2026-05-28,15.0,2.0,21.269395755462607
+Hourly,LightGBM,Einstein's,2026-05-28,16.0,8.0,17.441826212642656
+Hourly,LightGBM,Panda Express,2026-05-01,11.0,20.0,34.10973669126865
+Hourly,LightGBM,Panda Express,2026-05-01,12.0,51.0,43.51486467934081
+Hourly,LightGBM,Panda Express,2026-05-01,13.0,35.0,42.5127587899388
+Hourly,LightGBM,Panda Express,2026-05-04,11.0,93.0,63.737474109160296
+Hourly,LightGBM,Panda Express,2026-05-04,12.0,83.0,84.98092167680417
+Hourly,LightGBM,Panda Express,2026-05-04,13.0,53.0,70.34990052831847
+Hourly,LightGBM,Panda Express,2026-05-04,14.0,37.0,40.67077031712563
+Hourly,LightGBM,Panda Express,2026-05-04,15.0,49.0,34.493734445476754
+Hourly,LightGBM,Panda Express,2026-05-05,10.0,1.0,6.054673750171236
+Hourly,LightGBM,Panda Express,2026-05-05,11.0,68.0,51.98149783266613
+Hourly,LightGBM,Panda Express,2026-05-05,12.0,72.0,86.84992369643723
+Hourly,LightGBM,Panda Express,2026-05-05,13.0,34.0,55.693980649504304
+Hourly,LightGBM,Panda Express,2026-05-05,14.0,30.0,38.48159369110029
+Hourly,LightGBM,Panda Express,2026-05-05,15.0,30.0,30.227868167234575
+Hourly,LightGBM,Panda Express,2026-05-06,11.0,54.0,67.66366202320611
+Hourly,LightGBM,Panda Express,2026-05-06,12.0,91.0,89.16031347621251
+Hourly,LightGBM,Panda Express,2026-05-06,13.0,59.0,68.6559492781379
+Hourly,LightGBM,Panda Express,2026-05-06,14.0,52.0,43.98139826593296
+Hourly,LightGBM,Panda Express,2026-05-06,15.0,48.0,39.23418623702157
+Hourly,LightGBM,Panda Express,2026-05-06,16.0,1.0,2.5876822087661653
+Hourly,LightGBM,Panda Express,2026-05-07,11.0,43.0,50.971458498705566
+Hourly,LightGBM,Panda Express,2026-05-07,12.0,91.0,91.21529679405603
+Hourly,LightGBM,Panda Express,2026-05-07,13.0,41.0,54.224482131442954
+Hourly,LightGBM,Panda Express,2026-05-07,14.0,48.0,47.30904245892328
+Hourly,LightGBM,Panda Express,2026-05-07,15.0,27.0,30.181734185388105
+Hourly,LightGBM,Panda Express,2026-05-07,16.0,1.0,2.0784067486087445
+Hourly,LightGBM,Panda Express,2026-05-08,10.0,4.0,6.421781717400874
+Hourly,LightGBM,Panda Express,2026-05-08,11.0,31.0,28.099084452609148
+Hourly,LightGBM,Panda Express,2026-05-08,12.0,58.0,44.34726456561894
+Hourly,LightGBM,Panda Express,2026-05-08,13.0,20.0,32.083970393625215
+Hourly,LightGBM,Panda Express,2026-05-11,10.0,1.0,1.8762376604213922
+Hourly,LightGBM,Panda Express,2026-05-11,11.0,34.0,37.3711131759362
+Hourly,LightGBM,Panda Express,2026-05-11,12.0,42.0,48.07542617682972
+Hourly,LightGBM,Panda Express,2026-05-11,13.0,39.0,39.94611914592416
+Hourly,LightGBM,Panda Express,2026-05-11,14.0,48.0,25.486497992758657
+Hourly,LightGBM,Panda Express,2026-05-11,15.0,43.0,25.411516798307286
+Hourly,LightGBM,Panda Express,2026-05-12,11.0,39.0,33.398398492922716
+Hourly,LightGBM,Panda Express,2026-05-12,12.0,49.0,44.07901039131416
+Hourly,LightGBM,Panda Express,2026-05-12,13.0,32.0,35.30739027443835
+Hourly,LightGBM,Panda Express,2026-05-12,14.0,37.0,21.476820418595594
+Hourly,LightGBM,Panda Express,2026-05-12,15.0,24.0,19.936845349409598
+Hourly,LightGBM,Panda Express,2026-05-13,11.0,51.0,39.476663470175716
+Hourly,LightGBM,Panda Express,2026-05-13,12.0,36.0,43.20535723726761
+Hourly,LightGBM,Panda Express,2026-05-13,13.0,40.0,41.06862131426772
+Hourly,LightGBM,Panda Express,2026-05-13,14.0,24.0,26.870593173190457
+Hourly,LightGBM,Panda Express,2026-05-13,15.0,24.0,25.077434523830778
+Hourly,LightGBM,Panda Express,2026-05-14,11.0,29.0,34.048841960322235
+Hourly,LightGBM,Panda Express,2026-05-14,12.0,54.0,46.99700177186332
+Hourly,LightGBM,Panda Express,2026-05-14,13.0,43.0,40.4124060970874
+Hourly,LightGBM,Panda Express,2026-05-14,14.0,35.0,24.743267350423288
+Hourly,LightGBM,Panda Express,2026-05-14,15.0,6.0,21.966351275444254
+Hourly,LightGBM,Residential Dining,2026-05-01,7.0,3.0,2.556847198601353
+Hourly,LightGBM,Residential Dining,2026-05-01,8.0,1.0,2.749871278372199
+Hourly,LightGBM,Residential Dining,2026-05-01,9.0,1.0,2.493783802892553
+Hourly,LightGBM,Residential Dining,2026-05-01,11.0,5.0,7.074275807410992
+Hourly,LightGBM,Residential Dining,2026-05-01,12.0,3.0,6.583677753821969
+Hourly,LightGBM,Residential Dining,2026-05-01,13.0,1.0,4.126668462866238
+Hourly,LightGBM,Residential Dining,2026-05-01,18.0,1.0,5.767016690790584
+Hourly,LightGBM,Residential Dining,2026-05-02,18.0,1.0,2.4233787786847465
+Hourly,LightGBM,Residential Dining,2026-05-03,12.0,2.0,4.271374930203376
+Hourly,LightGBM,Residential Dining,2026-05-03,17.0,2.0,2.759414183317181
+Hourly,LightGBM,Residential Dining,2026-05-04,7.0,1.0,3.0866708795823294
+Hourly,LightGBM,Residential Dining,2026-05-04,8.0,2.0,3.5325944607003468
+Hourly,LightGBM,Residential Dining,2026-05-04,9.0,1.0,3.204946065330763
+Hourly,LightGBM,Residential Dining,2026-05-04,10.0,2.0,3.248118942981115
+Hourly,LightGBM,Residential Dining,2026-05-04,11.0,5.0,7.607878417052841
+Hourly,LightGBM,Residential Dining,2026-05-04,12.0,11.0,14.566679649624659
+Hourly,LightGBM,Residential Dining,2026-05-04,17.0,3.0,2.573683205755314
+Hourly,LightGBM,Residential Dining,2026-05-04,18.0,4.0,5.825743524174026
+Hourly,LightGBM,Residential Dining,2026-05-05,8.0,1.0,3.3502102915523464
+Hourly,LightGBM,Residential Dining,2026-05-05,9.0,1.0,4.656514187768533
+Hourly,LightGBM,Residential Dining,2026-05-05,10.0,1.0,4.196769164298623
+Hourly,LightGBM,Residential Dining,2026-05-05,11.0,57.0,10.479962017142054
+Hourly,LightGBM,Residential Dining,2026-05-05,12.0,2.0,4.253144697124344
+Hourly,LightGBM,Residential Dining,2026-05-05,17.0,2.0,2.6746746814074758
+Hourly,LightGBM,Residential Dining,2026-05-05,18.0,3.0,3.0522323645633374
+Hourly,LightGBM,Residential Dining,2026-05-05,19.0,1.0,2.9139069324217424
+Hourly,LightGBM,Residential Dining,2026-05-06,7.0,3.0,3.277299327857269
+Hourly,LightGBM,Residential Dining,2026-05-06,8.0,1.0,5.833984690247742
+Hourly,LightGBM,Residential Dining,2026-05-06,9.0,1.0,3.2402418513756315
+Hourly,LightGBM,Residential Dining,2026-05-06,10.0,2.0,3.55431954895079
+Hourly,LightGBM,Residential Dining,2026-05-06,11.0,52.0,15.7511953202997
+Hourly,LightGBM,Residential Dining,2026-05-06,12.0,12.0,15.546867083907133
+Hourly,LightGBM,Residential Dining,2026-05-06,13.0,4.0,5.699735165298803
+Hourly,LightGBM,Residential Dining,2026-05-06,17.0,5.0,2.9148521531500933
+Hourly,LightGBM,Residential Dining,2026-05-06,18.0,1.0,3.590445494599713
+Hourly,LightGBM,Residential Dining,2026-05-07,7.0,1.0,3.2616927410089143
+Hourly,LightGBM,Residential Dining,2026-05-07,11.0,7.0,11.375927563137369
+Hourly,LightGBM,Residential Dining,2026-05-07,13.0,1.0,3.3453301726380125
+Hourly,LightGBM,Residential Dining,2026-05-07,17.0,2.0,3.3562567393947114
+Hourly,LightGBM,Residential Dining,2026-05-07,18.0,2.0,3.0473569224242847
+Hourly,LightGBM,Residential Dining,2026-05-08,7.0,1.0,3.2481507615905905
+Hourly,LightGBM,Residential Dining,2026-05-08,8.0,2.0,3.0765043214031493
+Hourly,LightGBM,Residential Dining,2026-05-08,9.0,6.0,2.9516311690395107
+Hourly,LightGBM,Residential Dining,2026-05-08,11.0,3.0,4.491468987960045
+Hourly,LightGBM,Residential Dining,2026-05-08,13.0,2.0,6.0429812784389245
+Hourly,LightGBM,Residential Dining,2026-05-08,16.0,1.0,2.551041992343815
+Hourly,LightGBM,Residential Dining,2026-05-08,17.0,1.0,3.4513788218346795
+Hourly,LightGBM,Residential Dining,2026-05-08,21.0,1.0,0.8446882070768719
+Hourly,LightGBM,Residential Dining,2026-05-09,13.0,4.0,4.070549846197362
+Hourly,LightGBM,Residential Dining,2026-05-10,12.0,3.0,4.7118268048906
+Hourly,LightGBM,Residential Dining,2026-05-10,18.0,3.0,3.3054729946853834
+Hourly,LightGBM,Residential Dining,2026-05-11,8.0,2.0,3.9625012436796685
+Hourly,LightGBM,Residential Dining,2026-05-11,9.0,1.0,3.260493847594114
+Hourly,LightGBM,Residential Dining,2026-05-11,10.0,1.0,2.5643229203087463
+Hourly,LightGBM,Residential Dining,2026-05-11,11.0,5.0,6.688008837605118
+Hourly,LightGBM,Residential Dining,2026-05-11,12.0,12.0,12.300348222711703
+Hourly,LightGBM,Residential Dining,2026-05-11,13.0,5.0,7.618230836570606
+Hourly,LightGBM,Residential Dining,2026-05-11,16.0,1.0,2.815447255166515
+Hourly,LightGBM,Residential Dining,2026-05-11,17.0,1.0,3.448266164131367
+Hourly,LightGBM,Residential Dining,2026-05-11,18.0,3.0,4.53004713593064
+Hourly,LightGBM,Residential Dining,2026-05-12,7.0,1.0,3.177580314106911
+Hourly,LightGBM,Residential Dining,2026-05-12,8.0,1.0,3.295259008615928
+Hourly,LightGBM,Residential Dining,2026-05-12,9.0,3.0,3.4464948100668953
+Hourly,LightGBM,Residential Dining,2026-05-12,10.0,1.0,2.6921298694083746
+Hourly,LightGBM,Residential Dining,2026-05-12,11.0,8.0,12.696471973297601
+Hourly,LightGBM,Residential Dining,2026-05-12,15.0,1.0,2.7334450400823282
+Hourly,LightGBM,Residential Dining,2026-05-12,17.0,4.0,2.305459506190352
+Hourly,LightGBM,Residential Dining,2026-05-13,8.0,1.0,2.7227706575151016
+Hourly,LightGBM,Residential Dining,2026-05-13,9.0,2.0,2.7227706575151016
+Hourly,LightGBM,Residential Dining,2026-05-13,10.0,3.0,2.7050136886628153
+Hourly,LightGBM,Residential Dining,2026-05-13,11.0,5.0,16.898982655066078
+Hourly,LightGBM,Residential Dining,2026-05-13,12.0,14.0,10.692018056800979
+Hourly,LightGBM,Residential Dining,2026-05-13,13.0,6.0,3.979710716386734
+Hourly,LightGBM,Residential Dining,2026-05-13,16.0,1.0,2.7841992956783312
+Hourly,LightGBM,Residential Dining,2026-05-13,17.0,3.0,3.5458158207767165
+Hourly,LightGBM,Residential Dining,2026-05-14,7.0,5.0,3.0264960853879237
+Hourly,LightGBM,Residential Dining,2026-05-14,8.0,2.0,5.3846562851612525
+Hourly,LightGBM,Residential Dining,2026-05-14,9.0,1.0,2.5597926674574305
+Hourly,LightGBM,Residential Dining,2026-05-14,10.0,1.0,4.109658133686603
+Hourly,LightGBM,Residential Dining,2026-05-14,11.0,7.0,9.044919652880534
+Hourly,LightGBM,Residential Dining,2026-05-14,12.0,7.0,6.363395106501241
+Hourly,LightGBM,Residential Dining,2026-05-14,13.0,6.0,4.61072296635669
+Hourly,LightGBM,Residential Dining,2026-05-14,17.0,2.0,4.562783885638913
+Hourly,LightGBM,Residential Dining,2026-05-14,18.0,2.0,2.193828427806323
+Hourly,LightGBM,Residential Dining,2026-05-15,7.0,1.0,4.231425721174494
+Hourly,LightGBM,Residential Dining,2026-05-15,8.0,2.0,1.9723966354446616
+Hourly,LightGBM,Residential Dining,2026-05-15,9.0,1.0,2.7351667999048797
+Hourly,LightGBM,Residential Dining,2026-05-15,10.0,2.0,1.9631186689721598
+Hourly,LightGBM,Residential Dining,2026-05-15,11.0,3.0,10.169662980129079
+Hourly,LightGBM,Residential Dining,2026-05-15,12.0,3.0,7.256939969296287
+Hourly,LightGBM,Residential Dining,2026-05-15,13.0,1.0,4.330639863959337
+Hourly,LightGBM,Residential Dining,2026-05-15,17.0,1.0,3.1653689462844965
+Daily,Random Forest,Einstein's,2026-05-01,11.0,272.0,237.11522222222217
+Daily,Random Forest,Einstein's,2026-05-04,12.0,620.0,572.477835978836
+Daily,Random Forest,Einstein's,2026-05-05,12.0,598.0,589.0625120250119
+Daily,Random Forest,Einstein's,2026-05-06,12.0,662.0,599.0360357142857
+Daily,Random Forest,Einstein's,2026-05-07,12.0,550.0,574.2371759259261
+Daily,Random Forest,Einstein's,2026-05-08,11.5,289.0,246.61572619047607
+Daily,Random Forest,Einstein's,2026-05-11,12.0,417.0,292.64130555555556
+Daily,Random Forest,Einstein's,2026-05-12,12.0,460.0,293.22813492063466
+Daily,Random Forest,Einstein's,2026-05-13,12.0,466.0,289.36037698412673
+Daily,Random Forest,Einstein's,2026-05-14,12.0,424.0,295.8792023809523
+Daily,Random Forest,Einstein's,2026-05-15,10.5,312.0,244.66981349206344
+Daily,Random Forest,Einstein's,2026-05-18,11.5,143.0,238.46104761904766
+Daily,Random Forest,Einstein's,2026-05-19,11.5,120.0,237.4964761904762
+Daily,Random Forest,Einstein's,2026-05-20,11.5,131.0,223.09416666666672
+Daily,Random Forest,Einstein's,2026-05-21,12.0,98.0,238.07091269841263
+Daily,Random Forest,Einstein's,2026-05-26,12.0,113.0,240.25349735449728
+Daily,Random Forest,Einstein's,2026-05-27,12.0,154.0,238.314238095238
+Daily,Random Forest,Einstein's,2026-05-28,12.0,146.0,238.3111746031745
+Daily,Random Forest,Panda Express,2026-05-01,12.0,106.0,137.5395277777778
+Daily,Random Forest,Panda Express,2026-05-04,13.0,315.0,273.37782804232796
+Daily,Random Forest,Panda Express,2026-05-05,12.5,235.0,257.10745767195755
+Daily,Random Forest,Panda Express,2026-05-06,13.5,305.0,278.05666137566124
+Daily,Random Forest,Panda Express,2026-05-07,13.5,251.0,264.2513703703704
+Daily,Random Forest,Panda Express,2026-05-08,11.5,113.0,132.29513492063498
+Daily,Random Forest,Panda Express,2026-05-11,12.5,207.0,143.9408346560847
+Daily,Random Forest,Panda Express,2026-05-12,13.0,181.0,163.50273677248677
+Daily,Random Forest,Panda Express,2026-05-13,13.0,175.0,162.49768915343915
+Daily,Random Forest,Panda Express,2026-05-14,13.0,167.0,164.82866534391536
+Daily,Random Forest,Residential Dining,2026-05-01,11.142857142857142,15.0,25.363228835978838
+Daily,Random Forest,Residential Dining,2026-05-02,18.0,1.0,5.915460317460318
+Daily,Random Forest,Residential Dining,2026-05-03,14.5,4.0,7.985891534391535
+Daily,Random Forest,Residential Dining,2026-05-04,11.5,29.0,30.994645502645497
+Daily,Random Forest,Residential Dining,2026-05-05,13.0,68.0,23.27703968253969
+Daily,Random Forest,Residential Dining,2026-05-06,11.666666666666666,81.0,52.46667857142858
+Daily,Random Forest,Residential Dining,2026-05-07,13.2,13.0,22.613727513227524
+Daily,Random Forest,Residential Dining,2026-05-08,12.75,17.0,27.645649470899475
+Daily,Random Forest,Residential Dining,2026-05-09,13.0,4.0,5.185578042328043
+Daily,Random Forest,Residential Dining,2026-05-10,15.0,6.0,6.3292063492063475
+Daily,Random Forest,Residential Dining,2026-05-11,12.666666666666666,31.0,7.3767063492063505
+Daily,Random Forest,Residential Dining,2026-05-12,11.0,19.0,5.996896825396825
+Daily,Random Forest,Residential Dining,2026-05-13,12.0,35.0,8.355182539682536
+Daily,Random Forest,Residential Dining,2026-05-14,11.666666666666666,33.0,11.05645238095238
+Daily,Random Forest,Residential Dining,2026-05-15,10.875,14.0,8.942063492063491
+Daily,XGBoost,Einstein's,2026-05-01,11.0,272.0,220.8175506591797
+Daily,XGBoost,Einstein's,2026-05-04,12.0,620.0,562.9835815429688
+Daily,XGBoost,Einstein's,2026-05-05,12.0,598.0,580.7863159179688
+Daily,XGBoost,Einstein's,2026-05-06,12.0,662.0,605.9706420898438
+Daily,XGBoost,Einstein's,2026-05-07,12.0,550.0,558.8631591796875
+Daily,XGBoost,Einstein's,2026-05-08,11.5,289.0,235.0665283203125
+Daily,XGBoost,Einstein's,2026-05-11,12.0,417.0,483.4444885253906
+Daily,XGBoost,Einstein's,2026-05-12,12.0,460.0,506.6787109375
+Daily,XGBoost,Einstein's,2026-05-13,12.0,466.0,503.22344970703125
+Daily,XGBoost,Einstein's,2026-05-14,12.0,424.0,495.4189758300781
+Daily,XGBoost,Einstein's,2026-05-15,10.5,312.0,248.25965881347656
+Daily,XGBoost,Einstein's,2026-05-18,11.5,143.0,243.8925018310547
+Daily,XGBoost,Einstein's,2026-05-19,11.5,120.0,243.0802764892578
+Daily,XGBoost,Einstein's,2026-05-20,11.5,131.0,222.73037719726562
+Daily,XGBoost,Einstein's,2026-05-21,12.0,98.0,244.4927978515625
+Daily,XGBoost,Einstein's,2026-05-26,12.0,113.0,269.82733154296875
+Daily,XGBoost,Einstein's,2026-05-27,12.0,154.0,269.3100891113281
+Daily,XGBoost,Einstein's,2026-05-28,12.0,146.0,263.9550476074219
+Daily,XGBoost,Panda Express,2026-05-01,12.0,106.0,133.7252197265625
+Daily,XGBoost,Panda Express,2026-05-04,13.0,315.0,282.9053649902344
+Daily,XGBoost,Panda Express,2026-05-05,12.5,235.0,267.9861755371094
+Daily,XGBoost,Panda Express,2026-05-06,13.5,305.0,309.4504699707031
+Daily,XGBoost,Panda Express,2026-05-07,13.5,251.0,266.1230773925781
+Daily,XGBoost,Panda Express,2026-05-08,11.5,113.0,141.08311462402344
+Daily,XGBoost,Panda Express,2026-05-11,12.5,207.0,125.38325500488281
+Daily,XGBoost,Panda Express,2026-05-12,13.0,181.0,151.46630859375
+Daily,XGBoost,Panda Express,2026-05-13,13.0,175.0,160.572265625
+Daily,XGBoost,Panda Express,2026-05-14,13.0,167.0,149.22532653808594
+Daily,XGBoost,Residential Dining,2026-05-01,11.142857142857142,15.0,28.22861671447754
+Daily,XGBoost,Residential Dining,2026-05-02,18.0,1.0,13.609474182128906
+Daily,XGBoost,Residential Dining,2026-05-03,14.5,4.0,17.524127960205078
+Daily,XGBoost,Residential Dining,2026-05-04,11.5,29.0,32.18402099609375
+Daily,XGBoost,Residential Dining,2026-05-05,13.0,68.0,23.773813247680664
+Daily,XGBoost,Residential Dining,2026-05-06,11.666666666666666,81.0,54.06837463378906
+Daily,XGBoost,Residential Dining,2026-05-07,13.2,13.0,26.82115364074707
+Daily,XGBoost,Residential Dining,2026-05-08,12.75,17.0,24.746078491210938
+Daily,XGBoost,Residential Dining,2026-05-09,13.0,4.0,7.499218940734863
+Daily,XGBoost,Residential Dining,2026-05-10,15.0,6.0,6.493269443511963
+Daily,XGBoost,Residential Dining,2026-05-11,12.666666666666666,31.0,9.406331062316895
+Daily,XGBoost,Residential Dining,2026-05-12,11.0,19.0,4.4645586013793945
+Daily,XGBoost,Residential Dining,2026-05-13,12.0,35.0,13.236044883728027
+Daily,XGBoost,Residential Dining,2026-05-14,11.666666666666666,33.0,11.169412612915039
+Daily,XGBoost,Residential Dining,2026-05-15,10.875,14.0,5.305253982543945
+Daily,LightGBM,Einstein's,2026-05-01,11.0,272.0,265.11736622360115
+Daily,LightGBM,Einstein's,2026-05-04,12.0,620.0,535.125884586264
+Daily,LightGBM,Einstein's,2026-05-05,12.0,598.0,557.6166050750428
+Daily,LightGBM,Einstein's,2026-05-06,12.0,662.0,607.9596147951073
+Daily,LightGBM,Einstein's,2026-05-07,12.0,550.0,560.8413119367394
+Daily,LightGBM,Einstein's,2026-05-08,11.5,289.0,248.58487883144738
+Daily,LightGBM,Einstein's,2026-05-11,12.0,417.0,372.6462547773539
+Daily,LightGBM,Einstein's,2026-05-12,12.0,460.0,387.9369980751867
+Daily,LightGBM,Einstein's,2026-05-13,12.0,466.0,379.8220764189638
+Daily,LightGBM,Einstein's,2026-05-14,12.0,424.0,377.0104143217016
+Daily,LightGBM,Einstein's,2026-05-15,10.5,312.0,239.1052126604518
+Daily,LightGBM,Einstein's,2026-05-18,11.5,143.0,227.78502223270988
+Daily,LightGBM,Einstein's,2026-05-19,11.5,120.0,226.16790958191234
+Daily,LightGBM,Einstein's,2026-05-20,11.5,131.0,226.42839396992488
+Daily,LightGBM,Einstein's,2026-05-21,12.0,98.0,219.0630573616058
+Daily,LightGBM,Einstein's,2026-05-26,12.0,113.0,226.15413652361624
+Daily,LightGBM,Einstein's,2026-05-27,12.0,154.0,230.186361185719
+Daily,LightGBM,Einstein's,2026-05-28,12.0,146.0,215.71804518816177
+Daily,LightGBM,Panda Express,2026-05-01,12.0,106.0,111.9380226232782
+Daily,LightGBM,Panda Express,2026-05-04,13.0,315.0,246.12595547952762
+Daily,LightGBM,Panda Express,2026-05-05,12.5,235.0,216.667273622649
+Daily,LightGBM,Panda Express,2026-05-06,13.5,305.0,262.2636468248986
+Daily,LightGBM,Panda Express,2026-05-07,13.5,251.0,222.05672263366895
+Daily,LightGBM,Panda Express,2026-05-08,11.5,113.0,95.91920906182679
+Daily,LightGBM,Panda Express,2026-05-11,12.5,207.0,68.8838258645564
+Daily,LightGBM,Panda Express,2026-05-12,13.0,181.0,123.59236569064342
+Daily,LightGBM,Panda Express,2026-05-13,13.0,175.0,109.85603328263585
+Daily,LightGBM,Panda Express,2026-05-14,13.0,167.0,102.36498620402556
+Daily,LightGBM,Residential Dining,2026-05-01,11.142857142857142,15.0,6.277516106658077
+Daily,LightGBM,Residential Dining,2026-05-02,18.0,1.0,8.116408347876341
+Daily,LightGBM,Residential Dining,2026-05-03,14.5,4.0,-0.5716859389338131
+Daily,LightGBM,Residential Dining,2026-05-04,11.5,29.0,25.563233651557155
+Daily,LightGBM,Residential Dining,2026-05-05,13.0,68.0,0.8816437310409275
+Daily,LightGBM,Residential Dining,2026-05-06,11.666666666666666,81.0,34.09001323942089
+Daily,LightGBM,Residential Dining,2026-05-07,13.2,13.0,11.47307241318448
+Daily,LightGBM,Residential Dining,2026-05-08,12.75,17.0,17.76843739577655
+Daily,LightGBM,Residential Dining,2026-05-09,13.0,4.0,-2.0561614101228667
+Daily,LightGBM,Residential Dining,2026-05-10,15.0,6.0,-0.5656947665242693
+Daily,LightGBM,Residential Dining,2026-05-11,12.666666666666666,31.0,7.501377909297914
+Daily,LightGBM,Residential Dining,2026-05-12,11.0,19.0,4.814986927716767
+Daily,LightGBM,Residential Dining,2026-05-13,12.0,35.0,12.278857267760253
+Daily,LightGBM,Residential Dining,2026-05-14,11.666666666666666,33.0,-1.891129303785255
+Daily,LightGBM,Residential Dining,2026-05-15,10.875,14.0,-3.202744856917698

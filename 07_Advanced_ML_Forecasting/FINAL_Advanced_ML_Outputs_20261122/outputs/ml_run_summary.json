@@ -1,0 +1,20 @@
+{
+  "python": "/Users/teju/Documents/Codex/2026-11-22/referenced-chatgpt-conversation-this-is-an-11/outputs/ServeSmart_Phase2_20261122_ML_20261122/.venv/bin/python",
+  "python_version": "3.9.6",
+  "architecture": "arm64",
+  "source_rows": 2032,
+  "source_units": 63891,
+  "negative_rows_preserved": 1,
+  "hourly_test_rows": 316,
+  "spring_break_excluded_from_features": true,
+  "models_executed": [
+    "Random Forest",
+    "XGBoost",
+    "LightGBM"
+  ],
+  "levels": [
+    "Hourly",
+    "Daily"
+  ],
+  "no_source_or_app_modified": true
+}

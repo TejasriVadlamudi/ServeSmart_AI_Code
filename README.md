@@ -1,6 +1,25 @@
-# ServeSmart Forecasting Application
+# ServeSmart AI Forecasting Application
 
-This folder is a new application layer. Existing project folders and outputs are not modified.
+This repository contains the ServeSmart AI capstone application, corrected Phase 1 ETL deliverables, and the finalized Phase 2 forecasting experiment. Existing application files and older comparison outputs are preserved for reproducibility.
+
+## Final forecasting results
+
+The authoritative finalized Phase 2 run is stored in `07_Advanced_ML_Forecasting/FINAL_Advanced_ML_Outputs_20261122/`.
+
+| Forecast level | Selected model | WAPE | Test rows |
+|---|---|---:|---:|
+| Hourly | Random Forest | 37.37% | 316 |
+| Daily | XGBoost | 22.54% | 43 |
+
+These results use the common eligible test rows from the finalized run. The older comparison in `outputs/models/` is intentionally retained and labeled as an earlier app-layer experiment; it used a different comparison artifact and evaluation coverage, so its metrics should not be mixed with the finalized Phase 2 results.
+
+## Project deliverables
+
+- `04_ETL_Pipeline/phase1_corrected_file/`: corrected Phase 1 ETL script and verification notes.
+- `07_Advanced_ML_Forecasting/preparation/`: reusable Phase 2 preparation scripts and requirements.
+- `07_Advanced_ML_Forecasting/validation/`: input-contract, predictor, data-quality, and dependency checks.
+- `07_Advanced_ML_Forecasting/FINAL_Advanced_ML_Outputs_20261122/`: finalized model metrics, predictions, manifests, and comparison workbook.
+- `docs/project_documentation/`: concise documentation of results, evaluation scope, and reproducibility.
 
 ## What is included
 

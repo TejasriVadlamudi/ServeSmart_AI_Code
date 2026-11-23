@@ -1,0 +1,6 @@
+Component,Status,Detail
+sklearn,blocked,ModuleNotFoundError: No module named 'sklearn'
+xgboost,blocked,ModuleNotFoundError: No module named 'xgboost'
+lightgbm,blocked,ModuleNotFoundError: No module named 'lightgbm'
+prophet,blocked,ModuleNotFoundError: No module named 'prophet'
+statsmodels,blocked,ModuleNotFoundError: No module named 'statsmodels'
