@@ -61,6 +61,16 @@ def asset_bytes(path: Path | None) -> bytes | None:
         return None
 
 
+def render_station_image(st, image_path: Path | None, station: str) -> None:
+    image = asset_bytes(resolve_asset(image_path.name)) if image_path else None
+    if image:
+        encoded = base64.b64encode(image).decode("ascii")
+        st.markdown(
+            f"<div class='station-image-frame'><img src='data:image/png;base64,{encoded}' alt='{station}'></div>",
+            unsafe_allow_html=True,
+        )
+
+
 def load_demo_data() -> pd.DataFrame:
     source_file = APPROVED_ML_FILE
     if source_file.exists():
@@ -477,9 +487,7 @@ def customer_portal(st, data: pd.DataFrame, queue: pd.DataFrame, closures: pd.Da
             station = row["Station"]
             with column:
                 image_path = station_images.get(station)
-                image = asset_bytes(resolve_asset(image_path.name)) if image_path else None
-                if image:
-                    st.image(image, use_container_width=True)
+                render_station_image(st, image_path, station)
                 wait_text = row["Estimated wait"]
                 prefix = "~ " if wait_text not in {"Closed", "Unavailable"} else ""
                 st.markdown(
@@ -557,9 +565,7 @@ def manager_portal(st, data: pd.DataFrame, sales: pd.DataFrame, closures: pd.Dat
         for column, row in zip(snapshot_columns, snapshot_rows):
             with column:
                 image_path = station_images.get(row["Station"])
-                image = asset_bytes(resolve_asset(image_path.name)) if image_path else None
-                if image:
-                    st.image(image, use_container_width=True)
+                render_station_image(st, image_path, row["Station"])
                 st.markdown(
                     f"<div class='wait-card'><div class='wait-name'>{row['Station']}</div><div class='wait-value'>{row['Predicted sales']}</div><div>{row['Status']}</div></div>",
                     unsafe_allow_html=True,
@@ -667,6 +673,8 @@ def main() -> None:
         .customer-title {{ margin-top: .35rem; font-size: clamp(2.4rem, 5vw, 4.5rem); line-height: 1; font-weight: 850; letter-spacing: -.04em; }}
         .customer-benefits {{ margin-top: 1.6rem; color: #fff1b5; font-weight: 700; font-size: 1rem; }}
         .wait-card {{ text-align: center; background: #f8f1e4; color: #123f32; padding: .75rem .5rem 1rem; border-radius: 0 0 18px 18px; min-height: 78px; }}
+        .station-image-frame {{ height: 250px; overflow: hidden; border-radius: 18px 18px 0 0; background: #f8f1e4; }}
+        .station-image-frame img {{ width: 100%; height: 100%; object-fit: cover; display: block; }}
         .wait-name {{ font-size: 1.05rem; font-weight: 800; }}
         .wait-value {{ display: inline-block; margin-top: .55rem; padding: .45rem 1.1rem; border-radius: 999px; background: #08704e; color: white; font-weight: 800; }}
         .manager-hero {{ padding: 2rem 2.4rem 1.7rem; border-radius: 26px; color: white; background: linear-gradient(120deg, #34215f, #5d318a 58%, #1d244b); box-shadow: 0 15px 35px rgba(0,0,0,.2); }}
