@@ -76,7 +76,7 @@ def load_demo_data() -> pd.DataFrame:
     if source_file.exists():
         frame = load_ml_flat_file(source_file)
         frame["ForecastUnits"] = pd.NA
-        frame["ForecastSource"] = "Historical Average"
+        frame["ForecastSource"] = "Random Forest"
         frame["Date"] = pd.to_datetime(frame["Date"])
         frame["Station"] = frame["Location"].map(STATION_NAMES).fillna(frame["Location"])
         if HOURLY_BACKTEST_FILE.exists():
@@ -99,7 +99,7 @@ def load_demo_data() -> pd.DataFrame:
 
 
 def load_daily_forecasts() -> pd.DataFrame:
-    """Load the authoritative daily Random Forest website backtest."""
+    """Load the authoritative daily XGBoost website backtest."""
     if not DAILY_BACKTEST_FILE.exists():
         return pd.DataFrame(columns=["Location", "Date", "Prediction", "Model"])
     daily = pd.read_csv(DAILY_BACKTEST_FILE, low_memory=False)
@@ -218,11 +218,11 @@ def station_operating_status(data: pd.DataFrame, station: str, forecast_date: pd
 
 
 def forecast_for_date(data: pd.DataFrame, forecast_date: pd.Timestamp) -> tuple[pd.DataFrame, str]:
-    """Use Historical Average backtests, then a clearly labeled rolling fallback."""
+    """Use Random Forest backtests, then a clearly labeled historical fallback."""
     exact = data[data["Date"].dt.normalize().eq(forecast_date.normalize())]
     exact = exact.dropna(subset=["ForecastUnits"])
     if not exact.empty:
-        return exact[["Station", "Hour", "ForecastUnits"]].copy(), "Historical Average backtest"
+        return exact[["Station", "Hour", "ForecastUnits"]].copy(), "Random Forest historical backtest"
 
     rows = []
     weekday = forecast_date.dayofweek
@@ -237,7 +237,7 @@ def forecast_for_date(data: pd.DataFrame, forecast_date: pd.Timestamp) -> tuple[
             if history.empty:
                 continue
             rows.append({"Station": station, "Hour": hour, "ForecastUnits": float(history.mean())})
-    return pd.DataFrame(rows), "Historical Average rolling fallback"
+    return pd.DataFrame(rows), "Historical fallback; Random Forest features unavailable"
 
 
 def queue_wait_minutes(queue: pd.DataFrame, station: str, forecast_date: pd.Timestamp, service_hour: int) -> int | None:
@@ -622,7 +622,7 @@ def analytics_portal(st, data: pd.DataFrame, sales: pd.DataFrame, daily: pd.Data
     c2.subheader("Demand by location")
     c2.bar_chart(data.groupby("Location")["ForecastUnits"].mean())
     if not daily.empty:
-        st.subheader("Daily Random Forest backtest")
+        st.subheader("Daily XGBoost backtest")
         daily_chart = daily.groupby("Date", as_index=True)["Prediction"].sum().rename("Predicted units")
         st.bar_chart(daily_chart)
     if not sales.empty:
@@ -703,7 +703,7 @@ def main() -> None:
         manager_portal(st, data, sales, closures, operating_hours)
     else:
         st.title("ServeSmart")
-        st.info("FINAL FORECASTING MODE: hourly Historical Average and daily Random Forest are the validation-selected models. May values are historical backtests; future dates use the documented rolling fallback when no scored row exists.")
+        st.info("FORECASTING MODE: hourly Random Forest and daily XGBoost are restored from the audited 64138acf handoff. May values are historical backtests; future dates use a clearly labeled historical fallback when model-ready features are unavailable.")
         analytics_portal(st, data, sales, daily_forecasts, forecast_metrics)
 
 

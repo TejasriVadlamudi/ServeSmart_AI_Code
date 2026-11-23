@@ -1,0 +1,24 @@
+{
+  "SourceCommit": "64138acf",
+  "VerificationPolicy": "Exact common-key recomputation from the old dashboard handoff",
+  "Hourly": {
+    "Model": "Random Forest",
+    "CommonRows": 280,
+    "WAPEPercent": 35.44789970157337,
+    "AuditedRoundedWAPEPercent": 35.45
+  },
+  "Daily": {
+    "Model": "XGBoost",
+    "CommonRows": 43,
+    "WAPEPercent": 29.041406529290335,
+    "AuditedRoundedWAPEPercent": 29.04
+  },
+  "ExcludedAccuracyClaims": [
+    "37.37% hourly",
+    "22.54% daily"
+  ],
+  "Notes": [
+    "The older 37.37% and 22.54% figures are not reproducible aggregate WAPE values from this commit.",
+    "Seasonal Naive remains the lower-error common May benchmark: 49.6756% hourly and 36.5833% daily."
+  ]
+}

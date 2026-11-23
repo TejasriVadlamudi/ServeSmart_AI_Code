@@ -1,317 +1,317 @@
 Location,Date,Hour,ForecastCutoff,Prediction,Model,PredictionType,Target
-Einstein's,2026-05-01,7.0,2026-04-30 23:59:59,4.636363636363637,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-01,8.0,2026-04-30 23:59:59,26.571428571428573,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-01,9.0,2026-04-30 23:59:59,37.357142857142854,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-01,10.0,2026-04-30 23:59:59,40.42857142857143,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-01,11.0,2026-04-30 23:59:59,41.57142857142857,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-01,12.0,2026-04-30 23:59:59,43.0,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-01,13.0,2026-04-30 23:59:59,33.785714285714285,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-01,14.0,2026-04-30 23:59:59,19.333333333333332,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-01,15.0,2026-04-30 23:59:59,18.0,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-04,7.0,2026-05-03 23:59:59,8.153846153846153,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-04,8.0,2026-05-03 23:59:59,27.857142857142858,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-04,9.0,2026-05-03 23:59:59,70.85714285714286,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-04,10.0,2026-05-03 23:59:59,78.2,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-04,11.0,2026-05-03 23:59:59,84.0,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-04,12.0,2026-05-03 23:59:59,81.42857142857143,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-04,13.0,2026-05-03 23:59:59,76.35714285714286,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-04,14.0,2026-05-03 23:59:59,32.38461538461539,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-04,15.0,2026-05-03 23:59:59,47.61538461538461,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-04,16.0,2026-05-03 23:59:59,29.692307692307693,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-04,17.0,2026-05-03 23:59:59,13.692307692307692,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-05,7.0,2026-05-04 23:59:59,7.928571428571429,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-05,8.0,2026-05-04 23:59:59,52.857142857142854,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-05,9.0,2026-05-04 23:59:59,80.28571428571429,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-05,10.0,2026-05-04 23:59:59,103.07142857142856,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-05,11.0,2026-05-04 23:59:59,66.5,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-05,12.0,2026-05-04 23:59:59,104.5,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-05,13.0,2026-05-04 23:59:59,55.5,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-05,14.0,2026-05-04 23:59:59,47.857142857142854,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-05,15.0,2026-05-04 23:59:59,37.714285714285715,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-05,16.0,2026-05-04 23:59:59,33.285714285714285,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-05,17.0,2026-05-04 23:59:59,15.214285714285714,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-06,7.0,2026-05-05 23:59:59,10.785714285714286,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-06,8.0,2026-05-05 23:59:59,34.733333333333334,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-06,9.0,2026-05-05 23:59:59,78.8,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-06,10.0,2026-05-05 23:59:59,99.33333333333331,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-06,11.0,2026-05-05 23:59:59,86.06666666666666,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-06,12.0,2026-05-05 23:59:59,82.53333333333333,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-06,13.0,2026-05-05 23:59:59,80.73333333333333,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-06,14.0,2026-05-05 23:59:59,40.357142857142854,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-06,15.0,2026-05-05 23:59:59,49.0,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-06,16.0,2026-05-05 23:59:59,38.0,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-06,17.0,2026-05-05 23:59:59,7.142857142857143,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-07,7.0,2026-05-06 23:59:59,9.928571428571429,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-07,8.0,2026-05-06 23:59:59,34.6,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-07,9.0,2026-05-06 23:59:59,63.86666666666667,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-07,10.0,2026-05-06 23:59:59,86.73333333333333,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-07,11.0,2026-05-06 23:59:59,69.33333333333333,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-07,12.0,2026-05-06 23:59:59,99.13333333333334,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-07,13.0,2026-05-06 23:59:59,49.733333333333334,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-07,14.0,2026-05-06 23:59:59,55.07142857142857,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-07,15.0,2026-05-06 23:59:59,35.642857142857146,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-07,16.0,2026-05-06 23:59:59,30.857142857142858,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-07,17.0,2026-05-06 23:59:59,12.785714285714286,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-08,8.0,2026-05-07 23:59:59,27.6,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-08,9.0,2026-05-07 23:59:59,38.266666666666666,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-08,10.0,2026-05-07 23:59:59,40.0,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-08,11.0,2026-05-07 23:59:59,40.13333333333333,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-08,12.0,2026-05-07 23:59:59,42.666666666666664,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-08,13.0,2026-05-07 23:59:59,34.4,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-08,14.0,2026-05-07 23:59:59,18.53846153846154,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-08,15.0,2026-05-07 23:59:59,18.692307692307693,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-11,7.0,2026-05-10 23:59:59,8.285714285714286,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-11,8.0,2026-05-10 23:59:59,28.4,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-11,9.0,2026-05-10 23:59:59,70.46666666666667,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-11,10.0,2026-05-10 23:59:59,78.8125,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-11,11.0,2026-05-10 23:59:59,85.2,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-11,12.0,2026-05-10 23:59:59,81.46666666666667,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-11,13.0,2026-05-10 23:59:59,77.73333333333333,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-11,14.0,2026-05-10 23:59:59,32.42857142857143,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-11,15.0,2026-05-10 23:59:59,48.714285714285715,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-11,16.0,2026-05-10 23:59:59,28.928571428571427,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-11,17.0,2026-05-10 23:59:59,14.5,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-12,7.0,2026-05-11 23:59:59,7.8,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-12,8.0,2026-05-11 23:59:59,52.53333333333333,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-12,9.0,2026-05-11 23:59:59,77.6,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-12,10.0,2026-05-11 23:59:59,103.93333333333334,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-12,11.0,2026-05-11 23:59:59,67.0,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-12,12.0,2026-05-11 23:59:59,105.53333333333332,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-12,13.0,2026-05-11 23:59:59,54.333333333333336,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-12,14.0,2026-05-11 23:59:59,48.733333333333334,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-12,15.0,2026-05-11 23:59:59,38.666666666666664,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-12,16.0,2026-05-11 23:59:59,33.0,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-12,17.0,2026-05-11 23:59:59,15.133333333333333,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-13,7.0,2026-05-12 23:59:59,11.0,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-13,8.0,2026-05-12 23:59:59,35.1875,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-13,9.0,2026-05-12 23:59:59,79.125,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-13,10.0,2026-05-12 23:59:59,98.5,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-13,11.0,2026-05-12 23:59:59,86.75,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-13,12.0,2026-05-12 23:59:59,83.625,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-13,13.0,2026-05-12 23:59:59,80.625,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-13,14.0,2026-05-12 23:59:59,41.8,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-13,15.0,2026-05-12 23:59:59,49.13333333333333,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-13,16.0,2026-05-12 23:59:59,37.8,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-13,17.0,2026-05-12 23:59:59,7.466666666666667,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-14,7.0,2026-05-13 23:59:59,10.6,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-14,8.0,2026-05-13 23:59:59,34.6875,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-14,9.0,2026-05-13 23:59:59,64.5625,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-14,10.0,2026-05-13 23:59:59,85.8125,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-14,11.0,2026-05-13 23:59:59,69.625,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-14,12.0,2026-05-13 23:59:59,97.875,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-14,13.0,2026-05-13 23:59:59,50.1875,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-14,14.0,2026-05-13 23:59:59,56.0,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-14,15.0,2026-05-13 23:59:59,35.93333333333333,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-14,16.0,2026-05-13 23:59:59,30.2,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-14,17.0,2026-05-13 23:59:59,12.4,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-15,7.0,2026-05-14 23:59:59,4.916666666666667,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-15,8.0,2026-05-14 23:59:59,28.375,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-15,9.0,2026-05-14 23:59:59,37.625,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-15,10.0,2026-05-14 23:59:59,39.6875,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-15,11.0,2026-05-14 23:59:59,40.8125,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-15,12.0,2026-05-14 23:59:59,43.5,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-15,13.0,2026-05-14 23:59:59,34.0,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-15,14.0,2026-05-14 23:59:59,18.0,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-18,8.0,2026-05-17 23:59:59,27.875,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-18,9.0,2026-05-17 23:59:59,69.125,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-18,10.0,2026-05-17 23:59:59,77.05882352941177,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-18,11.0,2026-05-17 23:59:59,83.125,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-18,12.0,2026-05-17 23:59:59,80.3125,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-18,13.0,2026-05-17 23:59:59,75.125,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-18,14.0,2026-05-17 23:59:59,33.06666666666667,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-18,15.0,2026-05-17 23:59:59,47.53333333333333,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-19,8.0,2026-05-18 23:59:59,50.6875,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-19,9.0,2026-05-18 23:59:59,77.0625,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-19,10.0,2026-05-18 23:59:59,100.5625,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-19,11.0,2026-05-18 23:59:59,65.6875,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-19,12.0,2026-05-18 23:59:59,104.0625,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-19,13.0,2026-05-18 23:59:59,54.9375,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-19,14.0,2026-05-18 23:59:59,47.9375,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-19,15.0,2026-05-18 23:59:59,37.375,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-20,8.0,2026-05-19 23:59:59,34.1764705882353,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-20,9.0,2026-05-19 23:59:59,76.58823529411765,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-20,10.0,2026-05-19 23:59:59,95.88235294117646,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-20,11.0,2026-05-19 23:59:59,84.82352941176471,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-20,12.0,2026-05-19 23:59:59,82.23529411764706,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-20,13.0,2026-05-19 23:59:59,78.82352941176471,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-20,14.0,2026-05-19 23:59:59,42.125,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-20,15.0,2026-05-19 23:59:59,48.0,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-21,8.0,2026-05-20 23:59:59,33.8235294117647,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-21,9.0,2026-05-20 23:59:59,64.11764705882354,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-21,10.0,2026-05-20 23:59:59,83.3529411764706,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-21,11.0,2026-05-20 23:59:59,67.82352941176471,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-21,12.0,2026-05-20 23:59:59,95.76470588235294,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-21,13.0,2026-05-20 23:59:59,50.0,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-21,14.0,2026-05-20 23:59:59,55.375,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-21,15.0,2026-05-20 23:59:59,37.125,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-21,16.0,2026-05-20 23:59:59,30.6875,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-26,8.0,2026-05-25 23:59:59,48.23529411764706,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-26,9.0,2026-05-25 23:59:59,72.94117647058823,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-26,10.0,2026-05-25 23:59:59,95.52941176470588,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-26,11.0,2026-05-25 23:59:59,62.47058823529411,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-26,12.0,2026-05-25 23:59:59,100.82352941176472,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-26,13.0,2026-05-25 23:59:59,52.294117647058826,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-26,14.0,2026-05-25 23:59:59,45.88235294117647,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-26,15.0,2026-05-25 23:59:59,35.529411764705884,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-26,16.0,2026-05-25 23:59:59,33.0,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-27,8.0,2026-05-26 23:59:59,33.27777777777778,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-27,9.0,2026-05-26 23:59:59,73.27777777777777,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-27,10.0,2026-05-26 23:59:59,90.94444444444444,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-27,11.0,2026-05-26 23:59:59,81.38888888888889,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-27,12.0,2026-05-26 23:59:59,79.16666666666667,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-27,13.0,2026-05-26 23:59:59,75.61111111111111,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-27,14.0,2026-05-26 23:59:59,40.294117647058826,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-27,15.0,2026-05-26 23:59:59,45.588235294117645,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-27,16.0,2026-05-26 23:59:59,39.375,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-28,8.0,2026-05-27 23:59:59,32.611111111111114,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-28,9.0,2026-05-27 23:59:59,61.94444444444444,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-28,10.0,2026-05-27 23:59:59,79.44444444444444,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-28,11.0,2026-05-27 23:59:59,64.55555555555556,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-28,12.0,2026-05-27 23:59:59,91.33333333333331,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-28,13.0,2026-05-27 23:59:59,47.611111111111114,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-28,14.0,2026-05-27 23:59:59,52.411764705882355,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-28,15.0,2026-05-27 23:59:59,35.529411764705884,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Einstein's,2026-05-28,16.0,2026-05-27 23:59:59,28.941176470588236,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Panda Express,2026-05-01,11.0,2026-04-30 23:59:59,27.53846153846154,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Panda Express,2026-05-01,12.0,2026-04-30 23:59:59,51.53846153846154,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Panda Express,2026-05-01,13.0,2026-04-30 23:59:59,27.692307692307693,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Panda Express,2026-05-04,11.0,2026-05-03 23:59:59,65.0,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Panda Express,2026-05-04,12.0,2026-05-03 23:59:59,84.84615384615384,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Panda Express,2026-05-04,13.0,2026-05-03 23:59:59,64.76923076923077,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Panda Express,2026-05-04,14.0,2026-05-03 23:59:59,36.38461538461539,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Panda Express,2026-05-04,15.0,2026-05-03 23:59:59,30.76923076923077,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Panda Express,2026-05-05,10.0,2026-05-04 23:59:59,2.6666666666666665,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Panda Express,2026-05-05,11.0,2026-05-04 23:59:59,56.785714285714285,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Panda Express,2026-05-05,12.0,2026-05-04 23:59:59,93.64285714285714,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Panda Express,2026-05-05,13.0,2026-05-04 23:59:59,45.5,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Panda Express,2026-05-05,14.0,2026-05-04 23:59:59,38.0,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Panda Express,2026-05-05,15.0,2026-05-04 23:59:59,30.142857142857142,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Panda Express,2026-05-06,11.0,2026-05-05 23:59:59,61.857142857142854,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Panda Express,2026-05-06,12.0,2026-05-05 23:59:59,77.21428571428571,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Panda Express,2026-05-06,13.0,2026-05-05 23:59:59,64.28571428571429,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Panda Express,2026-05-06,14.0,2026-05-05 23:59:59,37.285714285714285,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Panda Express,2026-05-06,15.0,2026-05-05 23:59:59,32.857142857142854,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Panda Express,2026-05-06,16.0,2026-05-05 23:59:59,2.0,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Panda Express,2026-05-07,11.0,2026-05-06 23:59:59,49.142857142857146,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Panda Express,2026-05-07,12.0,2026-05-06 23:59:59,102.28571428571428,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Panda Express,2026-05-07,13.0,2026-05-06 23:59:59,51.07142857142857,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Panda Express,2026-05-07,14.0,2026-05-06 23:59:59,42.5,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Panda Express,2026-05-07,15.0,2026-05-06 23:59:59,24.428571428571427,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Panda Express,2026-05-07,16.0,2026-05-06 23:59:59,1.0,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Panda Express,2026-05-08,10.0,2026-05-07 23:59:59,3.5714285714285716,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Panda Express,2026-05-08,11.0,2026-05-07 23:59:59,27.0,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Panda Express,2026-05-08,12.0,2026-05-07 23:59:59,51.5,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Panda Express,2026-05-08,13.0,2026-05-07 23:59:59,28.214285714285715,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Panda Express,2026-05-11,10.0,2026-05-10 23:59:59,4.0,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Panda Express,2026-05-11,11.0,2026-05-10 23:59:59,67.0,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Panda Express,2026-05-11,12.0,2026-05-10 23:59:59,84.71428571428571,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Panda Express,2026-05-11,13.0,2026-05-10 23:59:59,63.92857142857143,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Panda Express,2026-05-11,14.0,2026-05-10 23:59:59,36.42857142857143,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Panda Express,2026-05-11,15.0,2026-05-10 23:59:59,32.07142857142857,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Panda Express,2026-05-12,11.0,2026-05-11 23:59:59,57.53333333333333,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Panda Express,2026-05-12,12.0,2026-05-11 23:59:59,92.2,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Panda Express,2026-05-12,13.0,2026-05-11 23:59:59,44.733333333333334,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Panda Express,2026-05-12,14.0,2026-05-11 23:59:59,37.46666666666667,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Panda Express,2026-05-12,15.0,2026-05-11 23:59:59,30.133333333333333,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Panda Express,2026-05-13,11.0,2026-05-12 23:59:59,61.333333333333336,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Panda Express,2026-05-13,12.0,2026-05-12 23:59:59,78.13333333333334,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Panda Express,2026-05-13,13.0,2026-05-12 23:59:59,63.93333333333333,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Panda Express,2026-05-13,14.0,2026-05-12 23:59:59,38.266666666666666,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Panda Express,2026-05-13,15.0,2026-05-12 23:59:59,33.86666666666667,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Panda Express,2026-05-14,11.0,2026-05-13 23:59:59,48.733333333333334,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Panda Express,2026-05-14,12.0,2026-05-13 23:59:59,101.53333333333332,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Panda Express,2026-05-14,13.0,2026-05-13 23:59:59,50.4,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Panda Express,2026-05-14,14.0,2026-05-13 23:59:59,42.86666666666667,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Panda Express,2026-05-14,15.0,2026-05-13 23:59:59,24.6,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Residential Dining,2026-05-01,7.0,2026-04-30 23:59:59,1.3333333333333333,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Residential Dining,2026-05-01,8.0,2026-04-30 23:59:59,1.1666666666666667,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Residential Dining,2026-05-01,9.0,2026-04-30 23:59:59,1.875,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Residential Dining,2026-05-01,11.0,2026-04-30 23:59:59,6.75,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Residential Dining,2026-05-01,12.0,2026-04-30 23:59:59,9.857142857142858,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Residential Dining,2026-05-01,13.0,2026-04-30 23:59:59,3.8333333333333335,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Residential Dining,2026-05-01,18.0,2026-04-30 23:59:59,2.5,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Residential Dining,2026-05-02,18.0,2026-05-01 23:59:59,2.5,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Residential Dining,2026-05-03,12.0,2026-05-02 23:59:59,1.6666666666666667,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Residential Dining,2026-05-03,17.0,2026-05-02 23:59:59,2.75,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Residential Dining,2026-05-04,7.0,2026-05-03 23:59:59,1.6666666666666667,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Residential Dining,2026-05-04,8.0,2026-05-03 23:59:59,2.8,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Residential Dining,2026-05-04,9.0,2026-05-03 23:59:59,2.0,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Residential Dining,2026-05-04,10.0,2026-05-03 23:59:59,2.0,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Residential Dining,2026-05-04,11.0,2026-05-03 23:59:59,6.0,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Residential Dining,2026-05-04,12.0,2026-05-03 23:59:59,14.076923076923077,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Residential Dining,2026-05-04,17.0,2026-05-03 23:59:59,2.0,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Residential Dining,2026-05-04,18.0,2026-05-03 23:59:59,2.3,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Residential Dining,2026-05-05,8.0,2026-05-04 23:59:59,1.4285714285714286,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Residential Dining,2026-05-05,9.0,2026-05-04 23:59:59,1.5454545454545454,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Residential Dining,2026-05-05,10.0,2026-05-04 23:59:59,3.0833333333333335,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Residential Dining,2026-05-05,11.0,2026-05-04 23:59:59,8.466666666666667,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Residential Dining,2026-05-05,12.0,2026-05-04 23:59:59,3.5,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Residential Dining,2026-05-05,17.0,2026-05-04 23:59:59,2.923076923076923,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Residential Dining,2026-05-05,18.0,2026-05-04 23:59:59,1.75,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Residential Dining,2026-05-05,19.0,2026-05-04 23:59:59,1.0,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Residential Dining,2026-05-06,7.0,2026-05-05 23:59:59,1.8888888888888888,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Residential Dining,2026-05-06,8.0,2026-05-05 23:59:59,3.3076923076923075,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Residential Dining,2026-05-06,9.0,2026-05-05 23:59:59,1.6153846153846154,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Residential Dining,2026-05-06,10.0,2026-05-05 23:59:59,1.9090909090909092,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Residential Dining,2026-05-06,11.0,2026-05-05 23:59:59,11.142857142857142,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Residential Dining,2026-05-06,12.0,2026-05-05 23:59:59,15.866666666666667,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Residential Dining,2026-05-06,13.0,2026-05-05 23:59:59,5.538461538461538,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Residential Dining,2026-05-06,17.0,2026-05-05 23:59:59,2.4615384615384617,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Residential Dining,2026-05-06,18.0,2026-05-05 23:59:59,1.5,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Residential Dining,2026-05-07,7.0,2026-05-06 23:59:59,1.3333333333333333,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Residential Dining,2026-05-07,11.0,2026-05-06 23:59:59,8.142857142857142,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Residential Dining,2026-05-07,13.0,2026-05-06 23:59:59,1.4444444444444444,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Residential Dining,2026-05-07,17.0,2026-05-06 23:59:59,3.5,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Residential Dining,2026-05-07,18.0,2026-05-06 23:59:59,1.7,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Residential Dining,2026-05-08,7.0,2026-05-07 23:59:59,1.5714285714285714,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Residential Dining,2026-05-08,8.0,2026-05-07 23:59:59,1.1428571428571428,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Residential Dining,2026-05-08,9.0,2026-05-07 23:59:59,1.7777777777777777,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Residential Dining,2026-05-08,11.0,2026-05-07 23:59:59,6.615384615384615,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Residential Dining,2026-05-08,13.0,2026-05-07 23:59:59,3.6153846153846154,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Residential Dining,2026-05-08,16.0,2026-05-07 23:59:59,1.75,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Residential Dining,2026-05-08,17.0,2026-05-07 23:59:59,1.875,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Residential Dining,2026-05-08,21.0,2026-05-07 23:59:59,,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Residential Dining,2026-05-09,13.0,2026-05-08 23:59:59,1.3333333333333333,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Residential Dining,2026-05-10,12.0,2026-05-09 23:59:59,1.7142857142857142,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Residential Dining,2026-05-10,18.0,2026-05-09 23:59:59,2.0,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Residential Dining,2026-05-11,8.0,2026-05-10 23:59:59,2.727272727272727,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Residential Dining,2026-05-11,9.0,2026-05-10 23:59:59,1.9,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Residential Dining,2026-05-11,10.0,2026-05-10 23:59:59,2.0,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Residential Dining,2026-05-11,11.0,2026-05-10 23:59:59,5.928571428571429,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Residential Dining,2026-05-11,12.0,2026-05-10 23:59:59,13.857142857142858,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Residential Dining,2026-05-11,13.0,2026-05-10 23:59:59,3.363636363636364,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Residential Dining,2026-05-11,16.0,2026-05-10 23:59:59,1.6,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Residential Dining,2026-05-11,17.0,2026-05-10 23:59:59,2.0714285714285716,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Residential Dining,2026-05-11,18.0,2026-05-10 23:59:59,2.4545454545454546,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Residential Dining,2026-05-12,7.0,2026-05-11 23:59:59,1.5714285714285714,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Residential Dining,2026-05-12,8.0,2026-05-11 23:59:59,1.375,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Residential Dining,2026-05-12,9.0,2026-05-11 23:59:59,1.5,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Residential Dining,2026-05-12,10.0,2026-05-11 23:59:59,2.923076923076923,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Residential Dining,2026-05-12,11.0,2026-05-11 23:59:59,11.5,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Residential Dining,2026-05-12,15.0,2026-05-11 23:59:59,1.3333333333333333,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Residential Dining,2026-05-12,17.0,2026-05-11 23:59:59,2.857142857142857,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Residential Dining,2026-05-13,8.0,2026-05-12 23:59:59,3.142857142857143,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Residential Dining,2026-05-13,9.0,2026-05-12 23:59:59,1.5714285714285714,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Residential Dining,2026-05-13,10.0,2026-05-12 23:59:59,1.9166666666666667,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Residential Dining,2026-05-13,11.0,2026-05-12 23:59:59,13.866666666666667,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Residential Dining,2026-05-13,12.0,2026-05-12 23:59:59,15.625,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Residential Dining,2026-05-13,13.0,2026-05-12 23:59:59,5.428571428571429,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Residential Dining,2026-05-13,16.0,2026-05-12 23:59:59,1.75,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Residential Dining,2026-05-13,17.0,2026-05-12 23:59:59,2.642857142857143,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Residential Dining,2026-05-14,7.0,2026-05-13 23:59:59,1.2857142857142858,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Residential Dining,2026-05-14,8.0,2026-05-13 23:59:59,3.375,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Residential Dining,2026-05-14,9.0,2026-05-13 23:59:59,1.75,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Residential Dining,2026-05-14,10.0,2026-05-13 23:59:59,2.25,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Residential Dining,2026-05-14,11.0,2026-05-13 23:59:59,8.066666666666666,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Residential Dining,2026-05-14,12.0,2026-05-13 23:59:59,3.272727272727273,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Residential Dining,2026-05-14,13.0,2026-05-13 23:59:59,1.4,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Residential Dining,2026-05-14,17.0,2026-05-13 23:59:59,3.4,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Residential Dining,2026-05-14,18.0,2026-05-13 23:59:59,1.7272727272727273,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Residential Dining,2026-05-15,7.0,2026-05-14 23:59:59,1.5,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Residential Dining,2026-05-15,8.0,2026-05-14 23:59:59,1.25,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Residential Dining,2026-05-15,9.0,2026-05-14 23:59:59,2.2,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Residential Dining,2026-05-15,10.0,2026-05-14 23:59:59,1.25,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Residential Dining,2026-05-15,11.0,2026-05-14 23:59:59,6.357142857142857,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Residential Dining,2026-05-15,12.0,2026-05-14 23:59:59,9.4,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Residential Dining,2026-05-15,13.0,2026-05-14 23:59:59,3.5,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
-Residential Dining,2026-05-15,17.0,2026-05-14 23:59:59,1.7777777777777777,Historical Average,Historical May2026 backtest,Recorded POS units; not customers or attendance
+Einstein's,2026-05-01,7,2026-04-30,8.953184501191496,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-01,8,2026-04-30,25.400309508987323,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-01,9,2026-04-30,32.77404340526732,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-01,10,2026-04-30,49.0938351240823,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-01,11,2026-04-30,40.11617889291984,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-01,12,2026-04-30,49.35767071205845,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-01,13,2026-04-30,37.82404469159894,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-01,14,2026-04-30,25.304670186287417,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-01,15,2026-04-30,19.897630060564342,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-04,7,2026-05-03,9.937787863116192,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-04,8,2026-05-03,31.613836831588912,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-04,9,2026-05-03,72.99606776303753,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-04,10,2026-05-03,89.33751589638435,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-04,11,2026-05-03,82.22832307266945,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-04,12,2026-05-03,78.37404996114591,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-04,13,2026-05-03,76.28251044575055,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-04,14,2026-05-03,34.34456405522433,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-04,15,2026-05-03,45.233934123601095,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-04,16,2026-05-03,30.294331841092795,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-04,17,2026-05-03,11.672926766520588,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-05,7,2026-05-04,9.763251108314687,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-05,8,2026-05-04,43.91174138249489,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-05,9,2026-05-04,75.57045675156269,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-05,10,2026-05-04,101.17179823146412,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-05,11,2026-05-04,71.97969658917889,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-05,12,2026-05-04,102.10697040458942,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-05,13,2026-05-04,67.90290963238053,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-05,14,2026-05-04,46.45769633330086,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-05,15,2026-05-04,37.54503592976228,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-05,16,2026-05-04,37.020014341708055,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-05,17,2026-05-04,10.798298418442537,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-06,7,2026-05-05,9.732967160558381,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-06,8,2026-05-05,35.86710508519903,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-06,9,2026-05-05,74.64072506711503,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-06,10,2026-05-05,93.43283267971357,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-06,11,2026-05-05,78.88986677144061,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-06,12,2026-05-05,79.61650742711578,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-06,13,2026-05-05,79.13765028302063,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-06,14,2026-05-05,43.56946949351283,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-06,15,2026-05-05,47.0080833180764,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-06,16,2026-05-05,36.60843308894528,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-06,17,2026-05-05,9.588100456740637,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-07,7,2026-05-06,9.862912600962781,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-07,8,2026-05-06,32.88685877794332,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-07,9,2026-05-06,61.92772553769783,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-07,10,2026-05-06,86.06807273927849,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-07,11,2026-05-06,69.74562181912518,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-07,12,2026-05-06,96.51961051659096,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-07,13,2026-05-06,61.95532069313547,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-07,14,2026-05-06,48.75462761047009,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-07,15,2026-05-06,36.97208567450283,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-07,16,2026-05-06,35.87253548856721,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-07,17,2026-05-06,10.980020720722653,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-08,8,2026-05-07,25.473994562540767,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-08,9,2026-05-07,37.7932712710398,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-08,10,2026-05-07,46.00600630533022,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-08,11,2026-05-07,43.51615240778608,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-08,12,2026-05-07,44.53770362465282,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-08,13,2026-05-07,34.13510185308193,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-08,14,2026-05-07,21.009769018928193,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-08,15,2026-05-07,19.865666823610137,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-11,7,2026-05-10,8.570970228833325,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-11,8,2026-05-10,22.037053836492763,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-11,9,2026-05-10,36.55427399041344,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-11,10,2026-05-10,46.1383552428104,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-11,11,2026-05-10,40.11500034552678,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-11,12,2026-05-10,46.02235826806674,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-11,13,2026-05-10,40.3889704080544,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-11,14,2026-05-10,20.109196373832848,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-11,15,2026-05-10,24.82541371977917,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-11,16,2026-05-10,18.3310537328276,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-11,17,2026-05-10,9.990694358566182,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-12,7,2026-05-11,8.772407687991763,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-12,8,2026-05-11,25.932758704444584,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-12,9,2026-05-11,38.055529480818365,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-12,10,2026-05-11,46.70972741801575,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-12,11,2026-05-11,39.256001183134046,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-12,12,2026-05-11,48.10289341636404,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-12,13,2026-05-11,39.80441419710286,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-12,14,2026-05-11,25.816492734768815,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-12,15,2026-05-11,23.43296875463604,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-12,16,2026-05-11,19.363588447698177,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-12,17,2026-05-11,11.36915832305236,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-13,7,2026-05-12,8.518338167329176,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-13,8,2026-05-12,25.24047994771302,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-13,9,2026-05-12,38.14640104149934,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-13,10,2026-05-12,45.8768610942994,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-13,11,2026-05-12,39.55890793238521,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-13,12,2026-05-12,50.90282515673148,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-13,13,2026-05-12,39.023228157264995,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-13,14,2026-05-12,25.64949292628478,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-13,15,2026-05-12,27.29443462103997,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-13,16,2026-05-12,18.748371459868668,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-13,17,2026-05-12,10.678360799568674,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-14,7,2026-05-13,8.745504929359644,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-14,8,2026-05-13,24.3156777714909,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-14,9,2026-05-13,38.237083366296275,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-14,10,2026-05-13,45.425625419924366,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-14,11,2026-05-13,38.21583735600186,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-14,12,2026-05-13,47.792552972012295,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-14,13,2026-05-13,39.15325558563,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-14,14,2026-05-13,29.53065870663222,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-14,15,2026-05-13,24.945695315454792,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-14,16,2026-05-13,19.00117877607279,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-14,17,2026-05-13,11.227059921503246,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-15,7,2026-05-14,8.759632447384542,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-15,8,2026-05-14,24.431282253353583,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-15,9,2026-05-14,33.46948374077795,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-15,10,2026-05-14,40.87048162895601,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-15,11,2026-05-14,35.354894138205246,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-15,12,2026-05-14,42.22604616626989,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-15,13,2026-05-14,34.67013080761141,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-15,14,2026-05-14,22.573372469846024,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-18,8,2026-05-17,22.120023444434914,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-18,9,2026-05-17,36.7893954763435,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-18,10,2026-05-17,44.88837905226915,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-18,11,2026-05-17,38.8508477878875,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-18,12,2026-05-17,47.68668656744527,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-18,13,2026-05-17,38.910990528193146,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-18,14,2026-05-17,22.587389319401364,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-18,15,2026-05-17,21.022857790500534,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-19,8,2026-05-18,22.37762868777749,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-19,9,2026-05-18,37.00176804299756,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-19,10,2026-05-18,44.75084279147962,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-19,11,2026-05-18,38.13705431118665,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-19,12,2026-05-18,48.38791030018144,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-19,13,2026-05-18,36.831428438183146,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-19,14,2026-05-18,23.18087294437951,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-19,15,2026-05-18,20.716107626345124,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-20,8,2026-05-19,21.58594322274406,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-20,9,2026-05-19,37.4518805742244,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-20,10,2026-05-19,44.67044694025627,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-20,11,2026-05-19,38.378435660306,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-20,12,2026-05-19,48.28044769722175,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-20,13,2026-05-19,38.3132431847795,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-20,14,2026-05-19,24.770751733298983,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-20,15,2026-05-19,19.33127401186933,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-21,8,2026-05-20,20.68972187696158,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-21,9,2026-05-20,37.551905099466055,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-21,10,2026-05-20,43.755658750124745,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-21,11,2026-05-20,37.89108692781211,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-21,12,2026-05-20,47.957341461351064,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-21,13,2026-05-20,36.64142424141621,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-21,14,2026-05-20,25.106334047679077,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-21,15,2026-05-20,21.638139030973075,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-21,16,2026-05-20,19.361269546423813,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-26,8,2026-05-25,20.945495739334895,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-26,9,2026-05-25,36.58571034975035,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-26,10,2026-05-25,42.84948803972794,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-26,11,2026-05-25,35.29336145271976,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-26,12,2026-05-25,45.93653795443299,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-26,13,2026-05-25,34.59844365478269,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-26,14,2026-05-25,19.093811678190303,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-26,15,2026-05-25,19.86538164042736,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-26,16,2026-05-25,14.96006481606833,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-27,8,2026-05-26,21.12844566050498,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-27,9,2026-05-26,32.27327431159233,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-27,10,2026-05-26,43.05736292630025,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-27,11,2026-05-26,35.62002477446799,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-27,12,2026-05-26,45.58036734286949,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-27,13,2026-05-26,33.70777113701481,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-27,14,2026-05-26,19.519382407915657,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-27,15,2026-05-26,18.32308179825663,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-27,16,2026-05-26,16.393473566060088,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-28,8,2026-05-27,21.1285782406568,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-28,9,2026-05-27,34.3850883738319,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-28,10,2026-05-27,41.540584577490925,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-28,11,2026-05-27,34.52320060618222,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-28,12,2026-05-27,45.57584291273592,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-28,13,2026-05-27,33.40895415425034,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-28,14,2026-05-27,19.68985818716861,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-28,15,2026-05-27,19.85797455538171,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Einstein's,2026-05-28,16,2026-05-27,16.851671092183498,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Panda Express,2026-05-01,11,2026-04-30,32.079126221741824,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Panda Express,2026-05-01,12,2026-04-30,44.93187962061242,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Panda Express,2026-05-01,13,2026-04-30,35.78165448087196,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Panda Express,2026-05-04,11,2026-05-03,62.02443318497051,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Panda Express,2026-05-04,12,2026-05-03,81.15860658908099,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Panda Express,2026-05-04,13,2026-05-03,64.36210390240322,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Panda Express,2026-05-04,14,2026-05-03,38.19980745087716,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Panda Express,2026-05-04,15,2026-05-03,32.85432511140025,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Panda Express,2026-05-05,10,2026-05-04,3.965608807155352,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Panda Express,2026-05-05,11,2026-05-04,56.57915076013846,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Panda Express,2026-05-05,12,2026-05-04,86.87484691000164,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Panda Express,2026-05-05,13,2026-05-04,58.24204767799752,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Panda Express,2026-05-05,14,2026-05-04,40.284920745262866,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Panda Express,2026-05-05,15,2026-05-04,30.7832262810341,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Panda Express,2026-05-06,11,2026-05-05,66.51574083725153,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Panda Express,2026-05-06,12,2026-05-05,87.07923185256871,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Panda Express,2026-05-06,13,2026-05-05,64.66361935366585,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Panda Express,2026-05-06,14,2026-05-05,38.82777748730464,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Panda Express,2026-05-06,15,2026-05-05,33.77191003131535,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Panda Express,2026-05-06,16,2026-05-05,1.9239138084035088,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Panda Express,2026-05-07,11,2026-05-06,53.340343126308525,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Panda Express,2026-05-07,12,2026-05-06,96.60258527744328,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Panda Express,2026-05-07,13,2026-05-06,55.52799420965859,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Panda Express,2026-05-07,14,2026-05-06,43.63959364225906,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Panda Express,2026-05-07,15,2026-05-06,26.754335211301218,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Panda Express,2026-05-07,16,2026-05-06,2.446556151135999,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Panda Express,2026-05-08,10,2026-05-07,2.8946866091354084,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Panda Express,2026-05-08,11,2026-05-07,29.205410124774936,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Panda Express,2026-05-08,12,2026-05-07,48.48809460322976,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Panda Express,2026-05-08,13,2026-05-07,30.263165976144204,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Panda Express,2026-05-11,10,2026-05-10,2.824154418565374,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Panda Express,2026-05-11,11,2026-05-10,37.60471932814733,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Panda Express,2026-05-11,12,2026-05-10,47.25544126705395,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Panda Express,2026-05-11,13,2026-05-10,35.69972805296181,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Panda Express,2026-05-11,14,2026-05-10,14.168374692557048,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Panda Express,2026-05-11,15,2026-05-10,14.104655999538831,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Panda Express,2026-05-12,11,2026-05-11,35.052875561955766,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Panda Express,2026-05-12,12,2026-05-11,48.180339170026045,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Panda Express,2026-05-12,13,2026-05-11,31.67933626160541,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Panda Express,2026-05-12,14,2026-05-11,12.62141232770048,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Panda Express,2026-05-12,15,2026-05-11,11.2606763067489,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Panda Express,2026-05-13,11,2026-05-12,35.768821764163015,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Panda Express,2026-05-13,12,2026-05-12,48.434714225046825,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Panda Express,2026-05-13,13,2026-05-12,37.318360491554785,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Panda Express,2026-05-13,14,2026-05-12,15.55555128581828,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Panda Express,2026-05-13,15,2026-05-12,14.201262167238768,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Panda Express,2026-05-14,11,2026-05-13,32.95171009185379,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Panda Express,2026-05-14,12,2026-05-13,48.41022826669488,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Panda Express,2026-05-14,13,2026-05-13,36.46689659767694,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Panda Express,2026-05-14,14,2026-05-13,16.140016001638553,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Panda Express,2026-05-14,15,2026-05-13,11.261955051107329,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Residential Dining,2026-05-01,7,2026-04-30,1.894036826151198,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Residential Dining,2026-05-01,8,2026-04-30,2.476583915751809,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Residential Dining,2026-05-01,9,2026-04-30,1.6271050741155435,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Residential Dining,2026-05-01,11,2026-04-30,4.400813051333782,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Residential Dining,2026-05-01,12,2026-04-30,3.7328806103729546,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Residential Dining,2026-05-01,13,2026-04-30,3.345172767879477,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Residential Dining,2026-05-01,18,2026-04-30,2.154463806007664,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Residential Dining,2026-05-02,18,2026-05-01,2.1924582761494853,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Residential Dining,2026-05-03,12,2026-05-02,3.5272559827103964,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Residential Dining,2026-05-03,17,2026-05-02,2.897254020412562,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Residential Dining,2026-05-04,7,2026-05-03,1.945040188068476,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Residential Dining,2026-05-04,8,2026-05-03,3.4092058651221673,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Residential Dining,2026-05-04,9,2026-05-03,1.847935046040983,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Residential Dining,2026-05-04,10,2026-05-03,2.6477150312178925,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Residential Dining,2026-05-04,11,2026-05-03,6.4790467491852715,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Residential Dining,2026-05-04,12,2026-05-03,13.392961756755469,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Residential Dining,2026-05-04,17,2026-05-03,2.662254417913102,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Residential Dining,2026-05-04,18,2026-05-03,2.3557023809995052,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Residential Dining,2026-05-05,8,2026-05-04,2.548847194349491,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Residential Dining,2026-05-05,9,2026-05-04,1.8668787824285913,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Residential Dining,2026-05-05,10,2026-05-04,5.447673221095732,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Residential Dining,2026-05-05,11,2026-05-04,7.7013758489329485,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Residential Dining,2026-05-05,12,2026-05-04,3.662479021593571,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Residential Dining,2026-05-05,17,2026-05-04,3.0459031956850025,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Residential Dining,2026-05-05,18,2026-05-04,1.996786210440104,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Residential Dining,2026-05-05,19,2026-05-04,1.200917810536701,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Residential Dining,2026-05-06,7,2026-05-05,1.7776786949837635,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Residential Dining,2026-05-06,8,2026-05-05,2.6627538589048743,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Residential Dining,2026-05-06,9,2026-05-05,2.2306964133678866,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Residential Dining,2026-05-06,10,2026-05-05,2.479989849146554,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Residential Dining,2026-05-06,11,2026-05-05,13.102543297426813,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Residential Dining,2026-05-06,12,2026-05-05,14.887699603127048,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Residential Dining,2026-05-06,13,2026-05-05,4.386775374007397,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Residential Dining,2026-05-06,17,2026-05-05,2.5687537157137625,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Residential Dining,2026-05-06,18,2026-05-05,2.3889933475720073,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Residential Dining,2026-05-07,7,2026-05-06,1.9505513286324068,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Residential Dining,2026-05-07,11,2026-05-06,7.556501977490912,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Residential Dining,2026-05-07,13,2026-05-06,2.3151737945666895,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Residential Dining,2026-05-07,17,2026-05-06,2.7774193228486683,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Residential Dining,2026-05-07,18,2026-05-06,2.45183666069677,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Residential Dining,2026-05-08,7,2026-05-07,1.9455242444650525,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Residential Dining,2026-05-08,8,2026-05-07,3.058097569560215,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Residential Dining,2026-05-08,9,2026-05-07,1.580739895161399,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Residential Dining,2026-05-08,11,2026-05-07,3.828980652365068,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Residential Dining,2026-05-08,13,2026-05-07,3.1877187147883976,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Residential Dining,2026-05-08,16,2026-05-07,1.388830724576412,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Residential Dining,2026-05-08,17,2026-05-07,2.2484533883195263,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Residential Dining,2026-05-08,21,2026-05-07,4.043956858675909,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Residential Dining,2026-05-09,13,2026-05-08,2.379528950330446,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Residential Dining,2026-05-10,12,2026-05-09,3.386814501768424,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Residential Dining,2026-05-10,18,2026-05-09,2.1742566837657904,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Residential Dining,2026-05-11,8,2026-05-10,2.946967168687076,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Residential Dining,2026-05-11,9,2026-05-10,1.717388626824087,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Residential Dining,2026-05-11,10,2026-05-10,2.652550181135176,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Residential Dining,2026-05-11,11,2026-05-10,3.8651358273041465,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Residential Dining,2026-05-11,12,2026-05-10,7.26858620147279,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Residential Dining,2026-05-11,13,2026-05-10,2.4357606564311856,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Residential Dining,2026-05-11,16,2026-05-10,1.685413101549899,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Residential Dining,2026-05-11,17,2026-05-10,2.676017595006141,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Residential Dining,2026-05-11,18,2026-05-10,2.4172331947797137,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Residential Dining,2026-05-12,7,2026-05-11,1.6451692857179696,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Residential Dining,2026-05-12,8,2026-05-11,2.7561694970501756,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Residential Dining,2026-05-12,9,2026-05-11,2.0436618107088904,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Residential Dining,2026-05-12,10,2026-05-11,2.43939765654755,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Residential Dining,2026-05-12,11,2026-05-11,9.474729312373134,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Residential Dining,2026-05-12,15,2026-05-11,1.223747944199835,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Residential Dining,2026-05-12,17,2026-05-11,2.6063357120945914,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Residential Dining,2026-05-13,8,2026-05-12,2.839672897330745,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Residential Dining,2026-05-13,9,2026-05-12,1.9507333980680523,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Residential Dining,2026-05-13,10,2026-05-12,2.495451721868114,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Residential Dining,2026-05-13,11,2026-05-12,8.469758365664674,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Residential Dining,2026-05-13,12,2026-05-12,3.788517013897091,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Residential Dining,2026-05-13,13,2026-05-12,3.041633199401209,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Residential Dining,2026-05-13,16,2026-05-12,1.3682207403592404,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Residential Dining,2026-05-13,17,2026-05-12,2.6434888137555395,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Residential Dining,2026-05-14,7,2026-05-13,1.8609607937778303,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Residential Dining,2026-05-14,8,2026-05-13,2.548471830583357,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Residential Dining,2026-05-14,9,2026-05-13,1.676290393315223,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Residential Dining,2026-05-14,10,2026-05-13,2.1652210452169984,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Residential Dining,2026-05-14,11,2026-05-13,5.681872911387589,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Residential Dining,2026-05-14,12,2026-05-13,3.1739253537294956,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Residential Dining,2026-05-14,13,2026-05-13,2.9329205626005552,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Residential Dining,2026-05-14,17,2026-05-13,2.978204990593832,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Residential Dining,2026-05-14,18,2026-05-13,2.251531073291437,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Residential Dining,2026-05-15,7,2026-05-14,1.9190528300563128,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Residential Dining,2026-05-15,8,2026-05-14,2.938220163748624,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Residential Dining,2026-05-15,9,2026-05-14,1.9233061633736457,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Residential Dining,2026-05-15,10,2026-05-14,2.003498152788907,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Residential Dining,2026-05-15,11,2026-05-14,4.778042437070545,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Residential Dining,2026-05-15,12,2026-05-14,3.791783804057789,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Residential Dining,2026-05-15,13,2026-05-14,3.059021167684838,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance
+Residential Dining,2026-05-15,17,2026-05-14,2.70617567104964,Random Forest,Historical May2026 benchmark,Recorded POS units; not customers or attendance

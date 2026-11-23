@@ -8,16 +8,16 @@ The authoritative forecasting package is under `07_Advanced_ML_Forecasting/` and
 
 | Forecast level | Validation-selected model | May backtest WAPE | Common May rows |
 |---|---|---:|---:|
-| Hourly | Historical Average | 61.70% | 280 |
-| Daily | Random Forest | 42.24% | 43 |
+| Hourly | Random Forest | 35.45% | 280 |
+| Daily | XGBoost | 29.04% | 43 |
 
-These are WAPE values for historical May backtests, not classification accuracy. The package documents that Seasonal Naive has lower May error for some comparisons, but the selected models remain locked by the pre-test validation procedure.
+These are WAPE values for the audited `64138acf` historical May handoff, not classification accuracy. Seasonal Naive remains the stronger benchmark on these common rows at both levels (49.68% hourly and 36.58% daily); the older 37.37% and 22.54% figures are not used as final claims.
 
 The Streamlit app reads the website-ready files in `data/forecasting/`:
 
 - `Approved_ML_Flat_File.csv` — approved historical feature and target rows.
-- `Hourly_Website_Backtest_Data.csv` — hourly Historical Average backtest predictions.
-- `Daily_Website_Backtest_Data.csv` — daily Random Forest backtest predictions.
+- `Hourly_Website_Backtest_Data.csv` — hourly Random Forest backtest predictions.
+- `Daily_Website_Backtest_Data.csv` — daily XGBoost backtest predictions.
 - `Overall_Model_Comparison.csv` — selected models and evaluation metrics.
 - `Model_Registry.json` — model and feature-set registry.
 

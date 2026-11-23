@@ -4,4 +4,4 @@ The obsolete app-layer baseline and prior Phase 2 forecasting artifacts were rem
 
 Unrelated Streamlit presentation, ETL, Tableau, assets, queue data, campus closures, and operating-hours files were preserved. The app now has one forecasting source of truth: `data/forecasting/`.
 
-The dashboard labels hourly Historical Average and daily Random Forest as the selected models, displays their WAPE metrics, loads their website backtests, and no longer references the removed Seasonal Naive fallback artifacts. Decision support accepts the selected forecast values and carries the forecast source into its planning output.
+The dashboard labels hourly Random Forest and daily XGBoost as the recovered selected models, displays their verified WAPE metrics, loads their website backtests, and carries the forecast source into its planning output. The recovery record preserves the exact common-key verification from commit `64138acf`.
