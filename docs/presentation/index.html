@@ -77,5 +77,16 @@
     document.querySelectorAll('.dashboard-gallery figure').forEach((fig,i)=>{fig.setAttribute('tabindex','0');fig.setAttribute('role','button');const open=()=>{const img=fig.querySelector('img');chartModalImage.src=img.src;chartModalImage.alt=img.alt;chartModalTitle.textContent=fig.querySelector('figcaption').textContent;chartModalText.textContent=chartExplanations[i]||'This chart is part of the project evidence used to understand campus dining demand.';chartModal.classList.add('open')};fig.addEventListener('click',open);fig.addEventListener('keydown',e=>{if(e.key==='Enter'||e.key===' '){e.preventDefault();open()}})});
     const closeChart=()=>chartModal.classList.remove('open');document.getElementById('chartModalClose').addEventListener('click',closeChart);chartModal.addEventListener('click',e=>{if(e.target===chartModal)closeChart()});document.addEventListener('keydown',e=>{if(e.key==='Escape')closeChart()});
   </script>
+  <script>
+    document.querySelectorAll('#s15 .role-card').forEach(card=>{
+      const name=card.querySelector('h3')?.textContent||'';
+      if(name.includes('Thanishka')){
+        const role=card.querySelector('h4');
+        const copy=card.querySelector('p');
+        if(role) role.textContent='Tableau & advanced forecasting';
+        if(copy) copy.textContent='Obtained dining reports, extracted class schedules and events, organized external sources, built interactive Tableau dashboards, developed advanced forecasting methods, and evaluated model performance.';
+      }
+    });
+  </script>
 </body>
 </html>
