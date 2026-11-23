@@ -43,6 +43,24 @@ SUGGESTED_MANAGER_QUESTIONS = [
 ]
 
 
+def resolve_asset(name: str) -> Path | None:
+    """Find a bundled image regardless of Streamlit's current working directory."""
+    for base in (ROOT, Path.cwd(), ROOT.parent):
+        candidate = base / "assets" / name
+        if candidate.is_file():
+            return candidate
+    return None
+
+
+def asset_bytes(path: Path | None) -> bytes | None:
+    if path is None:
+        return None
+    try:
+        return path.read_bytes()
+    except OSError:
+        return None
+
+
 def load_demo_data() -> pd.DataFrame:
     source_file = APPROVED_ML_FILE
     if source_file.exists():
@@ -459,8 +477,9 @@ def customer_portal(st, data: pd.DataFrame, queue: pd.DataFrame, closures: pd.Da
             station = row["Station"]
             with column:
                 image_path = station_images.get(station)
-                if image_path and image_path.exists():
-                    st.image(str(image_path), use_container_width=True)
+                image = asset_bytes(resolve_asset(image_path.name)) if image_path else None
+                if image:
+                    st.image(image, use_container_width=True)
                 wait_text = row["Estimated wait"]
                 prefix = "~ " if wait_text not in {"Closed", "Unavailable"} else ""
                 st.markdown(
@@ -538,8 +557,9 @@ def manager_portal(st, data: pd.DataFrame, sales: pd.DataFrame, closures: pd.Dat
         for column, row in zip(snapshot_columns, snapshot_rows):
             with column:
                 image_path = station_images.get(row["Station"])
-                if image_path and image_path.exists():
-                    st.image(str(image_path), use_container_width=True)
+                image = asset_bytes(resolve_asset(image_path.name)) if image_path else None
+                if image:
+                    st.image(image, use_container_width=True)
                 st.markdown(
                     f"<div class='wait-card'><div class='wait-name'>{row['Station']}</div><div class='wait-value'>{row['Predicted sales']}</div><div>{row['Status']}</div></div>",
                     unsafe_allow_html=True,
