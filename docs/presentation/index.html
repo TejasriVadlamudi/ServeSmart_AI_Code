@@ -90,5 +90,22 @@
       }
     });
   </script>
+  <script>
+    const architectureDetails={
+      'POS records':['POS records','This is the source layer: recorded sales quantities, item details, dining locations, transaction dates, and times from Einstein’s, Panda Express, and Residential Dining. These are recorded POS units, not customer counts.'],
+      'ETL + dimensional model':['ETL + dimensional model','The pipeline loads and standardizes the source files, checks duplicates and critical missing fields, preserves valid transactions, aggregates hourly and daily demand, and joins context using date and hour keys. Fact and dimension structures make the data consistent for analysis. Recorded zero sales remain distinct from missing or unobserved periods.'],
+      'ML forecasting':['ML forecasting','The forecasting layer evaluates hourly and daily demand separately. Seven approaches are compared within each horizon. The recovered selected results are Random Forest at 35.45% WAPE on 280 hourly test observations and XGBoost at 29.04% WAPE on 43 daily test observations. These are historical backtest results, not guarantees of future accuracy.'],
+      'Decision support':['Decision support','This layer turns estimates into questions a dining team can investigate: when activity may be busy, which station or item deserves attention, and what historical pattern should be reviewed. It supports preparation and operational conversations; it does not create automatic orders or claim measured savings.'],
+      'Streamlit app':['Streamlit app','The application brings the workflow together. A user can choose a date and time bucket, review station-level predicted sales, explore historical views, and ask questions in plain language. Future dates may use a labeled historical fallback when model-ready features are unavailable.'],
+      'Inputs':['Inputs','The inputs include POS demand, location, date, hour, academic context, events, weather, and available schedule evidence. Each source is interpreted with its provenance and coverage limits.'],
+      'Controls':['Controls','The controls include chronological evaluation splits, approved predictors, cutoff-safe historical features, and explicit missing-data policies. These choices help prevent information from the future from leaking into a historical backtest.'],
+      'Outputs':['Outputs','The outputs include predicted sales by station, model comparison tables, historical charts, dashboard views, and plain-English explanations that help a user understand what the numbers mean.']
+    };
+    const architectureModal=document.createElement('div'); architectureModal.className='method-modal'; architectureModal.id='architectureModal'; architectureModal.innerHTML='<div class="method-modal-card"><button class="chart-modal-close" id="architectureModalClose" aria-label="Close architecture explanation">×</button><h3 id="architectureModalTitle"></h3><p id="architectureModalText"></p></div>'; document.body.appendChild(architectureModal);
+    const openArchitecture=(key)=>{const d=architectureDetails[key]; if(!d)return; document.getElementById('architectureModalTitle').textContent=d[0]; document.getElementById('architectureModalText').textContent=d[1]; architectureModal.classList.add('open')};
+    document.querySelectorAll('#s9 .arch-node, #s9 .detail-card').forEach(card=>{const heading=card.querySelector('h3')?.textContent.trim()||card.textContent.trim().split('\n')[0]; const key=Object.keys(architectureDetails).find(k=>heading.startsWith(k)); if(!key)return; card.style.cursor='pointer'; card.setAttribute('tabindex','0'); card.setAttribute('role','button'); card.setAttribute('aria-label','Explain '+key); card.addEventListener('click',()=>openArchitecture(key)); card.addEventListener('keydown',e=>{if(e.key==='Enter'||e.key===' '){e.preventDefault();openArchitecture(key)}})});
+    document.getElementById('architectureModalClose').addEventListener('click',()=>architectureModal.classList.remove('open')); architectureModal.addEventListener('click',e=>{if(e.target===architectureModal)architectureModal.classList.remove('open')});
+    const architectureIntro=document.querySelector('#s9 .intro p'); if(architectureIntro) architectureIntro.textContent='Click any layer to see what it contributes, what it receives, and how it connects to the next step.';
+  </script>
 </body>
 </html>
