@@ -169,6 +169,20 @@
     document.querySelectorAll('#s9 .arch-node, #s9 .detail-card').forEach(card=>{const heading=card.dataset.archKey||card.querySelector('h3')?.textContent.trim()||card.textContent.trim().split('\n')[0]; const key=Object.keys(architectureDetails).find(k=>heading.startsWith(k)); if(!key)return; card.style.cursor='pointer'; card.setAttribute('tabindex','0'); card.setAttribute('role','button'); card.setAttribute('aria-label','Explain '+key); card.addEventListener('click',()=>openArchitecture(key)); card.addEventListener('keydown',e=>{if(e.key==='Enter'||e.key===' '){e.preventDefault();openArchitecture(key)}})});
     document.getElementById('architectureModalClose').addEventListener('click',()=>architectureModal.classList.remove('open')); architectureModal.addEventListener('click',e=>{if(e.target===architectureModal)architectureModal.classList.remove('open')});
     const architectureIntro=document.querySelector('#s9 .intro p'); if(architectureIntro) architectureIntro.textContent='Click any layer to see what it contributes, what it receives, and how it connects to the next step.';
+    const forecastSlide=document.querySelector('#s7');
+    if(forecastSlide){
+      const chartHead=forecastSlide.querySelector('.chart-head');
+      const horizonCharts=[...forecastSlide.querySelectorAll('.horizon-chart')];
+      const benchmarkCards=[...forecastSlide.querySelectorAll('.breakdown .table-card')];
+      if(chartHead && horizonCharts.length===2 && benchmarkCards.length===2){
+        const toggle=document.createElement('div'); toggle.className='toggle forecast-toggle'; toggle.setAttribute('aria-label','Choose forecast horizon');
+        toggle.innerHTML='<button type="button" data-horizon="hourly">Hourly</button><button type="button" data-horizon="daily">Daily</button>';
+        chartHead.appendChild(toggle);
+        const setHorizon=(horizon)=>{const daily=horizon==='daily'; horizonCharts.forEach((chart,i)=>{chart.style.display=(i===(daily?1:0))?'block':'none'}); benchmarkCards.forEach((card,i)=>{card.style.display=(i===(daily?1:0))?'block':'none'}); toggle.querySelectorAll('button').forEach(button=>button.classList.toggle('active',button.dataset.horizon===horizon));};
+        toggle.querySelectorAll('button').forEach(button=>button.addEventListener('click',()=>setHorizon(button.dataset.horizon)));
+        setHorizon('hourly');
+      }
+    }
   </script>
 </body>
 </html>
