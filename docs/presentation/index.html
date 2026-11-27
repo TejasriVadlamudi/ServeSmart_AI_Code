@@ -149,7 +149,7 @@
     const architecture=document.querySelector('#s9 .architecture');
     if(architecture){
       const nodes=[...architecture.querySelectorAll('.arch-node')];
-      const nodeByName=Object.fromEntries(nodes.map(node=>[node.textContent.trim().split('\n')[0],node]));
+      const nodeByName=Object.fromEntries(nodes.map(node=>[node.childNodes[0].textContent.trim(),node]));
       const order=['POS records','ETL + dimensional model','ML forecasting','Streamlit app','Decision support'];
       architecture.replaceChildren(...order.flatMap((name,index)=>index<order.length-1?[nodeByName[name],Object.assign(document.createElement('div'),{className:'arch-arrow',textContent:'→'} )]:[nodeByName[name]]));
     }
