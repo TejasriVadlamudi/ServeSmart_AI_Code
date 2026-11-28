@@ -163,7 +163,7 @@
     if(architecture){
       const nodes=[...architecture.querySelectorAll('.arch-node')];
       const orderNames=['POS records','ETL + dimensional model','ML forecasting','Decision support','Streamlit app'];
-      const order=orderNames.map(name=>nodes.find(node=>node.querySelector('h3')?.textContent.trim()===name)).filter(Boolean);
+      const order=orderNames.map(name=>nodes.find(node=>node.childNodes[0]?.textContent.trim()===name || node.textContent.trim().startsWith(name))).filter(Boolean);
       architecture.replaceChildren(...order.flatMap((node,index)=>index<order.length-1?[node,Object.assign(document.createElement('div'),{className:'arch-arrow',textContent:'→'} )]:[node]));
     }
     const archNodes=document.querySelectorAll('#s9 .arch-node');
